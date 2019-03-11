@@ -4,7 +4,7 @@
 
 ### Music
 
-[Backmasking](https://en.wikipedia.org/wiki/Backmasking) - a recording technique in which a sound or message is recorded backward onto a track that is meant to be played forward. 
+[Backmasking](https://en.wikipedia.org/wiki/Backmasking) - a recording technique in which a sound or message is recorded backward onto a track that is meant to be played forward.
 
 [Crab canon](https://en.wikipedia.org/wiki/Crab_canon) - an arrangement of two musical lines that are complementary and backward, similar to a palindrome.
 
@@ -14,15 +14,15 @@
 
 ### Visual Art
 
-[Lost artworks](https://en.wikipedia.org/wiki/Lost_artworks) - original pieces of art that credible sources indicate once existed but that cannot be accounted for in museums or private collections or are known to have been destroyed deliberately or accidentally, or neglected through ignorance and lack of connoisseurship. 
+[Lost artworks](https://en.wikipedia.org/wiki/Lost_artworks) - original pieces of art that credible sources indicate once existed but that cannot be accounted for in museums or private collections or are known to have been destroyed deliberately or accidentally, or neglected through ignorance and lack of connoisseurship.
 
-[Outsider art](https://en.wikipedia.org/wiki/Outsider_art) - art by self-taught or naïve art makers. 
+[Outsider art](https://en.wikipedia.org/wiki/Outsider_art) - art by self-taught or naïve art makers.
 
 ## Computer Science
 
 ### Attacks
 
-[Fork bomb](https://en.wikipedia.org/wiki/Fork_bomb) - a denial-of-service attack wherein a process continually replicates itself to deplete available system resources, slowing down or crashing the system due to resource starvation. 
+[Fork bomb](https://en.wikipedia.org/wiki/Fork_bomb) - a denial-of-service attack wherein a process continually replicates itself to deplete available system resources, slowing down or crashing the system due to resource starvation.
 
 [R-U-Dead-Yet Attack](https://en.wikipedia.org/wiki/R-U-Dead-Yet) - Low and slow DoS attack
 
@@ -32,7 +32,7 @@
 
 ### Bugs
 
-[MissingNo.](https://en.wikipedia.org/wiki/MissingNo.) - short for Missing Number, is an unofficial Pokémon species found in the video games Pokémon Red and Blue. Due to the programming of certain in-game events, players can encounter MissingNo. via a glitch. 
+[MissingNo.](https://en.wikipedia.org/wiki/MissingNo.) - short for Missing Number, is an unofficial Pokémon species found in the video games Pokémon Red and Blue. Due to the programming of certain in-game events, players can encounter MissingNo. via a glitch.
 
 [Scunthorpe Problem](https://en.wikipedia.org/wiki/Scunthorpe_problem) - The Scunthorpe problem is the blocking of websites, e-mails, forum posts or search results by a spam filter or search engine because their text contains a string of letters that appear to have an obscene or unacceptable meaning.
 
@@ -44,11 +44,13 @@
 
 [Diffie-Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange) - a method of securely exchanging cryptographic keys over a public channel.
 
-[Entropy (information theory)](https://en.wikipedia.org/wiki/Entropy_(information_theory)) - is the average rate at which information is produced by a stochastic source of data. 
+[Entropy (information theory)](https://en.wikipedia.org/wiki/Entropy_(information_theory)) - is the average rate at which information is produced by a stochastic source of data.
 
 [Key Schedule](https://en.wikipedia.org/wiki/Key_schedule) - In cryptography, the so-called product ciphers are a certain kind of cipher, where the (de-)ciphering of data is typically done as an iteration of rounds.
 
 [Merkle Tree](https://en.wikipedia.org/wiki/Merkle_tree) - a hash tree or Merkle tree is a tree in which every leaf node is labelled with the hash of a data block, and every non-leaf node is labelled with the cryptographic hash of the labels of its child nodes.
+
+[Nihilist cipher](https://en.wikipedia.org/wiki/Nihilist_cipher) - manually operated symmetric encryption cipher, originally used by Russian Nihilists in the 1880s to organize terrorism against the tsarist regime. 
 
 [Post-quantum Cryptography](https://en.wikipedia.org/wiki/Post-quantum_cryptography) -  Cryptographic algorithms (usually public-key algorithms) that are thought to be secure against an attack by a quantum computer
 
@@ -110,7 +112,7 @@
 
 ## History & Anthropology
 
-[Acoustic Kitty](https://en.wikipedia.org/wiki/Acoustic_Kitty) - Acoustic Kitty was a CIA project launched by the Central Intelligence Agency Directorate of Science & Technology, which in the 1960s intended to use cats to spy on the Kremlin and Soviet embassies. 
+[Acoustic Kitty](https://en.wikipedia.org/wiki/Acoustic_Kitty) - Acoustic Kitty was a CIA project launched by the Central Intelligence Agency Directorate of Science & Technology, which in the 1960s intended to use cats to spy on the Kremlin and Soviet embassies.
 
 [Cargo Cult](https://en.wikipedia.org/wiki/Cargo_cult) - A belief system among members of a relatively undeveloped society in which adherents practice superstitious rituals hoping to bring modern goods supplied by a more technologically advanced society.
 
@@ -130,11 +132,15 @@
 
 ## Language
 
+### Grammar
+
+[Adjective Order](https://en.wikipedia.org/wiki/Adjective#Order) - In many languages, attributive adjectives usually occur in a specific order. In general, the adjective order in English can be summarised as: opinion, size, age or shape, colour, origin, material, purpose. This sequence (with age preceding shape) is sometimes referred to by the mnemonic OSASCOMP.
+
 ### Languages
 
 [Constructed Languages](https://en.wikipedia.org/wiki/Constructed_language) - A constructed language (sometimes called a conlang) is a language whose phonology, grammar, and vocabulary are, instead of having developed naturally, consciously devised for communication between intelligent beings, most commonly for use by humanoids.
 
-[Latin obscenity](https://en.wikipedia.org/wiki/Latin_obscenity) - the profane, indecent, or impolite vocabulary of Latin, and its uses. Words deemed obscene were described as obsc(a)ena (obscene, lewd, unfit for public use), or improba (improper, in poor taste, undignified). 
+[Latin obscenity](https://en.wikipedia.org/wiki/Latin_obscenity) - the profane, indecent, or impolite vocabulary of Latin, and its uses. Words deemed obscene were described as obsc(a)ena (obscene, lewd, unfit for public use), or improba (improper, in poor taste, undignified).
 
 ### Poems
 
@@ -144,7 +150,7 @@
 
 [Interrobang](https://en.wikipedia.org/wiki/Interrobang) - a punctuation mark used in various written languages and intended to combine the functions of the question mark, or interrogative point, and the exclamation mark, or exclamation point, known in the jargon of printers and programmers as a "bang".
 
-[Irony punctuation](https://en.wikipedia.org/wiki/Irony_punctuation) - any proposed form of notation used to denote irony or sarcasm in text. 
+[Irony punctuation](https://en.wikipedia.org/wiki/Irony_punctuation) - any proposed form of notation used to denote irony or sarcasm in text.
 
 ### Weird words, phrases, and sentences
 
@@ -154,7 +160,7 @@
 
 [Dord](https://en.wikipedia.org/wiki/Dord) - a dictionary error in lexicography. On July 31, 1931, Austin M. Patterson, the dictionary's chemistry editor, sent in a slip reading "D or d, cont./density." This was intended to add "density" to the existing list of words that the letter "D" can abbreviate. The phrase "D or d" was misinterpreted as a single, run-together word: Dord.
 
-[Ghoti](https://en.wikipedia.org/wiki/Ghoti) - a creative respelling of the word fish, used to illustrate irregularities in English spelling and pronunciation. 
+[Ghoti](https://en.wikipedia.org/wiki/Ghoti) - a creative respelling of the word fish, used to illustrate irregularities in English spelling and pronunciation.
 
 ### Words
 
@@ -162,7 +168,7 @@
 
 [Apherisis](https://en.wikipedia.org/wiki/Apheresis_(linguistics)) - the loss of one or more sounds from the beginning of a word, especially the loss of an unstressed vowel, thus producing a new form called an aphetism.
 
-[Auto-antonym](https://en.wikipedia.org/wiki/Auto-antonym) - also called a contronym, contranym or Janus word, is a word with multiple meanings (senses) of which one is the reverse of another. For example, the word cleave can mean "to cut apart" or "to bind together". 
+[Auto-antonym](https://en.wikipedia.org/wiki/Auto-antonym) - also called a contronym, contranym or Janus word, is a word with multiple meanings (senses) of which one is the reverse of another. For example, the word cleave can mean "to cut apart" or "to bind together".
 
 [Autological Word](https://en.wikipedia.org/wiki/Autological_word) - a word that expresses a property that it also possesses
 
@@ -176,7 +182,7 @@
 
 [Headlinese](https://en.wikipedia.org/wiki/Headlinese) -  an abbreviated form of news writing style used in newspaper headlines.
 
-[Irony](https://en.wikipedia.org/wiki/Irony) - a rhetorical device, literary technique, or event in which what appears, on the surface, to be the case, differs radically from what is actually the case. 
+[Irony](https://en.wikipedia.org/wiki/Irony) - a rhetorical device, literary technique, or event in which what appears, on the surface, to be the case, differs radically from what is actually the case.
 
 [Mondegreen](https://en.wikipedia.org/wiki/Mondegreen) - Mishearing of a phrase that results in near-homophony, in a way that gives it a new meaning.
 
@@ -184,7 +190,7 @@
 
 [Phonetic reversal](https://en.wikipedia.org/wiki/Phonetic_reversal) - the process of reversing the phonemes or phones of a word or phrase.
 
-[Placeholder name](https://en.wikipedia.org/wiki/Placeholder_name) -  words that can refer to objects or people whose names are temporarily forgotten, irrelevant, or unknown in the context in which they are being discussed. 
+[Placeholder name](https://en.wikipedia.org/wiki/Placeholder_name) -  words that can refer to objects or people whose names are temporarily forgotten, irrelevant, or unknown in the context in which they are being discussed.
 
 [RAS Syndrome](https://en.wikipedia.org/wiki/RAS_syndrome) - is the use of one or more of the words that make up an acronym (or other initialism) in conjunction with the abbreviated form. This means, in effect, repeating one or more words from the acronym. Two common examples are "PIN number"/ "VIN number" (the "N" in PIN and VIN stands for "number") and "ATM machine" (the "M" in ATM stands for "machine").
 
@@ -196,13 +202,13 @@
 
 [Digital root](https://en.wikipedia.org/wiki/Digital_root) - a non-negative integer is the (single digit) value obtained by an iterative process of summing digits, on each iteration using the result from the previous iteration to compute a digit sum.
 
-[Magma](https://en.wikipedia.org/wiki/Magma_(algebra)) - In abstract algebra, a magma (or groupoid) is a basic kind of algebraic structure. Specifically, a magma consists of a set equipped with a single binary operation. The binary operation must be closed by definition but no other properties are imposed. 
+[Magma](https://en.wikipedia.org/wiki/Magma_(algebra)) - In abstract algebra, a magma (or groupoid) is a basic kind of algebraic structure. Specifically, a magma consists of a set equipped with a single binary operation. The binary operation must be closed by definition but no other properties are imposed.
 
-[Modular arithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic) - a system of arithmetic for integers, where numbers "wrap around" upon reaching a certain value—the modulus (plural moduli). 
+[Modular arithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic) - a system of arithmetic for integers, where numbers "wrap around" upon reaching a certain value—the modulus (plural moduli).
 
 ### Functions
 
-[Arity](https://en.wikipedia.org/wiki/Arity) - In logic, mathematics, and computer science, the arity of a function or operation is the number of arguments or operands that the function takes. 
+[Arity](https://en.wikipedia.org/wiki/Arity) - In logic, mathematics, and computer science, the arity of a function or operation is the number of arguments or operands that the function takes.
 
 [Binary Operation](https://en.wikipedia.org/wiki/Binary_operation) - In mathematics, a binary operation on a set is a calculation that combines two elements of the set (called operands) to produce another element of the set.
 
@@ -216,29 +222,33 @@
 
 [Deltahedron](https://en.wikipedia.org/wiki/Deltahedron) - a polyhedron whose faces are all equilateral triangles.
 
-[Fractal](https://en.wikipedia.org/wiki/Fractal) - a subset of a Euclidean space for which the Hausdorff dimension strictly exceeds the topological dimension. 
+[Fractal](https://en.wikipedia.org/wiki/Fractal) - a subset of a Euclidean space for which the Hausdorff dimension strictly exceeds the topological dimension.
 
 [Gabriel's Horn](https://en.wikipedia.org/wiki/Gabriel%27s_Horn) - a geometric figure which has infinite surface area but finite volume.
 
-[Golden angle](https://en.wikipedia.org/wiki/Golden_angle) - the smaller of the two angles created by sectioning the circumference of a circle according to the golden ratio; that is, into two arcs such that the ratio of the length of the larger arc to the length of the smaller arc is the same as the ratio of the full circumference to the length of the larger arc. 
+[Golden angle](https://en.wikipedia.org/wiki/Golden_angle) - the smaller of the two angles created by sectioning the circumference of a circle according to the golden ratio; that is, into two arcs such that the ratio of the length of the larger arc to the length of the smaller arc is the same as the ratio of the full circumference to the length of the larger arc.
 
 [Prince Rupert's Cube](https://en.m.wikipedia.org/wiki/Prince_Rupert%27s_cube) - is the largest cube that can pass through a hole cut through a unit cube, i.e. through a cube whose sides have length 1, without splitting the cube into two pieces.
 
-[Spherical polyhedron](https://en.wikipedia.org/wiki/Spherical_polyhedron) - a tiling of the sphere in which the surface is divided or partitioned by great arcs into bounded regions called spherical polygons. 
+[Spherical polyhedron](https://en.wikipedia.org/wiki/Spherical_polyhedron) - a tiling of the sphere in which the surface is divided or partitioned by great arcs into bounded regions called spherical polygons.
 
 [Sphericon](https://en.wikipedia.org/wiki/Sphericon) - a solid that has a continuous developable surface with two congruent semi circular edges, and four vertices that define a square.
 
 [Tautochrone curve](https://en.wikipedia.org/wiki/Tautochrone_curve) - A tautochrone or isochrone curve is the curve for which the time taken by an object sliding without friction in uniform gravity to its lowest point is independent of its starting point.
 
-[Toroid](https://en.wikipedia.org/wiki/Toroid) - a surface of revolution with a hole in the middle, like a doughnut, forming a solid body. 
+[Toroid](https://en.wikipedia.org/wiki/Toroid) - a surface of revolution with a hole in the middle, like a doughnut, forming a solid body.
 
 ### Miscellaneous
 
 [Freshman's Dream](https://en.wikipedia.org/wiki/Freshman's_dream) - the erroneous equation (x + y)^n = x^n + y^n, where n is a real number (usually a positive integer greater than 1).
 
+[Ham sandwich theorem](https://en.wikipedia.org/wiki/Ham_sandwich_theorem) - states that given n measurable "objects" in n-dimensional Euclidean space, it is possible to divide all of them in half (with respect to their measure, i.e. volume) with a single (n − 1)-dimensional hyperplane.
+
 [List of Mathematical Jargon](https://en.wikipedia.org/wiki/List_of_mathematical_jargon)
 
 [List of Unusual Units of Measurement](https://en.wikipedia.org/wiki/List_of_unusual_units_of_measurement)
+
+[Pancake Sorting](https://en.wikipedia.org/wiki/Pancake_sorting) - the colloquial term for the mathematical problem of sorting a disordered stack of pancakes in order of size when a spatula can be inserted at any point in the stack and used to flip all pancakes above it. A pancake number is the minimum number of flips required for a given number of pancakes.
 
 ### Numbers
 
@@ -248,7 +258,7 @@
 
 [Illegal Number](https://en.wikipedia.org/wiki/Illegal_number) - An **illegal number** is a number that represents information which is illegal to possess, utter, propagate, or otherwise transmit in some legal jurisdictions.
 
-[Names of large numbers](https://en.wikipedia.org/wiki/Names_of_large_numbers) 
+[Names of large numbers](https://en.wikipedia.org/wiki/Names_of_large_numbers)
 
 [Number theory](https://en.wikipedia.org/wiki/Number_theory) - a branch of pure mathematics devoted primarily to the study of the integers.
 
@@ -266,9 +276,9 @@
 
 [Ivan Renko](https://en.wikipedia.org/wiki/Ivan_Renko) - Ivan Renko was a fictitious Yugoslav basketball player created by Bobby Knight when he was the head coach for the Indiana University Hoosiers.
 
-[Paul is dead](https://en.wikipedia.org/wiki/Paul_is_dead) - an urban legend and conspiracy theory alleging that Paul McCartney, of the English rock band the Beatles, died in November 1966 and was secretly replaced by a look-alike. 
+[Paul is dead](https://en.wikipedia.org/wiki/Paul_is_dead) - an urban legend and conspiracy theory alleging that Paul McCartney, of the English rock band the Beatles, died in November 1966 and was secretly replaced by a look-alike.
 
-[Postdiction](https://en.wikipedia.org/wiki/Postdiction) -  In skepticism, it is considered an effect of hindsight bias that explains claimed predictions of significant events such as plane crashes and natural disasters. 
+[Postdiction](https://en.wikipedia.org/wiki/Postdiction) -  In skepticism, it is considered an effect of hindsight bias that explains claimed predictions of significant events such as plane crashes and natural disasters.
 
 ### Galleries, Glossaries and Lists
 
@@ -344,7 +354,7 @@
 
 [Broken Windows Theory](https://en.wikipedia.org/wiki/Broken_windows_theory) - Criminological theory that visible signs of crime, anti-social behavior, and civil disorder create an urban environment that encourages further crime and disorder, including serious crimes.
 
-[Computer says no](https://en.wikipedia.org/wiki/Computer_says_no) - Popular name given to an attitude seen in some public-facing organisations where the default response to a customer’s request is to check with information stored on or generated by a computer, and then make decisions based on that, often in the face of common sense. 
+[Computer says no](https://en.wikipedia.org/wiki/Computer_says_no) - Popular name given to an attitude seen in some public-facing organisations where the default response to a customer’s request is to check with information stored on or generated by a computer, and then make decisions based on that, often in the face of common sense.
 
 [Crab mentality](https://en.wikipedia.org/wiki/Crab_mentality) - is a way of thinking best described by the phrase "if I can't have it, neither can you".
 
@@ -356,15 +366,15 @@
 
 [IKEA Effect](https://en.m.wikipedia.org/wiki/IKEA_effect) - The IKEA effect is a cognitive bias in which consumers place a disproportionately high value on products they partially created.
 
-[Littlewood's law](https://en.wikipedia.org/wiki/Littlewood%27s_law) - a person can expect to experience events with odds of one in a million (defined by the law as a "miracle") at the rate of about one per month. 
+[Littlewood's law](https://en.wikipedia.org/wiki/Littlewood%27s_law) - a person can expect to experience events with odds of one in a million (defined by the law as a "miracle") at the rate of about one per month.
 
-[McCollough Effect](https://en.wikipedia.org/wiki/McCollough_effect) - The McCollough effect is a phenomenon of human visual perception in which colorless gratings appear colored contingent on the orientation of the gratings. 
+[McCollough Effect](https://en.wikipedia.org/wiki/McCollough_effect) - The McCollough effect is a phenomenon of human visual perception in which colorless gratings appear colored contingent on the orientation of the gratings.
 
 [Muphry's Law](https://en.wikipedia.org/wiki/Muphry%27s_law) - An adage that states: "If you write anything criticizing editing or proofreading, there will be a fault of some kind in what you have written."
 
 [Nominative Determinism](https://en.wikipedia.org/wiki/Nominative_determinism) - the hypothesis that people tend to gravitate towards areas of work that fit their names.
 
-[Pareidolia](https://en.wikipedia.org/wiki/Pareidolia) - the tendency to interpret a vague stimulus as something known to the observer, such as seeing shapes in clouds, seeing faces in inanimate objects or abstract patterns, or hearing hidden messages in music. 
+[Pareidolia](https://en.wikipedia.org/wiki/Pareidolia) - the tendency to interpret a vague stimulus as something known to the observer, such as seeing shapes in clouds, seeing faces in inanimate objects or abstract patterns, or hearing hidden messages in music.
 
 [Pareto Principle](https://en.wikipedia.org/wiki/Pareto_principle) - The Pareto principle (also known as the 80/20 rule, the law of the vital few, or the principle of factor sparsity) states that, for many events, roughly 80% of the effects come from 20% of the causes.
 
@@ -384,9 +394,9 @@
 
 [Omphalos Hypothesis](https://en.wikipedia.org/wiki/Omphalos_hypothesis) - The omphalos hypothesis is one attempt to reconcile the scientific evidence that the universe is billions of years old with the Genesis creation narrative, which implies that the Earth is only a few thousand years old.
 
-[Russell's Teapot](https://en.wikipedia.org/wiki/Russell%27s_teapot) - an analogy to illustrate that the philosophic burden of proof lies upon a person making unfalsifiable claims, rather than shifting the burden of disproof to others. He wrote that if he were to assert, without offering proof, that a teapot, too small to be seen by telescopes, orbits the Sun somewhere in space between the Earth and Mars, he could not expect anyone to believe him solely because his assertion could not be proven wrong. 
+[Russell's Teapot](https://en.wikipedia.org/wiki/Russell%27s_teapot) - an analogy to illustrate that the philosophic burden of proof lies upon a person making unfalsifiable claims, rather than shifting the burden of disproof to others. He wrote that if he were to assert, without offering proof, that a teapot, too small to be seen by telescopes, orbits the Sun somewhere in space between the Earth and Mars, he could not expect anyone to believe him solely because his assertion could not be proven wrong.
 
-[Social Gadfly](https://en.wikipedia.org/wiki/Social_gadfly) - 
+[Social Gadfly](https://en.wikipedia.org/wiki/Social_gadfly) -
 
 ## Puzzles/Thought Experiments
 
@@ -394,9 +404,9 @@
 
 [If a tree falls in a forest](https://en.wikipedia.org/wiki/If_a_tree_falls_in_a_forest) - a philosophical thought experiment that raises questions regarding observation and perception.
 
-[Infinite Monkey Theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem) - states that a monkey hitting keys at random on a typewriter keyboard for an infinite amount of time will almost surely type any given text, such as the complete works of William Shakespeare. 
+[Infinite Monkey Theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem) - states that a monkey hitting keys at random on a typewriter keyboard for an infinite amount of time will almost surely type any given text, such as the complete works of William Shakespeare.
 
-[Ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus) - A thought experiment that raises the question of whether a ship—standing for an object in general—that has had all of its components replaced remains fundamentally the same object. 
+[Ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus) - A thought experiment that raises the question of whether a ship—standing for an object in general—that has had all of its components replaced remains fundamentally the same object.
 
 [Thompson's Lamp](https://en.wikipedia.org/wiki/Thomson%27s_lamp) - Thomson's lamp is a philosophical puzzle based on infinites. It was devised in 1954 by British philosopher James F. Thomson, who used it to analyze the possibility of a supertask, which is the completion of an infinite number of tasks.
 
@@ -408,13 +418,13 @@
 
 ### Animals
 
-[52-hertz whale](https://en.wikipedia.org/wiki/52-hertz_whale) - an individual whale of unidentified species, which calls at the very unusual frequency of 52 Hz. 
+[52-hertz whale](https://en.wikipedia.org/wiki/52-hertz_whale) - an individual whale of unidentified species, which calls at the very unusual frequency of 52 Hz.
 
-[Mike the Headless Chicken](https://en.wikipedia.org/wiki/Mike_the_Headless_Chicken) - a Wyandotte chicken that lived for 18 months after his head had been cut off. 
+[Mike the Headless Chicken](https://en.wikipedia.org/wiki/Mike_the_Headless_Chicken) - a Wyandotte chicken that lived for 18 months after his head had been cut off.
 
 [Rat King](https://en.wikipedia.org/wiki/Rat_king) - A collection of rats whose tails are intertwined and bound together by one of several possible mechanisms, such as entangling material like hair or sticky substances like sap or gum.
 
-[Sentinel Species](https://en.wikipedia.org/wiki/Sentinel_species) - are organisms, often animals, used to detect risks to humans by providing advance warning of a danger. 
+[Sentinel Species](https://en.wikipedia.org/wiki/Sentinel_species) - are organisms, often animals, used to detect risks to humans by providing advance warning of a danger.
 
 ### Cartography, Geography
 
@@ -456,8 +466,8 @@
 
 [Ersatz Good](https://en.wikipedia.org/wiki/Ersatz_good) - Substitute good, normally inferior.
 
-[Lost work](https://en.wikipedia.org/wiki/Lost_work) - a document, literary work, or piece of multimedia produced some time in the past, of which no surviving copies are known to exist. 
+[Lost work](https://en.wikipedia.org/wiki/Lost_work) - a document, literary work, or piece of multimedia produced some time in the past, of which no surviving copies are known to exist.
 
 [Smoot](https://en.wikipedia.org/wiki/Smoot) - a nonstandard, humorous unit of length created as part of an MIT fraternity prank. It is named after Oliver R. Smoot, a fraternity pledge to Lambda Chi Alpha, who in October 1958 lay down repeatedly on the Harvard Bridge (between Boston and Cambridge, Massachusetts) so that his fraternity brothers could use his height to measure the length of the bridge.
 
-[The Letters of Utrecht](https://en.wikipedia.org/wiki/The_Letters_of_Utrecht) - form an endless poem in the stones of a street in the center of the Dutch city of Utrecht. 
+[The Letters of Utrecht](https://en.wikipedia.org/wiki/The_Letters_of_Utrecht) - form an endless poem in the stones of a street in the center of the Dutch city of Utrecht.
