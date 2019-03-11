@@ -50,7 +50,7 @@
 
 [Merkle Tree](https://en.wikipedia.org/wiki/Merkle_tree) - a hash tree or Merkle tree is a tree in which every leaf node is labelled with the hash of a data block, and every non-leaf node is labelled with the cryptographic hash of the labels of its child nodes.
 
-[Nihilist cipher](https://en.wikipedia.org/wiki/Nihilist_cipher) - manually operated symmetric encryption cipher, originally used by Russian Nihilists in the 1880s to organize terrorism against the tsarist regime. 
+[Nihilist cipher](https://en.wikipedia.org/wiki/Nihilist_cipher) - manually operated symmetric encryption cipher, originally used by Russian Nihilists in the 1880s to organize terrorism against the tsarist regime.
 
 [Post-quantum Cryptography](https://en.wikipedia.org/wiki/Post-quantum_cryptography) -  Cryptographic algorithms (usually public-key algorithms) that are thought to be secure against an attack by a quantum computer
 
@@ -111,6 +111,8 @@
 [Local Currency](https://en.wikipedia.org/wiki/Local_currency) - In economics, a local currency is a currency that can be spent in a particular geographical locality at participating organisations.
 
 ## History & Anthropology
+
+[Abuwtiyuw](https://en.wikipedia.org/wiki/Abuwtiyuw) - The Egyptian dog Abuwtiyuw was one of the earliest documented domestic animals whose name is known.
 
 [Acoustic Kitty](https://en.wikipedia.org/wiki/Acoustic_Kitty) - Acoustic Kitty was a CIA project launched by the Central Intelligence Agency Directorate of Science & Technology, which in the 1960s intended to use cats to spy on the Kremlin and Soviet embassies.
 
@@ -331,6 +333,8 @@
 [List of phobias](https://en.wikipedia.org/wiki/List_of_phobias)
 
 [List of prime numbers](https://en.wikipedia.org/wiki/List_of_prime_numbers)
+
+[List of selfie-related injuries and deaths](https://en.wikipedia.org/wiki/List_of_selfie-related_injuries_and_deaths)
 
 [List of tallest structures in the world by country](https://en.wikipedia.org/wiki/List_of_tallest_structures_by_country)
 
