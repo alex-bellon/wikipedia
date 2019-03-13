@@ -34,6 +34,8 @@
 
 [MissingNo.](https://en.wikipedia.org/wiki/MissingNo.) - short for Missing Number, is an unofficial Pokémon species found in the video games Pokémon Red and Blue. Due to the programming of certain in-game events, players can encounter MissingNo. via a glitch.
 
+[Mojibake](https://en.wikipedia.org/wiki/Mojibake) - the garbled text that is the result of text being decoded using an unintended character encoding.
+
 [Scunthorpe Problem](https://en.wikipedia.org/wiki/Scunthorpe_problem) - The Scunthorpe problem is the blocking of websites, e-mails, forum posts or search results by a spam filter or search engine because their text contains a string of letters that appear to have an obscene or unacceptable meaning.
 
 [Year 2000 Problem](https://en.wikipedia.org/wiki/Year_2000_problem) - A class of computer bugs related to the formatting and storage of calendar data for dates beginning in the year 2000.
@@ -88,11 +90,63 @@
 
 ### Programming
 
-[Quine](https://en.wikipedia.org/wiki/Quine_(computing)) - A self replicating program
+[Big ball of mud](https://en.wikipedia.org/wiki/Big_ball_of_mud) - a software system that lacks a perceivable architecture.
 
-[Rubber Duck Debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging) - Talking out your program to find bugs
+[Browser war](https://en.wikipedia.org/wiki/Browser_wars) - ompetition for dominance in the usage share of web browsers. The "First Browser War" during the late 1990s pitted Microsoft's Internet Explorer against Netscape's Navigator.
 
-[Shotgun Debugging](https://en.wikipedia.org/wiki/Shotgun_debugging) - Making haphazard or diverse changes to software in the hope that a bug will be perturbed out of existence
+[Code smell](https://en.wikipedia.org/wiki/Code_smell) - any characteristic in the source code of a program that possibly indicates a deeper problem.
+
+[Creeping elegance](https://en.wikipedia.org/wiki/Creeping_elegance) - the tendency of programmers to disproportionately emphasize elegance in software at the expense of other requirements such as functionality, shipping schedule, and usability.
+
+[Data Clump](https://en.wikipedia.org/wiki/Data_Clump_(Code_Smell)) - a name given to any group of variables which are passed around together (in a clump) throughout various parts of the program.
+
+[Dependency hell](https://en.wikipedia.org/wiki/Dependency_hell) - a colloquial term for the frustration of some software users who have installed software packages which have dependencies on specific versions of other software packages.
+
+[Design smell](https://en.wikipedia.org/wiki/Design_smell) - "structures in the design that indicate violation of fundamental design principles and negatively impact design quality".
+
+[Dogfooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) - when an organization uses its own product.
+
+[DLL Hell](https://en.wikipedia.org/wiki/DLL_Hell) - a term for the complications which arise when one works with dynamic-link libraries (DLLs) used with Microsoft Windows operating systems, particularly legacy 16-bit editions, which all run in a single memory space.
+
+[Editor war](https://en.wikipedia.org/wiki/Editor_war) - the common name for the rivalry between users of the Emacs and vi (usually Vim) text editors.
+
+[Feature creep](https://en.wikipedia.org/wiki/Feature_creep) - the excessive ongoing expansion or addition of new features in a product, especially in computer software, videogames and consumer and business electronics.
+
+[God object](https://en.wikipedia.org/wiki/God_object) - an object that knows too much or does too much. The God object is an example of an anti-pattern.
+
+[Greenspun's tenth rule](https://en.wikipedia.org/wiki/Greenspun%27s_tenth_rule) - Any sufficiently complicated C or Fortran program contains an ad-hoc, informally-specified, bug-ridden, slow implementation of half of Common Lisp.
+
+[International Obfuscated C Code Contest](https://en.wikipedia.org/wiki/International_Obfuscated_C_Code_Contest) - a computer programming contest for the most creatively obfuscated C code.
+
+[JAR hell](https://en.wikipedia.org/wiki/Java_Classloader#JAR_hell) - a term similar to DLL hell used to describe all the various ways in which the classloading process can end up not working.
+
+[Lasagna code](https://en.wikipedia.org/wiki/Spaghetti_code#Lasagna_code) - code whose layers are so complicated and intertwined that making a change in one layer would necessitate changes in all other layers.
+
+[Quine](https://en.wikipedia.org/wiki/Quine_(computing)) - A self replicating program.
+
+[Ravioli code](https://en.wikipedia.org/wiki/Spaghetti_code#Ravioli_code) - code that comprises well-structured classes that are easy to understand in isolation, but difficult to understand as a whole.
+
+[Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging) - Talking out your program to find bugs.
+
+[Shotgun debugging](https://en.wikipedia.org/wiki/Shotgun_debugging) - Making haphazard or diverse changes to software in the hope that a bug will be perturbed out of existence.
+
+[Shotgun surgery](https://en.wikipedia.org/wiki/Shotgun_surgery) - an antipattern in software development and occurs where a developer adds features to an application codebase which span a multiplicity of implementors or implementations in a single change.
+
+[Software bloat](https://en.wikipedia.org/wiki/Software_bloat) - a process whereby successive versions of a computer program become perceptibly slower, use more memory, disk space or processing power, or have higher hardware requirements than the previous version—whilst making only dubious user-perceptible improvements or suffering from feature creep.
+
+[Software brittleness](https://en.wikipedia.org/wiki/Software_brittleness) - the increased difficulty in fixing older software that may appear reliable, but fails badly when presented with unusual data or altered in a seemingly minor way.
+
+[Software rot](https://en.wikipedia.org/wiki/Software_rot) - a slow deterioration of software performance over time or its diminishing responsiveness that will eventually lead to software becoming faulty, unusable, or otherwise called "legacy" and in need of upgrade.
+
+[Spaghetti code](https://en.wikipedia.org/wiki/Spaghetti_code) -  pejorative phrase for unstructured and difficult-to-maintain source code. Spaghetti code can be caused by several factors, such as volatile project requirements, lack of programming style rules, and insufficient ability or experience.
+
+[Stovepipe](https://en.wikipedia.org/wiki/Stovepipe_system) - a pejorative term for a system that has the potential to share data or functionality with other systems but which does not do so.
+
+[Turing tarpit](https://en.wikipedia.org/wiki/Turing_tarpit) - any programming language or computer interface that allows for flexibility in function but is difficult to learn and use because it offers little or no support for common tasks.
+
+[Wirth's law](https://en.wikipedia.org/wiki/Wirth%27s_law) - an adage on computer performance which states that software is getting slower more rapidly than hardware becomes faster.
+
+[Write-only language](https://en.wikipedia.org/wiki/Write-only_language) - a pejorative term for a programming language alleged to have syntax or semantics sufficiently dense and bizarre that any routine of significant size is too difficult to understand by other programmers and cannot be safely edited.
 
 ## Design
 
@@ -143,6 +197,8 @@
 [Constructed Languages](https://en.wikipedia.org/wiki/Constructed_language) - A constructed language (sometimes called a conlang) is a language whose phonology, grammar, and vocabulary are, instead of having developed naturally, consciously devised for communication between intelligent beings, most commonly for use by humanoids.
 
 [Latin obscenity](https://en.wikipedia.org/wiki/Latin_obscenity) - the profane, indecent, or impolite vocabulary of Latin, and its uses. Words deemed obscene were described as obsc(a)ena (obscene, lewd, unfit for public use), or improba (improper, in poor taste, undignified).
+
+[Stylometry](https://en.wikipedia.org/wiki/Stylometry) - the application of the study of linguistic style, usually to written language, but it has successfully been applied to music and to fine-art paintings as well.
 
 ### Poems
 
