@@ -22,6 +22,10 @@
 
 ### Attacks
 
+[Billion laughs attack](https://en.wikipedia.org/wiki/Billion_laughs_attack) - a type of denial-of-service (DoS) attack which is aimed at parsers of XML documents.
+
+[Email bomb](https://en.wikipedia.org/wiki/Email_bomb) - a form of net abuse consisting of sending huge volumes of email to an address in an attempt to overflow the mailbox or overwhelm the server where the email address is hosted in a denial-of-service attack (DoS attack).
+
 [Fork bomb](https://en.wikipedia.org/wiki/Fork_bomb) - a denial-of-service attack wherein a process continually replicates itself to deplete available system resources, slowing down or crashing the system due to resource starvation.
 
 [R-U-Dead-Yet Attack](https://en.wikipedia.org/wiki/R-U-Dead-Yet) - Low and slow DoS attack
@@ -29,6 +33,8 @@
 [Side-channel attack](https://en.wikipedia.org/wiki/Side-channel_attack) - any attack based on information gained from the implementation of a computer system, rather than weaknesses in the implemented algorithm itself (e.g. cryptanalysis and software bugs).
 
 [Slowloris](https://en.wikipedia.org/wiki/Slowloris_%28computer_security%29) - Another slow DoS attack
+
+[Zip bomb](https://en.wikipedia.org/wiki/Zip_bomb) - a malicious archive file designed to crash or render useless the program or system reading it. It is often employed to disable antivirus software, in order to create an opening for more traditional viruses.
 
 ### Bugs
 
@@ -77,6 +83,12 @@
 ### Logic
 
 [Billiard-ball computer](https://en.wikipedia.org/wiki/Billiard-ball_computer) - an idealized model of a reversible mechanical computer based on Newtonian dynamics.
+
+### Machines
+
+[Busy beaver](https://en.wikipedia.org/wiki/Busy_beaver) - The busy beaver game consists of designing a halting, binary-alphabet Turing machine which writes the most 1s on the tape, using only a limited set of states. The rules for the 2-state game are as follows: 1. the machine must have two states in addition to the halting state, and 2. the tape starts with 0s only. As the player, you should conceive each state aiming for the maximum output of 1s on the tape while making sure the machine will halt eventually.
+
+[Turmite](https://en.wikipedia.org/wiki/Turmite) - a Turing machine which has an orientation as well as a current state and a "tape" that consists of an infinite two-dimensional grid of cells. The terms ant and vant are also used.
 
 ### Networking
 
@@ -240,11 +252,23 @@
 
 [Headlinese](https://en.wikipedia.org/wiki/Headlinese) -  an abbreviated form of news writing style used in newspaper headlines.
 
+[Heterogram](https://en.wikipedia.org/wiki/Heterogram_(literature)) - a word, phrase, or sentence in which no letter of the alphabet occurs more than once.
+
 [Irony](https://en.wikipedia.org/wiki/Irony) - a rhetorical device, literary technique, or event in which what appears, on the surface, to be the case, differs radically from what is actually the case.
+
+[Isogram](https://en.wikipedia.org/wiki/Isogram) - a logological term for a word or phrase without a repeating letter.
 
 [Mondegreen](https://en.wikipedia.org/wiki/Mondegreen) - Mishearing of a phrase that results in near-homophony, in a way that gives it a new meaning.
 
 [Palindrome](https://en.wikipedia.org/wiki/Palindrome) - a word, number, phrase, or other sequence of characters which reads the same backward as forward, such as madam or racecar or the number 10801.
+
+[Panalphabetic window](https://en.wikipedia.org/wiki/Panalphabetic_window) - a stretch of text that contains all the letters of the alphabet in order. It is a special type of pangram or pangrammatic window.
+
+[Pangram](https://en.wikipedia.org/wiki/Pangram) - a sentence using every letter of a given alphabet at least once.
+
+[Pangrammatic lipogram](https://en.wikipedia.org/wiki/Lipogram#Pangrammatic_lipogram) - uses every letter of the alphabet except one.
+
+[Pangrammatic window](https://en.wikipedia.org/wiki/Pangrammatic_window) - a stretch of naturally occurring text that contains all the letters in the alphabet.
 
 [Phonetic reversal](https://en.wikipedia.org/wiki/Phonetic_reversal) - the process of reversing the phonemes or phones of a word or phrase.
 
