@@ -2,6 +2,12 @@
 
 ## Art
 
+### Comics
+
+[Glossary of comics terminology](https://en.wikipedia.org/wiki/Glossary_of_comics_terminology)
+
+[The Lexicon of Comicana](https://en.wikipedia.org/wiki/The_Lexicon_of_Comicana) - a 1980 book by the American cartoonist Mort Walker. It was intended as a tongue-in-cheek look at the devices used by cartoonists. In it, Walker invented an international set of symbols called symbolia after researching cartoons around the world.
+
 ### Music
 
 [Backmasking](https://en.wikipedia.org/wiki/Backmasking) - a recording technique in which a sound or message is recorded backward onto a track that is meant to be played forward.
@@ -276,6 +282,8 @@
 
 [RAS Syndrome](https://en.wikipedia.org/wiki/RAS_syndrome) - is the use of one or more of the words that make up an acronym (or other initialism) in conjunction with the abbreviated form. This means, in effect, repeating one or more words from the acronym. Two common examples are "PIN number"/ "VIN number" (the "N" in PIN and VIN stands for "number") and "ATM machine" (the "M" in ATM stands for "machine").
 
+[Sniglet](https://en.wikipedia.org/wiki/Sniglet) - an often humorous word made up to describe something for which no dictionary word exists.
+
 [Yak Shaving](https://en.wiktionary.org/wiki/yak_shaving) - Any apparently useless activity which, by allowing you to overcome intermediate difficulties, allows you to solve a larger problem.
 
 ## Math
@@ -322,6 +330,10 @@
 
 ### Miscellaneous
 
+[Coin problem](https://en.wikipedia.org/wiki/Coin_problem) -  a mathematical problem that asks for the largest monetary amount that cannot be obtained using only coins of specified denominations. For example, the largest amount that cannot be obtained using only coins of 3 and 5 units is 7 units.
+
+[Currying](https://en.wikipedia.org/wiki/Currying) - the technique of translating the evaluation of a function that takes multiple arguments into evaluating a sequence of functions, each with a single argument. For example, a function that takes two arguments, one from X and one from Y, and produces outputs in Z, by currying is translated into a function that takes a single argument from X and produces as outputs functions from Y to Z.
+
 [Freshman's Dream](https://en.wikipedia.org/wiki/Freshman's_dream) - the erroneous equation (x + y)^n = x^n + y^n, where n is a real number (usually a positive integer greater than 1).
 
 [Ham sandwich theorem](https://en.wikipedia.org/wiki/Ham_sandwich_theorem) - states that given n measurable "objects" in n-dimensional Euclidean space, it is possible to divide all of them in half (with respect to their measure, i.e. volume) with a single (n − 1)-dimensional hyperplane.
@@ -329,6 +341,8 @@
 [List of Mathematical Jargon](https://en.wikipedia.org/wiki/List_of_mathematical_jargon)
 
 [List of Unusual Units of Measurement](https://en.wikipedia.org/wiki/List_of_unusual_units_of_measurement)
+
+[Moving sofa problem](https://en.wikipedia.org/wiki/Moving_sofa_problem) - a two-dimensional idealisation of real-life furniture-moving problems and asks for the rigid two-dimensional shape of largest area A that can be maneuvered through an L-shaped planar region with legs of unit width.
 
 [Pancake Sorting](https://en.wikipedia.org/wiki/Pancake_sorting) - the colloquial term for the mathematical problem of sorting a disordered stack of pancakes in order of size when a spatula can be inserted at any point in the stack and used to flip all pancakes above it. A pancake number is the minimum number of flips required for a given number of pancakes.
 
@@ -339,6 +353,10 @@
 [Golden ration](https://en.wikipedia.org/wiki/Golden_ratio) - two quantities are in the golden ratio if their ratio is the same as the ratio of their sum to the larger of the two quantities.
 
 [Illegal Number](https://en.wikipedia.org/wiki/Illegal_number) - An **illegal number** is a number that represents information which is illegal to possess, utter, propagate, or otherwise transmit in some legal jurisdictions.
+
+[Kaprekar number](https://en.wikipedia.org/wiki/Kaprekar_number) - In mathematics, a non-negative integer is called a "Kaprekar number" for a given base if the representation of its square in that base can be split into two parts that add up to the original number, with the proviso that the part formed from the low-order digits of the square must be non-zero—although it is allowed to include leading zeroes. For instance, 45 is a Kaprekar number, because 452 = 2025 and 20 + 25 = 45. The number 1 is Kaprekar in every base, because 12 = 01   in any base, and   0 + 1 = 1.
+
+[McNugget numbers](https://en.wikipedia.org/wiki/Coin_problem#McNugget_numbers) - A McNugget number is the total number of McDonald's Chicken McNuggets in any number of boxes. In the United Kingdom, the original boxes (prior to the introduction of the Happy Meal-sized nugget boxes) were of 6, 9, and 20 nuggets.
 
 [Names of large numbers](https://en.wikipedia.org/wiki/Names_of_large_numbers)
 
@@ -424,13 +442,15 @@
 
 ## Paradoxes
 
+[Abilene Paradox](https://en.wikipedia.org/wiki/Abilene_paradox) - a group of people collectively decide on a course of action that is counter to the preferences of many or all of the individuals in the group.
+
 [Coastline Paradox](https://en.wikipedia.org/wiki/Coastline_paradox) - counterintuitive observation that the coastline of a landmass does not have a well-defined length.
+
+[Curry's paradox](https://en.wikipedia.org/wiki/Curry's_paradox) - a paradox in which an arbitrary claim F is proved from the mere existence of a sentence C that says of itself "If C, then F", requiring only a few apparently innocuous logical deduction rules. Since F is arbitrary, any logic having these rules proves everything.
 
 [Zeno's Paradox](https://en.wikipedia.org/wiki/Zeno%27s_paradoxes) - Paradoxes about movement, one being the fact that to get halfway you first need to get halfway there, then halfway there, etc.
 
 ## Phenomena, Effects and Laws
-
-[Abilene Paradox](https://en.wikipedia.org/wiki/Abilene_paradox) - a group of people collectively decide on a course of action that is counter to the preferences of many or all of the individuals in the group.
 
 [Apophenia](https://en.wikipedia.org/wiki/Apophenia) - the tendency to mistakenly perceive connections and meaning between unrelated things.
 
@@ -540,6 +560,8 @@
 
 ## Things
 
+[Adventure playground](https://en.wikipedia.org/wiki/Adventure_playground) - a specific type of playground for children. Adventure playgrounds can take many forms, ranging from "natural playgrounds" to "junk playgrounds", and are typically defined by an ethos of unrestricted play, the presence of playworkers (or "wardens"), and the absence of adult-manufactured or rigid play-structures.
+
 [Ampelmaennchen](https://en.wikipedia.org/wiki/Ampelm%C3%A4nnchen) - is the symbol shown on pedestrian signals in Germany.
 
 [Archimedes' Screw](https://en.wikipedia.org/wiki/Archimedes'_screw) -  is a machine used for transferring water from a low-lying body of water into irrigation ditches.
@@ -547,6 +569,8 @@
 [Christmas Bullet](https://en.wikipedia.org/wiki/Christmas_Bullet) - an American single-seat cantilever wing biplane. It is considered by many to be among the worst aircraft ever constructed.
 
 [Clock of the Long Now](https://en.wikipedia.org/wiki/Clock_of_the_Long_Now) - a mechanical clock under construction, that is designed to keep time for 10,000 years.
+
+[Cold War playground equipment](https://en.wikipedia.org/wiki/Cold_War_playground_equipment) - was intended to foster children's curiosity and excitement about the Space Race. It was installed during the Cold War in both communist and capitalist countries.
 
 [Ersatz Good](https://en.wikipedia.org/wiki/Ersatz_good) - Substitute good, normally inferior.
 
