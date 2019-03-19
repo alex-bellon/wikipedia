@@ -318,6 +318,8 @@
 
 [Golden angle](https://en.wikipedia.org/wiki/Golden_angle) - the smaller of the two angles created by sectioning the circumference of a circle according to the golden ratio; that is, into two arcs such that the ratio of the length of the larger arc to the length of the smaller arc is the same as the ratio of the full circumference to the length of the larger arc.
 
+[Polyomino](https://en.wikipedia.org/wiki/Polyomino) - a plane geometric figure formed by joining one or more equal squares edge to edge. It is a polyform whose cells are squares. It may be regarded as a finite subset of the regular square tiling with a connected interior.
+
 [Prince Rupert's Cube](https://en.m.wikipedia.org/wiki/Prince_Rupert%27s_cube) - is the largest cube that can pass through a hole cut through a unit cube, i.e. through a cube whose sides have length 1, without splitting the cube into two pieces.
 
 [Spherical polyhedron](https://en.wikipedia.org/wiki/Spherical_polyhedron) - a tiling of the sphere in which the surface is divided or partitioned by great arcs into bounded regions called spherical polygons.
@@ -336,6 +338,8 @@
 
 [Freshman's Dream](https://en.wikipedia.org/wiki/Freshman's_dream) - the erroneous equation (x + y)^n = x^n + y^n, where n is a real number (usually a positive integer greater than 1).
 
+[Goat problem](https://en.wikipedia.org/wiki/Goat_problem) - How big must r be chosen in the diagram, in order for the red area to equal one half of the area of the circle? Illustration: A goat/bull/horse is tethered at point Q. How long needs the line to be, to allow the animal to graze on exactly one half of the circle area? 
+
 [Ham sandwich theorem](https://en.wikipedia.org/wiki/Ham_sandwich_theorem) - states that given n measurable "objects" in n-dimensional Euclidean space, it is possible to divide all of them in half (with respect to their measure, i.e. volume) with a single (n − 1)-dimensional hyperplane.
 
 [List of Mathematical Jargon](https://en.wikipedia.org/wiki/List_of_mathematical_jargon)
@@ -346,11 +350,15 @@
 
 [Pancake Sorting](https://en.wikipedia.org/wiki/Pancake_sorting) - the colloquial term for the mathematical problem of sorting a disordered stack of pancakes in order of size when a spatula can be inserted at any point in the stack and used to flip all pancakes above it. A pancake number is the minimum number of flips required for a given number of pancakes.
 
+[Recreational mathematics (Category)](https://en.wikipedia.org/wiki/Category:Recreational_mathematics) - Recreational mathematics is mathematics carried out for recreation (entertainment) rather than as a strictly research and application-based professional activity.
+
 ### Numbers
 
 [0.999....](https://en.wikipedia.org/wiki/0.999...) - denotes the repeating decimal consisting of infinitely many 9s after the decimal point (and one 0 before it), equal to 1.
 
 [Golden ration](https://en.wikipedia.org/wiki/Golden_ratio) - two quantities are in the golden ratio if their ratio is the same as the ratio of their sum to the larger of the two quantities.
+
+[Happy number](https://en.wikipedia.org/wiki/Happy_number) - Starting with any positive integer, replace the number by the sum of the squares of its digits in base-ten, and repeat the process until the number either equals 1 (where it will stay), or it loops endlessly in a cycle that does not include 1. Those numbers for which this process ends in 1 are happy numbers, while those that do not end in 1 are unhappy numbers (or sad numbers).
 
 [Illegal Number](https://en.wikipedia.org/wiki/Illegal_number) - An **illegal number** is a number that represents information which is illegal to possess, utter, propagate, or otherwise transmit in some legal jurisdictions.
 
@@ -363,6 +371,8 @@
 [Number theory](https://en.wikipedia.org/wiki/Number_theory) - a branch of pure mathematics devoted primarily to the study of the integers.
 
 [Plastic number](https://en.wikipedia.org/wiki/Plastic_number) - is a mathematical constant which is the unique real solution of the cubic equation
+
+[Polite number](https://en.wikipedia.org/wiki/Polite_number) - a positive integer that can be written as the sum of two or more consecutive positive integers.
 
 [Roman Numerals](https://en.wikipedia.org/wiki/Roman_numerals) - The numeric system represented by Roman numerals originated in ancient Rome and remained the usual way of writing numbers throughout Europe well into the Late Middle Ages.
 
@@ -504,6 +514,8 @@
 
 ## Puzzles/Thought Experiments
 
+[Ant on a rubber rope](https://en.wikipedia.org/wiki/Ant_on_a_rubber_rope) - An ant starts to crawl along a taut rubber rope 1 km long at a speed of 1 cm per second (relative to the rubber it is crawling on). At the same time, the rope starts to stretch uniformly by 1 km per second, so that after 1 second it is 2  km long, after 2 seconds it is 3 km long, etc. Will the ant ever reach the end of the rope?
+
 [Chicken or the egg](https://en.wikipedia.org/wiki/Chicken_or_the_egg) - The dilemma stems from the observation that all chickens hatch from eggs and all chicken eggs are laid by chickens. "Chicken-and-egg" is a metaphoric adjective describing situations where it is not clear which of two events should be considered the cause and which should be considered the effect, or to express a scenario of infinite regress, or to express the difficulty of sequencing actions where each seems to depend on others being done first.
 
 [If a tree falls in a forest](https://en.wikipedia.org/wiki/If_a_tree_falls_in_a_forest) - a philosophical thought experiment that raises questions regarding observation and perception.
@@ -511,6 +523,8 @@
 [Infinite Monkey Theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem) - states that a monkey hitting keys at random on a typewriter keyboard for an infinite amount of time will almost surely type any given text, such as the complete works of William Shakespeare.
 
 [Ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus) - A thought experiment that raises the question of whether a ship—standing for an object in general—that has had all of its components replaced remains fundamentally the same object.
+
+[The monkey and the coconuts](https://en.wikipedia.org/wiki/The_monkey_and_the_coconuts) - The monkey and the coconuts is a mathematical puzzle in the field of Diophantine analysis involving five sailors and a monkey on a desert island who divide up a pile of coconuts.
 
 [Thompson's Lamp](https://en.wikipedia.org/wiki/Thomson%27s_lamp) - Thomson's lamp is a philosophical puzzle based on infinites. It was devised in 1954 by British philosopher James F. Thomson, who used it to analyze the possibility of a supertask, which is the completion of an infinite number of tasks.
 
