@@ -34,6 +34,8 @@
 
 [Fork bomb](https://en.wikipedia.org/wiki/Fork_bomb) - a denial-of-service attack wherein a process continually replicates itself to deplete available system resources, slowing down or crashing the system due to resource starvation.
 
+[Pass the hash](https://en.wikipedia.org/wiki/Pass_the_hash) - a hacking technique that allows an attacker to authenticate to a remote server or service by using the underlying NTLM or LanMan hash of a user's password, instead of requiring the associated plaintext password as is normally the case.
+
 [R-U-Dead-Yet Attack](https://en.wikipedia.org/wiki/R-U-Dead-Yet) - Low and slow DoS attack
 
 [Side-channel attack](https://en.wikipedia.org/wiki/Side-channel_attack) - any attack based on information gained from the implementation of a computer system, rather than weaknesses in the implemented algorithm itself (e.g. cryptanalysis and software bugs).
@@ -338,7 +340,7 @@
 
 [Freshman's Dream](https://en.wikipedia.org/wiki/Freshman's_dream) - the erroneous equation (x + y)^n = x^n + y^n, where n is a real number (usually a positive integer greater than 1).
 
-[Goat problem](https://en.wikipedia.org/wiki/Goat_problem) - How big must r be chosen in the diagram, in order for the red area to equal one half of the area of the circle? Illustration: A goat/bull/horse is tethered at point Q. How long needs the line to be, to allow the animal to graze on exactly one half of the circle area? 
+[Goat problem](https://en.wikipedia.org/wiki/Goat_problem) - How big must r be chosen in the diagram, in order for the red area to equal one half of the area of the circle? Illustration: A goat/bull/horse is tethered at point Q. How long needs the line to be, to allow the animal to graze on exactly one half of the circle area?
 
 [Ham sandwich theorem](https://en.wikipedia.org/wiki/Ham_sandwich_theorem) - states that given n measurable "objects" in n-dimensional Euclidean space, it is possible to divide all of them in half (with respect to their measure, i.e. volume) with a single (n − 1)-dimensional hyperplane.
 
@@ -403,6 +405,8 @@
 [Gallery of sovereign state flags](https://en.wikipedia.org/wiki/Gallery_of_sovereign_state_flags)
 
 [Glossary of vexillology](https://en.wikipedia.org/wiki/Glossary_of_vexillology)
+
+[List of artificial objects on the Moon](https://en.wikipedia.org/wiki/List_of_artificial_objects_on_the_Moon)
 
 [List of chemical compounds with unusual names](https://en.wikipedia.org/wiki/List_of_chemical_compounds_with_unusual_names)
 
