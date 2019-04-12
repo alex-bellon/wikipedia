@@ -18,6 +18,8 @@
 
 [Mirror canon](https://en.wikipedia.org/wiki/Mirror_canon) - a type of canon which involves the leading voice being played alongside its own inversion (i.e. upside-down).
 
+[Shepard tone](https://en.wikipedia.org/wiki/Shepard_tone) - is a sound consisting of a superposition of sine waves separated by octaves. This creates the auditory illusion of a tone that continually ascends or descends in pitch, yet which ultimately seems to get no higher or lower.
+
 ### Visual Art
 
 [Lost artworks](https://en.wikipedia.org/wiki/Lost_artworks) - original pieces of art that credible sources indicate once existed but that cannot be accounted for in museums or private collections or are known to have been destroyed deliberately or accidentally, or neglected through ignorance and lack of connoisseurship.
@@ -56,6 +58,8 @@
 
 ### Cryptography
 
+[Cryptographic attacks](https://en.wikipedia.org/wiki/Category:Cryptographic_attacks) - a method for circumventing the security of a cryptographic system by finding a weakness in a code, cipher, cryptographic protocol or key management scheme. This process is also called "cryptanalysis".
+
 [Differential Cryptanalysis](https://en.wikipedia.org/wiki/Differential_cryptanalysis) - Differential cryptanalysis is a general form of cryptanalysis applicable primarily to block ciphers, but also to stream ciphers and cryptographic hash functions.
 
 [Diffie-Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange) - a method of securely exchanging cryptographic keys over a public channel.
@@ -74,7 +78,13 @@
 
 [Slide Attack](https://en.wikipedia.org/wiki/Slide_attack) - The slide attack is a form of cryptanalysis designed to deal with the prevailing idea that even weak ciphers can become very strong by increasing the number of rounds, which can ward off a differential attack.
 
+### Data Structures
+
+[Rope](https://en.wikipedia.org/wiki/Rope_%28data_structure%29) - a data structure composed of smaller strings that is used to efficiently store and manipulate a very long string. For example, a text editing program may use a rope to represent the text being edited, so that operations such as insertion, deletion, and random access can be done efficiently.
+
 ### Graphics
+
+[Box-drawing character](https://en.wikipedia.org/wiki/Box-drawing_character) - a form of semigraphics widely used in text user interfaces to draw various geometric frames and boxes. Box-drawing characters typically only work well with monospaced fonts.
 
 [Greeble](https://en.wikipedia.org/wiki/Greeble) - or nurnie is a fine detailing added to the surface of a larger object that makes it appear more complex, and therefore more visually interesting.
 
@@ -140,6 +150,8 @@
 
 [JAR hell](https://en.wikipedia.org/wiki/Java_Classloader#JAR_hell) - a term similar to DLL hell used to describe all the various ways in which the classloading process can end up not working.
 
+[Kolmogorov complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity) - the length of the shortest computer program (in a predetermined programming language) that produces the object as output.
+
 [Lasagna code](https://en.wikipedia.org/wiki/Spaghetti_code#Lasagna_code) - code whose layers are so complicated and intertwined that making a change in one layer would necessitate changes in all other layers.
 
 [Quine](https://en.wikipedia.org/wiki/Quine_(computing)) - A self replicating program.
@@ -198,6 +210,10 @@
 
 [Sword of Damocles](https://en.wikipedia.org/wiki/Damocles) - King who hung a sword from a string above his head to represent the constant threat involved in ruling
 
+### People
+
+[Digby Tatham-Warter](https://en.wikipedia.org/wiki/Digby_Tatham-Warter) - Digby got to him and said "Don't worry about the bullets, I've got an umbrella". He then escorted the chaplain across the street under his umbrella. When he returned to the front line, one of his fellow officers said about his umbrella that "that thing won't do you any good", to which Digby replied "Oh my goodness Pat, but what if it rains?"
+
 ### Wars
 
 [Kettle War](https://en.wikipedia.org/wiki/Kettle_War) - The Kettle War was a military confrontation between the troops of the Holy Roman Empire and the Republic of the Seven Netherlands on 8 October 1784. It was named the Kettle War because the only shot fired hit a soup kettle.
@@ -205,6 +221,8 @@
 ## Internet
 
 [Chum Box](https://en.wikipedia.org/wiki/Chum_box) - A chum box (or chumbucket) is a form of online advertising that uses a grid of thumbnails and captions to drive traffic to other sites and webpages.
+
+[Eternal September](https://en.wikipedia.org/wiki/Eternal_September) - is Usenet slang for a period beginning in September 1993, the month that Internet service provider America Online (AOL) began offering Usenet access to its many users, overwhelming the existing culture for online forums. 
 
 ## Language
 
@@ -217,6 +235,8 @@
 [Constructed Languages](https://en.wikipedia.org/wiki/Constructed_language) - A constructed language (sometimes called a conlang) is a language whose phonology, grammar, and vocabulary are, instead of having developed naturally, consciously devised for communication between intelligent beings, most commonly for use by humanoids.
 
 [Latin obscenity](https://en.wikipedia.org/wiki/Latin_obscenity) - the profane, indecent, or impolite vocabulary of Latin, and its uses. Words deemed obscene were described as obsc(a)ena (obscene, lewd, unfit for public use), or improba (improper, in poor taste, undignified).
+
+[Linguistic relativity](https://en.wikipedia.org/wiki/Linguistic_relativity) - the structure of a language affects its speakers' world view or cognition.
 
 [Stylometry](https://en.wikipedia.org/wiki/Stylometry) - the application of the study of linguistic style, usually to written language, but it has successfully been applied to music and to fine-art paintings as well.
 
@@ -257,6 +277,8 @@
 [Fumblerules](https://en.wikipedia.org/wiki/Fumblerules) - A fumblerule is a rule of language or linguistic style, humorously written in such a way that it breaks this rule.
 
 [Ghost word](https://en.wikipedia.org/wiki/Ghost_word) - a word published in a dictionary or similarly authoritative reference work, having rarely, if ever, been used in practice, and hitherto having been meaningless.
+
+[Hapax legomenon](https://en.wikipedia.org/wiki/Hapax_legomenon) - a word that only occurs once within a certain context.
 
 [Headlinese](https://en.wikipedia.org/wiki/Headlinese) -  an abbreviated form of news writing style used in newspaper headlines.
 
@@ -304,6 +326,9 @@
 
 [Binary Operation](https://en.wikipedia.org/wiki/Binary_operation) - In mathematics, a binary operation on a set is a calculation that combines two elements of the set (called operands) to produce another element of the set.
 
+[Linear congruential generator](https://en.wikipedia.org/wiki/Linear_congruential_generator) - an algorithm that yields a sequence of pseudo-randomized numbers calculated with a discontinuous piecewise linear equation
+
+
 [Weierstrass Function](https://en.wikipedia.org/wiki/Weierstrass_function) - The function has the property of being continuous everywhere but differentiable nowhere.
 
 ### Geometry
@@ -331,6 +356,12 @@
 [Tautochrone curve](https://en.wikipedia.org/wiki/Tautochrone_curve) - A tautochrone or isochrone curve is the curve for which the time taken by an object sliding without friction in uniform gravity to its lowest point is independent of its starting point.
 
 [Toroid](https://en.wikipedia.org/wiki/Toroid) - a surface of revolution with a hole in the middle, like a doughnut, forming a solid body.
+
+### Logic
+
+[Non-interactive zero-knowledge proof](https://en.wikipedia.org/wiki/Non-interactive_zero-knowledge_proof) - a variant of zero-knowledge proofs in which no interaction is necessary between prover and verifier.
+
+[Zero-knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof) - a method by which one party (the prover) can prove to another party (the verifier) that they know a value x, without conveying any information apart from the fact that they know the value x.
 
 ### Miscellaneous
 
@@ -392,6 +423,10 @@
 
 [Postdiction](https://en.wikipedia.org/wiki/Postdiction) -  In skepticism, it is considered an effect of hindsight bias that explains claimed predictions of significant events such as plane crashes and natural disasters.
 
+[Schroedinger's cat in popular culture](https://en.wikipedia.org/wiki/Schr%C3%B6dinger's_cat_in_popular_culture)
+
+[Therblig](https://en.wikipedia.org/wiki/Therblig) - are 18 kinds of elemental motions used in the study of motion economy in the workplace. A workplace task is analyzed by recording each of the therblig units for a process, with the results used for optimization of manual labour by eliminating unneeded movements.
+
 ### Galleries, Glossaries and Lists
 
 [Glossary of manias](https://en.wikipedia.org/wiki/Glossary_of_manias)
@@ -415,6 +450,8 @@
 [List of collective nouns of animals](https://en.wikipedia.org/wiki/List_of_English_terms_of_venery,_by_animal)
 
 [List of common misconceptions](https://en.wikipedia.org/wiki/List_of_common_misconceptions)
+
+[List of deadliest animals to humans](https://en.wikipedia.org/wiki/List_of_deadliest_animals_to_humans)
 
 [List of Disney attractions that were never built](https://en.wikipedia.org/wiki/List_of_Disney_attractions_that_were_never_built)
 
@@ -486,6 +523,8 @@
 
 [Littlewood's law](https://en.wikipedia.org/wiki/Littlewood%27s_law) - a person can expect to experience events with odds of one in a million (defined by the law as a "miracle") at the rate of about one per month.
 
+[Matthew effect](https://en.wikipedia.org/wiki/Matthew_effect) - "the rich get richer and the poor get poorer".
+
 [McCollough Effect](https://en.wikipedia.org/wiki/McCollough_effect) - The McCollough effect is a phenomenon of human visual perception in which colorless gratings appear colored contingent on the orientation of the gratings.
 
 [Muphry's Law](https://en.wikipedia.org/wiki/Muphry%27s_law) - An adage that states: "If you write anything criticizing editing or proofreading, there will be a fault of some kind in what you have written."
@@ -498,6 +537,8 @@
 
 [Poe's Law](https://en.wikipedia.org/wiki/Poe%27s_law) - Parody so extreme that you can't tell if it's sincere or sarcastic.
 
+[Scully Effect](https://en.wikipedia.org/wiki/Dana_Scully#%22The_Scully_Effect%22) - The character is believed to have initiated a phenomenon referred to as "The Scully Effect"; as the medical doctor and the FBI Special Agent inspired many young women to pursue careers in science, medicine and law enforcement, and as a result brought a perceptible increase in the number of women in those fields.
+
 [The Wrong Type of Snow](https://en.wikipedia.org/wiki/The_wrong_type_of_snow) - A British Rail press release implied that management and its engineering staff were unaware of different types of snow. Henceforth in the United Kingdom, the phrase became a byword for euphemistic and pointless excuses.
 
 [Twinkie Defense](https://en.wikipedia.org/wiki/Twinkie_defense) - "Twinkie defense" is a derisive label for an improbable legal defense.
@@ -506,9 +547,13 @@
 
 [Absurdism](https://en.wikipedia.org/wiki/Absurdism) - In philosophy, "the Absurd" refers to the conflict between the human tendency to seek inherent value and meaning in life and the human inability to find any in a purposeless, meaningless or chaotic and irrational universe.
 
+[Five-minute hypothesis](https://en.wikipedia.org/wiki/Omphalos_hypothesis#Five-minute_hypothesis) - a skeptical hypothesis put forth by the philosopher Bertrand Russell that proposes that the universe sprang into existence five minutes ago from nothing, with human memory and all other signs of history included.
+
 [Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor) - Never attribute to malice that which is adequately explained by stupidity
 
 [Homunculus Argument](https://en.wikipedia.org/wiki/Homunculus_argument) - The homunculus argument is a fallacy arising most commonly in the theory of vision. One may explain human vision by noting that light from the outside world forms an image on the retinas in the eyes and something (or someone) in the brain looks at these images as if they are images on a movie screen.
+
+[Last Thursdayism](https://en.wikipedia.org/wiki/Omphalos_hypothesis#Last_Thursdayism) - "the world might as well have been created last Thursday".
 
 [Omphalos Hypothesis](https://en.wikipedia.org/wiki/Omphalos_hypothesis) - The omphalos hypothesis is one attempt to reconcile the scientific evidence that the universe is billions of years old with the Genesis creation narrative, which implies that the Earth is only a few thousand years old.
 
@@ -591,6 +636,8 @@
 [Cold War playground equipment](https://en.wikipedia.org/wiki/Cold_War_playground_equipment) - was intended to foster children's curiosity and excitement about the Space Race. It was installed during the Cold War in both communist and capitalist countries.
 
 [Ersatz Good](https://en.wikipedia.org/wiki/Ersatz_good) - Substitute good, normally inferior.
+
+[Fata Morgana](https://en.wikipedia.org/wiki/Fata_Morgana_(mirage)) - a complex form of superior mirage that is seen in a narrow band right above the horizon.
 
 [Lost work](https://en.wikipedia.org/wiki/Lost_work) - a document, literary work, or piece of multimedia produced some time in the past, of which no surviving copies are known to exist.
 
