@@ -254,6 +254,8 @@
 
 ### Letters and Glyphs
 
+[Deseret Alphabet](https://en.wikipedia.org/wiki/Deseret_alphabet) - a phonemic English-language spelling reform developed between 1847 and 1854 by the board of regents of the University of Deseret under the leadership of Brigham Young, the second president of the Church of Jesus Christ of Latter-day Saints.
+
 [Multiocular O](https://en.wikipedia.org/wiki/Multiocular_O) - ꙮ
 
 ### Poems
