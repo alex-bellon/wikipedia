@@ -36,6 +36,8 @@
 
 [Fork bomb](https://en.wikipedia.org/wiki/Fork_bomb) - a denial-of-service attack wherein a process continually replicates itself to deplete available system resources, slowing down or crashing the system due to resource starvation.
 
+[Google hacking](https://en.wikipedia.org/wiki/Google_hacking) - a computer hacking technique that uses Google Search and other Google applications to find security holes in the configuration and computer code that websites use.
+
 [Pass the hash](https://en.wikipedia.org/wiki/Pass_the_hash) - a hacking technique that allows an attacker to authenticate to a remote server or service by using the underlying NTLM or LanMan hash of a user's password, instead of requiring the associated plaintext password as is normally the case.
 
 [R-U-Dead-Yet Attack](https://en.wikipedia.org/wiki/R-U-Dead-Yet) - Low and slow DoS attack
@@ -54,6 +56,8 @@
 
 [Scunthorpe Problem](https://en.wikipedia.org/wiki/Scunthorpe_problem) - The Scunthorpe problem is the blocking of websites, e-mails, forum posts or search results by a spam filter or search engine because their text contains a string of letters that appear to have an obscene or unacceptable meaning.
 
+[Time-of-check to time-of-use](https://en.wikipedia.org/wiki/Time-of-check_to_time-of-use) - time-of-check to time-of-use (TOCTOU, TOCTTOU or TOC/TOU) is a class of software bugs caused by a race condition involving the checking of the state of a part of a system (such as a security credential) and the use of the results of that check.
+
 [Year 2000 Problem](https://en.wikipedia.org/wiki/Year_2000_problem) - A class of computer bugs related to the formatting and storage of calendar data for dates beginning in the year 2000.
 
 ### Cryptography
@@ -65,6 +69,8 @@
 [Diffie-Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange) - a method of securely exchanging cryptographic keys over a public channel.
 
 [Entropy (information theory)](https://en.wikipedia.org/wiki/Entropy_(information_theory)) - is the average rate at which information is produced by a stochastic source of data.
+
+[Identicon](https://en.wikipedia.org/wiki/Identicon) - An Identicon is a visual representation of a hash value, usually of an IP address, that serves to identify a user of a computer system as a form of avatar while protecting the users' privacy.
 
 [Key Schedule](https://en.wikipedia.org/wiki/Key_schedule) - In cryptography, the so-called product ciphers are a certain kind of cipher, where the (de-)ciphering of data is typically done as an iteration of rounds.
 
@@ -83,6 +89,10 @@
 ### Data Structures
 
 [Rope](https://en.wikipedia.org/wiki/Rope_%28data_structure%29) - a data structure composed of smaller strings that is used to efficiently store and manipulate a very long string. For example, a text editing program may use a rope to represent the text being edited, so that operations such as insertion, deletion, and random access can be done efficiently.
+
+### Encoding
+
+[Punycode](https://en.wikipedia.org/wiki/Punycode) - a representation of Unicode with the limited ASCII character subset used for Internet host names.
 
 ### Graphics
 
@@ -111,6 +121,8 @@
 [Turmite](https://en.wikipedia.org/wiki/Turmite) - a Turing machine which has an orientation as well as a current state and a "tape" that consists of an infinite two-dimensional grid of cells. The terms ant and vant are also used.
 
 ### Networking
+
+[Hyper Text Coffee Pot Control Protocol](https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol) - a facetious communication protocol for controlling, monitoring, and diagnosing coffee pots.
 
 [List of TCP/UDP Ports](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
 
@@ -157,6 +169,8 @@
 [Kolmogorov complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity) - the length of the shortest computer program (in a predetermined programming language) that produces the object as output.
 
 [Lasagna code](https://en.wikipedia.org/wiki/Spaghetti_code#Lasagna_code) - code whose layers are so complicated and intertwined that making a change in one layer would necessitate changes in all other layers.
+
+[Polymorphic code](https://en.wikipedia.org/wiki/Polymorphic_code) - code that uses a polymorphic engine to mutate while keeping the original algorithm intact. That is, the code changes itself each time it runs, but the function of the code (its semantics) will not change at all.
 
 [Quine](https://en.wikipedia.org/wiki/Quine_(computing)) - A self replicating program.
 
@@ -216,6 +230,8 @@
 
 [Flitch of bacon custom](https://en.wikipedia.org/wiki/Flitch_of_bacon_custom) - The awarding of a flitch of bacon to married couples who can swear to not having regretted their marriage for a year and a day is an old tradition, the remnants of which still survive in some pockets in England.
 
+[Gay Nineties](https://en.wikipedia.org/wiki/Gay_Nineties) - an American nostalgic term and a periodization of the history of the United States referring to the decade of the 1890s.
+
 [Murder Hole](https://en.wikipedia.org/wiki/Murder_hole) - a hole in the ceiling of a gateway or passageway in a fortification through which the defenders could fire, throw or pour harmful substances or objects, such as rocks, arrows, scalding water, hot sand, quicklime, tar, or boiling oil, down on attackers.
 
 [Pepsi Fruit Juice Flood](https://en.wikipedia.org/wiki/Pepsi_Fruit_Juice_Flood) - a flood of 176,000 barrels (28 million litres; 7.4 million US gallons) of fruit and vegetable juices into the streets of Lebedyan, Russia and the Don River, caused by the collapse of a PepsiCo warehouse.
@@ -246,6 +262,8 @@
 
 [Constructed Languages](https://en.wikipedia.org/wiki/Constructed_language) - A constructed language (sometimes called a conlang) is a language whose phonology, grammar, and vocabulary are, instead of having developed naturally, consciously devised for communication between intelligent beings, most commonly for use by humanoids.
 
+[Dog Latin](https://en.wikipedia.org/wiki/Dog_Latin) - the creation of a phrase or jargon in imitation of Latin, often by "translating" English words (or those of other languages) into Latin by conjugating or declining them as if they were Latin words.
+
 [Latin obscenity](https://en.wikipedia.org/wiki/Latin_obscenity) - the profane, indecent, or impolite vocabulary of Latin, and its uses. Words deemed obscene were described as obsc(a)ena (obscene, lewd, unfit for public use), or improba (improper, in poor taste, undignified).
 
 [Linguistic relativity](https://en.wikipedia.org/wiki/Linguistic_relativity) - the structure of a language affects its speakers' world view or cognition.
@@ -270,6 +288,8 @@
 
 ### Weird words, phrases, and sentences
 
+[Alternatives to the Ten Commandments](https://en.wikipedia.org/wiki/Alternatives_to_the_Ten_Commandments) - Several alternatives to the Ten Commandments have been promulgated by different persons and groups, which intended to improve on the lists of laws known as the Ten Commandments that appear in the Bible.
+
 [Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo](https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo) - is a grammatically correct sentence in American English, often presented as an example of how homonyms and homophones can be used to create complicated linguistic constructs through lexical ambiguity.
 
 [Colorless green ideas sleep furiously](https://en.wikipedia.org/wiki/Colorless_green_ideas_sleep_furiously) - a sentence composed by Noam Chomsky in his 1957 book Syntactic Structures as an example of a sentence that is grammatically correct, but semantically nonsensical.
@@ -277,6 +297,8 @@
 [Dord](https://en.wikipedia.org/wiki/Dord) - a dictionary error in lexicography. On July 31, 1931, Austin M. Patterson, the dictionary's chemistry editor, sent in a slip reading "D or d, cont./density." This was intended to add "density" to the existing list of words that the letter "D" can abbreviate. The phrase "D or d" was misinterpreted as a single, run-together word: Dord.
 
 [Ghoti](https://en.wikipedia.org/wiki/Ghoti) - a creative respelling of the word fish, used to illustrate irregularities in English spelling and pronunciation.
+
+[Satiric misspelling](https://en.wikipedia.org/wiki/Satiric_misspelling) - an intentional misspelling of a word, phrase or name for a rhetorical purpose. This is often done by replacing a letter with another letter (for example, k replacing c), or symbol (for example, $ replacing s, @ replacing a, or ¢ replacing c).
 
 ### Words
 
@@ -354,6 +376,8 @@
 
 [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) - Constructive solid geometry allows a modeler to create a complex surface or object by using Boolean operators to combine simpler objects.
 
+[Cox-Zucker machine](https://en.wikipedia.org/wiki/Cox%E2%80%93Zucker_machine) - n algorithm created by David A. Cox and Steven Zucker. This algorithm determines if a given set of sections provides a basis (up to torsion) for the Mordell–Weil group of an elliptic surface E → S where S is isomorphic to the projective line.
+
 [Dandelin spheres](https://en.wikipedia.org/wiki/Dandelin_spheres) - one or two spheres that are tangent both to a plane and to a cone that intersects the plane.
 
 [Deltahedron](https://en.wikipedia.org/wiki/Deltahedron) - a polyhedron whose faces are all equilateral triangles.
@@ -396,6 +420,8 @@
 
 ### Miscellaneous
 
+[Abuse of notation](https://en.wikipedia.org/wiki/Abuse_of_notation) - occurs when an author uses a mathematical notation in a way that is not formally correct but that seems likely to simplify the exposition or suggest the correct intuition (while being unlikely to introduce errors or cause confusion).
+
 [Coin problem](https://en.wikipedia.org/wiki/Coin_problem) -  a mathematical problem that asks for the largest monetary amount that cannot be obtained using only coins of specified denominations. For example, the largest amount that cannot be obtained using only coins of 3 and 5 units is 7 units.
 
 [Currying](https://en.wikipedia.org/wiki/Currying) - the technique of translating the evaluation of a function that takes multiple arguments into evaluating a sequence of functions, each with a single argument. For example, a function that takes two arguments, one from X and one from Y, and produces outputs in Z, by currying is translated into a function that takes a single argument from X and produces as outputs functions from Y to Z.
@@ -421,6 +447,8 @@
 [0.999....](https://en.wikipedia.org/wiki/0.999...) - denotes the repeating decimal consisting of infinitely many 9s after the decimal point (and one 0 before it), equal to 1.
 
 [Golden ration](https://en.wikipedia.org/wiki/Golden_ratio) - two quantities are in the golden ratio if their ratio is the same as the ratio of their sum to the larger of the two quantities.
+
+[Grandi's series](https://en.wikipedia.org/wiki/Grandi%27s_series) - the infinite series 1 − 1 + 1 − 1 + ⋯
 
 [Happy number](https://en.wikipedia.org/wiki/Happy_number) - Starting with any positive integer, replace the number by the sum of the squares of its digits in base-ten, and repeat the process until the number either equals 1 (where it will stay), or it loops endlessly in a cycle that does not include 1. Those numbers for which this process ends in 1 are happy numbers, while those that do not end in 1 are unhappy numbers (or sad numbers).
 
@@ -519,6 +547,8 @@
 [List of prime numbers](https://en.wikipedia.org/wiki/List_of_prime_numbers)
 
 [List of selfie-related injuries and deaths](https://en.wikipedia.org/wiki/List_of_selfie-related_injuries_and_deaths)
+
+[List of sexually active popes](https://en.wikipedia.org/wiki/List_of_sexually_active_popes)
 
 [List of tallest structures in the world by country](https://en.wikipedia.org/wiki/List_of_tallest_structures_by_country)
 
@@ -626,6 +656,8 @@
 
 [Mike the Headless Chicken](https://en.wikipedia.org/wiki/Mike_the_Headless_Chicken) - a Wyandotte chicken that lived for 18 months after his head had been cut off.
 
+[Puppy cat](https://en.wikipedia.org/wiki/Puppy_cat) - a term used to refer to specific breeds of domestic cats that have unusual behavioral tendencies that are reminiscent of young domestic dogs.
+
 [Rat King](https://en.wikipedia.org/wiki/Rat_king) - A collection of rats whose tails are intertwined and bound together by one of several possible mechanisms, such as entangling material like hair or sticky substances like sap or gum.
 
 [Sentinel Species](https://en.wikipedia.org/wiki/Sentinel_species) - are organisms, often animals, used to detect risks to humans by providing advance warning of a danger.
@@ -684,7 +716,11 @@
 
 [Fata Morgana](https://en.wikipedia.org/wiki/Fata_Morgana_(mirage)) - a complex form of superior mirage that is seen in a narrow band right above the horizon.
 
+[Immovable ladder](https://en.wikipedia.org/wiki/Status_Quo_(Jerusalem_and_Bethlehem)#Immovable_ladder) - Some consider the so-called immovable ladder[c] under the window of the Church of the Holy Sepulchre to be a visible symbol of the alleged inactivity the Status Quo imposes.
+
 [Lost work](https://en.wikipedia.org/wiki/Lost_work) - a document, literary work, or piece of multimedia produced some time in the past, of which no surviving copies are known to exist.
+
+[Matrix digital rain](https://en.wikipedia.org/wiki/Matrix_digital_rain) - the computer code featured in the Matrix series. The falling green code is a way of representing the activity of the virtual reality environment of the Matrix on screen.
 
 [Smoot](https://en.wikipedia.org/wiki/Smoot) - a nonstandard, humorous unit of length created as part of an MIT fraternity prank. It is named after Oliver R. Smoot, a fraternity pledge to Lambda Chi Alpha, who in October 1958 lay down repeatedly on the Harvard Bridge (between Boston and Cambridge, Massachusetts) so that his fraternity brothers could use his height to measure the length of the bridge.
 
