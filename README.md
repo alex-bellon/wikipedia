@@ -414,7 +414,15 @@
 
 ### Logic
 
+[Constraint satisfaction problem](https://en.wikipedia.org/wiki/Constraint_satisfaction_problem) - mathematical questions defined as a set of objects whose state must satisfy a number of constraints or limitations.
+
+[Decision problem](https://en.wikipedia.org/wiki/Decision_problem) - a decision problem is a problem that can be posed as a yes-no question of the input values.
+
+[First-order logic](https://en.wikipedia.org/wiki/First-order_logic) - a collection of formal systems used in mathematics, philosophy, linguistics, and computer science.
+
 [Non-interactive zero-knowledge proof](https://en.wikipedia.org/wiki/Non-interactive_zero-knowledge_proof) - a variant of zero-knowledge proofs in which no interaction is necessary between prover and verifier.
+
+[Satisfiability modulo theories](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories) - a decision problem for logical formulas with respect to combinations of background theories expressed in classical first-order logic with equality.
 
 [Zero-knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof) - a method by which one party (the prover) can prove to another party (the verifier) that they know a value x, without conveying any information apart from the fact that they know the value x.
 
@@ -526,6 +534,8 @@
 
 [List of Internet top-level domains](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
+[List of inventors killed by their own inventions](https://en.wikipedia.org/wiki/List_of_inventors_killed_by_their_own_inventions)
+
 [List of Latin phrases](https://en.wikipedia.org/wiki/List_of_Latin_phrases_(full))
 
 [List of list of lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists)
@@ -537,6 +547,8 @@
 [List of organisms named after famous people](https://en.wikipedia.org/wiki/List_of_organisms_named_after_famous_people)
 
 [List of organisms named after the Harry Potter series](https://en.wikipedia.org/wiki/List_of_organisms_named_after_the_Harry_Potter_series)
+
+[List of pasta](https://en.wikipedia.org/wiki/List_of_pasta)
 
 [List of paradoxes](https://en.wikipedia.org/wiki/List_of_paradoxes)
 
