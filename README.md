@@ -738,4 +738,8 @@
 
 [The Letters of Utrecht](https://en.wikipedia.org/wiki/The_Letters_of_Utrecht) - form an endless poem in the stones of a street in the center of the Dutch city of Utrecht.
 
+### Food
+
+[Soldiers (food)](https://en.wikipedia.org/wiki/Soldiers_(food)) - a thin strip of toast; the strips that a slice is cut into are reminiscent of soldiers on parade.
+
 [World's longest hot dog](https://en.wikipedia.org/wiki/World's_longest_hot_dog)
