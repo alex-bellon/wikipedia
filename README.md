@@ -22,6 +22,8 @@
 
 ### Visual Art
 
+[Animal-made art](https://en.wikipedia.org/wiki/Animal-made_art) - art created by an animal. Animal-made works of art have been created by apes, elephants, cetacea, reptiles, and bowerbirds, among other species.
+
 [Lost artworks](https://en.wikipedia.org/wiki/Lost_artworks) - original pieces of art that credible sources indicate once existed but that cannot be accounted for in museums or private collections or are known to have been destroyed deliberately or accidentally, or neglected through ignorance and lack of connoisseurship.
 
 [Outsider art](https://en.wikipedia.org/wiki/Outsider_art) - art by self-taught or naïve art makers.
@@ -220,6 +222,8 @@
 
 [Local Currency](https://en.wikipedia.org/wiki/Local_currency) - In economics, a local currency is a currency that can be spent in a particular geographical locality at participating organisations.
 
+[Monopsony](https://en.wikipedia.org/wiki/Monopsony) - a market structure in which a single buyer substantially controls the market as the major purchaser of goods and services offered by many would-be sellers.
+
 ## History & Anthropology
 
 [Abuwtiyuw](https://en.wikipedia.org/wiki/Abuwtiyuw) - The Egyptian dog Abuwtiyuw was one of the earliest documented domestic animals whose name is known.
@@ -238,6 +242,8 @@
 
 [Sword of Damocles](https://en.wikipedia.org/wiki/Damocles) - King who hung a sword from a string above his head to represent the constant threat involved in ruling
 
+[Toilet-related injuries and deaths](https://en.wikipedia.org/wiki/Toilet-related_injuries_and_deaths)
+
 ### People
 
 [Digby Tatham-Warter](https://en.wikipedia.org/wiki/Digby_Tatham-Warter) - Digby got to him and said "Don't worry about the bullets, I've got an umbrella". He then escorted the chaplain across the street under his umbrella. When he returned to the front line, one of his fellow officers said about his umbrella that "that thing won't do you any good", to which Digby replied "Oh my goodness Pat, but what if it rains?"
@@ -252,6 +258,8 @@
 
 [Eternal September](https://en.wikipedia.org/wiki/Eternal_September) - is Usenet slang for a period beginning in September 1993, the month that Internet service provider America Online (AOL) began offering Usenet access to its many users, overwhelming the existing culture for online forums.
 
+[Monkey selfie copyright dispute](https://en.wikipedia.org/wiki/Monkey_selfie_copyright_dispute) - a series of disputes about the copyright status of selfies taken by Celebes crested macaques using equipment belonging to the British nature photographer David Slater.
+
 ## Language
 
 ### Grammar
@@ -263,6 +271,8 @@
 [Constructed Languages](https://en.wikipedia.org/wiki/Constructed_language) - A constructed language (sometimes called a conlang) is a language whose phonology, grammar, and vocabulary are, instead of having developed naturally, consciously devised for communication between intelligent beings, most commonly for use by humanoids.
 
 [Dog Latin](https://en.wikipedia.org/wiki/Dog_Latin) - the creation of a phrase or jargon in imitation of Latin, often by "translating" English words (or those of other languages) into Latin by conjugating or declining them as if they were Latin words.
+
+[False friends](https://en.wikipedia.org/wiki/False_friend) - words in different languages that look or sound similar, but differ significantly in meaning.
 
 [Latin obscenity](https://en.wikipedia.org/wiki/Latin_obscenity) - the profane, indecent, or impolite vocabulary of Latin, and its uses. Words deemed obscene were described as obsc(a)ena (obscene, lewd, unfit for public use), or improba (improper, in poor taste, undignified).
 
@@ -489,6 +499,8 @@
 [Friedman Unit](https://en.wikipedia.org/wiki/Friedman_Unit) - One Friedman Unit is equal to six months, specifically the "next six months", a period repeatedly declared by New York Times columnist Thomas Friedman to be the most critical of the then-ongoing Iraq War even though such pronouncements extended back over two and a half years.
 
 [Ivan Renko](https://en.wikipedia.org/wiki/Ivan_Renko) - Ivan Renko was a fictitious Yugoslav basketball player created by Bobby Knight when he was the head coach for the Indiana University Hoosiers.
+
+[Luddite fallacy](https://en.wikipedia.org/wiki/Technological_unemployment#The_Luddite_fallacy) - used to express the view that those concerned about long term technological unemployment are committing a fallacy, as they fail to account for compensation effects.
 
 [Paul is dead](https://en.wikipedia.org/wiki/Paul_is_dead) - an urban legend and conspiracy theory alleging that Paul McCartney, of the English rock band the Beatles, died in November 1966 and was secretly replaced by a look-alike.
 
