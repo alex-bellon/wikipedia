@@ -48,6 +48,8 @@
 
 [Slowloris](https://en.wikipedia.org/wiki/Slowloris_%28computer_security%29) - Another slow DoS attack
 
+[Watering hole attack](https://en.wikipedia.org/wiki/Watering_hole_attack) - a computer attack strategy, in which the victim is a particular group (organization, industry, or region). In this attack, the attacker guesses or observes which websites the group often uses and infects one or more of them with malware. Eventually, some member of the targeted group becomes infected.
+
 [Zip bomb](https://en.wikipedia.org/wiki/Zip_bomb) - a malicious archive file designed to crash or render useless the program or system reading it. It is often employed to disable antivirus software, in order to create an opening for more traditional viruses.
 
 ### Bugs
@@ -125,6 +127,8 @@
 ### Networking
 
 [Hyper Text Coffee Pot Control Protocol](https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol) - a facetious communication protocol for controlling, monitoring, and diagnosing coffee pots.
+
+[Internet mail protocols](https://en.wikipedia.org/wiki/Category:Internet_mail_protocols)
 
 [List of TCP/UDP Ports](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
 
@@ -266,6 +270,12 @@
 
 [Adjective Order](https://en.wikipedia.org/wiki/Adjective#Order) - In many languages, attributive adjectives usually occur in a specific order. In general, the adjective order in English can be summarised as: opinion, size, age or shape, colour, origin, material, purpose. This sequence (with age preceding shape) is sometimes referred to by the mnemonic OSASCOMP.
 
+### Idioms
+
+[Hobson's Choice](https://en.wikipedia.org/wiki/Hobson's_choice) - a free choice in which only one thing is offered. Because a person may refuse to accept what is offered, the two options are taking it or taking nothing. In other words, one may "take it or leave it".
+
+[Morton's Fork](https://en.wikipedia.org/wiki/Morton's_fork) - a type of false dilemma in which contradictory observations lead to the same conclusion. It is said to have originated with the collecting of taxes by John Morton.
+
 ### Languages
 
 [Constructed Languages](https://en.wikipedia.org/wiki/Constructed_language) - A constructed language (sometimes called a conlang) is a language whose phonology, grammar, and vocabulary are, instead of having developed naturally, consciously devised for communication between intelligent beings, most commonly for use by humanoids.
@@ -279,6 +289,8 @@
 [Linguistic relativity](https://en.wikipedia.org/wiki/Linguistic_relativity) - the structure of a language affects its speakers' world view or cognition.
 
 [Stylometry](https://en.wikipedia.org/wiki/Stylometry) - the application of the study of linguistic style, usually to written language, but it has successfully been applied to music and to fine-art paintings as well.
+
+[Theives' cant](https://en.wikipedia.org/wiki/Thieves'_cant) - a secret language (a cant or cryptolect) which was formerly used by thieves, beggars and hustlers of various kinds in Great Britain and to a lesser extent in other English-speaking countries.
 
 ### Letters and Glyphs
 
@@ -357,6 +369,8 @@
 [RAS Syndrome](https://en.wikipedia.org/wiki/RAS_syndrome) - is the use of one or more of the words that make up an acronym (or other initialism) in conjunction with the abbreviated form. This means, in effect, repeating one or more words from the acronym. Two common examples are "PIN number"/ "VIN number" (the "N" in PIN and VIN stands for "number") and "ATM machine" (the "M" in ATM stands for "machine").
 
 [Sniglet](https://en.wikipedia.org/wiki/Sniglet) - an often humorous word made up to describe something for which no dictionary word exists.
+
+[Weasel word](https://en.wikipedia.org/wiki/Weasel_word) - an informal term for words and phrases such as "researchers believe" and "most people think" which make arguments appear specific or meaningful, even though these terms are at best ambiguous and vague.
 
 [Yak Shaving](https://en.wiktionary.org/wiki/yak_shaving) - Any apparently useless activity which, by allowing you to overcome intermediate difficulties, allows you to solve a larger problem.
 
@@ -682,6 +696,8 @@
 
 [Puppy cat](https://en.wikipedia.org/wiki/Puppy_cat) - a term used to refer to specific breeds of domestic cats that have unusual behavioral tendencies that are reminiscent of young domestic dogs.
 
+[Raining of animals](https://en.wikipedia.org/wiki/Rain_of_animals) - a rare meteorological phenomenon in which flightless animals fall from the sky.
+
 [Rat King](https://en.wikipedia.org/wiki/Rat_king) - A collection of rats whose tails are intertwined and bound together by one of several possible mechanisms, such as entangling material like hair or sticky substances like sap or gum.
 
 [Sentinel Species](https://en.wikipedia.org/wiki/Sentinel_species) - are organisms, often animals, used to detect risks to humans by providing advance warning of a danger.
@@ -739,6 +755,8 @@
 [Ersatz Good](https://en.wikipedia.org/wiki/Ersatz_good) - Substitute good, normally inferior.
 
 [Fata Morgana](https://en.wikipedia.org/wiki/Fata_Morgana_(mirage)) - a complex form of superior mirage that is seen in a narrow band right above the horizon.
+
+[Garden hermit](https://en.wikipedia.org/wiki/Garden_hermit) - hermits encouraged to live in purpose-built hermitages, follies, grottoes, or rockeries on the estates of wealthy land-owners, primarily during the 18th century. Such hermits would be encouraged to dress like druids and remain permanently on-site, where they could be fed, cared-for and consulted for advice or viewed for entertainment.
 
 [Immovable ladder](https://en.wikipedia.org/wiki/Status_Quo_(Jerusalem_and_Bethlehem)#Immovable_ladder) - Some consider the so-called immovable ladder[c] under the window of the Church of the Holy Sepulchre to be a visible symbol of the alleged inactivity the Status Quo imposes.
 
