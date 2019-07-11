@@ -626,6 +626,8 @@
 
 [IKEA Effect](https://en.m.wikipedia.org/wiki/IKEA_effect) - The IKEA effect is a cognitive bias in which consumers place a disproportionately high value on products they partially created.
 
+[Law of triviality](https://en.wikipedia.org/wiki/Law_of_triviality) - members of an organization give disproportionate weight to trivial issues.
+
 [Littlewood's law](https://en.wikipedia.org/wiki/Littlewood%27s_law) - a person can expect to experience events with odds of one in a million (defined by the law as a "miracle") at the rate of about one per month.
 
 [Matthew effect](https://en.wikipedia.org/wiki/Matthew_effect) - "the rich get richer and the poor get poorer".
@@ -639,6 +641,8 @@
 [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia) - the tendency to interpret a vague stimulus as something known to the observer, such as seeing shapes in clouds, seeing faces in inanimate objects or abstract patterns, or hearing hidden messages in music.
 
 [Pareto Principle](https://en.wikipedia.org/wiki/Pareto_principle) - The Pareto principle (also known as the 80/20 rule, the law of the vital few, or the principle of factor sparsity) states that, for many events, roughly 80% of the effects come from 20% of the causes.
+
+[Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law) - the adage that "work expands so as to fill the time available for its completion".
 
 [Poe's Law](https://en.wikipedia.org/wiki/Poe%27s_law) - Parody so extreme that you can't tell if it's sincere or sarcastic.
 
@@ -691,6 +695,8 @@
 ### Animals
 
 [52-hertz whale](https://en.wikipedia.org/wiki/52-hertz_whale) - an individual whale of unidentified species, which calls at the very unusual frequency of 52 Hz.
+
+[Chrismatic megafauna](https://en.wikipedia.org/wiki/Charismatic_megafauna) - large animal species with symbolic value or widespread popular appeal, and are often used by environmental activists to achieve environmentalist goals.
 
 [Mike the Headless Chicken](https://en.wikipedia.org/wiki/Mike_the_Headless_Chicken) - a Wyandotte chicken that lived for 18 months after his head had been cut off.
 
