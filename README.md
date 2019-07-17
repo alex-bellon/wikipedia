@@ -8,6 +8,10 @@
 
 [The Lexicon of Comicana](https://en.wikipedia.org/wiki/The_Lexicon_of_Comicana) - a 1980 book by the American cartoonist Mort Walker. It was intended as a tongue-in-cheek look at the devices used by cartoonists. In it, Walker invented an international set of symbols called symbolia after researching cartoons around the world.
 
+### Graphic Design
+
+[Greeking](https://en.wikipedia.org/wiki/Greeking) - a style of displaying or rendering text or symbols, not always from the Greek alphabet. Greeking obscures portions of a work for the purpose of either emphasizing form over details or displaying placeholders for unavailable content.
+
 ### Music
 
 [Backmasking](https://en.wikipedia.org/wiki/Backmasking) - a recording technique in which a sound or message is recorded backward onto a track that is meant to be played forward.
@@ -294,6 +298,8 @@
 
 ### Letters and Glyphs
 
+[Asemic writing](https://en.wikipedia.org/wiki/Asemic_writing) - a wordless open semantic form of writing.
+
 [Deseret Alphabet](https://en.wikipedia.org/wiki/Deseret_alphabet) - a phonemic English-language spelling reform developed between 1847 and 1854 by the board of regents of the University of Deseret under the leadership of Brigham Young, the second president of the Church of Jesus Christ of Latter-day Saints.
 
 [Multiocular O](https://en.wikipedia.org/wiki/Multiocular_O) - ꙮ
@@ -336,6 +342,8 @@
 
 [Eggcorn](https://en.wikipedia.org/wiki/Eggcorn) - An idiosyncratic substitution of a word or phrase for a word or words that sound similar or identical in the speaker's dialect (sometimes called oronyms).
 
+[Etaoin shrdlu](https://en.wikipedia.org/wiki/Etaoin_shrdlu) - a nonsense phrase that sometimes appeared in print in the days of "hot type" publishing because of a custom of type-casting machine operators.
+
 [Fumblerules](https://en.wikipedia.org/wiki/Fumblerules) - A fumblerule is a rule of language or linguistic style, humorously written in such a way that it breaks this rule.
 
 [Ghost word](https://en.wikipedia.org/wiki/Ghost_word) - a word published in a dictionary or similarly authoritative reference work, having rarely, if ever, been used in practice, and hitherto having been meaningless.
@@ -349,6 +357,8 @@
 [Irony](https://en.wikipedia.org/wiki/Irony) - a rhetorical device, literary technique, or event in which what appears, on the surface, to be the case, differs radically from what is actually the case.
 
 [Isogram](https://en.wikipedia.org/wiki/Isogram) - a logological term for a word or phrase without a repeating letter.
+
+[Lorem Ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum) - a placeholder text commonly used to demonstrate the visual form of a document without relying on meaningful content (also called greeking).
 
 [Mondegreen](https://en.wikipedia.org/wiki/Mondegreen) - Mishearing of a phrase that results in near-homophony, in a way that gives it a new meaning.
 
@@ -515,6 +525,8 @@
 [Ivan Renko](https://en.wikipedia.org/wiki/Ivan_Renko) - Ivan Renko was a fictitious Yugoslav basketball player created by Bobby Knight when he was the head coach for the Indiana University Hoosiers.
 
 [Luddite fallacy](https://en.wikipedia.org/wiki/Technological_unemployment#The_Luddite_fallacy) - used to express the view that those concerned about long term technological unemployment are committing a fallacy, as they fail to account for compensation effects.
+
+[Numerology](https://en.wikipedia.org/wiki/Numerology) - any belief in the divine or mystical relationship between a number and one or more coinciding events.
 
 [Paul is dead](https://en.wikipedia.org/wiki/Paul_is_dead) - an urban legend and conspiracy theory alleging that Paul McCartney, of the English rock band the Beatles, died in November 1966 and was secretly replaced by a look-alike.
 
@@ -755,6 +767,8 @@
 [Chicken gun](https://en.wikipedia.org/wiki/Chicken_gun) - a large-diameter, compressed-air cannon used to fire dead chickens at aircraft components in order to simulate high-speed bird strikes during the aircraft's flight.
 
 [Czech Hedgehog](https://en.wikipedia.org/wiki/Czech_hedgehog) - The Czech hedgehog is a static anti-tank obstacle defense made of metal angle beams or I-beams (that is, lengths with an L- or I-shaped cross section).
+
+[Donkey vote](https://en.wikipedia.org/wiki/Donkey_vote) - a ballot cast in an election that uses a preference voting system, where a voter is permitted or required to rank candidates on the ballot paper, and ranks them based on the order they appear on the ballot paper.
 
 [Dual-tone multi-frequency signaling](https://en.wikipedia.org/wiki/Dual-tone_multi-frequency_signaling) - a telecommunication signaling system using the voice-frequency band over telephone lines between telephone equipment and other communications devices and switching centers.
 
