@@ -138,6 +138,10 @@
 
 [Network Telescope](https://en.wikipedia.org/wiki/Network_telescope) - An Internet system that allows one to observe different large-scale events taking place on the Internet
 
+[QUIC](https://en.wikipedia.org/wiki/QUIC) - an experimental general-purpose transport layer network protocol.
+
+[SPDY](https://en.wikipedia.org/wiki/SPDY) -  deprecated open-specification networking protocol that was developed primarily at Google for transporting web content.
+
 ### Operating Systems
 
 [TempleOS](https://en.m.wikipedia.org/wiki/TempleOS) - Handwritten operating system written in Holy C.
