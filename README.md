@@ -72,6 +72,12 @@
 
 [Cryptographic attacks](https://en.wikipedia.org/wiki/Category:Cryptographic_attacks) - a method for circumventing the security of a cryptographic system by finding a weakness in a code, cipher, cryptographic protocol or key management scheme. This process is also called "cryptanalysis".
 
+[Commitment scheme](https://en.wikipedia.org/wiki/Commitment_scheme) - a cryptographic primitive that allows one to commit to a chosen value (or chosen statement) while keeping it hidden to others, with the ability to reveal the committed value later. Commitment schemes are designed so that a party cannot change the value or statement after they have committed to it: that is, commitment schemes are binding.
+
+[Coppersmith's attack](https://en.wikipedia.org/wiki/Coppersmith%27s_attack) - a class of cryptographic attacks on the public-key cryptosystem RSA based on the Coppersmith method.
+
+[Coppersmith method](https://en.wikipedia.org/wiki/Coppersmith_method) - a method to find small integer zeroes of univariate or bivariate polynomials modulo a given integer.
+
 [Differential Cryptanalysis](https://en.wikipedia.org/wiki/Differential_cryptanalysis) - Differential cryptanalysis is a general form of cryptanalysis applicable primarily to block ciphers, but also to stream ciphers and cryptographic hash functions.
 
 [Diffie-Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange) - a method of securely exchanging cryptographic keys over a public channel.
@@ -81,6 +87,8 @@
 [Identicon](https://en.wikipedia.org/wiki/Identicon) - An Identicon is a visual representation of a hash value, usually of an IP address, that serves to identify a user of a computer system as a form of avatar while protecting the users' privacy.
 
 [Key Schedule](https://en.wikipedia.org/wiki/Key_schedule) - In cryptography, the so-called product ciphers are a certain kind of cipher, where the (de-)ciphering of data is typically done as an iteration of rounds.
+
+[Linux Unified Key Setup](https://en.wikipedia.org/wiki/Linux_Unified_Key_Setup) - disk encryption specification created by Clemens Fruhwirth in 2004 and was originally intended for Linux.
 
 [Merkle Tree](https://en.wikipedia.org/wiki/Merkle_tree) - a hash tree or Merkle tree is a tree in which every leaf node is labelled with the hash of a data block, and every non-leaf node is labelled with the cryptographic hash of the labels of its child nodes.
 
@@ -102,6 +110,10 @@
 
 [Punycode](https://en.wikipedia.org/wiki/Punycode) - a representation of Unicode with the limited ASCII character subset used for Internet host names.
 
+### Files
+
+[Run commands](https://en.wikipedia.org/wiki/Run_commands) - In the context of Unix-like systems, the term rc stands for the phrase "run commands". It is used for any file that contains startup information for a command.
+
 ### Graphics
 
 [Box-drawing character](https://en.wikipedia.org/wiki/Box-drawing_character) - a form of semigraphics widely used in text user interfaces to draw various geometric frames and boxes. Box-drawing characters typically only work well with monospaced fonts.
@@ -120,7 +132,11 @@
 
 ### Logic
 
+[Angelic non-determinism](https://en.wikipedia.org/wiki/Angelic_non-determinism) - the execution of a non-deterministic program where all choices that are made favor termination of the program.
+
 [Billiard-ball computer](https://en.wikipedia.org/wiki/Billiard-ball_computer) - an idealized model of a reversible mechanical computer based on Newtonian dynamics.
+
+[Demonic non-determinism](https://en.wikipedia.org/wiki/Demonic_non-determinism) - describes the execution of a non-deterministic program where all choices that are made favour non-termination.
 
 ### Machines
 
@@ -153,6 +169,8 @@
 [Browser war](https://en.wikipedia.org/wiki/Browser_wars) - ompetition for dominance in the usage share of web browsers. The "First Browser War" during the late 1990s pitted Microsoft's Internet Explorer against Netscape's Navigator.
 
 [Code smell](https://en.wikipedia.org/wiki/Code_smell) - any characteristic in the source code of a program that possibly indicates a deeper problem.
+
+[Convention over configuration](https://en.wikipedia.org/wiki/Convention_over_configuration) -  a software design paradigm used by software frameworks that attempts to decrease the number of decisions that a developer using the framework is required to make without necessarily losing flexibility.
 
 [Creeping elegance](https://en.wikipedia.org/wiki/Creeping_elegance) - the tendency of programmers to disproportionately emphasize elegance in software at the expense of other requirements such as functionality, shipping schedule, and usability.
 
@@ -218,6 +236,8 @@
 
 [Dancing pigs](https://en.wikipedia.org/wiki/Dancing_pigs) - Given a choice between dancing pigs and security, users will pick dancing pigs every time.
 
+[Google hacking](https://en.wikipedia.org/wiki/Google_hacking) -  also named Google Dorking, is a computer hacking technique that uses Google Search and other Google applications to find security holes in the configuration and computer code that websites use.
+
 ## Design
 
 [Anti urination devices in Norwich](https://en.wikipedia.org/wiki/Anti_urination_devices_in_Norwich) - a form of hostile architecture installed in Norwich and the surrounding area in the late 19th century to discourage public urination.
@@ -248,13 +268,23 @@
 
 [Gay Nineties](https://en.wikipedia.org/wiki/Gay_Nineties) - an American nostalgic term and a periodization of the history of the United States referring to the decade of the 1890s.
 
+[Immurement](https://en.wikipedia.org/wiki/Immurement) - is a form of imprisonment, usually until death, in which a person is placed within an enclosed space with no exits.
+
 [Murder Hole](https://en.wikipedia.org/wiki/Murder_hole) - a hole in the ceiling of a gateway or passageway in a fortification through which the defenders could fire, throw or pour harmful substances or objects, such as rocks, arrows, scalding water, hot sand, quicklime, tar, or boiling oil, down on attackers.
 
+[Naruto run](https://en.wikipedia.org/wiki/Naruto#Naruto_run) - a running style based on the way the characters run leaning forward with their arms behind their backs.
+
 [Pepsi Fruit Juice Flood](https://en.wikipedia.org/wiki/Pepsi_Fruit_Juice_Flood) - a flood of 176,000 barrels (28 million litres; 7.4 million US gallons) of fruit and vegetable juices into the streets of Lebedyan, Russia and the Don River, caused by the collapse of a PepsiCo warehouse.
+
+[Storm Area 51](https://en.wikipedia.org/wiki/Storm_Area_51) - an American Facebook event that took place on September 20, 2019, at Area 51, a United States Air Force (USAF) facility within the Nevada Test and Training Range, to raid the site in a search for extraterrestrial life.
 
 [Sword of Damocles](https://en.wikipedia.org/wiki/Damocles) - King who hung a sword from a string above his head to represent the constant threat involved in ruling
 
 [Toilet-related injuries and deaths](https://en.wikipedia.org/wiki/Toilet-related_injuries_and_deaths)
+
+### Laws
+
+[Statue forbidding Bearing of Armour](https://en.wikipedia.org/wiki/Statute_forbidding_Bearing_of_Armour) - was enacted in 1313 during the reign of Edward II of England. It decrees "that in all Parliaments, Treatises and other Assemblies, which should be made in the Realm of England for ever, that every Man shall come without all Force and Armour".
 
 ### People
 
@@ -286,6 +316,8 @@
 
 ### Languages
 
+[Avoidance speech](https://en.wikipedia.org/wiki/Avoidance_speech) - a group of sociolinguistic phenomena in which a special restricted speech style must be used in the presence of or in reference to certain relatives.
+
 [Constructed Languages](https://en.wikipedia.org/wiki/Constructed_language) - A constructed language (sometimes called a conlang) is a language whose phonology, grammar, and vocabulary are, instead of having developed naturally, consciously devised for communication between intelligent beings, most commonly for use by humanoids.
 
 [Dog Latin](https://en.wikipedia.org/wiki/Dog_Latin) - the creation of a phrase or jargon in imitation of Latin, often by "translating" English words (or those of other languages) into Latin by conjugating or declining them as if they were Latin words.
@@ -295,6 +327,8 @@
 [Latin obscenity](https://en.wikipedia.org/wiki/Latin_obscenity) - the profane, indecent, or impolite vocabulary of Latin, and its uses. Words deemed obscene were described as obsc(a)ena (obscene, lewd, unfit for public use), or improba (improper, in poor taste, undignified).
 
 [Linguistic relativity](https://en.wikipedia.org/wiki/Linguistic_relativity) - the structure of a language affects its speakers' world view or cognition.
+
+[Pandanus language](https://en.wikipedia.org/wiki/Pandanus_language) - an elaborate avoidance language among several of the peoples of the eastern New Guinea Highlands, used when collecting Pandanus nuts.
 
 [Stylometry](https://en.wikipedia.org/wiki/Stylometry) - the application of the study of linguistic style, usually to written language, but it has successfully been applied to music and to fine-art paintings as well.
 
@@ -472,6 +506,8 @@
 
 [Currying](https://en.wikipedia.org/wiki/Currying) - the technique of translating the evaluation of a function that takes multiple arguments into evaluating a sequence of functions, each with a single argument. For example, a function that takes two arguments, one from X and one from Y, and produces outputs in Z, by currying is translated into a function that takes a single argument from X and produces as outputs functions from Y to Z.
 
+[Elo rating system](https://en.wikipedia.org/wiki/Elo_rating_system) - a method for calculating the relative skill levels of players in zero-sum games such as chess.
+
 [Freshman's Dream](https://en.wikipedia.org/wiki/Freshman's_dream) - the erroneous equation (x + y)^n = x^n + y^n, where n is a real number (usually a positive integer greater than 1).
 
 [Goat problem](https://en.wikipedia.org/wiki/Goat_problem) - How big must r be chosen in the diagram, in order for the red area to equal one half of the area of the circle? Illustration: A goat/bull/horse is tethered at point Q. How long needs the line to be, to allow the animal to graze on exactly one half of the circle area?
@@ -486,7 +522,13 @@
 
 [Pancake Sorting](https://en.wikipedia.org/wiki/Pancake_sorting) - the colloquial term for the mathematical problem of sorting a disordered stack of pancakes in order of size when a spatula can be inserted at any point in the stack and used to flip all pancakes above it. A pancake number is the minimum number of flips required for a given number of pancakes.
 
+[Penrose graphical notation](https://en.wikipedia.org/wiki/Penrose_graphical_notation) - a (usually handwritten) visual depiction of multilinear functions or tensors proposed by Roger Penrose in 1971.
+
+[Ramsey Theory](https://en.wikipedia.org/wiki/Ramsey_theory) - named after the British mathematician and philosopher Frank P. Ramsey, is a branch of mathematics that studies the conditions under which order must appear. Problems in Ramsey theory typically ask a question of the form: "how many elements of some structure must there be to guarantee that a particular property will hold?" More specifically, Ron Graham describes Ramsey theory as a "branch of combinatorics".
+
 [Recreational mathematics (Category)](https://en.wikipedia.org/wiki/Category:Recreational_mathematics) - Recreational mathematics is mathematics carried out for recreation (entertainment) rather than as a strictly research and application-based professional activity.
+
+[Zero-sum game](https://en.wikipedia.org/wiki/Zero-sum_game) - a mathematical representation of a situation in which each participant's gain or loss of utility is exactly balanced by the losses or gains of the utility of the other participants.
 
 ### Numbers
 
@@ -519,6 +561,8 @@
 ## Odds and Ends
 
 [Cold Reading](https://en.wikipedia.org/wiki/Cold_reading) - a set of techniques used by mentalists, psychics, fortune-tellers, mediums, illusionists (readers), and scam artists to imply that the reader knows much more about the person than the reader actually does.
+
+[Curse of the Colonel](https://en.wikipedia.org/wiki/Curse_of_the_Colonel) - an urban legend regarding a reputed curse placed on the Japanese Kansai-based Hanshin Tigers baseball team by deceased KFC founder and mascot Colonel Harland Sanders.
 
 [Disambiguation (disambiguation)](https://en.wikipedia.org/wiki/Disambiguation_(disambiguation))
 
@@ -638,6 +682,8 @@
 
 [Droste Effect](https://en.wikipedia.org/wiki/Droste_effect) - Picture recursively appearing within itself
 
+[Dutch disease](https://en.wikipedia.org/wiki/Dutch_disease) - the apparent causal relationship between the increase in the economic development of a specific sector (for example natural resources) and a decline in other sectors (like the manufacturing sector or agriculture).
+
 [Half-life of knowledge](https://en.wikipedia.org/wiki/Half-life_of_knowledge) -  the amount of time that has to elapse before half of the knowledge or facts in a particular area is superseded or shown to be untrue.
 
 [IKEA Effect](https://en.m.wikipedia.org/wiki/IKEA_effect) - The IKEA effect is a cognitive bias in which consumers place a disproportionately high value on products they partially created.
@@ -716,6 +762,8 @@
 
 [Mike the Headless Chicken](https://en.wikipedia.org/wiki/Mike_the_Headless_Chicken) - a Wyandotte chicken that lived for 18 months after his head had been cut off.
 
+[Potoooooooo](https://en.wikipedia.org/wiki/Potoooooooo) - an 18th-century Thoroughbred racehorse who won over 30 races and defeated some of the greatest racehorses of the time. He went on to be a sire. He is now best known for the unusual spelling of his name, pronounced Potatoes.
+
 [Puppy cat](https://en.wikipedia.org/wiki/Puppy_cat) - a term used to refer to specific breeds of domestic cats that have unusual behavioral tendencies that are reminiscent of young domestic dogs.
 
 [Raining of animals](https://en.wikipedia.org/wiki/Rain_of_animals) - a rare meteorological phenomenon in which flightless animals fall from the sky.
@@ -769,6 +817,8 @@
 [Color trade mark](https://en.wikipedia.org/wiki/Colour_trade_mark) - a non-conventional trade mark where at least one colour is used to perform the trade mark function of uniquely identifying the commercial origin of products or services.
 
 [Chicken gun](https://en.wikipedia.org/wiki/Chicken_gun) - a large-diameter, compressed-air cannon used to fire dead chickens at aircraft components in order to simulate high-speed bird strikes during the aircraft's flight.
+
+[Crinkle crankle wall](https://en.wikipedia.org/wiki/Crinkle_crankle_wall) - The crinkle crankle wall economizes on bricks, despite its sinuous configuration, because it can be made just one brick thin. If a wall this thin were to be made in a straight line, without buttresses, it would easily topple over. The alternate convex and concave curves in the wall provide stability and help it to resist lateral forces.
 
 [Czech Hedgehog](https://en.wikipedia.org/wiki/Czech_hedgehog) - The Czech hedgehog is a static anti-tank obstacle defense made of metal angle beams or I-beams (that is, lengths with an L- or I-shaped cross section).
 
