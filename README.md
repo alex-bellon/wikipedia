@@ -190,6 +190,7 @@
 - [Monopsony](https://en.wikipedia.org/wiki/Monopsony) - a market structure in which a single buyer substantially controls the market as the major purchaser of goods and services offered by many would-be sellers.
 
 ## History & Anthropology
+- [1984 Rajneeshee bioterror attack](https://en.wikipedia.org/wiki/1984_Rajneeshee_bioterror_attack) - The deliberate contamination of salad bars at ten The Dalles, Oregon restaurants with Salmonella. A group of prominent followers of Bhagwan Shree Rajneesh had hoped to incapacitate the voting population of the city so that their own candidates would win the 1984 Wasco County elections. The incident was the first and is the single largest bioterrorist attack in United States history.
 - [Abuwtiyuw](https://en.wikipedia.org/wiki/Abuwtiyuw) - The Egyptian dog Abuwtiyuw was one of the earliest documented domestic animals whose name is known.
 - [Acoustic Kitty](https://en.wikipedia.org/wiki/Acoustic_Kitty) - Acoustic Kitty was a CIA project launched by the Central Intelligence Agency Directorate of Science & Technology, which in the 1960s intended to use cats to spy on the Kremlin and Soviet embassies.
 - [Baby Tooth Survey](https://en.wikipedia.org/wiki/Baby_Tooth_Survey) - The Baby Tooth Survey was initiated by the Greater St. Louis Citizens' Committee for Nuclear Information in conjunction with Saint Louis University and the Washington University School of Dental Medicine as a means of determining the effects of nuclear fallout in the human anatomy by examining the levels of radioactive material absorbed into the deciduous teeth of children.
@@ -225,10 +226,14 @@
 
 ### People
 - [Digby Tatham-Warter](https://en.wikipedia.org/wiki/Digby_Tatham-Warter) - Digby got to him and said "Don't worry about the bullets, I've got an umbrella". He then escorted the chaplain across the street under his umbrella. When he returned to the front line, one of his fellow officers said about his umbrella that "that thing won't do you any good", to which Digby replied "Oh my goodness Pat, but what if it rains?"
+- [Ivan Renko](https://en.wikipedia.org/wiki/Ivan_Renko) - Ivan Renko was a fictitious Yugoslav basketball player created by Bobby Knight when he was the head coach for the Indiana University Hoosiers.
+- [Joseph Darby](https://en.wikipedia.org/wiki/Joseph_Darby_%28jumper%29) - a renowned jumper from the Black Country village of Netherton. He specialised in spring jumping (jumping starting from a stationary position) often using weights in his hands to help propel him.
 - [The boy Jones](https://en.wikipedia.org/wiki/The_boy_Jones) - a British teenager who became notorious for breaking into Buckingham Palace multiple times between 1838 and 1841.
 - [Umarell](https://en.wikipedia.org/wiki/Umarell) - a term popular in Bologna referring specifically to men of retirement age who pass the time watching construction sites, especially roadworks – stereotypically with hands clasped behind their back and offering unwanted advice
 
 ### Wars
+- [Anglo-Zanzibar War](https://en.wikipedia.org/wiki/Anglo-Zanzibar_War) - a military conflict fought between the United Kingdom and the Zanzibar Sultanate on 27 August 1896. The conflict lasted between 38 and 45 minutes, marking it as the shortest recorded war in history.
+- [Emu War](https://en.wikipedia.org/wiki/Emu_War) - a nuisance wildlife management military operation undertaken in Australia over the later part of 1932 to address public concern over the number of emus said to be running amok in the Campion district of Western Australia. The unsuccessful attempts to curb the population of emus, a large flightless bird indigenous to Australia, employed soldiers armed with Lewis guns—leading the media to adopt the name "Emu War" when referring to the incident.
 - [Kettle War](https://en.wikipedia.org/wiki/Kettle_War) - The Kettle War was a military confrontation between the troops of the Holy Roman Empire and the Republic of the Seven Netherlands on 8 October 1784. It was named the Kettle War because the only shot fired hit a soup kettle.
 
 ## Internet
@@ -288,6 +293,7 @@
 - [Donald Duck talk](https://en.wikipedia.org/wiki/Donald_Duck_talk) - an alaryngeal form of vocalization which uses the inner cheek to produce sound rather than the larynx.
 - [Dord](https://en.wikipedia.org/wiki/Dord) - a dictionary error in lexicography. On July 31, 1931, Austin M. Patterson, the dictionary's chemistry editor, sent in a slip reading "D or d, cont./density." This was intended to add "density" to the existing list of words that the letter "D" can abbreviate. The phrase "D or d" was misinterpreted as a single, run-together word: Dord.
 - [Ghoti](https://en.wikipedia.org/wiki/Ghoti) - a creative respelling of the word fish, used to illustrate irregularities in English spelling and pronunciation.
+- [Going postal](https://en.wikipedia.org/wiki/Going_postal) - Going postal is an American English slang phrase referring to becoming extremely and uncontrollably angry, often to the point of violence, and usually in a workplace environment. The expression derives from a series of incidents from 1986 onward in which United States Postal Service (USPS) workers shot and killed managers, fellow workers, and members of the police or general public in acts of mass murder.
 - [Satiric misspelling](https://en.wikipedia.org/wiki/Satiric_misspelling) - an intentional misspelling of a word, phrase or name for a rhetorical purpose. This is often done by replacing a letter with another letter (for example, k replacing c), or symbol (for example, $ replacing s, @ replacing a, or ¢ replacing c).
 
 ### Words
@@ -391,6 +397,7 @@
 - [Penrose graphical notation](https://en.wikipedia.org/wiki/Penrose_graphical_notation) - a (usually handwritten) visual depiction of multilinear functions or tensors proposed by Roger Penrose in 1971.
 - [Ramsey Theory](https://en.wikipedia.org/wiki/Ramsey_theory) - named after the British mathematician and philosopher Frank P. Ramsey, is a branch of mathematics that studies the conditions under which order must appear. Problems in Ramsey theory typically ask a question of the form: "how many elements of some structure must there be to guarantee that a particular property will hold?" More specifically, Ron Graham describes Ramsey theory as a "branch of combinatorics".
 - [Recreational mathematics (Category)](https://en.wikipedia.org/wiki/Category:Recreational_mathematics) - Recreational mathematics is mathematics carried out for recreation (entertainment) rather than as a strictly research and application-based professional activity.
+- [Topological game](https://en.wikipedia.org/wiki/Topological_game) - an infinite game of perfect information played between two players on a topological space. Players choose objects with topological properties such as points, open sets, closed sets and open coverings. The conditions for a player to win can involve notions like topological closure and convergence.
 - [Zero-sum game](https://en.wikipedia.org/wiki/Zero-sum_game) - a mathematical representation of a situation in which each participant's gain or loss of utility is exactly balanced by the losses or gains of the utility of the other participants.
 
 ### Numbers
@@ -424,10 +431,10 @@
 - [Dooring](https://en.wikipedia.org/wiki/Dooring) - a traffic collision in which a cyclist rides into a car door or is struck by a car door that was opened quickly without checking first for cyclists by using the side mirror and/or performing a proper shoulder check out and back.
 - [Foreign accent syndrome](https://en.wikipedia.org/wiki/Foreign_accent_syndrome) - a medical condition in which patients develop speech patterns that are perceived as a foreign accent that is different from their native accent, without having acquired it in the perceived accent's place of origin.
 - [Friedman Unit](https://en.wikipedia.org/wiki/Friedman_Unit) - One Friedman Unit is equal to six months, specifically the "next six months", a period repeatedly declared by New York Times columnist Thomas Friedman to be the most critical of the then-ongoing Iraq War even though such pronouncements extended back over two and a half years.
-- [Ivan Renko](https://en.wikipedia.org/wiki/Ivan_Renko) - Ivan Renko was a fictitious Yugoslav basketball player created by Bobby Knight when he was the head coach for the Indiana University Hoosiers.
 - [Long-time nuclear waste warning messages](https://en.wikipedia.org/wiki/Long-time_nuclear_waste_warning_messages) - intended to deter human intrusion at nuclear waste repositories in the far future, within or above the order of magnitude of 10,000 years.
 - [Luddite fallacy](https://en.wikipedia.org/wiki/Technological_unemployment#The_Luddite_fallacy) - used to express the view that those concerned about long term technological unemployment are committing a fallacy, as they fail to account for compensation effects.
 - [Numerology](https://en.wikipedia.org/wiki/Numerology) - any belief in the divine or mystical relationship between a number and one or more coinciding events.
+- [Open access](https://en.wikipedia.org/wiki/Open_access)
 - [Paul is dead](https://en.wikipedia.org/wiki/Paul_is_dead) - an urban legend and conspiracy theory alleging that Paul McCartney, of the English rock band the Beatles, died in November 1966 and was secretly replaced by a look-alike.
 - [Postdiction](https://en.wikipedia.org/wiki/Postdiction) -  In skepticism, it is considered an effect of hindsight bias that explains claimed predictions of significant events such as plane crashes and natural disasters.
 - [Russian political jokes](https://en.wikipedia.org/wiki/Russian_political_jokes) -  a part of Russian humour and can be grouped into the major time periods: Imperial Russia, Soviet Union and finally post-Soviet Russia.
@@ -470,6 +477,7 @@
 - [List of philosophies](https://en.wikipedia.org/wiki/List_of_philosophies
 - [List of phobias](https://en.wikipedia.org/wiki/List_of_phobias)
 - [List of prime numbers](https://en.wikipedia.org/wiki/List_of_prime_numbers)
+- [List of public signage typefaces](https://en.wikipedia.org/wiki/List_of_public_signage_typefaces)
 - [List of scholarly publishing stings](https://en.wikipedia.org/wiki/List_of_scholarly_publishing_stings)
 - [List of selfie-related injuries and deaths](https://en.wikipedia.org/wiki/List_of_selfie-related_injuries_and_deaths)
 - [List of sexually active popes](https://en.wikipedia.org/wiki/List_of_sexually_active_popes)
@@ -548,6 +556,7 @@
 - [Carcinisation](https://en.wikipedia.org/wiki/Carcinisation) - an example of convergent evolution in which a crustacean evolves into a crab-like form from a non-crab-like form.
 - [Chrismatic megafauna](https://en.wikipedia.org/wiki/Charismatic_megafauna) - large animal species with symbolic value or widespread popular appeal, and are often used by environmental activists to achieve environmentalist goals.
 - [Exploding Animals](https://en.wikipedia.org/wiki/Category:Exploding_animals)
+- [Larry](https://en.wikipedia.org/wiki/Larry_(cat)) - a cat who has served as Chief Mouser to the Cabinet Office at 10 Downing Street since 2011.
 - [Mike the Headless Chicken](https://en.wikipedia.org/wiki/Mike_the_Headless_Chicken) - a Wyandotte chicken that lived for 18 months after his head had been cut off.
 - [Nim Chimpsky](https://en.wikipedia.org/wiki/Nim_Chimpsky) - a chimp who was taught sign language, and his longest quote was "Give orange me give eat orange me eat orange give me eat orange give me you"
 - [Potoooooooo](https://en.wikipedia.org/wiki/Potoooooooo) - an 18th-century Thoroughbred racehorse who won over 30 races and defeated some of the greatest racehorses of the time. He went on to be a sire. He is now best known for the unusual spelling of his name, pronounced Potatoes.
@@ -598,6 +607,7 @@
 - [Ampelmaennchen](https://en.wikipedia.org/wiki/Ampelm%C3%A4nnchen) - is the symbol shown on pedestrian signals in Germany.
 - [Archimedes' Screw](https://en.wikipedia.org/wiki/Archimedes'_screw) -  is a machine used for transferring water from a low-lying body of water into irrigation ditches.
 - [Bread dildo](https://en.wikipedia.org/wiki/Bread_dildo) - a dildo prepared using bread, allegedly made in the Greco-Roman era around 2,000 years ago.
+- [Camouflage passport](https://en.wikipedia.org/wiki/Camouflage_passport) - a document, designed to look like a real passport, issued in the name of a non-existent country or entity.
 - [Christmas Bullet](https://en.wikipedia.org/wiki/Christmas_Bullet) - an American single-seat cantilever wing biplane. It is considered by many to be among the worst aircraft ever constructed.
 - [Clock of the Long Now](https://en.wikipedia.org/wiki/Clock_of_the_Long_Now) - a mechanical clock under construction, that is designed to keep time for 10,000 years.
 - [Cold War playground equipment](https://en.wikipedia.org/wiki/Cold_War_playground_equipment) - was intended to foster children's curiosity and excitement about the Space Race. It was installed during the Cold War in both communist and capitalist countries.
@@ -632,6 +642,8 @@
 - [Butter mountain](https://en.wikipedia.org/wiki/Butter_mountain) - a supply surplus of butter produced in the European Economic Community because of government interventionism that began in the 1970s
 - [Democracy sausage](https://en.wikipedia.org/wiki/Democracy_sausage) - the colloquial name for a sausage wrapped in a slice of bread, bought from a sausage sizzle operated as a fundraiser at Australian polling places on election day, often in aid of the institutions that house the polling place.
 - [Government cheese](https://en.wikipedia.org/wiki/Government_cheese) - processed cheese provided to welfare beneficiaries, Food Stamp recipients, and the elderly receiving Social Security in the United States, as well as to food banks.
+- [Hershey's Kiss plume](https://en.wikipedia.org/wiki/Hershey's_Kisses#Paper_plume)
+- [Milk toast](https://en.wikipedia.org/wiki/Milk_toast) - a breakfast dish consisting of toasted bread in warm milk, typically with sugar and butter.
 - [Popcorn](https://en.wikipedia.org/wiki/Popcorn) - a variety of corn kernel which expands and puffs up when heated
 - [Soldiers (food)](https://en.wikipedia.org/wiki/Soldiers_(food)) - a thin strip of toast; the strips that a slice is cut into are reminiscent of soldiers on parade.
 - [Solo garlic](https://en.wikipedia.org/wiki/Solo_garlic) - Solo garlic is a type of garlic where the bulb is 1 giant clove.
