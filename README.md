@@ -43,15 +43,22 @@
 - [Year 2000 Problem](https://en.wikipedia.org/wiki/Year_2000_problem) - A class of computer bugs related to the formatting and storage of calendar data for dates beginning in the year 2000.
 
 ### Cryptography
-- [Cryptographic attacks](https://en.wikipedia.org/wiki/Category:Cryptographic_attacks) - a method for circumventing the security of a cryptographic system by finding a weakness in a code, cipher, cryptographic protocol or key management scheme. This process is also called "cryptanalysis".
+- [Beale ciphers](https://en.wikipedia.org/wiki/Beale_ciphers) - a set of three ciphertexts, one of which allegedly states the location of a buried treasure of gold, silver and jewels estimated to be worth over US$43 million as of January 2018.
+- [Blowfish (cipher)](https://en.wikipedia.org/wiki/Blowfish_(cipher)) - a symmetric-key block cipher, designed in 1993 by Bruce Schneier and included in many cipher suites and encryption products.
+- [ChaCha](https://en.wikipedia.org/wiki/Salsa20#ChaCha_variant) - aim to increase the diffusion per round while achieving the same or slightly better performance.
 - [Commitment scheme](https://en.wikipedia.org/wiki/Commitment_scheme) - a cryptographic primitive that allows one to commit to a chosen value (or chosen statement) while keeping it hidden to others, with the ability to reveal the committed value later. Commitment schemes are designed so that a party cannot change the value or statement after they have committed to it: that is, commitment schemes are binding.
 - [Coppersmith's attack](https://en.wikipedia.org/wiki/Coppersmith%27s_attack) - a class of cryptographic attacks on the public-key cryptosystem RSA based on the Coppersmith method.
 - [Coppersmith method](https://en.wikipedia.org/wiki/Coppersmith_method) - a method to find small integer zeroes of univariate or bivariate polynomials modulo a given integer.
+- [Cryptographic attacks](https://en.wikipedia.org/wiki/Category:Cryptographic_attacks) - a method for circumventing the security of a cryptographic system by finding a weakness in a code, cipher, cryptographic protocol or key management scheme. This process is also called "cryptanalysis".
 - [Differential Cryptanalysis](https://en.wikipedia.org/wiki/Differential_cryptanalysis) - Differential cryptanalysis is a general form of cryptanalysis applicable primarily to block ciphers, but also to stream ciphers and cryptographic hash functions.
 - [Diffie-Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange) - a method of securely exchanging cryptographic keys over a public channel.
+- [ElGamal encryption](https://en.wikipedia.org/wiki/ElGamal_encryption) - an asymmetric key encryption algorithm for public-key cryptography which is based on the Diffie–Hellman key exchange.
 - [Entropy (information theory)](https://en.wikipedia.org/wiki/Entropy_(information_theory)) - is the average rate at which information is produced by a stochastic source of data.
+- [Feistel cipher](https://en.wikipedia.org/wiki/Feistel_cipher) - a symmetric structure used in the construction of block ciphers
 - [Identicon](https://en.wikipedia.org/wiki/Identicon) - An Identicon is a visual representation of a hash value, usually of an IP address, that serves to identify a user of a computer system as a form of avatar while protecting the users' privacy.
 - [Key Schedule](https://en.wikipedia.org/wiki/Key_schedule) - In cryptography, the so-called product ciphers are a certain kind of cipher, where the (de-)ciphering of data is typically done as an iteration of rounds.
+- [Key signing party](https://en.wikipedia.org/wiki/Key_signing_party) - an event at which people present their public keys to others in person, who, if they are confident the key actually belongs to the person who claims it, digitally sign the certificate containing that public key and the person's name, etc.
+- [Lamport signature](https://en.wikipedia.org/wiki/Lamport_signature) - a method for constructing a digital signature. Lamport signatures can be built from any cryptographically secure one-way function; usually a cryptographic hash function is used.
 - [Linux Unified Key Setup](https://en.wikipedia.org/wiki/Linux_Unified_Key_Setup) - disk encryption specification created by Clemens Fruhwirth in 2004 and was originally intended for Linux.
 - [Merkle Tree](https://en.wikipedia.org/wiki/Merkle_tree) - a hash tree or Merkle tree is a tree in which every leaf node is labelled with the hash of a data block, and every non-leaf node is labelled with the cryptographic hash of the labels of its child nodes.
 - [Nihilist cipher](https://en.wikipedia.org/wiki/Nihilist_cipher) - manually operated symmetric encryption cipher, originally used by Russian Nihilists in the 1880s to organize terrorism against the tsarist regime.
@@ -59,6 +66,7 @@
 - [Rail fence cipher](https://en.wikipedia.org/wiki/Rail_fence_cipher) - a form of transposition cipher. It derives its name from the way in which it is encoded.
 - [Related-key Attack](https://en.wikipedia.org/wiki/Related-key_attack) - In cryptography, a related-key attack is any form of cryptanalysis where the attacker can observe the operation of a cipher under several different keys whose values are initially unknown, but where some mathematical relationship connecting the keys is known to the attacker.
 - [Slide Attack](https://en.wikipedia.org/wiki/Slide_attack) - The slide attack is a form of cryptanalysis designed to deal with the prevailing idea that even weak ciphers can become very strong by increasing the number of rounds, which can ward off a differential attack.
+- [Twofish](https://en.wikipedia.org/wiki/Twofish) - a symmetric key block cipher with a block size of 128 bits and key sizes up to 256 bits.
 
 ### Data Structures
 - [Rope](https://en.wikipedia.org/wiki/Rope_%28data_structure%29) - a data structure composed of smaller strings that is used to efficiently store and manipulate a very long string. For example, a text editing program may use a rope to represent the text being edited, so that operations such as insertion, deletion, and random access can be done efficiently.
@@ -68,10 +76,12 @@
 
 ### Files
 - [Run commands](https://en.wikipedia.org/wiki/Run_commands) - In the context of Unix-like systems, the term rc stands for the phrase "run commands". It is used for any file that contains startup information for a command.
+- [Request for Comments (RFC)](https://en.wikipedia.org/wiki/Request_for_Comments) - in information and communications technology, is a type of text document from the technology community. An RFC document may come from many bodies including from the Internet Engineering Task Force (IETF), the Internet Research Task Force (IRTF), the Internet Architecture Board (IAB), or from independent authors.
 
 ### Graphics
 - [Box-drawing character](https://en.wikipedia.org/wiki/Box-drawing_character) - a form of semigraphics widely used in text user interfaces to draw various geometric frames and boxes. Box-drawing characters typically only work well with monospaced fonts.
 - [Greeble](https://en.wikipedia.org/wiki/Greeble) - or nurnie is a fine detailing added to the surface of a larger object that makes it appear more complex, and therefore more visually interesting.
+- [Marching squares](https://en.wikipedia.org/wiki/Marching_squares) -  a computer graphics algorithm that generates contours for a two-dimensional scalar field (rectangular array of individual numerical values).
 - [Stanford Bunny](https://en.wikipedia.org/wiki/Stanford_bunny) - Standard for scanning 3d objects
 - [Utah Teapot](https://en.wikipedia.org/wiki/Utah_teapot) - Standard 3D test model
 - [Z-Fighting](https://en.wikipedia.org/wiki/Z-fighting) - When 2 planes are in the same position and 'mesh' together.
@@ -82,6 +92,7 @@
 ### Logic
 - [Angelic non-determinism](https://en.wikipedia.org/wiki/Angelic_non-determinism) - the execution of a non-deterministic program where all choices that are made favor termination of the program.
 - [Billiard-ball computer](https://en.wikipedia.org/wiki/Billiard-ball_computer) - an idealized model of a reversible mechanical computer based on Newtonian dynamics.
+- [Currying](https://en.wikipedia.org/wiki/Currying) - the technique of translating the evaluation of a function that takes multiple arguments into evaluating a sequence of functions, each with a single argument.
 - [Demonic non-determinism](https://en.wikipedia.org/wiki/Demonic_non-determinism) - describes the execution of a non-deterministic program where all choices that are made favour non-termination.
 
 ### Machines
@@ -95,7 +106,7 @@
 - [Network Telescope](https://en.wikipedia.org/wiki/Network_telescope) - An Internet system that allows one to observe different large-scale events taking place on the Internet
 - [QUIC](https://en.wikipedia.org/wiki/QUIC) - an experimental general-purpose transport layer network protocol.
 - [SPDY](https://en.wikipedia.org/wiki/SPDY) -  deprecated open-specification networking protocol that was developed primarily at Google for transporting web content.
-- [Slow-scan television](https://en.wikipedia.org/wiki/Slow-scan_television) -  a picture transmission method used mainly by amateur radio operators, to transmit and receive static pictures via radio in monochrome or color. 
+- [Slow-scan television](https://en.wikipedia.org/wiki/Slow-scan_television) -  a picture transmission method used mainly by amateur radio operators, to transmit and receive static pictures via radio in monochrome or color.
 
 ### Operating Systems
 - [TempleOS](https://en.m.wikipedia.org/wiki/TempleOS) - Handwritten operating system written in Holy C.
@@ -107,6 +118,7 @@
 - [Convention over configuration](https://en.wikipedia.org/wiki/Convention_over_configuration) -  a software design paradigm used by software frameworks that attempts to decrease the number of decisions that a developer using the framework is required to make without necessarily losing flexibility.
 - [Creeping elegance](https://en.wikipedia.org/wiki/Creeping_elegance) - the tendency of programmers to disproportionately emphasize elegance in software at the expense of other requirements such as functionality, shipping schedule, and usability.
 - [Data Clump](https://en.wikipedia.org/wiki/Data_Clump_(Code_Smell)) - a name given to any group of variables which are passed around together (in a clump) throughout various parts of the program.
+- [Declarative programming](https://en.wikipedia.org/wiki/Declarative_programming) - a programming paradigm—a style of building the structure and elements of computer programs—that expresses the logic of a computation without describing its control flow.[
 - [Dependency hell](https://en.wikipedia.org/wiki/Dependency_hell) - a colloquial term for the frustration of some software users who have installed software packages which have dependencies on specific versions of other software packages.
 - [Design smell](https://en.wikipedia.org/wiki/Design_smell) - "structures in the design that indicate violation of fundamental design principles and negatively impact design quality".
 - [Dogfooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) - when an organization uses its own product.
@@ -205,6 +217,7 @@
 - [Asemic writing](https://en.wikipedia.org/wiki/Asemic_writing) - a wordless open semantic form of writing.
 - [Deseret Alphabet](https://en.wikipedia.org/wiki/Deseret_alphabet) - a phonemic English-language spelling reform developed between 1847 and 1854 by the board of regents of the University of Deseret under the leadership of Brigham Young, the second president of the Church of Jesus Christ of Latter-day Saints.
 - [Multiocular O](https://en.wikipedia.org/wiki/Multiocular_O) - ꙮ
+- [Up tack](https://en.wikipedia.org/wiki/Up_tack) - ⊥
 
 ### Poems
 - [l(a](https://en.wikipedia.org/wiki/L(a)) - a poem by E. E. Cummings. It is the first poem in his 1958 collection 95 Poems.
@@ -224,6 +237,7 @@
 ### Words
 - [-graphy](https://en.wikipedia.org/wiki/-graphy) - The English suffix -graphy means either "writing" or a "field of study"
 - [Apherisis](https://en.wikipedia.org/wiki/Apheresis_(linguistics)) - the loss of one or more sounds from the beginning of a word, especially the loss of an unstressed vowel, thus producing a new form called an aphetism.
+- [Aptronym](https://en.wikipedia.org/wiki/Aptronym) - a personal name aptly or peculiarly suited to its owner.
 - [Auto-antonym](https://en.wikipedia.org/wiki/Auto-antonym) - also called a contronym, contranym or Janus word, is a word with multiple meanings (senses) of which one is the reverse of another. For example, the word cleave can mean "to cut apart" or "to bind together".
 - [Autological Word](https://en.wikipedia.org/wiki/Autological_word) - a word that expresses a property that it also possesses
 - [Demonym](https://en.wikipedia.org/wiki/Demonym) - is a word that identifies residents or natives of a particular place and is derived from the name of the place.
@@ -248,6 +262,7 @@
 - [Placeholder name](https://en.wikipedia.org/wiki/Placeholder_name) -  words that can refer to objects or people whose names are temporarily forgotten, irrelevant, or unknown in the context in which they are being discussed.
 - [RAS Syndrome](https://en.wikipedia.org/wiki/RAS_syndrome) - is the use of one or more of the words that make up an acronym (or other initialism) in conjunction with the abbreviated form. This means, in effect, repeating one or more words from the acronym. Two common examples are "PIN number"/ "VIN number" (the "N" in PIN and VIN stands for "number") and "ATM machine" (the "M" in ATM stands for "machine").
 - [Sniglet](https://en.wikipedia.org/wiki/Sniglet) - an often humorous word made up to describe something for which no dictionary word exists.
+- [Tmesis](https://en.wikipedia.org/wiki/Tmesis) - is a linguistic phenomenon in which a word or phrase is separated into two parts, with other words between them.
 - [Weasel word](https://en.wikipedia.org/wiki/Weasel_word) - an informal term for words and phrases such as "researchers believe" and "most people think" which make arguments appear specific or meaningful, even though these terms are at best ambiguous and vague.
 - [Yak Shaving](https://en.wiktionary.org/wiki/yak_shaving) - Any apparently useless activity which, by allowing you to overcome intermediate difficulties, allows you to solve a larger problem.
 
@@ -300,6 +315,7 @@
 - [Abuse of notation](https://en.wikipedia.org/wiki/Abuse_of_notation) - occurs when an author uses a mathematical notation in a way that is not formally correct but that seems likely to simplify the exposition or suggest the correct intuition (while being unlikely to introduce errors or cause confusion).
 - [Coin problem](https://en.wikipedia.org/wiki/Coin_problem) -  a mathematical problem that asks for the largest monetary amount that cannot be obtained using only coins of specified denominations. For example, the largest amount that cannot be obtained using only coins of 3 and 5 units is 7 units.
 - [Currying](https://en.wikipedia.org/wiki/Currying) - the technique of translating the evaluation of a function that takes multiple arguments into evaluating a sequence of functions, each with a single argument. For example, a function that takes two arguments, one from X and one from Y, and produces outputs in Z, by currying is translated into a function that takes a single argument from X and produces as outputs functions from Y to Z.
+- [Duality](https://en.wikipedia.org/wiki/Duality_(mathematics)) - a duality translates concepts, theorems or mathematical structures into other concepts, theorems or structures, in a one-to-one fashion, often (but not always) by means of an involution operation: if the dual of A is B, then the dual of B is A.
 - [Elo rating system](https://en.wikipedia.org/wiki/Elo_rating_system) - a method for calculating the relative skill levels of players in zero-sum games such as chess.
 - [Freshman's Dream](https://en.wikipedia.org/wiki/Freshman's_dream) - the erroneous equation (x + y)^n = x^n + y^n, where n is a real number (usually a positive integer greater than 1).
 - [Goat problem](https://en.wikipedia.org/wiki/Goat_problem) - How big must r be chosen in the diagram, in order for the red area to equal one half of the area of the circle? Illustration: A goat/bull/horse is tethered at point Q. How long needs the line to be, to allow the animal to graze on exactly one half of the circle area?
@@ -466,6 +482,7 @@
 - [Adventure playground](https://en.wikipedia.org/wiki/Adventure_playground) - a specific type of playground for children. Adventure playgrounds can take many forms, ranging from "natural playgrounds" to "junk playgrounds", and are typically defined by an ethos of unrestricted play, the presence of playworkers (or "wardens"), and the absence of adult-manufactured or rigid play-structures.
 - [Ampelmaennchen](https://en.wikipedia.org/wiki/Ampelm%C3%A4nnchen) - is the symbol shown on pedestrian signals in Germany.
 - [Archimedes' Screw](https://en.wikipedia.org/wiki/Archimedes'_screw) -  is a machine used for transferring water from a low-lying body of water into irrigation ditches.
+- [Bread dildo](https://en.wikipedia.org/wiki/Bread_dildo) - a dildo prepared using bread, allegedly made in the Greco-Roman era around 2,000 years ago.
 - [Christmas Bullet](https://en.wikipedia.org/wiki/Christmas_Bullet) - an American single-seat cantilever wing biplane. It is considered by many to be among the worst aircraft ever constructed.
 - [Clock of the Long Now](https://en.wikipedia.org/wiki/Clock_of_the_Long_Now) - a mechanical clock under construction, that is designed to keep time for 10,000 years.
 - [Cold War playground equipment](https://en.wikipedia.org/wiki/Cold_War_playground_equipment) - was intended to foster children's curiosity and excitement about the Space Race. It was installed during the Cold War in both communist and capitalist countries.
