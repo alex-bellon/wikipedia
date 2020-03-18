@@ -100,6 +100,7 @@
 - [Turmite](https://en.wikipedia.org/wiki/Turmite) - a Turing machine which has an orientation as well as a current state and a "tape" that consists of an infinite two-dimensional grid of cells. The terms ant and vant are also used.
 
 ### Networking
+- [Broadcast Domain](https://en.wikipedia.org/wiki/Broadcast_domain) - a logical division of a computer network, in which all nodes can reach each other by broadcast at the data link layer.
 - [Hyper Text Coffee Pot Control Protocol](https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol) - a facetious communication protocol for controlling, monitoring, and diagnosing coffee pots.
 - [Internet mail protocols](https://en.wikipedia.org/wiki/Category:Internet_mail_protocols)
 - [List of TCP/UDP Ports](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
@@ -107,6 +108,7 @@
 - [QUIC](https://en.wikipedia.org/wiki/QUIC) - an experimental general-purpose transport layer network protocol.
 - [SPDY](https://en.wikipedia.org/wiki/SPDY) -  deprecated open-specification networking protocol that was developed primarily at Google for transporting web content.
 - [Slow-scan television](https://en.wikipedia.org/wiki/Slow-scan_television) -  a picture transmission method used mainly by amateur radio operators, to transmit and receive static pictures via radio in monochrome or color.
+- [Virtual LAN](https://en.wikipedia.org/wiki/Virtual_LAN) - any broadcast domain that is partitioned and isolated in a computer network at the data link layer (OSI layer 2).
 
 ### Operating Systems
 - [TempleOS](https://en.m.wikipedia.org/wiki/TempleOS) - Handwritten operating system written in Holy C.
