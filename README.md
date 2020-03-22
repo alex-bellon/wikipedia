@@ -130,6 +130,7 @@
 - [Feature creep](https://en.wikipedia.org/wiki/Feature_creep) - the excessive ongoing expansion or addition of new features in a product, especially in computer software, videogames and consumer and business electronics.
 - [God object](https://en.wikipedia.org/wiki/God_object) - an object that knows too much or does too much. The God object is an example of an anti-pattern.
 - [Greenspun's tenth rule](https://en.wikipedia.org/wiki/Greenspun%27s_tenth_rule) - Any sufficiently complicated C or Fortran program contains an ad-hoc, informally-specified, bug-ridden, slow implementation of half of Common Lisp.
+- [Heisenbug](https://en.wikipedia.org/wiki/Heisenbug) - a heisenbug is a software bug that seems to disappear or alter its behavior when one attempts to study it
 - [International Obfuscated C Code Contest](https://en.wikipedia.org/wiki/International_Obfuscated_C_Code_Contest) - a computer programming contest for the most creatively obfuscated C code.
 - [JAR hell](https://en.wikipedia.org/wiki/Java_Classloader#JAR_hell) - a term similar to DLL hell used to describe all the various ways in which the classloading process can end up not working.
 - [Just another Perl hacker](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) - a Perl program which prints "Just another Perl hacker," (the comma is canonical but is occasionally omitted). Short JAPH programs are often used as signatures in online forums, or as T-shirt designs.
@@ -186,6 +187,7 @@
 
 ### People
 - [Digby Tatham-Warter](https://en.wikipedia.org/wiki/Digby_Tatham-Warter) - Digby got to him and said "Don't worry about the bullets, I've got an umbrella". He then escorted the chaplain across the street under his umbrella. When he returned to the front line, one of his fellow officers said about his umbrella that "that thing won't do you any good", to which Digby replied "Oh my goodness Pat, but what if it rains?"
+- [Umarell](https://en.wikipedia.org/wiki/Umarell) - a term popular in Bologna referring specifically to men of retirement age who pass the time watching construction sites, especially roadworks – stereotypically with hands clasped behind their back and offering unwanted advice
 
 ### Wars
 - [Kettle War](https://en.wikipedia.org/wiki/Kettle_War) - The Kettle War was a military confrontation between the troops of the Holy Roman Empire and the Republic of the Seven Netherlands on 8 October 1784. It was named the Kettle War because the only shot fired hit a soup kettle.
