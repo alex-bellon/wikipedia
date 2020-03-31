@@ -116,6 +116,7 @@
 ### Programming
 - [Big ball of mud](https://en.wikipedia.org/wiki/Big_ball_of_mud) - a software system that lacks a perceivable architecture.
 - [Browser war](https://en.wikipedia.org/wiki/Browser_wars) - ompetition for dominance in the usage share of web browsers. The "First Browser War" during the late 1990s pitted Microsoft's Internet Explorer against Netscape's Navigator.
+- [Byzantine fault](https://en.wikipedia.org/wiki/Byzantine_fault) - a condition of a computer system, particularly distributed computing systems, where components may fail and there is imperfect information on whether a component has failed.
 - [Code smell](https://en.wikipedia.org/wiki/Code_smell) - any characteristic in the source code of a program that possibly indicates a deeper problem.
 - [Convention over configuration](https://en.wikipedia.org/wiki/Convention_over_configuration) -  a software design paradigm used by software frameworks that attempts to decrease the number of decisions that a developer using the framework is required to make without necessarily losing flexibility.
 - [Creeping elegance](https://en.wikipedia.org/wiki/Creeping_elegance) - the tendency of programmers to disproportionately emphasize elegance in software at the expense of other requirements such as functionality, shipping schedule, and usability.
@@ -506,5 +507,7 @@
 - [The Letters of Utrecht](https://en.wikipedia.org/wiki/The_Letters_of_Utrecht) - form an endless poem in the stones of a street in the center of the Dutch city of Utrecht.
 
 ### Food
+- [Butter mountain](https://en.wikipedia.org/wiki/Butter_mountain) - a supply surplus of butter produced in the European Economic Community because of government interventionism that began in the 1970s
+- [Government cheese](https://en.wikipedia.org/wiki/Government_cheese) - processed cheese provided to welfare beneficiaries, Food Stamp recipients, and the elderly receiving Social Security in the United States, as well as to food banks.
 - [Soldiers (food)](https://en.wikipedia.org/wiki/Soldiers_(food)) - a thin strip of toast; the strips that a slice is cut into are reminiscent of soldiers on parade.
 - [World's longest hot dog](https://en.wikipedia.org/wiki/World's_longest_hot_dog)
