@@ -175,6 +175,7 @@
 - [Flitch of bacon custom](https://en.wikipedia.org/wiki/Flitch_of_bacon_custom) - The awarding of a flitch of bacon to married couples who can swear to not having regretted their marriage for a year and a day is an old tradition, the remnants of which still survive in some pockets in England.
 - [Gay Nineties](https://en.wikipedia.org/wiki/Gay_Nineties) - an American nostalgic term and a periodization of the history of the United States referring to the decade of the 1890s.
 - [Immurement](https://en.wikipedia.org/wiki/Immurement) - is a form of imprisonment, usually until death, in which a person is placed within an enclosed space with no exits.
+- [Kakistocracy](https://en.wikipedia.org/wiki/Kakistocracy) - a system of government that is run by the worst, least qualified, and/or most unscrupulous citizens.
 - [Murder Hole](https://en.wikipedia.org/wiki/Murder_hole) - a hole in the ceiling of a gateway or passageway in a fortification through which the defenders could fire, throw or pour harmful substances or objects, such as rocks, arrows, scalding water, hot sand, quicklime, tar, or boiling oil, down on attackers.
 - [Naruto run](https://en.wikipedia.org/wiki/Naruto#Naruto_run) - a running style based on the way the characters run leaning forward with their arms behind their backs.
 - [Obsolete Occupations](https://en.wikipedia.org/wiki/Category:Obsolete_occupations)
@@ -458,6 +459,7 @@
 ### Animals
 - [52-hertz whale](https://en.wikipedia.org/wiki/52-hertz_whale) - an individual whale of unidentified species, which calls at the very unusual frequency of 52 Hz.
 - [Chrismatic megafauna](https://en.wikipedia.org/wiki/Charismatic_megafauna) - large animal species with symbolic value or widespread popular appeal, and are often used by environmental activists to achieve environmentalist goals.
+- [Exploding Animals](https://en.wikipedia.org/wiki/Category:Exploding_animals)
 - [Mike the Headless Chicken](https://en.wikipedia.org/wiki/Mike_the_Headless_Chicken) - a Wyandotte chicken that lived for 18 months after his head had been cut off.
 - [Potoooooooo](https://en.wikipedia.org/wiki/Potoooooooo) - an 18th-century Thoroughbred racehorse who won over 30 races and defeated some of the greatest racehorses of the time. He went on to be a sire. He is now best known for the unusual spelling of his name, pronounced Potatoes.
 - [Puppy cat](https://en.wikipedia.org/wiki/Puppy_cat) - a term used to refer to specific breeds of domestic cats that have unusual behavioral tendencies that are reminiscent of young domestic dogs.
