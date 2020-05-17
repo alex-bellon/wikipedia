@@ -19,6 +19,7 @@
 ### Visual Art
 - [Animal-made art](https://en.wikipedia.org/wiki/Animal-made_art) - art created by an animal. Animal-made works of art have been created by apes, elephants, cetacea, reptiles, and bowerbirds, among other species.
 - [Lost artworks](https://en.wikipedia.org/wiki/Lost_artworks) - original pieces of art that credible sources indicate once existed but that cannot be accounted for in museums or private collections or are known to have been destroyed deliberately or accidentally, or neglected through ignorance and lack of connoisseurship.
+- [Moon Museum](https://en.wikipedia.org/wiki/Moon_Museum) - a small ceramic wafer three-quarters by one-half inch (19 by 13 mm) in size, containing artworks by six prominent artists from the late 1960s. The artists with works in the "museum" are Robert Rauschenberg, David Novros, John Chamberlain, Claes Oldenburg, Forrest Myers and Andy Warhol.
 - [Outsider art](https://en.wikipedia.org/wiki/Outsider_art) - art by self-taught or naïve art makers.
 
 ## Computer Science
@@ -241,6 +242,7 @@
 - [Satiric misspelling](https://en.wikipedia.org/wiki/Satiric_misspelling) - an intentional misspelling of a word, phrase or name for a rhetorical purpose. This is often done by replacing a letter with another letter (for example, k replacing c), or symbol (for example, $ replacing s, @ replacing a, or ¢ replacing c).
 
 ### Words
+- [7 Dirty Words](https://en.wikipedia.org/wiki/Seven_dirty_words) - are seven English-language words that American comedian George Carlin first listed in 1972 in his monologue "Seven Words You Can Never Say on Television".
 - [-graphy](https://en.wikipedia.org/wiki/-graphy) - The English suffix -graphy means either "writing" or a "field of study"
 - [Apherisis](https://en.wikipedia.org/wiki/Apheresis_(linguistics)) - the loss of one or more sounds from the beginning of a word, especially the loss of an unstressed vowel, thus producing a new form called an aphetism.
 - [Aptronym](https://en.wikipedia.org/wiki/Aptronym) - a personal name aptly or peculiarly suited to its owner.
