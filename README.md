@@ -168,6 +168,8 @@
 - [Camden Bench](https://en.wikipedia.org/wiki/Camden_bench) - It is designed specifically to influence the behaviour of the public by restricting undesirable behaviour, a principle known as hostile architecture, and instead be usable only as a bench.
 - [Defensive Design](https://en.wikipedia.org/wiki/Defensive_design) -  the practice of planning for contingencies in the design stage of a project or undertaking.
 - [Hostile architecture](https://en.wikipedia.org/wiki/Hostile_architecture) - an urban design trend in which public spaces are constructed or altered to discourage people from using them in a way not intended by the owner.
+- [Typeface anatomy](https://en.wikipedia.org/wiki/Typeface_anatomy) - Typeface anatomy describes the graphic elements that make up Font in a typeface.
+- [Voc-ATypI Classification](https://en.wikipedia.org/wiki/Vox-ATypI_classification) - In typography, the Vox-ATypI classification makes it possible to classify typefaces into general classes.
 
 ## Economics
 - [Game theory](https://en.wikipedia.org/wiki/Game_theory) - the study of mathematical models of strategic interaction between rational decision-makers
@@ -177,7 +179,10 @@
 ## History & Anthropology
 - [Abuwtiyuw](https://en.wikipedia.org/wiki/Abuwtiyuw) - The Egyptian dog Abuwtiyuw was one of the earliest documented domestic animals whose name is known.
 - [Acoustic Kitty](https://en.wikipedia.org/wiki/Acoustic_Kitty) - Acoustic Kitty was a CIA project launched by the Central Intelligence Agency Directorate of Science & Technology, which in the 1960s intended to use cats to spy on the Kremlin and Soviet embassies.
+- [Baby Tooth Survey](https://en.wikipedia.org/wiki/Baby_Tooth_Survey) - The Baby Tooth Survey was initiated by the Greater St. Louis Citizens' Committee for Nuclear Information in conjunction with Saint Louis University and the Washington University School of Dental Medicine as a means of determining the effects of nuclear fallout in the human anatomy by examining the levels of radioactive material absorbed into the deciduous teeth of children.
 - [Cargo Cult](https://en.wikipedia.org/wiki/Cargo_cult) - A belief system among members of a relatively undeveloped society in which adherents practice superstitious rituals hoping to bring modern goods supplied by a more technologically advanced society.
+- [Capitol Hill Autonomous Zone](https://en.wikipedia.org/wiki/Capitol_Hill_Autonomous_Zone) - an occupation protest and self-declared autonomous zone in the Capitol Hill neighborhood of Seattle, Washington.
+- [Cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk) - any activist advocating widespread use of strong cryptography and privacy-enhancing technologies as a route to social and political change.
 - [Flitch of bacon custom](https://en.wikipedia.org/wiki/Flitch_of_bacon_custom) - The awarding of a flitch of bacon to married couples who can swear to not having regretted their marriage for a year and a day is an old tradition, the remnants of which still survive in some pockets in England.
 - [Gay Nineties](https://en.wikipedia.org/wiki/Gay_Nineties) - an American nostalgic term and a periodization of the history of the United States referring to the decade of the 1890s.
 - [Immurement](https://en.wikipedia.org/wiki/Immurement) - is a form of imprisonment, usually until death, in which a person is placed within an enclosed space with no exits.
@@ -186,9 +191,11 @@
 - [Naruto run](https://en.wikipedia.org/wiki/Naruto#Naruto_run) - a running style based on the way the characters run leaning forward with their arms behind their backs.
 - [Obsolete Occupations](https://en.wikipedia.org/wiki/Category:Obsolete_occupations)
 - [Pepsi Fruit Juice Flood](https://en.wikipedia.org/wiki/Pepsi_Fruit_Juice_Flood) - a flood of 176,000 barrels (28 million litres; 7.4 million US gallons) of fruit and vegetable juices into the streets of Lebedyan, Russia and the Don River, caused by the collapse of a PepsiCo warehouse.
+- [Pink Capitalism](https://en.wikipedia.org/wiki/Pink_capitalism) - the incorporation of the LGBT movement and sexual diversity to capitalism and the market economy, viewed especially in a critical lens as this incorporation pertains to the LGBT, Western, white, and affluent, upper middle class communities and market.
 - [Storm Area 51](https://en.wikipedia.org/wiki/Storm_Area_51) - an American Facebook event that took place on September 20, 2019, at Area 51, a United States Air Force (USAF) facility within the Nevada Test and Training Range, to raid the site in a search for extraterrestrial life.
 - [Sword of Damocles](https://en.wikipedia.org/wiki/Damocles) - King who hung a sword from a string above his head to represent the constant threat involved in ruling
 - [Toilet-related injuries and deaths](https://en.wikipedia.org/wiki/Toilet-related_injuries_and_deaths)
+- [Waffle House Index](https://en.wikipedia.org/wiki/Waffle_House_Index) - an informal metric named after the Waffle House restaurant chain and is used by the Federal Emergency Management Agency (FEMA) to determine the effect of a storm and the likely scale of assistance required for disaster recovery.
 
 ### Laws
 - [Statue forbidding Bearing of Armour](https://en.wikipedia.org/wiki/Statute_forbidding_Bearing_of_Armour) - was enacted in 1313 during the reign of Edward II of England. It decrees "that in all Parliaments, Treatises and other Assemblies, which should be made in the Realm of England for ever, that every Man shall come without all Force and Armour".
@@ -344,6 +351,7 @@
 
 ### Numbers
 - [0.999....](https://en.wikipedia.org/wiki/0.999...) - denotes the repeating decimal consisting of infinitely many 9s after the decimal point (and one 0 before it), equal to 1.
+- [57](https://en.wikipedia.org/wiki/57_(number)) - Although 57 is not prime, it is jokingly known as the "Grothendieck prime" after a story in which mathematician Alexander Grothendieck supposedly gave it as an example of a particular prime number.
 - [Golden ration](https://en.wikipedia.org/wiki/Golden_ratio) - two quantities are in the golden ratio if their ratio is the same as the ratio of their sum to the larger of the two quantities.
 - [Grandi's series](https://en.wikipedia.org/wiki/Grandi%27s_series) - the infinite series 1 − 1 + 1 − 1 + ⋯
 - [Happy number](https://en.wikipedia.org/wiki/Happy_number) - Starting with any positive integer, replace the number by the sum of the squares of its digits in base-ten, and repeat the process until the number either equals 1 (where it will stay), or it loops endlessly in a cycle that does not include 1. Those numbers for which this process ends in 1 are happy numbers, while those that do not end in 1 are unhappy numbers (or sad numbers).
@@ -351,10 +359,13 @@
 - [Interesting number paradox](https://en.wikipedia.org/wiki/Interesting_number_paradox) - a semi-humorous paradox which arises from the attempt to classify every natural number as either "interesting" or "uninteresting". The paradox states that every natural number is interesting. The "proof" is by contradiction: if there exists a non-empty set of uninteresting natural numbers, there would be a smallest uninteresting number – but the smallest uninteresting number is itself interesting because it is the smallest uninteresting number, thus producing a contradiction.
 - [Kaprekar number](https://en.wikipedia.org/wiki/Kaprekar_number) - In mathematics, a non-negative integer is called a "Kaprekar number" for a given base if the representation of its square in that base can be split into two parts that add up to the original number, with the proviso that the part formed from the low-order digits of the square must be non-zero—although it is allowed to include leading zeroes. For instance, 45 is a Kaprekar number, because 452 = 2025 and 20 + 25 = 45. The number 1 is Kaprekar in every base, because 12 = 01   in any base, and   0 + 1 = 1.
 - [McNugget numbers](https://en.wikipedia.org/wiki/Coin_problem#McNugget_numbers) - A McNugget number is the total number of McDonald's Chicken McNuggets in any number of boxes. In the United Kingdom, the original boxes (prior to the introduction of the Happy Meal-sized nugget boxes) were of 6, 9, and 20 nuggets.
+- [Mersenne prime](https://en.wikipedia.org/wiki/Mersenne_prime) - a prime number that is one less than a power of two.
 - [Names of large numbers](https://en.wikipedia.org/wiki/Names_of_large_numbers)
 - [Number theory](https://en.wikipedia.org/wiki/Number_theory) - a branch of pure mathematics devoted primarily to the study of the integers.
 - [Plastic number](https://en.wikipedia.org/wiki/Plastic_number) - is a mathematical constant which is the unique real solution of the cubic equation
 - [Polite number](https://en.wikipedia.org/wiki/Polite_number) - a positive integer that can be written as the sum of two or more consecutive positive integers.
+- [Repdigit](https://en.wikipedia.org/wiki/Repdigit) - a repdigit or sometimes monodigit is a natural number composed of repeated instances of the same digit in a positional number system (often implicitly decimal).
+- [Repunit](https://en.wikipedia.org/wiki/Repunit) - a number like 11, 111, or 1111 that contains only the digit 1 — a more specific type of repdigit.
 - [Roman Numerals](https://en.wikipedia.org/wiki/Roman_numerals) - The numeric system represented by Roman numerals originated in ancient Rome and remained the usual way of writing numbers throughout Europe well into the Late Middle Ages.
 - [Silver ratio](https://en.wikipedia.org/wiki/Silver_ratio) - two quantities are in the silver ratio (also silver mean or silver constant) if the ratio of the sum of the smaller and twice the larger of those quantities, to the larger quantity, is the same as the ratio of the larger one to the smaller one.
 
@@ -369,8 +380,10 @@
 - [Numerology](https://en.wikipedia.org/wiki/Numerology) - any belief in the divine or mystical relationship between a number and one or more coinciding events.
 - [Paul is dead](https://en.wikipedia.org/wiki/Paul_is_dead) - an urban legend and conspiracy theory alleging that Paul McCartney, of the English rock band the Beatles, died in November 1966 and was secretly replaced by a look-alike.
 - [Postdiction](https://en.wikipedia.org/wiki/Postdiction) -  In skepticism, it is considered an effect of hindsight bias that explains claimed predictions of significant events such as plane crashes and natural disasters.
+- [San Seriffe](https://en.wikipedia.org/wiki/San_Serriffe) - a fictional island nation created for April Fools' Day 1977, by Britain's Guardian newspaper.
 - [Schroedinger's cat in popular culture](https://en.wikipedia.org/wiki/Schr%C3%B6dinger's_cat_in_popular_culture)
 - [Therblig](https://en.wikipedia.org/wiki/Therblig) - are 18 kinds of elemental motions used in the study of motion economy in the workplace. A workplace task is analyzed by recording each of the therblig units for a process, with the results used for optimization of manual labour by eliminating unneeded movements.
+- [Verdana-gate](https://en.wikipedia.org/wiki/Verdana#Usage) - The "scandal" that ensued when IKEA changed their main typeface from Futura to Verdana.
 
 ### Galleries, Glossaries and Lists
 - [Glossary of manias](https://en.wikipedia.org/wiki/Glossary_of_manias)
@@ -439,6 +452,7 @@
 - [Scully Effect](https://en.wikipedia.org/wiki/Dana_Scully#%22The_Scully_Effect%22) - The character is believed to have initiated a phenomenon referred to as "The Scully Effect"; as the medical doctor and the FBI Special Agent inspired many young women to pursue careers in science, medicine and law enforcement, and as a result brought a perceptible increase in the number of women in those fields.
 - [The Wrong Type of Snow](https://en.wikipedia.org/wiki/The_wrong_type_of_snow) - A British Rail press release implied that management and its engineering staff were unaware of different types of snow. Henceforth in the United Kingdom, the phrase became a byword for euphemistic and pointless excuses.
 - [Twinkie Defense](https://en.wikipedia.org/wiki/Twinkie_defense) - "Twinkie defense" is a derisive label for an improbable legal defense.
+- [XY problem](https://en.wikipedia.org/wiki/XY_problem) - a communication problem encountered in help desk and similar situations in which the real issue, X, of the person asking for help is obscured, because instead of asking directly about issue X, they ask how to solve a secondary issue, Y, which they believe will allow them to resolve issue X.
 
 ## Philosophy
 - [Absurdism](https://en.wikipedia.org/wiki/Absurdism) - In philosophy, "the Absurd" refers to the conflict between the human tendency to seek inherent value and meaning in life and the human inability to find any in a purposeless, meaningless or chaotic and irrational universe.
@@ -492,6 +506,7 @@
 - [Selection Bias](https://en.wikipedia.org/wiki/Selection_bias) - the bias introduced by the selection of individuals, groups or data for analysis in such a way that proper randomization is not achieved, thereby ensuring that the sample obtained is not representative of the population intended to be analyzed.
 - [Semantic satiation](https://en.wikipedia.org/wiki/Semantic_satiation) - a psychological phenomenon in which repetition causes a word or phrase to temporarily lose meaning for the listener, who then perceives the speech as repeated meaningless sounds.
 - [Sensory-specific Satiety](https://en.wikipedia.org/wiki/Sensory-specific_satiety) - a sensory hedonic phenomenon that refers to the declining satisfaction generated by the consumption of a certain type of food, and the consequent renewal in appetite resulting from the exposure to a new flavor or food.
+- [Somatoparaphrenia](https://en.wikipedia.org/wiki/Somatoparaphrenia) - a type of monothematic delusion where one denies ownership of a limb or an entire side of one's body.
 
 ## Things
 - [Adventure playground](https://en.wikipedia.org/wiki/Adventure_playground) - a specific type of playground for children. Adventure playgrounds can take many forms, ranging from "natural playgrounds" to "junk playgrounds", and are typically defined by an ethos of unrestricted play, the presence of playworkers (or "wardens"), and the absence of adult-manufactured or rigid play-structures.
@@ -510,6 +525,7 @@
 - [Ersatz Good](https://en.wikipedia.org/wiki/Ersatz_good) - Substitute good, normally inferior.
 - [Fata Morgana](https://en.wikipedia.org/wiki/Fata_Morgana_(mirage)) - a complex form of superior mirage that is seen in a narrow band right above the horizon.
 - [Garden hermit](https://en.wikipedia.org/wiki/Garden_hermit) - hermits encouraged to live in purpose-built hermitages, follies, grottoes, or rockeries on the estates of wealthy land-owners, primarily during the 18th century. Such hermits would be encouraged to dress like druids and remain permanently on-site, where they could be fed, cared-for and consulted for advice or viewed for entertainment.
+- [Gender of connectors and fasteners](https://en.wikipedia.org/wiki/Gender_of_connectors_and_fasteners) - In electrical and mechanical trades and manufacturing, each half of a pair of mating connectors or fasteners is conventionally assigned the designation male or female.
 - [Immovable ladder](https://en.wikipedia.org/wiki/Status_Quo_(Jerusalem_and_Bethlehem)#Immovable_ladder) - Some consider the so-called immovable ladder- [c] under the window of the Church of the Holy Sepulchre to be a visible symbol of the alleged inactivity the Status Quo imposes.
 - [Lost work](https://en.wikipedia.org/wiki/Lost_work) - a document, literary work, or piece of multimedia produced some time in the past, of which no surviving copies are known to exist.
 - [Matrix digital rain](https://en.wikipedia.org/wiki/Matrix_digital_rain) - the computer code featured in the Matrix series. The falling green code is a way of representing the activity of the virtual reality environment of the Matrix on screen.
@@ -520,4 +536,5 @@
 - [Butter mountain](https://en.wikipedia.org/wiki/Butter_mountain) - a supply surplus of butter produced in the European Economic Community because of government interventionism that began in the 1970s
 - [Government cheese](https://en.wikipedia.org/wiki/Government_cheese) - processed cheese provided to welfare beneficiaries, Food Stamp recipients, and the elderly receiving Social Security in the United States, as well as to food banks.
 - [Soldiers (food)](https://en.wikipedia.org/wiki/Soldiers_(food)) - a thin strip of toast; the strips that a slice is cut into are reminiscent of soldiers on parade.
+- [Solo garlic](https://en.wikipedia.org/wiki/Solo_garlic) - Solo garlic is a type of garlic where the bulb is 1 giant clove.
 - [World's longest hot dog](https://en.wikipedia.org/wiki/World's_longest_hot_dog)
