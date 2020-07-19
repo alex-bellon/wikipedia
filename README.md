@@ -30,6 +30,7 @@
 - [Fork bomb](https://en.wikipedia.org/wiki/Fork_bomb) - a denial-of-service attack wherein a process continually replicates itself to deplete available system resources, slowing down or crashing the system due to resource starvation.
 - [Google hacking](https://en.wikipedia.org/wiki/Google_hacking) - a computer hacking technique that uses Google Search and other Google applications to find security holes in the configuration and computer code that websites use.
 - [Pass the hash](https://en.wikipedia.org/wiki/Pass_the_hash) - a hacking technique that allows an attacker to authenticate to a remote server or service by using the underlying NTLM or LanMan hash of a user's password, instead of requiring the associated plaintext password as is normally the case.
+- [ReDoS](https://en.wikipedia.org/wiki/ReDoS) - an algorithmic complexity attack that produces a denial-of-service by providing a regular expression that takes a very long time to evaluate. The attack exploits the fact that most regular expression implementations have exponential time worst case complexity: the time taken can grow exponentially in relation to input size.
 - [R-U-Dead-Yet Attack](https://en.wikipedia.org/wiki/R-U-Dead-Yet) - Low and slow DoS attack
 - [Side-channel attack](https://en.wikipedia.org/wiki/Side-channel_attack) - any attack based on information gained from the implementation of a computer system, rather than weaknesses in the implemented algorithm itself (e.g. cryptanalysis and software bugs).
 - [Slowloris](https://en.wikipedia.org/wiki/Slowloris_%28computer_security%29) - Another slow DoS attack
@@ -189,6 +190,7 @@
 - [Kakistocracy](https://en.wikipedia.org/wiki/Kakistocracy) - a system of government that is run by the worst, least qualified, and/or most unscrupulous citizens.
 - [Murder Hole](https://en.wikipedia.org/wiki/Murder_hole) - a hole in the ceiling of a gateway or passageway in a fortification through which the defenders could fire, throw or pour harmful substances or objects, such as rocks, arrows, scalding water, hot sand, quicklime, tar, or boiling oil, down on attackers.
 - [Naruto run](https://en.wikipedia.org/wiki/Naruto#Naruto_run) - a running style based on the way the characters run leaning forward with their arms behind their backs.
+- [Nils Olav](https://en.wikipedia.org/wiki/Nils_Olav) - a king penguin who resides in Edinburgh Zoo, Scotland. He is the mascot and colonel-in-chief of the Norwegian King's Guard.
 - [Obsolete Occupations](https://en.wikipedia.org/wiki/Category:Obsolete_occupations)
 - [Pepsi Fruit Juice Flood](https://en.wikipedia.org/wiki/Pepsi_Fruit_Juice_Flood) - a flood of 176,000 barrels (28 million litres; 7.4 million US gallons) of fruit and vegetable juices into the streets of Lebedyan, Russia and the Don River, caused by the collapse of a PepsiCo warehouse.
 - [Pink Capitalism](https://en.wikipedia.org/wiki/Pink_capitalism) - the incorporation of the LGBT movement and sexual diversity to capitalism and the market economy, viewed especially in a critical lens as this incorporation pertains to the LGBT, Western, white, and affluent, upper middle class communities and market.
@@ -198,6 +200,8 @@
 - [Waffle House Index](https://en.wikipedia.org/wiki/Waffle_House_Index) - an informal metric named after the Waffle House restaurant chain and is used by the Federal Emergency Management Agency (FEMA) to determine the effect of a storm and the likely scale of assistance required for disaster recovery.
 
 ### Laws
+- [Crumbling skull rule](https://en.wikipedia.org/wiki/Crumbling_skull_rule) - a well-established legal doctrine used in some tort law systems. It holds that where a plaintiff had a condition or injury that predates the tort and would have naturally deteriorated or worsened over time (e.g. a crumbling skull), the defendant is not responsible to the degree that the condition or injury would have naturally worsened over time.
+- [Eggshell skull](https://en.wikipedia.org/wiki/Eggshell_skull) - a well-established legal doctrine in common law, used in some tort law systems, with a similar doctrine applicable to criminal law. The rule states that, in a tort case, the unexpected frailty of the injured person is not a valid defense to the seriousness of any injury caused to them.
 - [Statue forbidding Bearing of Armour](https://en.wikipedia.org/wiki/Statute_forbidding_Bearing_of_Armour) - was enacted in 1313 during the reign of Edward II of England. It decrees "that in all Parliaments, Treatises and other Assemblies, which should be made in the Realm of England for ever, that every Man shall come without all Force and Armour".
 
 ### People
@@ -250,6 +254,7 @@
 - [Alternatives to the Ten Commandments](https://en.wikipedia.org/wiki/Alternatives_to_the_Ten_Commandments) - Several alternatives to the Ten Commandments have been promulgated by different persons and groups, which intended to improve on the lists of laws known as the Ten Commandments that appear in the Bible.
 - [Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo](https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo) - is a grammatically correct sentence in American English, often presented as an example of how homonyms and homophones can be used to create complicated linguistic constructs through lexical ambiguity.
 - [Colorless green ideas sleep furiously](https://en.wikipedia.org/wiki/Colorless_green_ideas_sleep_furiously) - a sentence composed by Noam Chomsky in his 1957 book Syntactic Structures as an example of a sentence that is grammatically correct, but semantically nonsensical.
+- [Donald Duck talk](https://en.wikipedia.org/wiki/Donald_Duck_talk) - an alaryngeal form of vocalization which uses the inner cheek to produce sound rather than the larynx.
 - [Dord](https://en.wikipedia.org/wiki/Dord) - a dictionary error in lexicography. On July 31, 1931, Austin M. Patterson, the dictionary's chemistry editor, sent in a slip reading "D or d, cont./density." This was intended to add "density" to the existing list of words that the letter "D" can abbreviate. The phrase "D or d" was misinterpreted as a single, run-together word: Dord.
 - [Ghoti](https://en.wikipedia.org/wiki/Ghoti) - a creative respelling of the word fish, used to illustrate irregularities in English spelling and pronunciation.
 - [Satiric misspelling](https://en.wikipedia.org/wiki/Satiric_misspelling) - an intentional misspelling of a word, phrase or name for a rhetorical purpose. This is often done by replacing a letter with another letter (for example, k replacing c), or symbol (for example, $ replacing s, @ replacing a, or ¢ replacing c).
@@ -353,6 +358,7 @@
 ### Numbers
 - [0.999....](https://en.wikipedia.org/wiki/0.999...) - denotes the repeating decimal consisting of infinitely many 9s after the decimal point (and one 0 before it), equal to 1.
 - [57](https://en.wikipedia.org/wiki/57_(number)) - Although 57 is not prime, it is jokingly known as the "Grothendieck prime" after a story in which mathematician Alexander Grothendieck supposedly gave it as an example of a particular prime number.
+- [Champernowne constant](https://en.wikipedia.org/wiki/Champernowne_constant) - C_10 = 0.12345678910111213141516…
 - [Golden ration](https://en.wikipedia.org/wiki/Golden_ratio) - two quantities are in the golden ratio if their ratio is the same as the ratio of their sum to the larger of the two quantities.
 - [Grandi's series](https://en.wikipedia.org/wiki/Grandi%27s_series) - the infinite series 1 − 1 + 1 − 1 + ⋯
 - [Happy number](https://en.wikipedia.org/wiki/Happy_number) - Starting with any positive integer, replace the number by the sum of the squares of its digits in base-ten, and repeat the process until the number either equals 1 (where it will stay), or it loops endlessly in a cycle that does not include 1. Those numbers for which this process ends in 1 are happy numbers, while those that do not end in 1 are unhappy numbers (or sad numbers).
@@ -362,6 +368,7 @@
 - [McNugget numbers](https://en.wikipedia.org/wiki/Coin_problem#McNugget_numbers) - A McNugget number is the total number of McDonald's Chicken McNuggets in any number of boxes. In the United Kingdom, the original boxes (prior to the introduction of the Happy Meal-sized nugget boxes) were of 6, 9, and 20 nuggets.
 - [Mersenne prime](https://en.wikipedia.org/wiki/Mersenne_prime) - a prime number that is one less than a power of two.
 - [Names of large numbers](https://en.wikipedia.org/wiki/Names_of_large_numbers)
+- [Normal number](https://en.wikipedia.org/wiki/Normal_number) -  a real number is said to be simply normal in an integer base b if its infinite sequence of digits is distributed uniformly in the sense that each of the b digit values has the same natural density 1/b. A number is said to be normal in base b if, for every positive integer n, all possible strings n digits long have density b^−n.
 - [Number theory](https://en.wikipedia.org/wiki/Number_theory) - a branch of pure mathematics devoted primarily to the study of the integers.
 - [Plastic number](https://en.wikipedia.org/wiki/Plastic_number) - is a mathematical constant which is the unique real solution of the cubic equation
 - [Polite number](https://en.wikipedia.org/wiki/Polite_number) - a positive integer that can be written as the sum of two or more consecutive positive integers.
@@ -495,6 +502,7 @@
 ### Cartography, Geography
 - [Satellite map images with missing or unclear data](https://en.wikipedia.org/wiki/Satellite_map_images_with_missing_or_unclear_data)
 - [Trap street](https://en.wikipedia.org/wiki/Trap_street) -  a fictitious entry in the form of a misrepresented street on a map, often outside the area the map nominally covers, for the purpose of "trapping" potential copyright violators of the map who, if caught, would be unable to explain the inclusion of the "trap street" on their map as innocent.
+- [Use of Nordic countries vs. Scandinavia](https://en.wikipedia.org/wiki/Scandinavia#Use_of_Nordic_countries_vs._Scandinavia)
 
 ### Fluid Dynamics
 - [Vortex Shedding](https://en.wikipedia.org/wiki/Vortex_shedding) - In fluid dynamics, vortex shedding is an oscillating flow that takes place when a fluid such as air or water flows past a bluff (as opposed to streamlined) body at certain velocities, depending on the size and shape of the body.
@@ -523,10 +531,12 @@
 - [Chicken gun](https://en.wikipedia.org/wiki/Chicken_gun) - a large-diameter, compressed-air cannon used to fire dead chickens at aircraft components in order to simulate high-speed bird strikes during the aircraft's flight.
 - [Crinkle crankle wall](https://en.wikipedia.org/wiki/Crinkle_crankle_wall) - The crinkle crankle wall economizes on bricks, despite its sinuous configuration, because it can be made just one brick thin. If a wall this thin were to be made in a straight line, without buttresses, it would easily topple over. The alternate convex and concave curves in the wall provide stability and help it to resist lateral forces.
 - [Czech Hedgehog](https://en.wikipedia.org/wiki/Czech_hedgehog) - The Czech hedgehog is a static anti-tank obstacle defense made of metal angle beams or I-beams (that is, lengths with an L- or I-shaped cross section).
+- [Denatured alcohol](https://en.wikipedia.org/wiki/Denatured_alcohol) - ethanol that has additives to make it poisonous, bad-tasting, foul-smelling, or nauseating to discourage recreational consumption.
 - [Donkey vote](https://en.wikipedia.org/wiki/Donkey_vote) - a ballot cast in an election that uses a preference voting system, where a voter is permitted or required to rank candidates on the ballot paper, and ranks them based on the order they appear on the ballot paper.
 - [Dual-tone multi-frequency signaling](https://en.wikipedia.org/wiki/Dual-tone_multi-frequency_signaling) - a telecommunication signaling system using the voice-frequency band over telephone lines between telephone equipment and other communications devices and switching centers.
 - [Ersatz Good](https://en.wikipedia.org/wiki/Ersatz_good) - Substitute good, normally inferior.
 - [Fata Morgana](https://en.wikipedia.org/wiki/Fata_Morgana_(mirage)) - a complex form of superior mirage that is seen in a narrow band right above the horizon.
+- [Flushometer](https://en.wikipedia.org/wiki/Flushometer) - a metal water-diverter that uses an inline handle to flush tankless toilets or urinals.
 - [Garden hermit](https://en.wikipedia.org/wiki/Garden_hermit) - hermits encouraged to live in purpose-built hermitages, follies, grottoes, or rockeries on the estates of wealthy land-owners, primarily during the 18th century. Such hermits would be encouraged to dress like druids and remain permanently on-site, where they could be fed, cared-for and consulted for advice or viewed for entertainment.
 - [Gender of connectors and fasteners](https://en.wikipedia.org/wiki/Gender_of_connectors_and_fasteners) - In electrical and mechanical trades and manufacturing, each half of a pair of mating connectors or fasteners is conventionally assigned the designation male or female.
 - [Immovable ladder](https://en.wikipedia.org/wiki/Status_Quo_(Jerusalem_and_Bethlehem)#Immovable_ladder) - Some consider the so-called immovable ladder- [c] under the window of the Church of the Holy Sepulchre to be a visible symbol of the alleged inactivity the Status Quo imposes.
@@ -534,6 +544,7 @@
 - [Matrix digital rain](https://en.wikipedia.org/wiki/Matrix_digital_rain) - the computer code featured in the Matrix series. The falling green code is a way of representing the activity of the virtual reality environment of the Matrix on screen.
 - [Smoot](https://en.wikipedia.org/wiki/Smoot) - a nonstandard, humorous unit of length created as part of an MIT fraternity prank. It is named after Oliver R. Smoot, a fraternity pledge to Lambda Chi Alpha, who in October 1958 lay down repeatedly on the Harvard Bridge (between Boston and Cambridge, Massachusetts) so that his fraternity brothers could use his height to measure the length of the bridge.
 - [The Letters of Utrecht](https://en.wikipedia.org/wiki/The_Letters_of_Utrecht) - form an endless poem in the stones of a street in the center of the Dutch city of Utrecht.
+- [Torpedo juice](https://en.wikipedia.org/wiki/Torpedo_juice) - slang for an alcoholic beverage, first mixed in World War II, made from pineapple juice and the 180-proof grain alcohol fuel used in United States Navy torpedo motors. Various poisonous additives were mixed into the fuel alcohol by Navy authorities to render the alcohol undrinkable, and various methods were employed by the U.S. sailors to separate the alcohol from the poison.
 
 ### Food
 - [Butter mountain](https://en.wikipedia.org/wiki/Butter_mountain) - a supply surplus of butter produced in the European Economic Community because of government interventionism that began in the 1970s
