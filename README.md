@@ -10,11 +10,14 @@
 - [Greeking](https://en.wikipedia.org/wiki/Greeking) - a style of displaying or rendering text or symbols, not always from the Greek alphabet. Greeking obscures portions of a work for the purpose of either emphasizing form over details or displaying placeholders for unavailable content.
 
 ### Music
+- [As Slow as Possible](https://en.wikipedia.org/wiki/As_Slow_as_Possible) - a musical piece that is currently being played on an organ at St. Burchardi church in Halberstadt, Germany. The performance began in 2001 and will end in 2640
 - [Backmasking](https://en.wikipedia.org/wiki/Backmasking) - a recording technique in which a sound or message is recorded backward onto a track that is meant to be played forward.
 - [Crab canon](https://en.wikipedia.org/wiki/Crab_canon) - an arrangement of two musical lines that are complementary and backward, similar to a palindrome.
 - [Earworm](https://en.wikipedia.org/wiki/Earworm) - a catchy piece of music that continually repeats through a person's mind after it is no longer playing.
 - [Mirror canon](https://en.wikipedia.org/wiki/Mirror_canon) - a type of canon which involves the leading voice being played alongside its own inversion (i.e. upside-down).
+- [Musical cryptogram](https://en.wikipedia.org/wiki/Musical_cryptogram) - a cryptogrammatic sequence of musical notes, a sequence which can be taken to refer to an extra-musical text by some 'logical' relationship, usually between note names and letters.
 - [Shepard tone](https://en.wikipedia.org/wiki/Shepard_tone) - is a sound consisting of a superposition of sine waves separated by octaves. This creates the auditory illusion of a tone that continually ascends or descends in pitch, yet which ultimately seems to get no higher or lower.
+- [Suite for Piano (Schoenberg)](https://en.wikipedia.org/wiki/Suite_for_Piano_(Schoenberg))
 
 ### Visual Art
 - [Animal-made art](https://en.wikipedia.org/wiki/Animal-made_art) - art created by an animal. Animal-made works of art have been created by apes, elephants, cetacea, reptiles, and bowerbirds, among other species.
@@ -186,6 +189,7 @@
 - [Cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk) - any activist advocating widespread use of strong cryptography and privacy-enhancing technologies as a route to social and political change.
 - [Flitch of bacon custom](https://en.wikipedia.org/wiki/Flitch_of_bacon_custom) - The awarding of a flitch of bacon to married couples who can swear to not having regretted their marriage for a year and a day is an old tradition, the remnants of which still survive in some pockets in England.
 - [Gay Nineties](https://en.wikipedia.org/wiki/Gay_Nineties) - an American nostalgic term and a periodization of the history of the United States referring to the decade of the 1890s.
+- [History of breakfast](https://en.wikipedia.org/wiki/History_of_breakfast)
 - [Immurement](https://en.wikipedia.org/wiki/Immurement) - is a form of imprisonment, usually until death, in which a person is placed within an enclosed space with no exits.
 - [Kakistocracy](https://en.wikipedia.org/wiki/Kakistocracy) - a system of government that is run by the worst, least qualified, and/or most unscrupulous citizens.
 - [Murder Hole](https://en.wikipedia.org/wiki/Murder_hole) - a hole in the ceiling of a gateway or passageway in a fortification through which the defenders could fire, throw or pour harmful substances or objects, such as rocks, arrows, scalding water, hot sand, quicklime, tar, or boiling oil, down on attackers.
@@ -215,6 +219,7 @@
 - [Book of Mozilla](https://en.wikipedia.org/wiki/The_Book_of_Mozilla) - a computer Easter egg found in the Netscape and Mozilla series of web browsers.
 - [Chum Box](https://en.wikipedia.org/wiki/Chum_box) - A chum box (or chumbucket) is a form of online advertising that uses a grid of thumbnails and captions to drive traffic to other sites and webpages.
 - [Eternal September](https://en.wikipedia.org/wiki/Eternal_September) - is Usenet slang for a period beginning in September 1993, the month that Internet service provider America Online (AOL) began offering Usenet access to its many users, overwhelming the existing culture for online forums.
+- [Google's ideological echo chamber](https://en.wikipedia.org/wiki/Google's_Ideological_Echo_Chamber) - commonly referred to as the Google memo, is an internal memo, dated July 2017, by United States-based Google engineer James Damore about Google's culture and diversity policies
 - [Monkey selfie copyright dispute](https://en.wikipedia.org/wiki/Monkey_selfie_copyright_dispute) - a series of disputes about the copyright status of selfies taken by Celebes crested macaques using equipment belonging to the British nature photographer David Slater.
 
 ## Language
@@ -493,6 +498,7 @@
 - [Chrismatic megafauna](https://en.wikipedia.org/wiki/Charismatic_megafauna) - large animal species with symbolic value or widespread popular appeal, and are often used by environmental activists to achieve environmentalist goals.
 - [Exploding Animals](https://en.wikipedia.org/wiki/Category:Exploding_animals)
 - [Mike the Headless Chicken](https://en.wikipedia.org/wiki/Mike_the_Headless_Chicken) - a Wyandotte chicken that lived for 18 months after his head had been cut off.
+- [Nim Chimpsky](https://en.wikipedia.org/wiki/Nim_Chimpsky) - a chimp who was taught sign language, and his longest quote was "Give orange me give eat orange me eat orange give me eat orange give me you"
 - [Potoooooooo](https://en.wikipedia.org/wiki/Potoooooooo) - an 18th-century Thoroughbred racehorse who won over 30 races and defeated some of the greatest racehorses of the time. He went on to be a sire. He is now best known for the unusual spelling of his name, pronounced Potatoes.
 - [Puppy cat](https://en.wikipedia.org/wiki/Puppy_cat) - a term used to refer to specific breeds of domestic cats that have unusual behavioral tendencies that are reminiscent of young domestic dogs.
 - [Raining of animals](https://en.wikipedia.org/wiki/Rain_of_animals) - a rare meteorological phenomenon in which flightless animals fall from the sky.
@@ -545,6 +551,7 @@
 - [Smoot](https://en.wikipedia.org/wiki/Smoot) - a nonstandard, humorous unit of length created as part of an MIT fraternity prank. It is named after Oliver R. Smoot, a fraternity pledge to Lambda Chi Alpha, who in October 1958 lay down repeatedly on the Harvard Bridge (between Boston and Cambridge, Massachusetts) so that his fraternity brothers could use his height to measure the length of the bridge.
 - [The Letters of Utrecht](https://en.wikipedia.org/wiki/The_Letters_of_Utrecht) - form an endless poem in the stones of a street in the center of the Dutch city of Utrecht.
 - [Torpedo juice](https://en.wikipedia.org/wiki/Torpedo_juice) - slang for an alcoholic beverage, first mixed in World War II, made from pineapple juice and the 180-proof grain alcohol fuel used in United States Navy torpedo motors. Various poisonous additives were mixed into the fuel alcohol by Navy authorities to render the alcohol undrinkable, and various methods were employed by the U.S. sailors to separate the alcohol from the poison.
+- [United Nationa laissez-passer](https://en.wikipedia.org/wiki/United_Nations_laissez-passer) - The UNLP is a valid travel document, which can be used like a national passport (in connection with travel on official missions only).
 
 ### Food
 - [Butter mountain](https://en.wikipedia.org/wiki/Butter_mountain) - a supply surplus of butter produced in the European Economic Community because of government interventionism that began in the 1970s
