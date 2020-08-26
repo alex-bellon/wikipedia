@@ -304,6 +304,7 @@
 - [Digital root](https://en.wikipedia.org/wiki/Digital_root) - a non-negative integer is the (single digit) value obtained by an iterative process of summing digits, on each iteration using the result from the previous iteration to compute a digit sum.
 - [Magma](https://en.wikipedia.org/wiki/Magma_(algebra)) - In abstract algebra, a magma (or groupoid) is a basic kind of algebraic structure. Specifically, a magma consists of a set equipped with a single binary operation. The binary operation must be closed by definition but no other properties are imposed.
 - [Modular arithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic) - a system of arithmetic for integers, where numbers "wrap around" upon reaching a certain value—the modulus (plural moduli).
+- [Racks and quandles](https://en.wikipedia.org/wiki/Racks_and_quandles) - In mathematics, racks and quandles are sets with binary operations satisfying axioms analogous to the Reidemeister moves used to manipulate knot diagrams. 
 
 ### Functions
 - [Arity](https://en.wikipedia.org/wiki/Arity) - In logic, mathematics, and computer science, the arity of a function or operation is the number of arguments or operands that the function takes.
