@@ -304,7 +304,8 @@
 - [Digital root](https://en.wikipedia.org/wiki/Digital_root) - a non-negative integer is the (single digit) value obtained by an iterative process of summing digits, on each iteration using the result from the previous iteration to compute a digit sum.
 - [Magma](https://en.wikipedia.org/wiki/Magma_(algebra)) - In abstract algebra, a magma (or groupoid) is a basic kind of algebraic structure. Specifically, a magma consists of a set equipped with a single binary operation. The binary operation must be closed by definition but no other properties are imposed.
 - [Modular arithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic) - a system of arithmetic for integers, where numbers "wrap around" upon reaching a certain value—the modulus (plural moduli).
-- [Racks and quandles](https://en.wikipedia.org/wiki/Racks_and_quandles) - In mathematics, racks and quandles are sets with binary operations satisfying axioms analogous to the Reidemeister moves used to manipulate knot diagrams. 
+- [Racks and quandles](https://en.wikipedia.org/wiki/Racks_and_quandles) - In mathematics, racks and quandles are sets with binary operations satisfying axioms analogous to the Reidemeister moves used to manipulate knot diagrams.
+- [Set-heoretic definition of natural numbers](https://en.wikipedia.org/wiki/Set-theoretic_definition_of_natural_numbers)
 
 ### Functions
 - [Arity](https://en.wikipedia.org/wiki/Arity) - In logic, mathematics, and computer science, the arity of a function or operation is the number of arguments or operands that the function takes.
@@ -344,6 +345,7 @@
 - [Zero-knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof) - a method by which one party (the prover) can prove to another party (the verifier) that they know a value x, without conveying any information apart from the fact that they know the value x.
 
 ### Miscellaneous
+- [Abstract nonsense](https://en.wikipedia.org/wiki/Abstract_nonsense) - In mathematics, abstract nonsense, general abstract nonsense, generalized abstract nonsense, and general nonsense are terms used by mathematicians to describe abstract methods related to category theory and homological algebra. More generally, “abstract nonsense” may refer to a proof that relies on category-theoretic methods, or even to the study of category theory itself.
 - [Abuse of notation](https://en.wikipedia.org/wiki/Abuse_of_notation) - occurs when an author uses a mathematical notation in a way that is not formally correct but that seems likely to simplify the exposition or suggest the correct intuition (while being unlikely to introduce errors or cause confusion).
 - [Coin problem](https://en.wikipedia.org/wiki/Coin_problem) -  a mathematical problem that asks for the largest monetary amount that cannot be obtained using only coins of specified denominations. For example, the largest amount that cannot be obtained using only coins of 3 and 5 units is 7 units.
 - [Currying](https://en.wikipedia.org/wiki/Currying) - the technique of translating the evaluation of a function that takes multiple arguments into evaluating a sequence of functions, each with a single argument. For example, a function that takes two arguments, one from X and one from Y, and produces outputs in Z, by currying is translated into a function that takes a single argument from X and produces as outputs functions from Y to Z.
