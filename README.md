@@ -5,6 +5,7 @@
 ### Comics
 - [Glossary of comics terminology](https://en.wikipedia.org/wiki/Glossary_of_comics_terminology)
 - [The Lexicon of Comicana](https://en.wikipedia.org/wiki/The_Lexicon_of_Comicana) - a 1980 book by the American cartoonist Mort Walker. It was intended as a tongue-in-cheek look at the devices used by cartoonists. In it, Walker invented an international set of symbols called symbolia after researching cartoons around the world.
+- [Women in refrigerators](https://en.wikipedia.org/wiki/Women_in_Refrigerators) is the name for the superhero comic-book trope whereby female characters are injured, raped, killed, or depowered (an event colloquially known as fridging) as a plot device intended to move a male character's story arc forward.
 
 ### Graphic Design
 - [Greeking](https://en.wikipedia.org/wiki/Greeking) - a style of displaying or rendering text or symbols, not always from the Greek alphabet. Greeking obscures portions of a work for the purpose of either emphasizing form over details or displaying placeholders for unavailable content.
@@ -271,6 +272,7 @@
 - [Aptronym](https://en.wikipedia.org/wiki/Aptronym) - a personal name aptly or peculiarly suited to its owner.
 - [Auto-antonym](https://en.wikipedia.org/wiki/Auto-antonym) - also called a contronym, contranym or Janus word, is a word with multiple meanings (senses) of which one is the reverse of another. For example, the word cleave can mean "to cut apart" or "to bind together".
 - [Autological Word](https://en.wikipedia.org/wiki/Autological_word) - a word that expresses a property that it also possesses
+- [Dead metaphor](https://en.wikipedia.org/wiki/Dead_metaphor) is a figure of speech which has lost the original imagery of its meaning due to extensive, repetitive, and popular usage.
 - [Demonym](https://en.wikipedia.org/wiki/Demonym) - is a word that identifies residents or natives of a particular place and is derived from the name of the place.
 - [Deixis](https://en.wikipedia.org/wiki/Deixis) -  words and phrases, such as "me" or "here", that cannot be fully understood without additional contextual information—in this case, the identity of the speaker ("me") and the speaker's location ("here").
 - [Eggcorn](https://en.wikipedia.org/wiki/Eggcorn) - An idiosyncratic substitution of a word or phrase for a word or words that sound similar or identical in the speaker's dialect (sometimes called oronyms).
@@ -511,6 +513,9 @@
 - [Rat King](https://en.wikipedia.org/wiki/Rat_king) - A collection of rats whose tails are intertwined and bound together by one of several possible mechanisms, such as entangling material like hair or sticky substances like sap or gum.
 - [Sentinel Species](https://en.wikipedia.org/wiki/Sentinel_species) - are organisms, often animals, used to detect risks to humans by providing advance warning of a danger.
 
+### Biology
+- [Mirror life](https://en.wikipedia.org/wiki/Mirror_life) is a hypothetical form of life with mirror-reflected molecular building blocks
+
 ### Cartography, Geography
 - [Satellite map images with missing or unclear data](https://en.wikipedia.org/wiki/Satellite_map_images_with_missing_or_unclear_data)
 - [Trap street](https://en.wikipedia.org/wiki/Trap_street) -  a fictitious entry in the form of a misrepresented street on a map, often outside the area the map nominally covers, for the purpose of "trapping" potential copyright violators of the map who, if caught, would be unable to explain the inclusion of the "trap street" on their map as innocent.
@@ -522,6 +527,7 @@
 ### Physics
 - [Eddy current](https://en.wikipedia.org/wiki/Eddy_current) -  Loops of electrical current induced within conductors by a changing magnetic field in the conductor according to Faraday's law of induction.
 - [Faraday Cage](https://en.wikipedia.org/wiki/Faraday_cage) - An enclosure used to block electromagnetic fields.
+- [The many-worlds interpretation](https://en.wikipedia.org/wiki/Many-worlds_interpretation) is an interpretation of quantum mechanics that asserts that the universal wavefunction is objectively real, and that there is no wavefunction collapse. This implies that all possible outcomes of quantum measurements are physically realized in some "world" or universe.
 
 ### Psychology
 - [Confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias) - the tendency to search for, interpret, favor, and recall information in a way that confirms one's preexisting beliefs or hypotheses.
