@@ -20,6 +20,9 @@
 - [Shepard tone](https://en.wikipedia.org/wiki/Shepard_tone) - is a sound consisting of a superposition of sine waves separated by octaves. This creates the auditory illusion of a tone that continually ascends or descends in pitch, yet which ultimately seems to get no higher or lower.
 - [Suite for Piano (Schoenberg)](https://en.wikipedia.org/wiki/Suite_for_Piano_(Schoenberg))
 
+### Performing Arts
+- [Mise-en-scène](https://en.wikipedia.org/wiki/Mise-en-sc%C3%A8ne) - the stage design and arrangement of actors in scenes for a theatre or film production, both in visual arts through storyboarding, visual theme, and cinematography, and in narrative storytelling through direction.
+
 ### Visual Art
 - [Animal-made art](https://en.wikipedia.org/wiki/Animal-made_art) - art created by an animal. Animal-made works of art have been created by apes, elephants, cetacea, reptiles, and bowerbirds, among other species.
 - [Lost artworks](https://en.wikipedia.org/wiki/Lost_artworks) - original pieces of art that credible sources indicate once existed but that cannot be accounted for in museums or private collections or are known to have been destroyed deliberately or accidentally, or neglected through ignorance and lack of connoisseurship.
@@ -191,6 +194,7 @@
 - [Flitch of bacon custom](https://en.wikipedia.org/wiki/Flitch_of_bacon_custom) - The awarding of a flitch of bacon to married couples who can swear to not having regretted their marriage for a year and a day is an old tradition, the remnants of which still survive in some pockets in England.
 - [Gay Nineties](https://en.wikipedia.org/wiki/Gay_Nineties) - an American nostalgic term and a periodization of the history of the United States referring to the decade of the 1890s.
 - [History of breakfast](https://en.wikipedia.org/wiki/History_of_breakfast)
+- [IBM during World War II](https://en.wikipedia.org/wiki/IBM_during_World_War_II) - Both the United States government and Nazi German government used IBM punched card technology for some parts of their camps operation and record keeping. 
 - [Immurement](https://en.wikipedia.org/wiki/Immurement) - is a form of imprisonment, usually until death, in which a person is placed within an enclosed space with no exits.
 - [Kakistocracy](https://en.wikipedia.org/wiki/Kakistocracy) - a system of government that is run by the worst, least qualified, and/or most unscrupulous citizens.
 - [Murder Hole](https://en.wikipedia.org/wiki/Murder_hole) - a hole in the ceiling of a gateway or passageway in a fortification through which the defenders could fire, throw or pour harmful substances or objects, such as rocks, arrows, scalding water, hot sand, quicklime, tar, or boiling oil, down on attackers.
@@ -255,6 +259,10 @@
 ### Punctuation
 - [Interrobang](https://en.wikipedia.org/wiki/Interrobang) - a punctuation mark used in various written languages and intended to combine the functions of the question mark, or interrogative point, and the exclamation mark, or exclamation point, known in the jargon of printers and programmers as a "bang".
 - [Irony punctuation](https://en.wikipedia.org/wiki/Irony_punctuation) - any proposed form of notation used to denote irony or sarcasm in text.
+
+### Speech
+- [High rising terminal](https://en.wikipedia.org/wiki/High_rising_terminal) - a feature of some variants of English where declarative sentence clauses end with a rising-pitch intonation, until the end of the sentence where a falling-pitch is applied.
+- [Vocal fry register](https://en.wikipedia.org/wiki/Vocal_fry_register) - the lowest vocal register and is produced through a loose glottal closure that permits air to bubble through slowly with a popping or rattling sound of a very low frequency.
 
 ### Weird words, phrases, and sentences
 - [Alternatives to the Ten Commandments](https://en.wikipedia.org/wiki/Alternatives_to_the_Ten_Commandments) - Several alternatives to the Ten Commandments have been promulgated by different persons and groups, which intended to improve on the lists of laws known as the Ten Commandments that appear in the Bible.
@@ -517,6 +525,7 @@
 - [Mirror life](https://en.wikipedia.org/wiki/Mirror_life) is a hypothetical form of life with mirror-reflected molecular building blocks
 
 ### Cartography, Geography
+- [Northeast megalopolis](https://en.wikipedia.org/wiki/Northeast_megalopolis) is the most populous megalopolis located entirely in the United States, with over 50 million residents, as well as the most urbanized megalopolis in the United States and the megalopolis with the world's largest economic output.
 - [Satellite map images with missing or unclear data](https://en.wikipedia.org/wiki/Satellite_map_images_with_missing_or_unclear_data)
 - [Trap street](https://en.wikipedia.org/wiki/Trap_street) -  a fictitious entry in the form of a misrepresented street on a map, often outside the area the map nominally covers, for the purpose of "trapping" potential copyright violators of the map who, if caught, would be unable to explain the inclusion of the "trap street" on their map as innocent.
 - [Use of Nordic countries vs. Scandinavia](https://en.wikipedia.org/wiki/Scandinavia#Use_of_Nordic_countries_vs._Scandinavia)
@@ -528,6 +537,7 @@
 - [Eddy current](https://en.wikipedia.org/wiki/Eddy_current) -  Loops of electrical current induced within conductors by a changing magnetic field in the conductor according to Faraday's law of induction.
 - [Faraday Cage](https://en.wikipedia.org/wiki/Faraday_cage) - An enclosure used to block electromagnetic fields.
 - [The many-worlds interpretation](https://en.wikipedia.org/wiki/Many-worlds_interpretation) is an interpretation of quantum mechanics that asserts that the universal wavefunction is objectively real, and that there is no wavefunction collapse. This implies that all possible outcomes of quantum measurements are physically realized in some "world" or universe.
+- [Quantum Zeno effect](https://en.wikipedia.org/wiki/Quantum_Zeno_effect) is a feature of quantum-mechanical systems allowing a particle's time evolution to be arrested by measuring it frequently enough with respect to some chosen measurement setting.
 
 ### Psychology
 - [Confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias) - the tendency to search for, interpret, favor, and recall information in a way that confirms one's preexisting beliefs or hypotheses.
