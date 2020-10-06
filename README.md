@@ -57,6 +57,7 @@
 - [Beale ciphers](https://en.wikipedia.org/wiki/Beale_ciphers) - a set of three ciphertexts, one of which allegedly states the location of a buried treasure of gold, silver and jewels estimated to be worth over US$43 million as of January 2018.
 - [Blowfish (cipher)](https://en.wikipedia.org/wiki/Blowfish_(cipher)) - a symmetric-key block cipher, designed in 1993 by Bruce Schneier and included in many cipher suites and encryption products.
 - [ChaCha](https://en.wikipedia.org/wiki/Salsa20#ChaCha_variant) - aim to increase the diffusion per round while achieving the same or slightly better performance.
+- [Chaocipher](https://en.wikipedia.org/wiki/Chaocipher) - a cipher method invented by John Francis Byrne in 1918 and described in his 1953 autobiographical Silent Years. He believed Chaocipher was simple, yet unbreakable. Byrne stated that the machine he used to encipher his messages could be fitted into a cigar box. He offered cash rewards for anyone who could solve it.
 - [Commitment scheme](https://en.wikipedia.org/wiki/Commitment_scheme) - a cryptographic primitive that allows one to commit to a chosen value (or chosen statement) while keeping it hidden to others, with the ability to reveal the committed value later. Commitment schemes are designed so that a party cannot change the value or statement after they have committed to it: that is, commitment schemes are binding.
 - [Coppersmith's attack](https://en.wikipedia.org/wiki/Coppersmith%27s_attack) - a class of cryptographic attacks on the public-key cryptosystem RSA based on the Coppersmith method.
 - [Coppersmith method](https://en.wikipedia.org/wiki/Coppersmith_method) - a method to find small integer zeroes of univariate or bivariate polynomials modulo a given integer.
@@ -79,6 +80,7 @@
 - [Related-key Attack](https://en.wikipedia.org/wiki/Related-key_attack) - In cryptography, a related-key attack is any form of cryptanalysis where the attacker can observe the operation of a cipher under several different keys whose values are initially unknown, but where some mathematical relationship connecting the keys is known to the attacker.
 - [Rotational Cryptanalysis](https://en.wikipedia.org/wiki/Rotational_cryptanalysis) - a generic cryptanalytic attack against algorithms that rely on three operations: modular addition, rotation and XOR — ARX for short.
 - [Slide Attack](https://en.wikipedia.org/wiki/Slide_attack) - The slide attack is a form of cryptanalysis designed to deal with the prevailing idea that even weak ciphers can become very strong by increasing the number of rounds, which can ward off a differential attack.
+- [Solitaire](https://en.wikipedia.org/wiki/Solitaire_%28cipher%29) - The Solitaire cryptographic algorithm was designed by Bruce Schneier at the request of Neal Stephenson for use in his novel Cryptonomicon, in which field agents use it to communicate securely without having to rely on electronics or having to carry incriminating tools. It was designed to be a manual cryptosystem calculated with an ordinary deck of playing cards.
 - [Twofish](https://en.wikipedia.org/wiki/Twofish) - a symmetric key block cipher with a block size of 128 bits and key sizes up to 256 bits.
 
 ### Data Structures
@@ -194,7 +196,7 @@
 - [Flitch of bacon custom](https://en.wikipedia.org/wiki/Flitch_of_bacon_custom) - The awarding of a flitch of bacon to married couples who can swear to not having regretted their marriage for a year and a day is an old tradition, the remnants of which still survive in some pockets in England.
 - [Gay Nineties](https://en.wikipedia.org/wiki/Gay_Nineties) - an American nostalgic term and a periodization of the history of the United States referring to the decade of the 1890s.
 - [History of breakfast](https://en.wikipedia.org/wiki/History_of_breakfast)
-- [IBM during World War II](https://en.wikipedia.org/wiki/IBM_during_World_War_II) - Both the United States government and Nazi German government used IBM punched card technology for some parts of their camps operation and record keeping. 
+- [IBM during World War II](https://en.wikipedia.org/wiki/IBM_during_World_War_II) - Both the United States government and Nazi German government used IBM punched card technology for some parts of their camps operation and record keeping.
 - [Immurement](https://en.wikipedia.org/wiki/Immurement) - is a form of imprisonment, usually until death, in which a person is placed within an enclosed space with no exits.
 - [Kakistocracy](https://en.wikipedia.org/wiki/Kakistocracy) - a system of government that is run by the worst, least qualified, and/or most unscrupulous citizens.
 - [Murder Hole](https://en.wikipedia.org/wiki/Murder_hole) - a hole in the ceiling of a gateway or passageway in a fortification through which the defenders could fire, throw or pour harmful substances or objects, such as rocks, arrows, scalding water, hot sand, quicklime, tar, or boiling oil, down on attackers.
@@ -443,6 +445,7 @@
 - [List of philosophies](https://en.wikipedia.org/wiki/List_of_philosophies
 - [List of phobias](https://en.wikipedia.org/wiki/List_of_phobias)
 - [List of prime numbers](https://en.wikipedia.org/wiki/List_of_prime_numbers)
+- [List of scholarly publishing stings](https://en.wikipedia.org/wiki/List_of_scholarly_publishing_stings)
 - [List of selfie-related injuries and deaths](https://en.wikipedia.org/wiki/List_of_selfie-related_injuries_and_deaths)
 - [List of sexually active popes](https://en.wikipedia.org/wiki/List_of_sexually_active_popes)
 - [List of tallest structures in the world by country](https://en.wikipedia.org/wiki/List_of_tallest_structures_by_country)
@@ -471,6 +474,7 @@
 - [Law of triviality](https://en.wikipedia.org/wiki/Law_of_triviality) - members of an organization give disproportionate weight to trivial issues.
 - [Littlewood's law](https://en.wikipedia.org/wiki/Littlewood%27s_law) - a person can expect to experience events with odds of one in a million (defined by the law as a "miracle") at the rate of about one per month
 - [Matthew effect](https://en.wikipedia.org/wiki/Matthew_effect) - "the rich get richer and the poor get poorer".
+- [Missing white woman syndrome](https://en.wikipedia.org/wiki/Missing_white_woman_syndrome) - Missing white woman syndrome is a term used by social scientists and media commentators to refer to extensive media coverage, especially in television, of missing person cases involving young, white, upper-middle-class women or girls.
 - [McCollough Effect](https://en.wikipedia.org/wiki/McCollough_effect) - The McCollough effect is a phenomenon of human visual perception in which colorless gratings appear colored contingent on the orientation of the gratings.
 - [Muphry's Law](https://en.wikipedia.org/wiki/Muphry%27s_law) - An adage that states: "If you write anything criticizing editing or proofreading, there will be a fault of some kind in what you have written."
 - [Nominative Determinism](https://en.wikipedia.org/wiki/Nominative_determinism) - the hypothesis that people tend to gravitate towards areas of work that fit their names.
@@ -534,9 +538,12 @@
 - [Vortex Shedding](https://en.wikipedia.org/wiki/Vortex_shedding) - In fluid dynamics, vortex shedding is an oscillating flow that takes place when a fluid such as air or water flows past a bluff (as opposed to streamlined) body at certain velocities, depending on the size and shape of the body.
 
 ### Physics
+- [Cat state](https://en.wikipedia.org/wiki/Cat_state), named after Schrödinger's cat, is a quantum state that is composed of two diametrically opposed conditions at the same time, such as the possibilities that a cat be alive and dead at the same time.
 - [Eddy current](https://en.wikipedia.org/wiki/Eddy_current) -  Loops of electrical current induced within conductors by a changing magnetic field in the conductor according to Faraday's law of induction.
 - [Faraday Cage](https://en.wikipedia.org/wiki/Faraday_cage) - An enclosure used to block electromagnetic fields.
+- [Superdense coding](https://en.wikipedia.org/wiki/Superdense_coding) - a quantum communication protocol to transmit two classical bits of information (i.e., either 00, 01, 10 or 11) from a sender (often called Alice) to a receiver (often called Bob), by sending only one qubit from Alice to Bob, under the assumption of Alice and Bob pre-sharing an entangled state.
 - [The many-worlds interpretation](https://en.wikipedia.org/wiki/Many-worlds_interpretation) is an interpretation of quantum mechanics that asserts that the universal wavefunction is objectively real, and that there is no wavefunction collapse. This implies that all possible outcomes of quantum measurements are physically realized in some "world" or universe.
+- [Quantum teleportation](https://en.wikipedia.org/wiki/Quantum_teleportation) - a process in which quantum information (e.g. the exact state of an atom or photon) can be transmitted (exactly, in principle) from one location to another, with the help of classical communication and previously shared quantum entanglement between the sending and receiving location.
 - [Quantum Zeno effect](https://en.wikipedia.org/wiki/Quantum_Zeno_effect) is a feature of quantum-mechanical systems allowing a particle's time evolution to be arrested by measuring it frequently enough with respect to some chosen measurement setting.
 
 ### Psychology
@@ -546,6 +553,9 @@
 - [Semantic satiation](https://en.wikipedia.org/wiki/Semantic_satiation) - a psychological phenomenon in which repetition causes a word or phrase to temporarily lose meaning for the listener, who then perceives the speech as repeated meaningless sounds.
 - [Sensory-specific Satiety](https://en.wikipedia.org/wiki/Sensory-specific_satiety) - a sensory hedonic phenomenon that refers to the declining satisfaction generated by the consumption of a certain type of food, and the consequent renewal in appetite resulting from the exposure to a new flavor or food.
 - [Somatoparaphrenia](https://en.wikipedia.org/wiki/Somatoparaphrenia) - a type of monothematic delusion where one denies ownership of a limb or an entire side of one's body.
+
+### Technology
+- [Gray goo](https://en.wikipedia.org/wiki/Gray_goo) is a hypothetical global catastrophic scenario involving molecular nanotechnology in which out-of-control self-replicating machines consume all biomass on Earth while building more of themselves, a scenario that has been called ecophagy ("eating the environment", more literally "eating the habitation").
 
 ## Things
 - [Adventure playground](https://en.wikipedia.org/wiki/Adventure_playground) - a specific type of playground for children. Adventure playgrounds can take many forms, ranging from "natural playgrounds" to "junk playgrounds", and are typically defined by an ethos of unrestricted play, the presence of playworkers (or "wardens"), and the absence of adult-manufactured or rigid play-structures.
@@ -570,6 +580,7 @@
 - [Immovable ladder](https://en.wikipedia.org/wiki/Status_Quo_(Jerusalem_and_Bethlehem)#Immovable_ladder) - Some consider the so-called immovable ladder- [c] under the window of the Church of the Holy Sepulchre to be a visible symbol of the alleged inactivity the Status Quo imposes.
 - [Lost work](https://en.wikipedia.org/wiki/Lost_work) - a document, literary work, or piece of multimedia produced some time in the past, of which no surviving copies are known to exist.
 - [Matrix digital rain](https://en.wikipedia.org/wiki/Matrix_digital_rain) - the computer code featured in the Matrix series. The falling green code is a way of representing the activity of the virtual reality environment of the Matrix on screen.
+- [Milk cars](https://en.wikipedia.org/wiki/Milk_car) are a specialized type of railroad car intended to transport raw milk from collection points near dairy farms to a processing creamery. Some milk cars were intended for loading with multiple cans of milk, while others were designed with a single tank for bulk loading. Milk cars were often equipped with high-speed passenger trucks, passenger-type buffer plates, and train signal and steam lines seldom found on conventional refrigerator cars.
 - [Smoot](https://en.wikipedia.org/wiki/Smoot) - a nonstandard, humorous unit of length created as part of an MIT fraternity prank. It is named after Oliver R. Smoot, a fraternity pledge to Lambda Chi Alpha, who in October 1958 lay down repeatedly on the Harvard Bridge (between Boston and Cambridge, Massachusetts) so that his fraternity brothers could use his height to measure the length of the bridge.
 - [The Letters of Utrecht](https://en.wikipedia.org/wiki/The_Letters_of_Utrecht) - form an endless poem in the stones of a street in the center of the Dutch city of Utrecht.
 - [Torpedo juice](https://en.wikipedia.org/wiki/Torpedo_juice) - slang for an alcoholic beverage, first mixed in World War II, made from pineapple juice and the 180-proof grain alcohol fuel used in United States Navy torpedo motors. Various poisonous additives were mixed into the fuel alcohol by Navy authorities to render the alcohol undrinkable, and various methods were employed by the U.S. sailors to separate the alcohol from the poison.
