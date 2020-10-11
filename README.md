@@ -192,6 +192,7 @@
 - [Baby Tooth Survey](https://en.wikipedia.org/wiki/Baby_Tooth_Survey) - The Baby Tooth Survey was initiated by the Greater St. Louis Citizens' Committee for Nuclear Information in conjunction with Saint Louis University and the Washington University School of Dental Medicine as a means of determining the effects of nuclear fallout in the human anatomy by examining the levels of radioactive material absorbed into the deciduous teeth of children.
 - [Cargo Cult](https://en.wikipedia.org/wiki/Cargo_cult) - A belief system among members of a relatively undeveloped society in which adherents practice superstitious rituals hoping to bring modern goods supplied by a more technologically advanced society.
 - [Capitol Hill Autonomous Zone](https://en.wikipedia.org/wiki/Capitol_Hill_Autonomous_Zone) - an occupation protest and self-declared autonomous zone in the Capitol Hill neighborhood of Seattle, Washington.
+- [Chicken George (politics)](https://en.wikipedia.org/wiki/Chicken_George_(politics)) - a campaign tactic in the 1992 U.S. presidential election, where one or more people in chicken costumes heckled President George H. W. Bush over his refusal to participate in a debate with Democratic candidate Bill Clinton.
 - [Cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk) - any activist advocating widespread use of strong cryptography and privacy-enhancing technologies as a route to social and political change.
 - [Flitch of bacon custom](https://en.wikipedia.org/wiki/Flitch_of_bacon_custom) - The awarding of a flitch of bacon to married couples who can swear to not having regretted their marriage for a year and a day is an old tradition, the remnants of which still survive in some pockets in England.
 - [Gay Nineties](https://en.wikipedia.org/wiki/Gay_Nineties) - an American nostalgic term and a periodization of the history of the United States referring to the decade of the 1890s.
@@ -450,6 +451,7 @@
 - [List of sexually active popes](https://en.wikipedia.org/wiki/List_of_sexually_active_popes)
 - [List of tallest structures in the world by country](https://en.wikipedia.org/wiki/List_of_tallest_structures_by_country)
 - [List of tautological place names](https://en.wikipedia.org/wiki/List_of_redundant_place_names)
+- [List of wheel-well stowaway flights](https://en.wikipedia.org/wiki/List_of_wheel-well_stowaway_flights)
 - [Wikipedia: Unusual articles](https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles)
 
 ## Paradoxes
@@ -581,6 +583,7 @@
 - [Lost work](https://en.wikipedia.org/wiki/Lost_work) - a document, literary work, or piece of multimedia produced some time in the past, of which no surviving copies are known to exist.
 - [Matrix digital rain](https://en.wikipedia.org/wiki/Matrix_digital_rain) - the computer code featured in the Matrix series. The falling green code is a way of representing the activity of the virtual reality environment of the Matrix on screen.
 - [Milk cars](https://en.wikipedia.org/wiki/Milk_car) are a specialized type of railroad car intended to transport raw milk from collection points near dairy farms to a processing creamery. Some milk cars were intended for loading with multiple cans of milk, while others were designed with a single tank for bulk loading. Milk cars were often equipped with high-speed passenger trucks, passenger-type buffer plates, and train signal and steam lines seldom found on conventional refrigerator cars.
+- [Polar bear jail](https://en.wikipedia.org/wiki/Polar_bear_jail) - a special building in Churchill, Manitoba where polar bears that are considered troublesome or dangerous are isolated before they can be relocated.
 - [Smoot](https://en.wikipedia.org/wiki/Smoot) - a nonstandard, humorous unit of length created as part of an MIT fraternity prank. It is named after Oliver R. Smoot, a fraternity pledge to Lambda Chi Alpha, who in October 1958 lay down repeatedly on the Harvard Bridge (between Boston and Cambridge, Massachusetts) so that his fraternity brothers could use his height to measure the length of the bridge.
 - [The Letters of Utrecht](https://en.wikipedia.org/wiki/The_Letters_of_Utrecht) - form an endless poem in the stones of a street in the center of the Dutch city of Utrecht.
 - [Torpedo juice](https://en.wikipedia.org/wiki/Torpedo_juice) - slang for an alcoholic beverage, first mixed in World War II, made from pineapple juice and the 180-proof grain alcohol fuel used in United States Navy torpedo motors. Various poisonous additives were mixed into the fuel alcohol by Navy authorities to render the alcohol undrinkable, and various methods were employed by the U.S. sailors to separate the alcohol from the poison.
