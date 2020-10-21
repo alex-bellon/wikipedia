@@ -433,6 +433,7 @@
 - [List of English words containing Q not followed by U](https://en.wikipedia.org/wiki/List_of_English_words_containing_Q_not_followed_by_U)
 - [List of English words without rhymes](https://en.wikipedia.org/wiki/List_of_English_words_without_rhymes)
 - [List of eponymous laws](https://en.wikipedia.org/wiki/List_of_eponymous_laws)
+- [List of guitars](https://en.wikipedia.org/wiki/List_of_guitars)
 - [List of Internet top-level domains](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 - [List of inventors killed by their own inventions](https://en.wikipedia.org/wiki/List_of_inventors_killed_by_their_own_inventions)
 - [List of Latin phrases](https://en.wikipedia.org/wiki/List_of_Latin_phrases_(full))
@@ -517,6 +518,7 @@
 
 ### Animals
 - [52-hertz whale](https://en.wikipedia.org/wiki/52-hertz_whale) - an individual whale of unidentified species, which calls at the very unusual frequency of 52 Hz.
+- [Carcinisation](https://en.wikipedia.org/wiki/Carcinisation) - an example of convergent evolution in which a crustacean evolves into a crab-like form from a non-crab-like form.
 - [Chrismatic megafauna](https://en.wikipedia.org/wiki/Charismatic_megafauna) - large animal species with symbolic value or widespread popular appeal, and are often used by environmental activists to achieve environmentalist goals.
 - [Exploding Animals](https://en.wikipedia.org/wiki/Category:Exploding_animals)
 - [Mike the Headless Chicken](https://en.wikipedia.org/wiki/Mike_the_Headless_Chicken) - a Wyandotte chicken that lived for 18 months after his head had been cut off.
