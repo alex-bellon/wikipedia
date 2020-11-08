@@ -17,6 +17,7 @@
 - [Earworm](https://en.wikipedia.org/wiki/Earworm) - a catchy piece of music that continually repeats through a person's mind after it is no longer playing.
 - [Mirror canon](https://en.wikipedia.org/wiki/Mirror_canon) - a type of canon which involves the leading voice being played alongside its own inversion (i.e. upside-down).
 - [Musical cryptogram](https://en.wikipedia.org/wiki/Musical_cryptogram) - a cryptogrammatic sequence of musical notes, a sequence which can be taken to refer to an extra-musical text by some 'logical' relationship, usually between note names and letters.
+- [Shave and a Haircut](https://en.m.wikipedia.org/wiki/Shave_and_a_Haircut) - "Shave and a Haircut" and the associated response "two bits" is a 7-note musical call-and-response couplet, riff or fanfare popularly used at the end of a musical performance, usually for comic effect. It is used both melodically and rhythmically, for example as a door knock. 
 - [Shepard tone](https://en.wikipedia.org/wiki/Shepard_tone) - is a sound consisting of a superposition of sine waves separated by octaves. This creates the auditory illusion of a tone that continually ascends or descends in pitch, yet which ultimately seems to get no higher or lower.
 - [Suite for Piano (Schoenberg)](https://en.wikipedia.org/wiki/Suite_for_Piano_(Schoenberg))
 
@@ -194,6 +195,7 @@
 - [Capitol Hill Autonomous Zone](https://en.wikipedia.org/wiki/Capitol_Hill_Autonomous_Zone) - an occupation protest and self-declared autonomous zone in the Capitol Hill neighborhood of Seattle, Washington.
 - [Chicken George (politics)](https://en.wikipedia.org/wiki/Chicken_George_(politics)) - a campaign tactic in the 1992 U.S. presidential election, where one or more people in chicken costumes heckled President George H. W. Bush over his refusal to participate in a debate with Democratic candidate Bill Clinton.
 - [Cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk) - any activist advocating widespread use of strong cryptography and privacy-enhancing technologies as a route to social and political change.
+- [Eye-rolling](https://en.wikipedia.org/wiki/Eye-rolling) - passive-aggressive response to an undesirable situation or person. The gesture is used to disagree or dismiss the targeted person without physical contact.
 - [Flitch of bacon custom](https://en.wikipedia.org/wiki/Flitch_of_bacon_custom) - The awarding of a flitch of bacon to married couples who can swear to not having regretted their marriage for a year and a day is an old tradition, the remnants of which still survive in some pockets in England.
 - [Gay Nineties](https://en.wikipedia.org/wiki/Gay_Nineties) - an American nostalgic term and a periodization of the history of the United States referring to the decade of the 1890s.
 - [History of breakfast](https://en.wikipedia.org/wiki/History_of_breakfast)
@@ -211,9 +213,10 @@
 - [Toilet-related injuries and deaths](https://en.wikipedia.org/wiki/Toilet-related_injuries_and_deaths)
 - [Waffle House Index](https://en.wikipedia.org/wiki/Waffle_House_Index) - an informal metric named after the Waffle House restaurant chain and is used by the Federal Emergency Management Agency (FEMA) to determine the effect of a storm and the likely scale of assistance required for disaster recovery.
 
-### Laws
+### Laws and Cases
 - [Crumbling skull rule](https://en.wikipedia.org/wiki/Crumbling_skull_rule) - a well-established legal doctrine used in some tort law systems. It holds that where a plaintiff had a condition or injury that predates the tort and would have naturally deteriorated or worsened over time (e.g. a crumbling skull), the defendant is not responsible to the degree that the condition or injury would have naturally worsened over time.
 - [Eggshell skull](https://en.wikipedia.org/wiki/Eggshell_skull) - a well-established legal doctrine in common law, used in some tort law systems, with a similar doctrine applicable to criminal law. The rule states that, in a tort case, the unexpected frailty of the injured person is not a valid defense to the seriousness of any injury caused to them.
+- [Stambovsky vs. Ackley](https://en.wikipedia.org/wiki/Stambovsky_v._Ackley) commonly known as the Ghostbusters ruling, is a case in the New York Supreme Court held that held that a house, which the owner had previously advertised to the public as haunted by ghosts, legally was haunted for the purpose of an action for rescission brought by a subsequent purchaser of the house
 - [Statue forbidding Bearing of Armour](https://en.wikipedia.org/wiki/Statute_forbidding_Bearing_of_Armour) - was enacted in 1313 during the reign of Edward II of England. It decrees "that in all Parliaments, Treatises and other Assemblies, which should be made in the Realm of England for ever, that every Man shall come without all Force and Armour".
 
 ### People
@@ -279,6 +282,7 @@
 ### Words
 - [7 Dirty Words](https://en.wikipedia.org/wiki/Seven_dirty_words) - are seven English-language words that American comedian George Carlin first listed in 1972 in his monologue "Seven Words You Can Never Say on Television".
 - [-graphy](https://en.wikipedia.org/wiki/-graphy) - The English suffix -graphy means either "writing" or a "field of study"
+- [Anatopism](https://en.wikipedia.org/wiki/Anatopism) - An anatopism is something that is out of its proper place.
 - [Apherisis](https://en.wikipedia.org/wiki/Apheresis_(linguistics)) - the loss of one or more sounds from the beginning of a word, especially the loss of an unstressed vowel, thus producing a new form called an aphetism.
 - [Aptronym](https://en.wikipedia.org/wiki/Aptronym) - a personal name aptly or peculiarly suited to its owner.
 - [Auto-antonym](https://en.wikipedia.org/wiki/Auto-antonym) - also called a contronym, contranym or Janus word, is a word with multiple meanings (senses) of which one is the reverse of another. For example, the word cleave can mean "to cut apart" or "to bind together".
@@ -433,6 +437,7 @@
 - [List of English words containing Q not followed by U](https://en.wikipedia.org/wiki/List_of_English_words_containing_Q_not_followed_by_U)
 - [List of English words without rhymes](https://en.wikipedia.org/wiki/List_of_English_words_without_rhymes)
 - [List of eponymous laws](https://en.wikipedia.org/wiki/List_of_eponymous_laws)
+- [List of gestures](https://en.wikipedia.org/wiki/List_of_gestures)
 - [List of guitars](https://en.wikipedia.org/wiki/List_of_guitars)
 - [List of Internet top-level domains](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 - [List of inventors killed by their own inventions](https://en.wikipedia.org/wiki/List_of_inventors_killed_by_their_own_inventions)
@@ -484,7 +489,9 @@
 - [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia) - the tendency to interpret a vague stimulus as something known to the observer, such as seeing shapes in clouds, seeing faces in inanimate objects or abstract patterns, or hearing hidden messages in music.
 - [Pareto Principle](https://en.wikipedia.org/wiki/Pareto_principle) - The Pareto principle (also known as the 80/20 rule, the law of the vital few, or the principle of factor sparsity) states that, for many events, roughly 80% of the effects come from 20% of the causes.
 - [Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law) - the adage that "work expands so as to fill the time available for its completion".
+- [Path dependence](https://en.wikipedia.org/wiki/Path_dependence) - Path dependence is when the decisions presented to people are dependent on prior decisions or experiences made in the past.
 - [Poe's Law](https://en.wikipedia.org/wiki/Poe%27s_law) - Parody so extreme that you can't tell if it's sincere or sarcastic.
+- [Presentism](https://en.wikipedia.org/wiki/Presentism_(literary_and_historical_analysis)) - In literary and historical analysis, presentism is the anachronistic introduction of present-day ideas and perspectives into depictions or interpretations of the past.
 - [Scully Effect](https://en.wikipedia.org/wiki/Dana_Scully#%22The_Scully_Effect%22) - The character is believed to have initiated a phenomenon referred to as "The Scully Effect"; as the medical doctor and the FBI Special Agent inspired many young women to pursue careers in science, medicine and law enforcement, and as a result brought a perceptible increase in the number of women in those fields.
 - [The Wrong Type of Snow](https://en.wikipedia.org/wiki/The_wrong_type_of_snow) - A British Rail press release implied that management and its engineering staff were unaware of different types of snow. Henceforth in the United Kingdom, the phrase became a byword for euphemistic and pointless excuses.
 - [Twinkie Defense](https://en.wikipedia.org/wiki/Twinkie_defense) - "Twinkie defense" is a derisive label for an improbable legal defense.
