@@ -17,7 +17,7 @@
 - [Earworm](https://en.wikipedia.org/wiki/Earworm) - a catchy piece of music that continually repeats through a person's mind after it is no longer playing.
 - [Mirror canon](https://en.wikipedia.org/wiki/Mirror_canon) - a type of canon which involves the leading voice being played alongside its own inversion (i.e. upside-down).
 - [Musical cryptogram](https://en.wikipedia.org/wiki/Musical_cryptogram) - a cryptogrammatic sequence of musical notes, a sequence which can be taken to refer to an extra-musical text by some 'logical' relationship, usually between note names and letters.
-- [Shave and a Haircut](https://en.m.wikipedia.org/wiki/Shave_and_a_Haircut) - "Shave and a Haircut" and the associated response "two bits" is a 7-note musical call-and-response couplet, riff or fanfare popularly used at the end of a musical performance, usually for comic effect. It is used both melodically and rhythmically, for example as a door knock. 
+- [Shave and a Haircut](https://en.m.wikipedia.org/wiki/Shave_and_a_Haircut) - "Shave and a Haircut" and the associated response "two bits" is a 7-note musical call-and-response couplet, riff or fanfare popularly used at the end of a musical performance, usually for comic effect. It is used both melodically and rhythmically, for example as a door knock.
 - [Shepard tone](https://en.wikipedia.org/wiki/Shepard_tone) - is a sound consisting of a superposition of sine waves separated by octaves. This creates the auditory illusion of a tone that continually ascends or descends in pitch, yet which ultimately seems to get no higher or lower.
 - [Suite for Piano (Schoenberg)](https://en.wikipedia.org/wiki/Suite_for_Piano_(Schoenberg))
 
@@ -213,7 +213,8 @@
 - [Toilet-related injuries and deaths](https://en.wikipedia.org/wiki/Toilet-related_injuries_and_deaths)
 - [Waffle House Index](https://en.wikipedia.org/wiki/Waffle_House_Index) - an informal metric named after the Waffle House restaurant chain and is used by the Federal Emergency Management Agency (FEMA) to determine the effect of a storm and the likely scale of assistance required for disaster recovery.
 
-### Laws and Cases
+### Laws, Fines and Cases
+- [Buttock mail](https://en.wikipedia.org/wiki/Buttock_mail) - the colloquial term for a Scottish Poor Law tax which was introduced in 1595. Enforced by the ecclesiastical courts, buttock mail was levied as a fine for sexual intercourse out of wedlock.
 - [Crumbling skull rule](https://en.wikipedia.org/wiki/Crumbling_skull_rule) - a well-established legal doctrine used in some tort law systems. It holds that where a plaintiff had a condition or injury that predates the tort and would have naturally deteriorated or worsened over time (e.g. a crumbling skull), the defendant is not responsible to the degree that the condition or injury would have naturally worsened over time.
 - [Eggshell skull](https://en.wikipedia.org/wiki/Eggshell_skull) - a well-established legal doctrine in common law, used in some tort law systems, with a similar doctrine applicable to criminal law. The rule states that, in a tort case, the unexpected frailty of the injured person is not a valid defense to the seriousness of any injury caused to them.
 - [Stambovsky vs. Ackley](https://en.wikipedia.org/wiki/Stambovsky_v._Ackley) commonly known as the Ghostbusters ruling, is a case in the New York Supreme Court held that held that a house, which the owner had previously advertised to the public as haunted by ghosts, legally was haunted for the purpose of an action for rescission brought by a subsequent purchaser of the house
@@ -237,6 +238,12 @@
 
 ### Grammar
 - [Adjective Order](https://en.wikipedia.org/wiki/Adjective#Order) - In many languages, attributive adjectives usually occur in a specific order. In general, the adjective order in English can be summarised as: opinion, size, age or shape, colour, origin, material, purpose. This sequence (with age preceding shape) is sometimes referred to by the mnemonic OSASCOMP.
+- [Anthimeria](https://en.wikipedia.org/wiki/Anthimeria) - using one part of speech as another, such as using a noun as a verb: "The little old lady turtled along the road." In linguistics, this is called conversion; when a noun becomes a verb, it is a denominal verb, when a verb becomes a noun, it is a deverbal noun.
+- [Antimetabole](https://en.wikipedia.org/wiki/Antimetabole) - the repetition of words in successive clauses, but in transposed order; for example, "I know what I like, and I like what I know".
+- [Denominal verb](https://en.wikipedia.org/wiki/Denominal_verb) - verbs derived from nouns.
+- [Deverbal noun](https://en.wikipedia.org/wiki/Deverbal_noun) - nouns that are derived from verbs or verb phrases, but that behave grammatically purely as nouns, not as verbs.
+- [Symploce](https://en.wikipedia.org/wiki/Symploce) - a figure of speech in which a word or phrase is used successively at the beginning of two or more clauses or sentences and another word or phrase with a similar wording is used successively at the end of them. It is the combination of anaphora and epistrophe.
+- [Verbification](https://en.wikipedia.org/wiki/Conversion_(word_formation)#Verbing) - is creation of a verb from a noun, adjective or other word.
 
 ### Idioms
 - [Hobson's Choice](https://en.wikipedia.org/wiki/Hobson's_choice) - a free choice in which only one thing is offered. Because a person may refuse to accept what is offered, the two options are taking it or taking nothing. In other words, one may "take it or leave it".
@@ -520,8 +527,8 @@
 
 ## Science
 
-### Astronomy
-- [Frame-dragging](https://en.wikipedia.org/wiki/Frame-dragging)
+### Anatomy
+- [Saccular acoustic sensitivity](https://en.wikipedia.org/wiki/Saccular_acoustic_sensitivity) - a measurement of the ear's affectability to sound. Saccular acoustic sensitivity has a variety physiological as well as mental/emotional effects.
 
 ### Animals
 - [52-hertz whale](https://en.wikipedia.org/wiki/52-hertz_whale) - an individual whale of unidentified species, which calls at the very unusual frequency of 52 Hz.
@@ -535,6 +542,9 @@
 - [Raining of animals](https://en.wikipedia.org/wiki/Rain_of_animals) - a rare meteorological phenomenon in which flightless animals fall from the sky.
 - [Rat King](https://en.wikipedia.org/wiki/Rat_king) - A collection of rats whose tails are intertwined and bound together by one of several possible mechanisms, such as entangling material like hair or sticky substances like sap or gum.
 - [Sentinel Species](https://en.wikipedia.org/wiki/Sentinel_species) - are organisms, often animals, used to detect risks to humans by providing advance warning of a danger.
+
+### Astronomy
+- [Frame-dragging](https://en.wikipedia.org/wiki/Frame-dragging)
 
 ### Biology
 - [Mirror life](https://en.wikipedia.org/wiki/Mirror_life) is a hypothetical form of life with mirror-reflected molecular building blocks
@@ -600,6 +610,7 @@
 
 ### Food
 - [Butter mountain](https://en.wikipedia.org/wiki/Butter_mountain) - a supply surplus of butter produced in the European Economic Community because of government interventionism that began in the 1970s
+- [Democracy sausage](https://en.wikipedia.org/wiki/Democracy_sausage) - the colloquial name for a sausage wrapped in a slice of bread, bought from a sausage sizzle operated as a fundraiser at Australian polling places on election day, often in aid of the institutions that house the polling place.
 - [Government cheese](https://en.wikipedia.org/wiki/Government_cheese) - processed cheese provided to welfare beneficiaries, Food Stamp recipients, and the elderly receiving Social Security in the United States, as well as to food banks.
 - [Popcorn](https://en.wikipedia.org/wiki/Popcorn) - a variety of corn kernel which expands and puffs up when heated
 - [Soldiers (food)](https://en.wikipedia.org/wiki/Soldiers_(food)) - a thin strip of toast; the strips that a slice is cut into are reminiscent of soldiers on parade.
