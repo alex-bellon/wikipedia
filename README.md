@@ -20,6 +20,7 @@
 - [Shave and a Haircut](https://en.m.wikipedia.org/wiki/Shave_and_a_Haircut) - "Shave and a Haircut" and the associated response "two bits" is a 7-note musical call-and-response couplet, riff or fanfare popularly used at the end of a musical performance, usually for comic effect. It is used both melodically and rhythmically, for example as a door knock.
 - [Shepard tone](https://en.wikipedia.org/wiki/Shepard_tone) - is a sound consisting of a superposition of sine waves separated by octaves. This creates the auditory illusion of a tone that continually ascends or descends in pitch, yet which ultimately seems to get no higher or lower.
 - [Suite for Piano (Schoenberg)](https://en.wikipedia.org/wiki/Suite_for_Piano_(Schoenberg))
+- [Voix céleste](https://en.wikipedia.org/wiki/Voix_c%C3%A9leste) - an organ stop consisting of either one or two ranks of pipes slightly out of tune. The term celeste refers to a rank of pipes detuned slightly so as to produce a beating effect when combined with a normally tuned rank.
 
 ### Performing Arts
 - [Mise-en-scène](https://en.wikipedia.org/wiki/Mise-en-sc%C3%A8ne) - the stage design and arrangement of actors in scenes for a theatre or film production, both in visual arts through storyboarding, visual theme, and cinematography, and in narrative storytelling through direction.
@@ -294,6 +295,7 @@
 - [Aptronym](https://en.wikipedia.org/wiki/Aptronym) - a personal name aptly or peculiarly suited to its owner.
 - [Auto-antonym](https://en.wikipedia.org/wiki/Auto-antonym) - also called a contronym, contranym or Janus word, is a word with multiple meanings (senses) of which one is the reverse of another. For example, the word cleave can mean "to cut apart" or "to bind together".
 - [Autological Word](https://en.wikipedia.org/wiki/Autological_word) - a word that expresses a property that it also possesses
+- [Dasein](https://en.wikipedia.org/wiki/Dasein) is a German word that means "being there" or "presence" (German: da "there"; sein "to be"), and is often translated into English with the word "existence". It is a fundamental concept in the existential philosophy of Martin Heidegger. Heidegger uses the expression Dasein to refer to the experience of being that is peculiar to human beings.
 - [Dead metaphor](https://en.wikipedia.org/wiki/Dead_metaphor) is a figure of speech which has lost the original imagery of its meaning due to extensive, repetitive, and popular usage.
 - [Demonym](https://en.wikipedia.org/wiki/Demonym) - is a word that identifies residents or natives of a particular place and is derived from the name of the place.
 - [Deixis](https://en.wikipedia.org/wiki/Deixis) -  words and phrases, such as "me" or "here", that cannot be fully understood without additional contextual information—in this case, the identity of the speaker ("me") and the speaker's location ("here").
@@ -421,6 +423,7 @@
 - [Numerology](https://en.wikipedia.org/wiki/Numerology) - any belief in the divine or mystical relationship between a number and one or more coinciding events.
 - [Paul is dead](https://en.wikipedia.org/wiki/Paul_is_dead) - an urban legend and conspiracy theory alleging that Paul McCartney, of the English rock band the Beatles, died in November 1966 and was secretly replaced by a look-alike.
 - [Postdiction](https://en.wikipedia.org/wiki/Postdiction) -  In skepticism, it is considered an effect of hindsight bias that explains claimed predictions of significant events such as plane crashes and natural disasters.
+- [Russian political jokes](https://en.wikipedia.org/wiki/Russian_political_jokes) -  a part of Russian humour and can be grouped into the major time periods: Imperial Russia, Soviet Union and finally post-Soviet Russia.
 - [San Seriffe](https://en.wikipedia.org/wiki/San_Serriffe) - a fictional island nation created for April Fools' Day 1977, by Britain's Guardian newspaper.
 - [Schroedinger's cat in popular culture](https://en.wikipedia.org/wiki/Schr%C3%B6dinger's_cat_in_popular_culture)
 - [Therblig](https://en.wikipedia.org/wiki/Therblig) - are 18 kinds of elemental motions used in the study of motion economy in the workplace. A workplace task is analyzed by recording each of the therblig units for a process, with the results used for optimization of manual labour by eliminating unneeded movements.
@@ -462,6 +465,7 @@
 - [List of scholarly publishing stings](https://en.wikipedia.org/wiki/List_of_scholarly_publishing_stings)
 - [List of selfie-related injuries and deaths](https://en.wikipedia.org/wiki/List_of_selfie-related_injuries_and_deaths)
 - [List of sexually active popes](https://en.wikipedia.org/wiki/List_of_sexually_active_popes)
+- [List of soups](https://en.wikipedia.org/wiki/List_of_soups)
 - [List of tallest structures in the world by country](https://en.wikipedia.org/wiki/List_of_tallest_structures_by_country)
 - [List of tautological place names](https://en.wikipedia.org/wiki/List_of_redundant_place_names)
 - [List of wheel-well stowaway flights](https://en.wikipedia.org/wiki/List_of_wheel-well_stowaway_flights)
@@ -604,6 +608,7 @@
 - [Milk cars](https://en.wikipedia.org/wiki/Milk_car) are a specialized type of railroad car intended to transport raw milk from collection points near dairy farms to a processing creamery. Some milk cars were intended for loading with multiple cans of milk, while others were designed with a single tank for bulk loading. Milk cars were often equipped with high-speed passenger trucks, passenger-type buffer plates, and train signal and steam lines seldom found on conventional refrigerator cars.
 - [Polar bear jail](https://en.wikipedia.org/wiki/Polar_bear_jail) - a special building in Churchill, Manitoba where polar bears that are considered troublesome or dangerous are isolated before they can be relocated.
 - [Smoot](https://en.wikipedia.org/wiki/Smoot) - a nonstandard, humorous unit of length created as part of an MIT fraternity prank. It is named after Oliver R. Smoot, a fraternity pledge to Lambda Chi Alpha, who in October 1958 lay down repeatedly on the Harvard Bridge (between Boston and Cambridge, Massachusetts) so that his fraternity brothers could use his height to measure the length of the bridge.
+- [Test Card F](https://en.wikipedia.org/wiki/Test_Card_F) - a test card that was created by the BBC and used on television in the United Kingdom and in countries elsewhere in the world for more than four decades. It was the first to be transmitted in colour in the UK and the first to feature a person, and has become an iconic British image regularly subject to parody. 
 - [The Letters of Utrecht](https://en.wikipedia.org/wiki/The_Letters_of_Utrecht) - form an endless poem in the stones of a street in the center of the Dutch city of Utrecht.
 - [Torpedo juice](https://en.wikipedia.org/wiki/Torpedo_juice) - slang for an alcoholic beverage, first mixed in World War II, made from pineapple juice and the 180-proof grain alcohol fuel used in United States Navy torpedo motors. Various poisonous additives were mixed into the fuel alcohol by Navy authorities to render the alcohol undrinkable, and various methods were employed by the U.S. sailors to separate the alcohol from the poison.
 - [United Nationa laissez-passer](https://en.wikipedia.org/wiki/United_Nations_laissez-passer) - The UNLP is a valid travel document, which can be used like a national passport (in connection with travel on official missions only).
