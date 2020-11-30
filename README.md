@@ -72,6 +72,7 @@
 - [Identicon](https://en.wikipedia.org/wiki/Identicon) - An Identicon is a visual representation of a hash value, usually of an IP address, that serves to identify a user of a computer system as a form of avatar while protecting the users' privacy.
 - [Key Schedule](https://en.wikipedia.org/wiki/Key_schedule) - In cryptography, the so-called product ciphers are a certain kind of cipher, where the (de-)ciphering of data is typically done as an iteration of rounds.
 - [Key signing party](https://en.wikipedia.org/wiki/Key_signing_party) - an event at which people present their public keys to others in person, who, if they are confident the key actually belongs to the person who claims it, digitally sign the certificate containing that public key and the person's name, etc.
+- [Key Wrap](https://en.wikipedia.org/wiki/Key_Wrap) - a class of symmetric encryption algorithms designed to encrypt cryptographic key material.
 - [Lamport signature](https://en.wikipedia.org/wiki/Lamport_signature) - a method for constructing a digital signature. Lamport signatures can be built from any cryptographically secure one-way function; usually a cryptographic hash function is used.
 - [Linux Unified Key Setup](https://en.wikipedia.org/wiki/Linux_Unified_Key_Setup) - disk encryption specification created by Clemens Fruhwirth in 2004 and was originally intended for Linux.
 - [Merkle Tree](https://en.wikipedia.org/wiki/Merkle_tree) - a hash tree or Merkle tree is a tree in which every leaf node is labelled with the hash of a data block, and every non-leaf node is labelled with the cryptographic hash of the labels of its child nodes.
@@ -200,6 +201,7 @@
 - [Flitch of bacon custom](https://en.wikipedia.org/wiki/Flitch_of_bacon_custom) - The awarding of a flitch of bacon to married couples who can swear to not having regretted their marriage for a year and a day is an old tradition, the remnants of which still survive in some pockets in England.
 - [Gay Nineties](https://en.wikipedia.org/wiki/Gay_Nineties) - an American nostalgic term and a periodization of the history of the United States referring to the decade of the 1890s.
 - [History of breakfast](https://en.wikipedia.org/wiki/History_of_breakfast)
+- [Human Interference Task Force](https://en.wikipedia.org/wiki/Human_Interference_Task_Force) - a team of engineers, anthropologists, nuclear physicists, behavioral scientists and others convened on behalf of the U.S. Department of Energy and Bechtel Corp. to find a way to reduce the likelihood of future humans unintentionally intruding on radioactive waste isolation systems.
 - [IBM during World War II](https://en.wikipedia.org/wiki/IBM_during_World_War_II) - Both the United States government and Nazi German government used IBM punched card technology for some parts of their camps operation and record keeping.
 - [Immurement](https://en.wikipedia.org/wiki/Immurement) - is a form of imprisonment, usually until death, in which a person is placed within an enclosed space with no exits.
 - [Kakistocracy](https://en.wikipedia.org/wiki/Kakistocracy) - a system of government that is run by the worst, least qualified, and/or most unscrupulous citizens.
@@ -223,6 +225,7 @@
 
 ### People
 - [Digby Tatham-Warter](https://en.wikipedia.org/wiki/Digby_Tatham-Warter) - Digby got to him and said "Don't worry about the bullets, I've got an umbrella". He then escorted the chaplain across the street under his umbrella. When he returned to the front line, one of his fellow officers said about his umbrella that "that thing won't do you any good", to which Digby replied "Oh my goodness Pat, but what if it rains?"
+- [The boy Jones](https://en.wikipedia.org/wiki/The_boy_Jones) - a British teenager who became notorious for breaking into Buckingham Palace multiple times between 1838 and 1841.
 - [Umarell](https://en.wikipedia.org/wiki/Umarell) - a term popular in Bologna referring specifically to men of retirement age who pass the time watching construction sites, especially roadworks – stereotypically with hands clasped behind their back and offering unwanted advice
 
 ### Wars
@@ -419,6 +422,7 @@
 - [Dooring](https://en.wikipedia.org/wiki/Dooring) - a traffic collision in which a cyclist rides into a car door or is struck by a car door that was opened quickly without checking first for cyclists by using the side mirror and/or performing a proper shoulder check out and back.
 - [Friedman Unit](https://en.wikipedia.org/wiki/Friedman_Unit) - One Friedman Unit is equal to six months, specifically the "next six months", a period repeatedly declared by New York Times columnist Thomas Friedman to be the most critical of the then-ongoing Iraq War even though such pronouncements extended back over two and a half years.
 - [Ivan Renko](https://en.wikipedia.org/wiki/Ivan_Renko) - Ivan Renko was a fictitious Yugoslav basketball player created by Bobby Knight when he was the head coach for the Indiana University Hoosiers.
+- [Long-time nuclear waste warning messages](https://en.wikipedia.org/wiki/Long-time_nuclear_waste_warning_messages) - intended to deter human intrusion at nuclear waste repositories in the far future, within or above the order of magnitude of 10,000 years.
 - [Luddite fallacy](https://en.wikipedia.org/wiki/Technological_unemployment#The_Luddite_fallacy) - used to express the view that those concerned about long term technological unemployment are committing a fallacy, as they fail to account for compensation effects.
 - [Numerology](https://en.wikipedia.org/wiki/Numerology) - any belief in the divine or mystical relationship between a number and one or more coinciding events.
 - [Paul is dead](https://en.wikipedia.org/wiki/Paul_is_dead) - an urban legend and conspiracy theory alleging that Paul McCartney, of the English rock band the Beatles, died in November 1966 and was secretly replaced by a look-alike.
@@ -442,6 +446,7 @@
 - [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
 - [List of collective nouns of animals](https://en.wikipedia.org/wiki/List_of_English_terms_of_venery,_by_animal)
 - [List of common misconceptions](https://en.wikipedia.org/wiki/List_of_common_misconceptions)
+- [List of companies involved in the Holocaust](https://en.wikipedia.org/wiki/List_of_companies_involved_in_the_Holocaust)
 - [List of deadliest animals to humans](https://en.wikipedia.org/wiki/List_of_deadliest_animals_to_humans)
 - [List of Disney attractions that were never built](https://en.wikipedia.org/wiki/List_of_Disney_attractions_that_were_never_built)
 - [List of English words containing Q not followed by U](https://en.wikipedia.org/wiki/List_of_English_words_containing_Q_not_followed_by_U)
@@ -608,12 +613,14 @@
 - [Milk cars](https://en.wikipedia.org/wiki/Milk_car) are a specialized type of railroad car intended to transport raw milk from collection points near dairy farms to a processing creamery. Some milk cars were intended for loading with multiple cans of milk, while others were designed with a single tank for bulk loading. Milk cars were often equipped with high-speed passenger trucks, passenger-type buffer plates, and train signal and steam lines seldom found on conventional refrigerator cars.
 - [Polar bear jail](https://en.wikipedia.org/wiki/Polar_bear_jail) - a special building in Churchill, Manitoba where polar bears that are considered troublesome or dangerous are isolated before they can be relocated.
 - [Smoot](https://en.wikipedia.org/wiki/Smoot) - a nonstandard, humorous unit of length created as part of an MIT fraternity prank. It is named after Oliver R. Smoot, a fraternity pledge to Lambda Chi Alpha, who in October 1958 lay down repeatedly on the Harvard Bridge (between Boston and Cambridge, Massachusetts) so that his fraternity brothers could use his height to measure the length of the bridge.
-- [Test Card F](https://en.wikipedia.org/wiki/Test_Card_F) - a test card that was created by the BBC and used on television in the United Kingdom and in countries elsewhere in the world for more than four decades. It was the first to be transmitted in colour in the UK and the first to feature a person, and has become an iconic British image regularly subject to parody. 
+- [Test Card F](https://en.wikipedia.org/wiki/Test_Card_F) - a test card that was created by the BBC and used on television in the United Kingdom and in countries elsewhere in the world for more than four decades. It was the first to be transmitted in colour in the UK and the first to feature a person, and has become an iconic British image regularly subject to parody.
 - [The Letters of Utrecht](https://en.wikipedia.org/wiki/The_Letters_of_Utrecht) - form an endless poem in the stones of a street in the center of the Dutch city of Utrecht.
 - [Torpedo juice](https://en.wikipedia.org/wiki/Torpedo_juice) - slang for an alcoholic beverage, first mixed in World War II, made from pineapple juice and the 180-proof grain alcohol fuel used in United States Navy torpedo motors. Various poisonous additives were mixed into the fuel alcohol by Navy authorities to render the alcohol undrinkable, and various methods were employed by the U.S. sailors to separate the alcohol from the poison.
+- [Trencher](https://en.wikipedia.org/wiki/Trencher_(tableware)) - a type of tableware, commonly used in medieval cuisine. A trencher was originally a flat round of (usually stale) bread used as a plate, upon which the food could be placed to eat.
 - [United Nationa laissez-passer](https://en.wikipedia.org/wiki/United_Nations_laissez-passer) - The UNLP is a valid travel document, which can be used like a national passport (in connection with travel on official missions only).
 
 ### Food
+- [99 Flake](https://en.wikipedia.org/wiki/99_Flake) - A 99 Flake can refer to any of three possible items: an ice cream cone with a Cadbury Flake inserted in it; the Cadbury-produced Flake bar itself specially made for insertion into an ice cream cone; or a wrapped ice cream cone product marketed by Cadbury.
 - [Butter mountain](https://en.wikipedia.org/wiki/Butter_mountain) - a supply surplus of butter produced in the European Economic Community because of government interventionism that began in the 1970s
 - [Democracy sausage](https://en.wikipedia.org/wiki/Democracy_sausage) - the colloquial name for a sausage wrapped in a slice of bread, bought from a sausage sizzle operated as a fundraiser at Australian polling places on election day, often in aid of the institutions that house the polling place.
 - [Government cheese](https://en.wikipedia.org/wiki/Government_cheese) - processed cheese provided to welfare beneficiaries, Food Stamp recipients, and the elderly receiving Social Security in the United States, as well as to food banks.
