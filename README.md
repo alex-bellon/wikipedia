@@ -112,6 +112,7 @@
 - [Billiard-ball computer](https://en.wikipedia.org/wiki/Billiard-ball_computer) - an idealized model of a reversible mechanical computer based on Newtonian dynamics.
 - [Currying](https://en.wikipedia.org/wiki/Currying) - the technique of translating the evaluation of a function that takes multiple arguments into evaluating a sequence of functions, each with a single argument.
 - [Demonic non-determinism](https://en.wikipedia.org/wiki/Demonic_non-determinism) - describes the execution of a non-deterministic program where all choices that are made favour non-termination.
+- [Vacuous truth](https://en.wikipedia.org/wiki/Vacuous_truth) - a conditional or universal statement that is only true because the antecedent cannot be satisfied.
 
 ### Machines
 - [Busy beaver](https://en.wikipedia.org/wiki/Busy_beaver) - The busy beaver game consists of designing a halting, binary-alphabet Turing machine which writes the most 1s on the tape, using only a limited set of states. The rules for the 2-state game are as follows: 1. the machine must have two states in addition to the halting state, and 2. the tape starts with 0s only. As the player, you should conceive each state aiming for the maximum output of 1s on the tape while making sure the machine will halt eventually.
@@ -217,6 +218,9 @@
 - [Toilet-related injuries and deaths](https://en.wikipedia.org/wiki/Toilet-related_injuries_and_deaths)
 - [Waffle House Index](https://en.wikipedia.org/wiki/Waffle_House_Index) - an informal metric named after the Waffle House restaurant chain and is used by the Federal Emergency Management Agency (FEMA) to determine the effect of a storm and the likely scale of assistance required for disaster recovery.
 
+### Architecture
+- [Panopticon](https://en.wikipedia.org/wiki/Panopticon) - a type of institutional building and a system of control designed by the English philosopher and social theorist Jeremy Bentham in the 18th century. The concept of the design is to allow all prisoners of an institution to be observed by a single security guard, without the inmates being able to tell whether they are being watched. 
+
 ### Laws, Fines and Cases
 - [Buttock mail](https://en.wikipedia.org/wiki/Buttock_mail) - the colloquial term for a Scottish Poor Law tax which was introduced in 1595. Enforced by the ecclesiastical courts, buttock mail was levied as a fine for sexual intercourse out of wedlock.
 - [Crumbling skull rule](https://en.wikipedia.org/wiki/Crumbling_skull_rule) - a well-established legal doctrine used in some tort law systems. It holds that where a plaintiff had a condition or injury that predates the tort and would have naturally deteriorated or worsened over time (e.g. a crumbling skull), the defendant is not responsible to the degree that the condition or injury would have naturally worsened over time.
@@ -239,6 +243,7 @@
 ## Internet
 - [Book of Mozilla](https://en.wikipedia.org/wiki/The_Book_of_Mozilla) - a computer Easter egg found in the Netscape and Mozilla series of web browsers.
 - [Chum Box](https://en.wikipedia.org/wiki/Chum_box) - A chum box (or chumbucket) is a form of online advertising that uses a grid of thumbnails and captions to drive traffic to other sites and webpages.
+- [Email storm](https://en.wikipedia.org/wiki/Email_storm) - a sudden spike of "reply all" messages on an email distribution list, usually caused by a controversial or misdirected message.
 - [Eternal September](https://en.wikipedia.org/wiki/Eternal_September) - is Usenet slang for a period beginning in September 1993, the month that Internet service provider America Online (AOL) began offering Usenet access to its many users, overwhelming the existing culture for online forums.
 - [Google's ideological echo chamber](https://en.wikipedia.org/wiki/Google's_Ideological_Echo_Chamber) - commonly referred to as the Google memo, is an internal memo, dated July 2017, by United States-based Google engineer James Damore about Google's culture and diversity policies
 - [Monkey selfie copyright dispute](https://en.wikipedia.org/wiki/Monkey_selfie_copyright_dispute) - a series of disputes about the copyright status of selfies taken by Celebes crested macaques using equipment belonging to the British nature photographer David Slater.
@@ -265,6 +270,7 @@
 - [False friends](https://en.wikipedia.org/wiki/False_friend) - words in different languages that look or sound similar, but differ significantly in meaning.
 - [Latin obscenity](https://en.wikipedia.org/wiki/Latin_obscenity) - the profane, indecent, or impolite vocabulary of Latin, and its uses. Words deemed obscene were described as obsc(a)ena (obscene, lewd, unfit for public use), or improba (improper, in poor taste, undignified).
 - [Linguistic relativity](https://en.wikipedia.org/wiki/Linguistic_relativity) - the structure of a language affects its speakers' world view or cognition.
+- [North-South differences in the Korean language](https://en.wikipedia.org/wiki/North%E2%80%93South_differences_in_the_Korean_language) - The Korean language has changed between North and South Korea due to the length of time that the two states have been separated.
 - [Pandanus language](https://en.wikipedia.org/wiki/Pandanus_language) - an elaborate avoidance language among several of the peoples of the eastern New Guinea Highlands, used when collecting Pandanus nuts.
 - [Stylometry](https://en.wikipedia.org/wiki/Stylometry) - the application of the study of linguistic style, usually to written language, but it has successfully been applied to music and to fine-art paintings as well.
 - [Theives' cant](https://en.wikipedia.org/wiki/Thieves'_cant) - a secret language (a cant or cryptolect) which was formerly used by thieves, beggars and hustlers of various kinds in Great Britain and to a lesser extent in other English-speaking countries.
@@ -281,6 +287,7 @@
 ### Punctuation
 - [Interrobang](https://en.wikipedia.org/wiki/Interrobang) - a punctuation mark used in various written languages and intended to combine the functions of the question mark, or interrogative point, and the exclamation mark, or exclamation point, known in the jargon of printers and programmers as a "bang".
 - [Irony punctuation](https://en.wikipedia.org/wiki/Irony_punctuation) - any proposed form of notation used to denote irony or sarcasm in text.
+- [Pilcrow](https://en.wikipedia.org/wiki/Pilcrow) - ¶
 
 ### Speech
 - [High rising terminal](https://en.wikipedia.org/wiki/High_rising_terminal) - a feature of some variants of English where declarative sentence clauses end with a rising-pitch intonation, until the end of the sentence where a falling-pitch is applied.
@@ -292,6 +299,7 @@
 - [Colorless green ideas sleep furiously](https://en.wikipedia.org/wiki/Colorless_green_ideas_sleep_furiously) - a sentence composed by Noam Chomsky in his 1957 book Syntactic Structures as an example of a sentence that is grammatically correct, but semantically nonsensical.
 - [Donald Duck talk](https://en.wikipedia.org/wiki/Donald_Duck_talk) - an alaryngeal form of vocalization which uses the inner cheek to produce sound rather than the larynx.
 - [Dord](https://en.wikipedia.org/wiki/Dord) - a dictionary error in lexicography. On July 31, 1931, Austin M. Patterson, the dictionary's chemistry editor, sent in a slip reading "D or d, cont./density." This was intended to add "density" to the existing list of words that the letter "D" can abbreviate. The phrase "D or d" was misinterpreted as a single, run-together word: Dord.
+- [Double-barreled question](https://en.wikipedia.org/wiki/Double-barreled_question) - an informal fallacy. It is committed when someone asks a question that touches upon more than one issue, yet allows only for one answer.
 - [Ghoti](https://en.wikipedia.org/wiki/Ghoti) - a creative respelling of the word fish, used to illustrate irregularities in English spelling and pronunciation.
 - [Going postal](https://en.wikipedia.org/wiki/Going_postal) - Going postal is an American English slang phrase referring to becoming extremely and uncontrollably angry, often to the point of violence, and usually in a workplace environment. The expression derives from a series of incidents from 1986 onward in which United States Postal Service (USPS) workers shot and killed managers, fellow workers, and members of the police or general public in acts of mass murder.
 - [Satiric misspelling](https://en.wikipedia.org/wiki/Satiric_misspelling) - an intentional misspelling of a word, phrase or name for a rhetorical purpose. This is often done by replacing a letter with another letter (for example, k replacing c), or symbol (for example, $ replacing s, @ replacing a, or ¢ replacing c).
@@ -436,12 +444,14 @@
 - [Numerology](https://en.wikipedia.org/wiki/Numerology) - any belief in the divine or mystical relationship between a number and one or more coinciding events.
 - [Open access](https://en.wikipedia.org/wiki/Open_access)
 - [Paul is dead](https://en.wikipedia.org/wiki/Paul_is_dead) - an urban legend and conspiracy theory alleging that Paul McCartney, of the English rock band the Beatles, died in November 1966 and was secretly replaced by a look-alike.
+- [Politician's syllogism](https://en.wikipedia.org/wiki/Politician%27s_syllogism) - The politician's syllogism, also known as the politician's logic or the politician's fallacy, is a logical fallacy of the form: We must do something. This is something. Therefore, we must do this.
 - [Postdiction](https://en.wikipedia.org/wiki/Postdiction) -  In skepticism, it is considered an effect of hindsight bias that explains claimed predictions of significant events such as plane crashes and natural disasters.
 - [Russian political jokes](https://en.wikipedia.org/wiki/Russian_political_jokes) -  a part of Russian humour and can be grouped into the major time periods: Imperial Russia, Soviet Union and finally post-Soviet Russia.
 - [San Seriffe](https://en.wikipedia.org/wiki/San_Serriffe) - a fictional island nation created for April Fools' Day 1977, by Britain's Guardian newspaper.
 - [Schroedinger's cat in popular culture](https://en.wikipedia.org/wiki/Schr%C3%B6dinger's_cat_in_popular_culture)
 - [Therblig](https://en.wikipedia.org/wiki/Therblig) - are 18 kinds of elemental motions used in the study of motion economy in the workplace. A workplace task is analyzed by recording each of the therblig units for a process, with the results used for optimization of manual labour by eliminating unneeded movements.
 - [The People Walker](https://en.wikipedia.org/wiki/The_People_Walker) is a service where people can hire someone to walk with them and provide motivation through conversation and companionship.
+- [Vehicle registration plates of Europe](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Europe)
 - [Verdana-gate](https://en.wikipedia.org/wiki/Verdana#Usage) - The "scandal" that ensued when IKEA changed their main typeface from Futura to Verdana.
 
 ### Galleries, Glossaries and Lists
@@ -455,6 +465,7 @@
 - [List of chemical compounds with unusual names](https://en.wikipedia.org/wiki/List_of_chemical_compounds_with_unusual_names)
 - [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
 - [List of collective nouns of animals](https://en.wikipedia.org/wiki/List_of_English_terms_of_venery,_by_animal)
+- [List of common dips](https://en.wikipedia.org/wiki/Dipping_sauce#List_of_common_dips)
 - [List of common misconceptions](https://en.wikipedia.org/wiki/List_of_common_misconceptions)
 - [List of companies involved in the Holocaust](https://en.wikipedia.org/wiki/List_of_companies_involved_in_the_Holocaust)
 - [List of deadliest animals to humans](https://en.wikipedia.org/wiki/List_of_deadliest_animals_to_humans)
