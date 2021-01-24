@@ -191,17 +191,14 @@
 - [Monopsony](https://en.wikipedia.org/wiki/Monopsony) - a market structure in which a single buyer substantially controls the market as the major purchaser of goods and services offered by many would-be sellers.
 
 ## History & Anthropology
-- [1984 Rajneeshee bioterror attack](https://en.wikipedia.org/wiki/1984_Rajneeshee_bioterror_attack) - The deliberate contamination of salad bars at ten The Dalles, Oregon restaurants with Salmonella. A group of prominent followers of Bhagwan Shree Rajneesh had hoped to incapacitate the voting population of the city so that their own candidates would win the 1984 Wasco County elections. The incident was the first and is the single largest bioterrorist attack in United States history.
 - [Abuwtiyuw](https://en.wikipedia.org/wiki/Abuwtiyuw) - The Egyptian dog Abuwtiyuw was one of the earliest documented domestic animals whose name is known.
 - [Acoustic Kitty](https://en.wikipedia.org/wiki/Acoustic_Kitty) - Acoustic Kitty was a CIA project launched by the Central Intelligence Agency Directorate of Science & Technology, which in the 1960s intended to use cats to spy on the Kremlin and Soviet embassies.
-- [Baby Tooth Survey](https://en.wikipedia.org/wiki/Baby_Tooth_Survey) - The Baby Tooth Survey was initiated by the Greater St. Louis Citizens' Committee for Nuclear Information in conjunction with Saint Louis University and the Washington University School of Dental Medicine as a means of determining the effects of nuclear fallout in the human anatomy by examining the levels of radioactive material absorbed into the deciduous teeth of children.
 - [Cargo Cult](https://en.wikipedia.org/wiki/Cargo_cult) - A belief system among members of a relatively undeveloped society in which adherents practice superstitious rituals hoping to bring modern goods supplied by a more technologically advanced society.
-- [Capitol Hill Autonomous Zone](https://en.wikipedia.org/wiki/Capitol_Hill_Autonomous_Zone) - an occupation protest and self-declared autonomous zone in the Capitol Hill neighborhood of Seattle, Washington.
 - [Chicken George (politics)](https://en.wikipedia.org/wiki/Chicken_George_(politics)) - a campaign tactic in the 1992 U.S. presidential election, where one or more people in chicken costumes heckled President George H. W. Bush over his refusal to participate in a debate with Democratic candidate Bill Clinton.
 - [Cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk) - any activist advocating widespread use of strong cryptography and privacy-enhancing technologies as a route to social and political change.
+- [Epicenity](https://en.wikipedia.org/wiki/Epicenity) - the lack of gender distinction
 - [Eye-rolling](https://en.wikipedia.org/wiki/Eye-rolling) - passive-aggressive response to an undesirable situation or person. The gesture is used to disagree or dismiss the targeted person without physical contact.
 - [Flitch of bacon custom](https://en.wikipedia.org/wiki/Flitch_of_bacon_custom) - The awarding of a flitch of bacon to married couples who can swear to not having regretted their marriage for a year and a day is an old tradition, the remnants of which still survive in some pockets in England.
-- [Gay Nineties](https://en.wikipedia.org/wiki/Gay_Nineties) - an American nostalgic term and a periodization of the history of the United States referring to the decade of the 1890s.
 - [History of breakfast](https://en.wikipedia.org/wiki/History_of_breakfast)
 - [Human Interference Task Force](https://en.wikipedia.org/wiki/Human_Interference_Task_Force) - a team of engineers, anthropologists, nuclear physicists, behavioral scientists and others convened on behalf of the U.S. Department of Energy and Bechtel Corp. to find a way to reduce the likelihood of future humans unintentionally intruding on radioactive waste isolation systems.
 - [IBM during World War II](https://en.wikipedia.org/wiki/IBM_during_World_War_II) - Both the United States government and Nazi German government used IBM punched card technology for some parts of their camps operation and record keeping.
@@ -211,18 +208,26 @@
 - [Naruto run](https://en.wikipedia.org/wiki/Naruto#Naruto_run) - a running style based on the way the characters run leaning forward with their arms behind their backs.
 - [Nils Olav](https://en.wikipedia.org/wiki/Nils_Olav) - a king penguin who resides in Edinburgh Zoo, Scotland. He is the mascot and colonel-in-chief of the Norwegian King's Guard.
 - [Obsolete Occupations](https://en.wikipedia.org/wiki/Category:Obsolete_occupations)
-- [Pepsi Fruit Juice Flood](https://en.wikipedia.org/wiki/Pepsi_Fruit_Juice_Flood) - a flood of 176,000 barrels (28 million litres; 7.4 million US gallons) of fruit and vegetable juices into the streets of Lebedyan, Russia and the Don River, caused by the collapse of a PepsiCo warehouse.
 - [Pink Capitalism](https://en.wikipedia.org/wiki/Pink_capitalism) - the incorporation of the LGBT movement and sexual diversity to capitalism and the market economy, viewed especially in a critical lens as this incorporation pertains to the LGBT, Western, white, and affluent, upper middle class communities and market.
-- [Storm Area 51](https://en.wikipedia.org/wiki/Storm_Area_51) - an American Facebook event that took place on September 20, 2019, at Area 51, a United States Air Force (USAF) facility within the Nevada Test and Training Range, to raid the site in a search for extraterrestrial life.
 - [Sword of Damocles](https://en.wikipedia.org/wiki/Damocles) - King who hung a sword from a string above his head to represent the constant threat involved in ruling
 - [Toilet-related injuries and deaths](https://en.wikipedia.org/wiki/Toilet-related_injuries_and_deaths)
 - [Waffle House Index](https://en.wikipedia.org/wiki/Waffle_House_Index) - an informal metric named after the Waffle House restaurant chain and is used by the Federal Emergency Management Agency (FEMA) to determine the effect of a storm and the likely scale of assistance required for disaster recovery.
 
 ### Architecture
-- [Panopticon](https://en.wikipedia.org/wiki/Panopticon) - a type of institutional building and a system of control designed by the English philosopher and social theorist Jeremy Bentham in the 18th century. The concept of the design is to allow all prisoners of an institution to be observed by a single security guard, without the inmates being able to tell whether they are being watched. 
+- [Panopticon](https://en.wikipedia.org/wiki/Panopticon) - a type of institutional building and a system of control designed by the English philosopher and social theorist Jeremy Bentham in the 18th century. The concept of the design is to allow all prisoners of an institution to be observed by a single security guard, without the inmates being able to tell whether they are being watched.
+
+### Events
+- [1984 Rajneeshee bioterror attack](https://en.wikipedia.org/wiki/1984_Rajneeshee_bioterror_attack) - The deliberate contamination of salad bars at ten The Dalles, Oregon restaurants with Salmonella. A group of prominent followers of Bhagwan Shree Rajneesh had hoped to incapacitate the voting population of the city so that their own candidates would win the 1984 Wasco County elections. The incident was the first and is the single largest bioterrorist attack in United States history.
+- [Baby Tooth Survey](https://en.wikipedia.org/wiki/Baby_Tooth_Survey) - The Baby Tooth Survey was initiated by the Greater St. Louis Citizens' Committee for Nuclear Information in conjunction with Saint Louis University and the Washington University School of Dental Medicine as a means of determining the effects of nuclear fallout in the human anatomy by examining the levels of radioactive material absorbed into the deciduous teeth of children.
+- [Candy bar protest](https://en.wikipedia.org/wiki/Candy_bar_protest) - a short-lived 1947 protest by Canadian children over the increase in price of chocolate bars from five to eight cents.
+- [Capitol Hill Autonomous Zone](https://en.wikipedia.org/wiki/Capitol_Hill_Autonomous_Zone) - an occupation protest and self-declared autonomous zone in the Capitol Hill neighborhood of Seattle, Washington.
+- [Gay Nineties](https://en.wikipedia.org/wiki/Gay_Nineties) - an American nostalgic term and a periodization of the history of the United States referring to the decade of the 1890s.
+- [Pepsi Fruit Juice Flood](https://en.wikipedia.org/wiki/Pepsi_Fruit_Juice_Flood) - a flood of 176,000 barrels (28 million litres; 7.4 million US gallons) of fruit and vegetable juices into the streets of Lebedyan, Russia and the Don River, caused by the collapse of a PepsiCo warehouse.
+- [Storm Area 51](https://en.wikipedia.org/wiki/Storm_Area_51) - an American Facebook event that took place on September 20, 2019, at Area 51, a United States Air Force (USAF) facility within the Nevada Test and Training Range, to raid the site in a search for extraterrestrial life.
 
 ### Laws, Fines and Cases
 - [Buttock mail](https://en.wikipedia.org/wiki/Buttock_mail) - the colloquial term for a Scottish Poor Law tax which was introduced in 1595. Enforced by the ecclesiastical courts, buttock mail was levied as a fine for sexual intercourse out of wedlock.
+- [Chewbacca defense](https://en.wikipedia.org/wiki/Chewbacca_defense) - a legal strategy in which a criminal defense lawyer tries to confuse the jury rather than refute the case of the prosecutor.
 - [Crumbling skull rule](https://en.wikipedia.org/wiki/Crumbling_skull_rule) - a well-established legal doctrine used in some tort law systems. It holds that where a plaintiff had a condition or injury that predates the tort and would have naturally deteriorated or worsened over time (e.g. a crumbling skull), the defendant is not responsible to the degree that the condition or injury would have naturally worsened over time.
 - [Eggshell skull](https://en.wikipedia.org/wiki/Eggshell_skull) - a well-established legal doctrine in common law, used in some tort law systems, with a similar doctrine applicable to criminal law. The rule states that, in a tort case, the unexpected frailty of the injured person is not a valid defense to the seriousness of any injury caused to them.
 - [Stambovsky vs. Ackley](https://en.wikipedia.org/wiki/Stambovsky_v._Ackley) commonly known as the Ghostbusters ruling, is a case in the New York Supreme Court held that held that a house, which the owner had previously advertised to the public as haunted by ghosts, legally was haunted for the purpose of an action for rescission brought by a subsequent purchaser of the house
@@ -247,8 +252,12 @@
 - [Eternal September](https://en.wikipedia.org/wiki/Eternal_September) - is Usenet slang for a period beginning in September 1993, the month that Internet service provider America Online (AOL) began offering Usenet access to its many users, overwhelming the existing culture for online forums.
 - [Google's ideological echo chamber](https://en.wikipedia.org/wiki/Google's_Ideological_Echo_Chamber) - commonly referred to as the Google memo, is an internal memo, dated July 2017, by United States-based Google engineer James Damore about Google's culture and diversity policies
 - [Monkey selfie copyright dispute](https://en.wikipedia.org/wiki/Monkey_selfie_copyright_dispute) - a series of disputes about the copyright status of selfies taken by Celebes crested macaques using equipment belonging to the British nature photographer David Slater.
+- [Sealioning](https://en.wikipedia.org/wiki/Sealioning) - a type of trolling or harassment that consists of pursuing people with persistent requests for evidence or repeated questions, while maintaining a pretense of civility and sincerity.
 
 ## Language
+
+### Debate/Argument
+- [Gish gallop](https://en.wikipedia.org/wiki/Gish_gallop) - a technique in which a debater attempts to overwhelm an opponent by excessive number of arguments, without regard for the accuracy or strength of those arguments.
 
 ### Grammar
 - [Adjective Order](https://en.wikipedia.org/wiki/Adjective#Order) - In many languages, attributive adjectives usually occur in a specific order. In general, the adjective order in English can be summarised as: opinion, size, age or shape, colour, origin, material, purpose. This sequence (with age preceding shape) is sometimes referred to by the mnemonic OSASCOMP.
@@ -256,10 +265,12 @@
 - [Antimetabole](https://en.wikipedia.org/wiki/Antimetabole) - the repetition of words in successive clauses, but in transposed order; for example, "I know what I like, and I like what I know".
 - [Denominal verb](https://en.wikipedia.org/wiki/Denominal_verb) - verbs derived from nouns.
 - [Deverbal noun](https://en.wikipedia.org/wiki/Deverbal_noun) - nouns that are derived from verbs or verb phrases, but that behave grammatically purely as nouns, not as verbs.
+- [Singular they](https://en.wikipedia.org/wiki/Singular_they) - the use in English of the pronoun they or its inflected or derivative forms, them, their, theirs, and themselves (or themself), as an epicene (gender-neutral) singular pronoun.
 - [Symploce](https://en.wikipedia.org/wiki/Symploce) - a figure of speech in which a word or phrase is used successively at the beginning of two or more clauses or sentences and another word or phrase with a similar wording is used successively at the end of them. It is the combination of anaphora and epistrophe.
 - [Verbification](https://en.wikipedia.org/wiki/Conversion_(word_formation)#Verbing) - is creation of a verb from a noun, adjective or other word.
 
 ### Idioms
+- ["He never married"](https://en.wikipedia.org/wiki/He_never_married) was a phrase commonly used by obituary writers in the United Kingdom as a euphemism for the deceased having been homosexual.
 - [Hobson's Choice](https://en.wikipedia.org/wiki/Hobson's_choice) - a free choice in which only one thing is offered. Because a person may refuse to accept what is offered, the two options are taking it or taking nothing. In other words, one may "take it or leave it".
 - [Morton's Fork](https://en.wikipedia.org/wiki/Morton's_fork) - a type of false dilemma in which contradictory observations lead to the same conclusion. It is said to have originated with the collecting of taxes by John Morton.
 
@@ -455,11 +466,11 @@
 - [Verdana-gate](https://en.wikipedia.org/wiki/Verdana#Usage) - The "scandal" that ensued when IKEA changed their main typeface from Futura to Verdana.
 
 ### Galleries, Glossaries and Lists
+- [Gallery of sovereign state flags](https://en.wikipedia.org/wiki/Gallery_of_sovereign_state_flags)
 - [Glossary of manias](https://en.wikipedia.org/wiki/Glossary_of_manias)
 - [Glossary of philosophy](https://en.wikipedia.org/wiki/Glossary_of_philosophy)
 - [Glossary of rhetorical terms](https://en.wikipedia.org/wiki/Glossary_of_rhetorical_terms)
 - [Glossary of shapes with metaphorical names](https://en.wikipedia.org/wiki/Glossary_of_shapes_with_metaphorical_names)
-- [Gallery of sovereign state flags](https://en.wikipedia.org/wiki/Gallery_of_sovereign_state_flags)
 - [Glossary of vexillology](https://en.wikipedia.org/wiki/Glossary_of_vexillology)
 - [List of artificial objects on the Moon](https://en.wikipedia.org/wiki/List_of_artificial_objects_on_the_Moon)
 - [List of chemical compounds with unusual names](https://en.wikipedia.org/wiki/List_of_chemical_compounds_with_unusual_names)
@@ -487,6 +498,7 @@
 - [List of paradoxes](https://en.wikipedia.org/wiki/List_of_paradoxes)
 - [List of philosophies](https://en.wikipedia.org/wiki/List_of_philosophies
 - [List of phobias](https://en.wikipedia.org/wiki/List_of_phobias)
+- [List of places with "Silicon" in the name](https://en.wikipedia.org/wiki/List_of_technology_centers#Places_with_%22Silicon%22_names)
 - [List of prime numbers](https://en.wikipedia.org/wiki/List_of_prime_numbers)
 - [List of public signage typefaces](https://en.wikipedia.org/wiki/List_of_public_signage_typefaces)
 - [List of scholarly publishing stings](https://en.wikipedia.org/wiki/List_of_scholarly_publishing_stings)
@@ -509,6 +521,7 @@
 - [Benford's law](https://en.wikipedia.org/wiki/Benford's_law) - in many naturally occurring collections of numbers, the leading digit is likely to be small.
 - [Betteridge's law of headlines](https://en.wikipedia.org/wiki/Betteridge's_law_of_headlines) - "Any headline that ends in a question mark can be answered by the word no."
 - [Bouba/kiki effect](https://en.wikipedia.org/wiki/Bouba/kiki_effect) - is a non-arbitrary mapping between speech sounds and the visual shape of objects.
+- [Brandolini's law](https://en.wikipedia.org/wiki/Brandolini%27s_law) - "The amount of energy needed to refute bullshit is an order of magnitude larger than to produce it."
 - [Broken Windows Theory](https://en.wikipedia.org/wiki/Broken_windows_theory) - Criminological theory that visible signs of crime, anti-social behavior, and civil disorder create an urban environment that encourages further crime and disorder, including serious crimes.
 - [Computer says no](https://en.wikipedia.org/wiki/Computer_says_no) - Popular name given to an attitude seen in some public-facing organisations where the default response to a customer’s request is to check with information stored on or generated by a computer, and then make decisions based on that, often in the face of common sense.
 - [Crab mentality](https://en.wikipedia.org/wiki/Crab_mentality) - is a way of thinking best described by the phrase "if I can't have it, neither can you".
@@ -583,6 +596,7 @@
 - [Mirror life](https://en.wikipedia.org/wiki/Mirror_life) is a hypothetical form of life with mirror-reflected molecular building blocks
 
 ### Cartography, Geography
+- [Aoshima](https://en.wikipedia.org/wiki/Aoshima,_Ehime) - an island in Ehime Prefecture, Japan, known for its large number of feline residents. Felines have been reported by news outlets to outnumber humans by ratios between 6:1 and 10:1, but as elderly inhabitants of the island have died, the ratio has greatly increased to almost 36:1.
 - [Aral Sea](https://en.wikipedia.org/wiki/Aral_Sea) - once the fourth largest lake in the world, has been shrinking since the 60s, when rivers that fed it were diverted for Soviet irrigation projects.
 - [Northeast megalopolis](https://en.wikipedia.org/wiki/Northeast_megalopolis) is the most populous megalopolis located entirely in the United States, with over 50 million residents, as well as the most urbanized megalopolis in the United States and the megalopolis with the world's largest economic output.
 - [Satellite map images with missing or unclear data](https://en.wikipedia.org/wiki/Satellite_map_images_with_missing_or_unclear_data)
@@ -617,6 +631,7 @@
 - [Adventure playground](https://en.wikipedia.org/wiki/Adventure_playground) - a specific type of playground for children. Adventure playgrounds can take many forms, ranging from "natural playgrounds" to "junk playgrounds", and are typically defined by an ethos of unrestricted play, the presence of playworkers (or "wardens"), and the absence of adult-manufactured or rigid play-structures.
 - [Ampelmaennchen](https://en.wikipedia.org/wiki/Ampelm%C3%A4nnchen) - is the symbol shown on pedestrian signals in Germany.
 - [Archimedes' Screw](https://en.wikipedia.org/wiki/Archimedes'_screw) -  is a machine used for transferring water from a low-lying body of water into irrigation ditches.
+- [Auxetics](https://en.wikipedia.org/wiki/Auxetics) - structures or materials that have a negative Poisson's ratio. When stretched, they become thicker perpendicular to the applied force.
 - [Bread dildo](https://en.wikipedia.org/wiki/Bread_dildo) - a dildo prepared using bread, allegedly made in the Greco-Roman era around 2,000 years ago.
 - [Camouflage passport](https://en.wikipedia.org/wiki/Camouflage_passport) - a document, designed to look like a real passport, issued in the name of a non-existent country or entity.
 - [Christmas Bullet](https://en.wikipedia.org/wiki/Christmas_Bullet) - an American single-seat cantilever wing biplane. It is considered by many to be among the worst aircraft ever constructed.
