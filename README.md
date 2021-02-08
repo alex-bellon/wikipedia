@@ -59,6 +59,7 @@
 - [Beale ciphers](https://en.wikipedia.org/wiki/Beale_ciphers) - a set of three ciphertexts, one of which allegedly states the location of a buried treasure of gold, silver and jewels estimated to be worth over US$43 million as of January 2018.
 - [Blowfish (cipher)](https://en.wikipedia.org/wiki/Blowfish_(cipher)) - a symmetric-key block cipher, designed in 1993 by Bruce Schneier and included in many cipher suites and encryption products.
 - [ChaCha](https://en.wikipedia.org/wiki/Salsa20#ChaCha_variant) - aim to increase the diffusion per round while achieving the same or slightly better performance.
+- [Chaffing and winnowing](https://en.wikipedia.org/wiki/Chaffing_and_winnowing) - a cryptographic technique to achieve confidentiality without using encryption when sending data over an insecure channel.
 - [Chaocipher](https://en.wikipedia.org/wiki/Chaocipher) - a cipher method invented by John Francis Byrne in 1918 and described in his 1953 autobiographical Silent Years. He believed Chaocipher was simple, yet unbreakable. Byrne stated that the machine he used to encipher his messages could be fitted into a cigar box. He offered cash rewards for anyone who could solve it.
 - [Commitment scheme](https://en.wikipedia.org/wiki/Commitment_scheme) - a cryptographic primitive that allows one to commit to a chosen value (or chosen statement) while keeping it hidden to others, with the ability to reveal the committed value later. Commitment schemes are designed so that a party cannot change the value or statement after they have committed to it: that is, commitment schemes are binding.
 - [Coppersmith's attack](https://en.wikipedia.org/wiki/Coppersmith%27s_attack) - a class of cryptographic attacks on the public-key cryptosystem RSA based on the Coppersmith method.
@@ -108,6 +109,7 @@
 - [Lenna](https://en.wikipedia.org/wiki/Lenna) - Standard test image for image processing
 
 ### Logic
+- [Abductive reasoning](https://en.m.wikipedia.org/wiki/Abductive_reasoning) - a form of logical inference. It starts with an observation or set of observations and then seeks to find the simplest and most likely conclusion from the observations. This process, unlike deductive reasoning, yields a plausible conclusion but does not positively verify it.
 - [Angelic non-determinism](https://en.wikipedia.org/wiki/Angelic_non-determinism) - the execution of a non-deterministic program where all choices that are made favor termination of the program.
 - [Billiard-ball computer](https://en.wikipedia.org/wiki/Billiard-ball_computer) - an idealized model of a reversible mechanical computer based on Newtonian dynamics.
 - [Currying](https://en.wikipedia.org/wiki/Currying) - the technique of translating the evaluation of a function that takes multiple arguments into evaluating a sequence of functions, each with a single argument.
@@ -237,6 +239,8 @@
 - [Digby Tatham-Warter](https://en.wikipedia.org/wiki/Digby_Tatham-Warter) - Digby got to him and said "Don't worry about the bullets, I've got an umbrella". He then escorted the chaplain across the street under his umbrella. When he returned to the front line, one of his fellow officers said about his umbrella that "that thing won't do you any good", to which Digby replied "Oh my goodness Pat, but what if it rains?"
 - [Ivan Renko](https://en.wikipedia.org/wiki/Ivan_Renko) - Ivan Renko was a fictitious Yugoslav basketball player created by Bobby Knight when he was the head coach for the Indiana University Hoosiers.
 - [Joseph Darby](https://en.wikipedia.org/wiki/Joseph_Darby_%28jumper%29) - a renowned jumper from the Black Country village of Netherton. He specialised in spring jumping (jumping starting from a stationary position) often using weights in his hands to help propel him.
+- [Pauli Murray](https://en.wikipedia.org/wiki/Pauli_Murray) - an American civil rights activist who became a lawyer, a women's rights activist, Episcopal priest, and author. Drawn to the ministry, in 1977 Murray was the first African-American woman to be ordained as an Episcopal priest, in the first year that any women were ordained by that church.
+- [Steve Shirley](https://en.wikipedia.org/wiki/Steve_Shirley) - a British information technology pioneer, businesswoman and philanthropist.
 - [The boy Jones](https://en.wikipedia.org/wiki/The_boy_Jones) - a British teenager who became notorious for breaking into Buckingham Palace multiple times between 1838 and 1841.
 - [Umarell](https://en.wikipedia.org/wiki/Umarell) - a term popular in Bologna referring specifically to men of retirement age who pass the time watching construction sites, especially roadworks – stereotypically with hands clasped behind their back and offering unwanted advice
 
@@ -248,11 +252,13 @@
 ## Internet
 - [Book of Mozilla](https://en.wikipedia.org/wiki/The_Book_of_Mozilla) - a computer Easter egg found in the Netscape and Mozilla series of web browsers.
 - [Chum Box](https://en.wikipedia.org/wiki/Chum_box) - A chum box (or chumbucket) is a form of online advertising that uses a grid of thumbnails and captions to drive traffic to other sites and webpages.
+- [Considered harmful](https://en.wikipedia.org/wiki/Considered_harmful) - a part of a phrasal template "X considered harmful". As of 2009, its snowclones have been used in the titles of at least 65 critical essays in computer science and related disciplines. Its use in this context originated with a 1968 letter by Edsger Dijkstra published as "Go To Statement Considered Harmful".
 - [Email storm](https://en.wikipedia.org/wiki/Email_storm) - a sudden spike of "reply all" messages on an email distribution list, usually caused by a controversial or misdirected message.
 - [Eternal September](https://en.wikipedia.org/wiki/Eternal_September) - is Usenet slang for a period beginning in September 1993, the month that Internet service provider America Online (AOL) began offering Usenet access to its many users, overwhelming the existing culture for online forums.
 - [Google's ideological echo chamber](https://en.wikipedia.org/wiki/Google's_Ideological_Echo_Chamber) - commonly referred to as the Google memo, is an internal memo, dated July 2017, by United States-based Google engineer James Damore about Google's culture and diversity policies
 - [Monkey selfie copyright dispute](https://en.wikipedia.org/wiki/Monkey_selfie_copyright_dispute) - a series of disputes about the copyright status of selfies taken by Celebes crested macaques using equipment belonging to the British nature photographer David Slater.
 - [Sealioning](https://en.wikipedia.org/wiki/Sealioning) - a type of trolling or harassment that consists of pursuing people with persistent requests for evidence or repeated questions, while maintaining a pretense of civility and sincerity.
+- [Series of tubes](https://en.wikipedia.org/wiki/Series_of_tubes) - a phrase used originally as an analogy by then-United States Senator Ted Stevens (R-Alaska) to describe the Internet in the context of opposing network neutrality.
 
 ## Language
 
@@ -273,6 +279,7 @@
 - ["He never married"](https://en.wikipedia.org/wiki/He_never_married) was a phrase commonly used by obituary writers in the United Kingdom as a euphemism for the deceased having been homosexual.
 - [Hobson's Choice](https://en.wikipedia.org/wiki/Hobson's_choice) - a free choice in which only one thing is offered. Because a person may refuse to accept what is offered, the two options are taking it or taking nothing. In other words, one may "take it or leave it".
 - [Morton's Fork](https://en.wikipedia.org/wiki/Morton's_fork) - a type of false dilemma in which contradictory observations lead to the same conclusion. It is said to have originated with the collecting of taxes by John Morton.
+- - [Snowclone](https://en.wikipedia.org/wiki/Snowclone) - a cliché and phrasal template that can be used and recognized in multiple variants.
 
 ### Languages
 - [Avoidance speech](https://en.wikipedia.org/wiki/Avoidance_speech) - a group of sociolinguistic phenomena in which a special restricted speech style must be used in the presence of or in reference to certain relatives.
@@ -446,6 +453,7 @@
 - [BBC Redux](https://en.wikipedia.org/wiki/BBC_Redux) - a BBC Research & Development system that digitally records television and radio output in the United Kingdom produced by the British Broadcasting Corporation. It has been operating since 2007 and contains several petabytes of recordings and subtitle data.
 - [Cold Reading](https://en.wikipedia.org/wiki/Cold_reading) - a set of techniques used by mentalists, psychics, fortune-tellers, mediums, illusionists (readers), and scam artists to imply that the reader knows much more about the person than the reader actually does.
 - [Curse of the Colonel](https://en.wikipedia.org/wiki/Curse_of_the_Colonel) - an urban legend regarding a reputed curse placed on the Japanese Kansai-based Hanshin Tigers baseball team by deceased KFC founder and mascot Colonel Harland Sanders.
+- [Differential privacy](https://en.wikipedia.org/wiki/Differential_privacy) - a system for publicly sharing information about a dataset by describing the patterns of groups within the dataset while withholding information about individuals in the dataset.
 - [Disambiguation (disambiguation)](https://en.wikipedia.org/wiki/Disambiguation_(disambiguation))
 - [Dooring](https://en.wikipedia.org/wiki/Dooring) - a traffic collision in which a cyclist rides into a car door or is struck by a car door that was opened quickly without checking first for cyclists by using the side mirror and/or performing a proper shoulder check out and back.
 - [Foreign accent syndrome](https://en.wikipedia.org/wiki/Foreign_accent_syndrome) - a medical condition in which patients develop speech patterns that are perceived as a foreign accent that is different from their native accent, without having acquired it in the perceived accent's place of origin.
@@ -543,6 +551,7 @@
 - [Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law) - the adage that "work expands so as to fill the time available for its completion".
 - [Path dependence](https://en.wikipedia.org/wiki/Path_dependence) - Path dependence is when the decisions presented to people are dependent on prior decisions or experiences made in the past.
 - [Poe's Law](https://en.wikipedia.org/wiki/Poe%27s_law) - Parody so extreme that you can't tell if it's sincere or sarcastic.
+- [Post hoc ergo propter hoc](https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc) - n informal fallacy that states: "Since event Y followed event X, event Y must have been caused by event X." It is often shortened simply to post hoc fallacy.
 - [Presentism](https://en.wikipedia.org/wiki/Presentism_(literary_and_historical_analysis)) - In literary and historical analysis, presentism is the anachronistic introduction of present-day ideas and perspectives into depictions or interpretations of the past.
 - [Scully Effect](https://en.wikipedia.org/wiki/Dana_Scully#%22The_Scully_Effect%22) - The character is believed to have initiated a phenomenon referred to as "The Scully Effect"; as the medical doctor and the FBI Special Agent inspired many young women to pursue careers in science, medicine and law enforcement, and as a result brought a perceptible increase in the number of women in those fields.
 - [The Wrong Type of Snow](https://en.wikipedia.org/wiki/The_wrong_type_of_snow) - A British Rail press release implied that management and its engineering staff were unaware of different types of snow. Henceforth in the United Kingdom, the phrase became a byword for euphemistic and pointless excuses.
@@ -551,17 +560,21 @@
 
 ## Philosophy
 - [Absurdism](https://en.wikipedia.org/wiki/Absurdism) - In philosophy, "the Absurd" refers to the conflict between the human tendency to seek inherent value and meaning in life and the human inability to find any in a purposeless, meaningless or chaotic and irrational universe.
+- [Dystheism](https://en.wikipedia.org/wiki/Dystheism) - the belief that a god is not wholly good and is possibly evil.
 - [Five-minute hypothesis](https://en.wikipedia.org/wiki/Omphalos_hypothesis#Five-minute_hypothesis) - a skeptical hypothesis put forth by the philosopher Bertrand Russell that proposes that the universe sprang into existence five minutes ago from nothing, with human memory and all other signs of history included.
+- [Gnosticism](https://en.wikipedia.org/wiki/Gnosticism) - a collection of religious ideas and systems that emphasised personal spiritual knowledge (gnosis) over the orthodox teachings, traditions, and authority of the church. Viewing material existence as flawed or evil, Gnostic cosmogony generally presents a distinction between a supreme, hidden God and a malevolent lesser divinity (sometimes associated with the Yahweh of the Old Testament) who is responsible for creating the material universe.
 - [Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor) - Never attribute to malice that which is adequately explained by stupidity
 - [Homunculus Argument](https://en.wikipedia.org/wiki/Homunculus_argument) - The homunculus argument is a fallacy arising most commonly in the theory of vision. One may explain human vision by noting that light from the outside world forms an image on the retinas in the eyes and something (or someone) in the brain looks at these images as if they are images on a movie screen.
 - [Last Thursdayism](https://en.wikipedia.org/wiki/Omphalos_hypothesis#Last_Thursdayism) - "the world might as well have been created last Thursday".
 - [Omphalos Hypothesis](https://en.wikipedia.org/wiki/Omphalos_hypothesis) - The omphalos hypothesis is one attempt to reconcile the scientific evidence that the universe is billions of years old with the Genesis creation narrative, which implies that the Earth is only a few thousand years old.
+- [Misotheism](https://en.wikipedia.org/wiki/Misotheism) - the "hatred of God" or "hatred of the gods"
 - [Russell's Teapot](https://en.wikipedia.org/wiki/Russell%27s_teapot) - an analogy to illustrate that the philosophic burden of proof lies upon a person making unfalsifiable claims, rather than shifting the burden of disproof to others. He wrote that if he were to assert, without offering proof, that a teapot, too small to be seen by telescopes, orbits the Sun somewhere in space between the Earth and Mars, he could not expect anyone to believe him solely because his assertion could not be proven wrong.
 - [Social Gadfly](https://en.wikipedia.org/wiki/Social_gadfly) -
 
 ## Puzzles/Thought Experiments
 - [Ant on a rubber rope](https://en.wikipedia.org/wiki/Ant_on_a_rubber_rope) - An ant starts to crawl along a taut rubber rope 1 km long at a speed of 1 cm per second (relative to the rubber it is crawling on). At the same time, the rope starts to stretch uniformly by 1 km per second, so that after 1 second it is 2  km long, after 2 seconds it is 3 km long, etc. Will the ant ever reach the end of the rope?
 - [Chicken or the egg](https://en.wikipedia.org/wiki/Chicken_or_the_egg) - The dilemma stems from the observation that all chickens hatch from eggs and all chicken eggs are laid by chickens. "Chicken-and-egg" is a metaphoric adjective describing situations where it is not clear which of two events should be considered the cause and which should be considered the effect, or to express a scenario of infinite regress, or to express the difficulty of sequencing actions where each seems to depend on others being done first.
+- [Hilbert's paradox of the Grand Hotel](https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel) - a thought experiment which illustrates a counterintuitive property of infinite sets. It is demonstrated that a fully occupied hotel with infinitely many rooms may still accommodate additional guests, even infinitely many of them, and this process may be repeated infinitely often.
 - [If a tree falls in a forest](https://en.wikipedia.org/wiki/If_a_tree_falls_in_a_forest) - a philosophical thought experiment that raises questions regarding observation and perception.
 - [Infinite Monkey Theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem) - states that a monkey hitting keys at random on a typewriter keyboard for an infinite amount of time will almost surely type any given text, such as the complete works of William Shakespeare.
 - [Quantum suicide and immortality](https://en.wikipedia.org/wiki/Quantum_suicide_and_immortality) - a thought experiment in quantum mechanics and the philosophy of physics. Purportedly, it can falsify any interpretation of quantum mechanics other than the Everett many-worlds interpretation by means of a variation of the Schrödinger's cat thought experiment, from the cat's point of view.
@@ -598,6 +611,7 @@
 ### Cartography, Geography
 - [Aoshima](https://en.wikipedia.org/wiki/Aoshima,_Ehime) - an island in Ehime Prefecture, Japan, known for its large number of feline residents. Felines have been reported by news outlets to outnumber humans by ratios between 6:1 and 10:1, but as elderly inhabitants of the island have died, the ratio has greatly increased to almost 36:1.
 - [Aral Sea](https://en.wikipedia.org/wiki/Aral_Sea) - once the fourth largest lake in the world, has been shrinking since the 60s, when rivers that fed it were diverted for Soviet irrigation projects.
+- [Doubly-landlocked countries](https://en.wikipedia.org/wiki/Landlocked_country#Doubly_landlocked) - A country is "doubly landlocked" or "double-landlocked" when it is surrounded only by landlocked countries (requiring the crossing of at least two national borders to reach a coastline).
 - [Northeast megalopolis](https://en.wikipedia.org/wiki/Northeast_megalopolis) is the most populous megalopolis located entirely in the United States, with over 50 million residents, as well as the most urbanized megalopolis in the United States and the megalopolis with the world's largest economic output.
 - [Satellite map images with missing or unclear data](https://en.wikipedia.org/wiki/Satellite_map_images_with_missing_or_unclear_data)
 - [Thankful Villages](https://en.wikipedia.org/wiki/Thankful_Villages) - settlements in England and Wales from which all their members of the armed forces survived World War I.
@@ -630,6 +644,7 @@
 ## Things
 - [Adventure playground](https://en.wikipedia.org/wiki/Adventure_playground) - a specific type of playground for children. Adventure playgrounds can take many forms, ranging from "natural playgrounds" to "junk playgrounds", and are typically defined by an ethos of unrestricted play, the presence of playworkers (or "wardens"), and the absence of adult-manufactured or rigid play-structures.
 - [Ampelmaennchen](https://en.wikipedia.org/wiki/Ampelm%C3%A4nnchen) - is the symbol shown on pedestrian signals in Germany.
+- [Apollo insurance covers](https://en.wikipedia.org/wiki/Apollo_insurance_covers) - autographed postal covers signed by the astronaut crews prior to their mission. The ability of astronauts to obtain much life insurance was limited, so they signed hundreds of postal covers before they left, on the presumption that they would become highly valuable in the event of their death.
 - [Archimedes' Screw](https://en.wikipedia.org/wiki/Archimedes'_screw) -  is a machine used for transferring water from a low-lying body of water into irrigation ditches.
 - [Auxetics](https://en.wikipedia.org/wiki/Auxetics) - structures or materials that have a negative Poisson's ratio. When stretched, they become thicker perpendicular to the applied force.
 - [Bread dildo](https://en.wikipedia.org/wiki/Bread_dildo) - a dildo prepared using bread, allegedly made in the Greco-Roman era around 2,000 years ago.
@@ -645,6 +660,7 @@
 - [Donkey vote](https://en.wikipedia.org/wiki/Donkey_vote) - a ballot cast in an election that uses a preference voting system, where a voter is permitted or required to rank candidates on the ballot paper, and ranks them based on the order they appear on the ballot paper.
 - [Dual-tone multi-frequency signaling](https://en.wikipedia.org/wiki/Dual-tone_multi-frequency_signaling) - a telecommunication signaling system using the voice-frequency band over telephone lines between telephone equipment and other communications devices and switching centers.
 - [Ersatz Good](https://en.wikipedia.org/wiki/Ersatz_good) - Substitute good, normally inferior.
+- [Factory-kitchen](https://en.wikipedia.org/wiki/Factory-kitchen) - a large mechanized enterprise of food service in the Soviet Union, originated in the 1920–1930s. Its main purpose was centralized preparation of food (both prefabrication and full processing) supplied for communal dining rooms or for personal purchase.
 - [Fata Morgana](https://en.wikipedia.org/wiki/Fata_Morgana_(mirage)) - a complex form of superior mirage that is seen in a narrow band right above the horizon.
 - [Flushometer](https://en.wikipedia.org/wiki/Flushometer) - a metal water-diverter that uses an inline handle to flush tankless toilets or urinals.
 - [Garden hermit](https://en.wikipedia.org/wiki/Garden_hermit) - hermits encouraged to live in purpose-built hermitages, follies, grottoes, or rockeries on the estates of wealthy land-owners, primarily during the 18th century. Such hermits would be encouraged to dress like druids and remain permanently on-site, where they could be fed, cared-for and consulted for advice or viewed for entertainment.
