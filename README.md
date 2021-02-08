@@ -246,6 +246,7 @@
 
 ### Wars
 - [Anglo-Zanzibar War](https://en.wikipedia.org/wiki/Anglo-Zanzibar_War) - a military conflict fought between the United Kingdom and the Zanzibar Sultanate on 27 August 1896. The conflict lasted between 38 and 45 minutes, marking it as the shortest recorded war in history.
+- [Ecash](https://en.wikipedia.org/wiki/Ecash) - an anonymous cryptographic electronic money or electronic cash system in 1983.
 - [Emu War](https://en.wikipedia.org/wiki/Emu_War) - a nuisance wildlife management military operation undertaken in Australia over the later part of 1932 to address public concern over the number of emus said to be running amok in the Campion district of Western Australia. The unsuccessful attempts to curb the population of emus, a large flightless bird indigenous to Australia, employed soldiers armed with Lewis guns—leading the media to adopt the name "Emu War" when referring to the incident.
 - [Kettle War](https://en.wikipedia.org/wiki/Kettle_War) - The Kettle War was a military confrontation between the troops of the Holy Roman Empire and the Republic of the Seven Netherlands on 8 October 1784. It was named the Kettle War because the only shot fired hit a soup kettle.
 
@@ -255,6 +256,7 @@
 - [Considered harmful](https://en.wikipedia.org/wiki/Considered_harmful) - a part of a phrasal template "X considered harmful". As of 2009, its snowclones have been used in the titles of at least 65 critical essays in computer science and related disciplines. Its use in this context originated with a 1968 letter by Edsger Dijkstra published as "Go To Statement Considered Harmful".
 - [Email storm](https://en.wikipedia.org/wiki/Email_storm) - a sudden spike of "reply all" messages on an email distribution list, usually caused by a controversial or misdirected message.
 - [Eternal September](https://en.wikipedia.org/wiki/Eternal_September) - is Usenet slang for a period beginning in September 1993, the month that Internet service provider America Online (AOL) began offering Usenet access to its many users, overwhelming the existing culture for online forums.
+- [Googlewhack](https://en.wikipedia.org/wiki/Googlewhack) - a contest to find a Google Search query that returns a single result.
 - [Google's ideological echo chamber](https://en.wikipedia.org/wiki/Google's_Ideological_Echo_Chamber) - commonly referred to as the Google memo, is an internal memo, dated July 2017, by United States-based Google engineer James Damore about Google's culture and diversity policies
 - [Monkey selfie copyright dispute](https://en.wikipedia.org/wiki/Monkey_selfie_copyright_dispute) - a series of disputes about the copyright status of selfies taken by Celebes crested macaques using equipment belonging to the British nature photographer David Slater.
 - [Sealioning](https://en.wikipedia.org/wiki/Sealioning) - a type of trolling or harassment that consists of pursuing people with persistent requests for evidence or repeated questions, while maintaining a pretense of civility and sincerity.
@@ -271,6 +273,8 @@
 - [Antimetabole](https://en.wikipedia.org/wiki/Antimetabole) - the repetition of words in successive clauses, but in transposed order; for example, "I know what I like, and I like what I know".
 - [Denominal verb](https://en.wikipedia.org/wiki/Denominal_verb) - verbs derived from nouns.
 - [Deverbal noun](https://en.wikipedia.org/wiki/Deverbal_noun) - nouns that are derived from verbs or verb phrases, but that behave grammatically purely as nouns, not as verbs.
+- [Donkey sentence](https://en.wikipedia.org/wiki/Donkey_sentence) - sentences that contain a pronoun with clear meaning (it is bound semantically) but whose syntactical role in the sentence poses challenges to grammarians.
+- [Garden-path sentence](https://en.wikipedia.org/wiki/Garden-path_sentence) - a grammatically correct sentence that starts in such a way that a reader's most likely interpretation will be incorrect; the reader is lured into a parse that turns out to be a dead end or yields a clearly unintended meaning.
 - [Singular they](https://en.wikipedia.org/wiki/Singular_they) - the use in English of the pronoun they or its inflected or derivative forms, them, their, theirs, and themselves (or themself), as an epicene (gender-neutral) singular pronoun.
 - [Symploce](https://en.wikipedia.org/wiki/Symploce) - a figure of speech in which a word or phrase is used successively at the beginning of two or more clauses or sentences and another word or phrase with a similar wording is used successively at the end of them. It is the combination of anaphora and epistrophe.
 - [Verbification](https://en.wikipedia.org/wiki/Conversion_(word_formation)#Verbing) - is creation of a verb from a noun, adjective or other word.
@@ -282,6 +286,7 @@
 - - [Snowclone](https://en.wikipedia.org/wiki/Snowclone) - a cliché and phrasal template that can be used and recognized in multiple variants.
 
 ### Languages
+- [Abjad](https://en.wikipedia.org/wiki/Abjad) - a type of writing system where each symbol or glyph stands for a consonant, in effect leaving it to readers to infer or otherwise supply an appropriate vowel.
 - [Avoidance speech](https://en.wikipedia.org/wiki/Avoidance_speech) - a group of sociolinguistic phenomena in which a special restricted speech style must be used in the presence of or in reference to certain relatives.
 - [Constructed Languages](https://en.wikipedia.org/wiki/Constructed_language) - A constructed language (sometimes called a conlang) is a language whose phonology, grammar, and vocabulary are, instead of having developed naturally, consciously devised for communication between intelligent beings, most commonly for use by humanoids.
 - [Dog Latin](https://en.wikipedia.org/wiki/Dog_Latin) - the creation of a phrase or jargon in imitation of Latin, often by "translating" English words (or those of other languages) into Latin by conjugating or declining them as if they were Latin words.
@@ -336,7 +341,9 @@
 - [Deixis](https://en.wikipedia.org/wiki/Deixis) -  words and phrases, such as "me" or "here", that cannot be fully understood without additional contextual information—in this case, the identity of the speaker ("me") and the speaker's location ("here").
 - [Diegesis](https://en.wikipedia.org/wiki/Diegesis) - the relaying of information in a fictional work (such as a film or novel) through a narrative. Diegetic elements are part of the fictional world ("part of the story"), as opposed to non-diegetic elements which are stylistic elements of how the narrator tells the story ("part of the storytelling").
 - [Eggcorn](https://en.wikipedia.org/wiki/Eggcorn) - An idiosyncratic substitution of a word or phrase for a word or words that sound similar or identical in the speaker's dialect (sometimes called oronyms).
+- [Eponym](https://en.wikipedia.org/wiki/Eponym) - a person, place, or thing after whom or which someone or something is, or is believed to be, named
 - [Etaoin shrdlu](https://en.wikipedia.org/wiki/Etaoin_shrdlu) - a nonsense phrase that sometimes appeared in print in the days of "hot type" publishing because of a custom of type-casting machine operators.
+- [Fossil word](https://en.wikipedia.org/wiki/Fossil_word) - a word that is broadly obsolete but remains in current use due to its presence within an idiom.
 - [Fumblerules](https://en.wikipedia.org/wiki/Fumblerules) - A fumblerule is a rule of language or linguistic style, humorously written in such a way that it breaks this rule.
 - [Ghost word](https://en.wikipedia.org/wiki/Ghost_word) - a word published in a dictionary or similarly authoritative reference work, having rarely, if ever, been used in practice, and hitherto having been meaningless.
 - [Hapax legomenon](https://en.wikipedia.org/wiki/Hapax_legomenon) - a word that only occurs once within a certain context.
@@ -376,6 +383,7 @@
 - [Weierstrass Function](https://en.wikipedia.org/wiki/Weierstrass_function) - The function has the property of being continuous everywhere but differentiable nowhere.
 
 ### Geometry
+- [Catenary](https://en.wikipedia.org/wiki/Catenary) - the curve that an idealized hanging chain or cable assumes under its own weight when supported only at its ends.
 - [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) - Constructive solid geometry allows a modeler to create a complex surface or object by using Boolean operators to combine simpler objects.
 - [Cox-Zucker machine](https://en.wikipedia.org/wiki/Cox%E2%80%93Zucker_machine) - n algorithm created by David A. Cox and Steven Zucker. This algorithm determines if a given set of sections provides a basis (up to torsion) for the Mordell–Weil group of an elliptic surface E → S where S is isomorphic to the projective line.
 - [Dandelin spheres](https://en.wikipedia.org/wiki/Dandelin_spheres) - one or two spheres that are tangent both to a plane and to a cone that intersects the plane.
@@ -468,6 +476,7 @@
 - [Russian political jokes](https://en.wikipedia.org/wiki/Russian_political_jokes) -  a part of Russian humour and can be grouped into the major time periods: Imperial Russia, Soviet Union and finally post-Soviet Russia.
 - [San Seriffe](https://en.wikipedia.org/wiki/San_Serriffe) - a fictional island nation created for April Fools' Day 1977, by Britain's Guardian newspaper.
 - [Schroedinger's cat in popular culture](https://en.wikipedia.org/wiki/Schr%C3%B6dinger's_cat_in_popular_culture)
+- [Suicide in Lithuania](https://en.wikipedia.org/wiki/Suicide_in_Lithuania) - Suicide in Lithuania has become a significant social issue in the country due to its high rate. Despite constantly decreasing since its peak in 1995, the suicide rate in Lithuania remains the highest in the EU and the OECD. The suicide rate as of 2017 is 26.4 suicides per 100,000 people.
 - [Therblig](https://en.wikipedia.org/wiki/Therblig) - are 18 kinds of elemental motions used in the study of motion economy in the workplace. A workplace task is analyzed by recording each of the therblig units for a process, with the results used for optimization of manual labour by eliminating unneeded movements.
 - [The People Walker](https://en.wikipedia.org/wiki/The_People_Walker) is a service where people can hire someone to walk with them and provide motivation through conversation and companionship.
 - [Vehicle registration plates of Europe](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Europe)
@@ -516,6 +525,7 @@
 - [List of tallest structures in the world by country](https://en.wikipedia.org/wiki/List_of_tallest_structures_by_country)
 - [List of tautological place names](https://en.wikipedia.org/wiki/List_of_redundant_place_names)
 - [List of wheel-well stowaway flights](https://en.wikipedia.org/wiki/List_of_wheel-well_stowaway_flights)
+- [List of writing systems](https://en.wikipedia.org/wiki/List_of_writing_systems)
 - [Wikipedia: Unusual articles](https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles)
 
 ## Paradoxes
@@ -556,6 +566,7 @@
 - [Scully Effect](https://en.wikipedia.org/wiki/Dana_Scully#%22The_Scully_Effect%22) - The character is believed to have initiated a phenomenon referred to as "The Scully Effect"; as the medical doctor and the FBI Special Agent inspired many young women to pursue careers in science, medicine and law enforcement, and as a result brought a perceptible increase in the number of women in those fields.
 - [The Wrong Type of Snow](https://en.wikipedia.org/wiki/The_wrong_type_of_snow) - A British Rail press release implied that management and its engineering staff were unaware of different types of snow. Henceforth in the United Kingdom, the phrase became a byword for euphemistic and pointless excuses.
 - [Twinkie Defense](https://en.wikipedia.org/wiki/Twinkie_defense) - "Twinkie defense" is a derisive label for an improbable legal defense.
+- [Wisdom of the crowd](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd) - the collective opinion of a group of individuals rather than that of a single expert. An explanation for this phenomenon is that there is idiosyncratic noise associated with each individual judgment, and taking the average over a large number of responses will go some way toward canceling the effect of this noise.
 - [XY problem](https://en.wikipedia.org/wiki/XY_problem) - a communication problem encountered in help desk and similar situations in which the real issue, X, of the person asking for help is obscured, because instead of asking directly about issue X, they ask how to solve a secondary issue, Y, which they believe will allow them to resolve issue X.
 
 ## Philosophy
@@ -586,6 +597,7 @@
 ## Science
 
 ### Anatomy
+- [Entoptic phenomenon](https://en.wikipedia.org/wiki/Entoptic_phenomenon) - visual effects whose source is from within the eye itself.
 - [Saccular acoustic sensitivity](https://en.wikipedia.org/wiki/Saccular_acoustic_sensitivity) - a measurement of the ear's affectability to sound. Saccular acoustic sensitivity has a variety physiological as well as mental/emotional effects.
 
 ### Animals
@@ -603,6 +615,7 @@
 - [Sentinel Species](https://en.wikipedia.org/wiki/Sentinel_species) - are organisms, often animals, used to detect risks to humans by providing advance warning of a danger.
 
 ### Astronomy
+- [3753 Cruithne](https://en.wikipedia.org/wiki/3753_Cruithne) - a Q-type, Aten asteroid in orbit around the Sun in 1:1 orbital resonance with Earth, making it a co-orbital object.
 - [Frame-dragging](https://en.wikipedia.org/wiki/Frame-dragging)
 
 ### Biology
