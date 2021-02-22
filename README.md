@@ -91,6 +91,7 @@
 - [Rope](https://en.wikipedia.org/wiki/Rope_%28data_structure%29) - a data structure composed of smaller strings that is used to efficiently store and manipulate a very long string. For example, a text editing program may use a rope to represent the text being edited, so that operations such as insertion, deletion, and random access can be done efficiently.
 
 ### Encoding
+- [Barcode](https://en.wikipedia.org/wiki/Barcode)
 - [Punycode](https://en.wikipedia.org/wiki/Punycode) - a representation of Unicode with the limited ASCII character subset used for Internet host names.
 
 ### Files
@@ -232,6 +233,7 @@
 - [Chewbacca defense](https://en.wikipedia.org/wiki/Chewbacca_defense) - a legal strategy in which a criminal defense lawyer tries to confuse the jury rather than refute the case of the prosecutor.
 - [Crumbling skull rule](https://en.wikipedia.org/wiki/Crumbling_skull_rule) - a well-established legal doctrine used in some tort law systems. It holds that where a plaintiff had a condition or injury that predates the tort and would have naturally deteriorated or worsened over time (e.g. a crumbling skull), the defendant is not responsible to the degree that the condition or injury would have naturally worsened over time.
 - [Eggshell skull](https://en.wikipedia.org/wiki/Eggshell_skull) - a well-established legal doctrine in common law, used in some tort law systems, with a similar doctrine applicable to criminal law. The rule states that, in a tort case, the unexpected frailty of the injured person is not a valid defense to the seriousness of any injury caused to them.
+- [Jelly bean rule](https://en.wikipedia.org/wiki/Jelly_bean_rule) - a rule that says that just because foods are low in fat, cholesterol, and sodium, they cannot claim to be "healthy" unless they contain at least 10 percent of the Daily Value of: vitamin A, vitamin C, calcium, protein, fiber, or iron. The FDA also made a policy that companies could not fortify foods with the sole intent of making that claim.
 - [Stambovsky vs. Ackley](https://en.wikipedia.org/wiki/Stambovsky_v._Ackley) commonly known as the Ghostbusters ruling, is a case in the New York Supreme Court held that held that a house, which the owner had previously advertised to the public as haunted by ghosts, legally was haunted for the purpose of an action for rescission brought by a subsequent purchaser of the house
 - [Statue forbidding Bearing of Armour](https://en.wikipedia.org/wiki/Statute_forbidding_Bearing_of_Armour) - was enacted in 1313 during the reign of Edward II of England. It decrees "that in all Parliaments, Treatises and other Assemblies, which should be made in the Realm of England for ever, that every Man shall come without all Force and Armour".
 
@@ -283,18 +285,23 @@
 - ["He never married"](https://en.wikipedia.org/wiki/He_never_married) was a phrase commonly used by obituary writers in the United Kingdom as a euphemism for the deceased having been homosexual.
 - [Hobson's Choice](https://en.wikipedia.org/wiki/Hobson's_choice) - a free choice in which only one thing is offered. Because a person may refuse to accept what is offered, the two options are taking it or taking nothing. In other words, one may "take it or leave it".
 - [Morton's Fork](https://en.wikipedia.org/wiki/Morton's_fork) - a type of false dilemma in which contradictory observations lead to the same conclusion. It is said to have originated with the collecting of taxes by John Morton.
-- - [Snowclone](https://en.wikipedia.org/wiki/Snowclone) - a cliché and phrasal template that can be used and recognized in multiple variants.
+- [Snowclone](https://en.wikipedia.org/wiki/Snowclone) - a cliché and phrasal template that can be used and recognized in multiple variants.
 
 ### Languages
 - [Abjad](https://en.wikipedia.org/wiki/Abjad) - a type of writing system where each symbol or glyph stands for a consonant, in effect leaving it to readers to infer or otherwise supply an appropriate vowel.
 - [Avoidance speech](https://en.wikipedia.org/wiki/Avoidance_speech) - a group of sociolinguistic phenomena in which a special restricted speech style must be used in the presence of or in reference to certain relatives.
 - [Constructed Languages](https://en.wikipedia.org/wiki/Constructed_language) - A constructed language (sometimes called a conlang) is a language whose phonology, grammar, and vocabulary are, instead of having developed naturally, consciously devised for communication between intelligent beings, most commonly for use by humanoids.
+- [Creole language](https://en.wikipedia.org/wiki/Creole_language) - a stable natural language that develops from the simplifying and mixing of different languages into a new one within a fairly brief period of time: often, a pidgin evolved into a full-fledged language.
 - [Dog Latin](https://en.wikipedia.org/wiki/Dog_Latin) - the creation of a phrase or jargon in imitation of Latin, often by "translating" English words (or those of other languages) into Latin by conjugating or declining them as if they were Latin words.
 - [False friends](https://en.wikipedia.org/wiki/False_friend) - words in different languages that look or sound similar, but differ significantly in meaning.
+- [Forfeda](https://en.wikipedia.org/wiki/Forfeda) - the "additional" letters of the Ogham alphabet, beyond the basic inventory of twenty signs
 - [Latin obscenity](https://en.wikipedia.org/wiki/Latin_obscenity) - the profane, indecent, or impolite vocabulary of Latin, and its uses. Words deemed obscene were described as obsc(a)ena (obscene, lewd, unfit for public use), or improba (improper, in poor taste, undignified).
 - [Linguistic relativity](https://en.wikipedia.org/wiki/Linguistic_relativity) - the structure of a language affects its speakers' world view or cognition.
 - [North-South differences in the Korean language](https://en.wikipedia.org/wiki/North%E2%80%93South_differences_in_the_Korean_language) - The Korean language has changed between North and South Korea due to the length of time that the two states have been separated.
+- [Ogham](https://en.wikipedia.org/wiki/Ogham) - an Early Medieval alphabet used primarily to write the early Irish language
 - [Pandanus language](https://en.wikipedia.org/wiki/Pandanus_language) - an elaborate avoidance language among several of the peoples of the eastern New Guinea Highlands, used when collecting Pandanus nuts.
+- [Patois](https://en.wikipedia.org/wiki/Patois) - speech or language that is considered nonstandard, although the term is not formally defined in linguistics. As such, patois can refer to pidgins, creoles, dialects or vernaculars, but not commonly to jargon or slang, which are vocabulary-based forms of cant.
+- [Pidgin language](https://en.wikipedia.org/wiki/Pidgin) - a grammatically simplified means of communication that develops between two or more groups that do not have a language in common: typically, its vocabulary and grammar are limited and often drawn from several languages.
 - [Stylometry](https://en.wikipedia.org/wiki/Stylometry) - the application of the study of linguistic style, usually to written language, but it has successfully been applied to music and to fine-art paintings as well.
 - [Theives' cant](https://en.wikipedia.org/wiki/Thieves'_cant) - a secret language (a cant or cryptolect) which was formerly used by thieves, beggars and hustlers of various kinds in Great Britain and to a lesser extent in other English-speaking countries.
 
@@ -306,6 +313,7 @@
 
 ### Poems
 - [l(a](https://en.wikipedia.org/wiki/L(a)) - a poem by E. E. Cummings. It is the first poem in his 1958 collection 95 Poems.
+- [Catullus 16](https://en.wikipedia.org/wiki/Catullus_16) - a Latin poem that was considered so explicit that a full English translation was not published until the late twentieth century. The first line has been called "one of the filthiest expressions ever written in Latin—or in any other language, for that matter."
 
 ### Punctuation
 - [Interrobang](https://en.wikipedia.org/wiki/Interrobang) - a punctuation mark used in various written languages and intended to combine the functions of the question mark, or interrogative point, and the exclamation mark, or exclamation point, known in the jargon of printers and programmers as a "bang".
@@ -361,6 +369,7 @@
 - [Phonetic reversal](https://en.wikipedia.org/wiki/Phonetic_reversal) - the process of reversing the phonemes or phones of a word or phrase.
 - [Placeholder name](https://en.wikipedia.org/wiki/Placeholder_name) -  words that can refer to objects or people whose names are temporarily forgotten, irrelevant, or unknown in the context in which they are being discussed.
 - [RAS Syndrome](https://en.wikipedia.org/wiki/RAS_syndrome) - is the use of one or more of the words that make up an acronym (or other initialism) in conjunction with the abbreviated form. This means, in effect, repeating one or more words from the acronym. Two common examples are "PIN number"/ "VIN number" (the "N" in PIN and VIN stands for "number") and "ATM machine" (the "M" in ATM stands for "machine").
+- [Skunked term](https://en.wikipedia.org/wiki/Skunked_term) - a word that becomes difficult to use because it transitions from one meaning to another
 - [Sniglet](https://en.wikipedia.org/wiki/Sniglet) - an often humorous word made up to describe something for which no dictionary word exists.
 - [Tmesis](https://en.wikipedia.org/wiki/Tmesis) - is a linguistic phenomenon in which a word or phrase is separated into two parts, with other words between them.
 - [Weasel word](https://en.wikipedia.org/wiki/Weasel_word) - an informal term for words and phrases such as "researchers believe" and "most people think" which make arguments appear specific or meaningful, even though these terms are at best ambiguous and vague.
@@ -458,6 +467,7 @@
 - [Silver ratio](https://en.wikipedia.org/wiki/Silver_ratio) - two quantities are in the silver ratio (also silver mean or silver constant) if the ratio of the sum of the smaller and twice the larger of those quantities, to the larger quantity, is the same as the ratio of the larger one to the smaller one.
 
 ## Odds and Ends
+- ["Assume a can opener"](https://en.wikipedia.org/wiki/Assume_a_can_opener) - a catchphrase used to mock economists and other theorists who base their conclusions on unjustified or oversimplified assumptions.
 - [BBC Redux](https://en.wikipedia.org/wiki/BBC_Redux) - a BBC Research & Development system that digitally records television and radio output in the United Kingdom produced by the British Broadcasting Corporation. It has been operating since 2007 and contains several petabytes of recordings and subtitle data.
 - [Cold Reading](https://en.wikipedia.org/wiki/Cold_reading) - a set of techniques used by mentalists, psychics, fortune-tellers, mediums, illusionists (readers), and scam artists to imply that the reader knows much more about the person than the reader actually does.
 - [Curse of the Colonel](https://en.wikipedia.org/wiki/Curse_of_the_Colonel) - an urban legend regarding a reputed curse placed on the Japanese Kansai-based Hanshin Tigers baseball team by deceased KFC founder and mascot Colonel Harland Sanders.
@@ -476,6 +486,7 @@
 - [Russian political jokes](https://en.wikipedia.org/wiki/Russian_political_jokes) -  a part of Russian humour and can be grouped into the major time periods: Imperial Russia, Soviet Union and finally post-Soviet Russia.
 - [San Seriffe](https://en.wikipedia.org/wiki/San_Serriffe) - a fictional island nation created for April Fools' Day 1977, by Britain's Guardian newspaper.
 - [Schroedinger's cat in popular culture](https://en.wikipedia.org/wiki/Schr%C3%B6dinger's_cat_in_popular_culture)
+- [Spherical cow](https://en.wikipedia.org/wiki/Spherical_cow) - a humorous metaphor for highly simplified scientific models of complex real life phenomena.
 - [Suicide in Lithuania](https://en.wikipedia.org/wiki/Suicide_in_Lithuania) - Suicide in Lithuania has become a significant social issue in the country due to its high rate. Despite constantly decreasing since its peak in 1995, the suicide rate in Lithuania remains the highest in the EU and the OECD. The suicide rate as of 2017 is 26.4 suicides per 100,000 people.
 - [Therblig](https://en.wikipedia.org/wiki/Therblig) - are 18 kinds of elemental motions used in the study of motion economy in the workplace. A workplace task is analyzed by recording each of the therblig units for a process, with the results used for optimization of manual labour by eliminating unneeded movements.
 - [The People Walker](https://en.wikipedia.org/wiki/The_People_Walker) is a service where people can hire someone to walk with them and provide motivation through conversation and companionship.
@@ -489,6 +500,7 @@
 - [Glossary of rhetorical terms](https://en.wikipedia.org/wiki/Glossary_of_rhetorical_terms)
 - [Glossary of shapes with metaphorical names](https://en.wikipedia.org/wiki/Glossary_of_shapes_with_metaphorical_names)
 - [Glossary of vexillology](https://en.wikipedia.org/wiki/Glossary_of_vexillology)
+- [List of animals with fraudulent diplomas](https://en.wikipedia.org/wiki/List_of_animals_with_fraudulent_diplomas)
 - [List of artificial objects on the Moon](https://en.wikipedia.org/wiki/List_of_artificial_objects_on_the_Moon)
 - [List of chemical compounds with unusual names](https://en.wikipedia.org/wiki/List_of_chemical_compounds_with_unusual_names)
 - [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
@@ -619,7 +631,10 @@
 - [Frame-dragging](https://en.wikipedia.org/wiki/Frame-dragging)
 
 ### Biology
-- [Mirror life](https://en.wikipedia.org/wiki/Mirror_life) is a hypothetical form of life with mirror-reflected molecular building blocks
+- [Mirror life](https://en.wikipedia.org/wiki/Mirror_life) - a hypothetical form of life with mirror-reflected molecular building blocks
+
+## Botany
+- [Fairy ring](https://en.wikipedia.org/wiki/Fairy_ring) - a naturally occuring ring of mushrooms
 
 ### Cartography, Geography
 - [Aoshima](https://en.wikipedia.org/wiki/Aoshima,_Ehime) - an island in Ehime Prefecture, Japan, known for its large number of feline residents. Felines have been reported by news outlets to outnumber humans by ratios between 6:1 and 10:1, but as elderly inhabitants of the island have died, the ratio has greatly increased to almost 36:1.
@@ -630,6 +645,7 @@
 - [Thankful Villages](https://en.wikipedia.org/wiki/Thankful_Villages) - settlements in England and Wales from which all their members of the armed forces survived World War I.
 - [Trap street](https://en.wikipedia.org/wiki/Trap_street) -  a fictitious entry in the form of a misrepresented street on a map, often outside the area the map nominally covers, for the purpose of "trapping" potential copyright violators of the map who, if caught, would be unable to explain the inclusion of the "trap street" on their map as innocent.
 - [Use of Nordic countries vs. Scandinavia](https://en.wikipedia.org/wiki/Scandinavia#Use_of_Nordic_countries_vs._Scandinavia)
+- [Zone of Death](https://en.wikipedia.org/wiki/Zone_of_Death_(Yellowstone)) - the name given to the 50 sq mi (129.50 km2) Idaho section of Yellowstone National Park in which, as a result of a purported loophole in the Constitution of the United States, a criminal could theoretically get away with any crime, up to and including murder.
 
 ### Fluid Dynamics
 - [Vortex Shedding](https://en.wikipedia.org/wiki/Vortex_shedding) - In fluid dynamics, vortex shedding is an oscillating flow that takes place when a fluid such as air or water flows past a bluff (as opposed to streamlined) body at certain velocities, depending on the size and shape of the body.
@@ -686,11 +702,13 @@
 - [Polar bear jail](https://en.wikipedia.org/wiki/Polar_bear_jail) - a special building in Churchill, Manitoba where polar bears that are considered troublesome or dangerous are isolated before they can be relocated.
 - [Sleeve garter](https://en.wikipedia.org/wiki/Sleeve_garter) - a garter worn on the sleeve of a shirt. It came into wide use, especially in the USA, in the latter half of the 19th century when men's ready-made shirts came in a single (extra long) sleeve length. Sleeve garters allow men to customize sleeve lengths and keep their cuffs from becoming soiled while working or at the correct length when worn under a jacket.
 - [Smoot](https://en.wikipedia.org/wiki/Smoot) - a nonstandard, humorous unit of length created as part of an MIT fraternity prank. It is named after Oliver R. Smoot, a fraternity pledge to Lambda Chi Alpha, who in October 1958 lay down repeatedly on the Harvard Bridge (between Boston and Cambridge, Massachusetts) so that his fraternity brothers could use his height to measure the length of the bridge.
+- [Sponson](https://en.wikipedia.org/wiki/Sponson) - projections extending from the sides of land vehicles, aircraft or watercraft to provide protection, stability, storage locations, mounting points for weapons or other devices, or equipment housing.
 - [Test Card F](https://en.wikipedia.org/wiki/Test_Card_F) - a test card that was created by the BBC and used on television in the United Kingdom and in countries elsewhere in the world for more than four decades. It was the first to be transmitted in colour in the UK and the first to feature a person, and has become an iconic British image regularly subject to parody.
 - [The Letters of Utrecht](https://en.wikipedia.org/wiki/The_Letters_of_Utrecht) - form an endless poem in the stones of a street in the center of the Dutch city of Utrecht.
 - [Torpedo juice](https://en.wikipedia.org/wiki/Torpedo_juice) - slang for an alcoholic beverage, first mixed in World War II, made from pineapple juice and the 180-proof grain alcohol fuel used in United States Navy torpedo motors. Various poisonous additives were mixed into the fuel alcohol by Navy authorities to render the alcohol undrinkable, and various methods were employed by the U.S. sailors to separate the alcohol from the poison.
 - [Trencher](https://en.wikipedia.org/wiki/Trencher_(tableware)) - a type of tableware, commonly used in medieval cuisine. A trencher was originally a flat round of (usually stale) bread used as a plate, upon which the food could be placed to eat.
 - [United Nationa laissez-passer](https://en.wikipedia.org/wiki/United_Nations_laissez-passer) - The UNLP is a valid travel document, which can be used like a national passport (in connection with travel on official missions only).
+- [Universal nut sheller](https://en.wikipedia.org/wiki/Universal_nut_sheller) - a simple hand-operated machine capable of shelling up to 57 kilograms (126 lb) of raw, sun-dried peanuts per hour. It requires less than $10 USD in materials to make, and is made of concrete poured into two simple fibreglass molds, some metal parts, one wrench, and any piece of rock or wood that can serve as a hammer.
 
 ### Food
 - [99 Flake](https://en.wikipedia.org/wiki/99_Flake) - A 99 Flake can refer to any of three possible items: an ice cream cone with a Cadbury Flake inserted in it; the Cadbury-produced Flake bar itself specially made for insertion into an ice cream cone; or a wrapped ice cream cone product marketed by Cadbury.
