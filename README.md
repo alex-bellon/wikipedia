@@ -1,6 +1,14 @@
 # Wikipedia Articles
 
-## Art
+## Art & Media
+
+### Analysis
+- [Bechdel test](https://en.wikipedia.org/wiki/Bechdel_test) - a measure of the representation of women in fiction. It asks whether a work features at least two women who talk to each other about something other than a man. The requirement that the two women must be named is sometimes added.
+- [Gamine](https://en.wikipedia.org/wiki/Gamine) - a slim, elegant young woman who is, or is perceived to be, mischievous, teasing or sexually appealing.
+- [Johanson analysis](https://en.wikipedia.org/wiki/Johanson_analysis) - a method to evaluate the representation of women and girls in fiction. The analysis evaluates media on criteria that include the basic representation of women, female agency, power and authority, the male gaze, and issues of gender and sexuality.
+- [Manic Pixie Dream Girl](https://en.wikipedia.org/wiki/Manic_Pixie_Dream_Girl) - a stock character type in films. Film critic Nathan Rabin, who coined the term, said that the MPDG "exists solely in the fevered imaginations of sensitive writer-directors to teach broodingly soulful young men to embrace life and its infinite mysteries and adventures." MPDGs are said to help their men without pursuing their own happiness, and such characters never grow up; thus, their men never grow up.
+- [Mary Sue](https://en.wikipedia.org/wiki/Mary_Sue) - a type of fictional character, usually a young woman, who is portrayed as unrealistically free of weaknesses.
+- [Smurfette principle](https://en.wikipedia.org/wiki/Smurfette_principle) - the practice in media, such as film and television, to include only one woman in an otherwise entirely male ensemble.
 
 ### Comics
 - [Glossary of comics terminology](https://en.wikipedia.org/wiki/Glossary_of_comics_terminology)
@@ -176,9 +184,11 @@
 - [Wirth's law](https://en.wikipedia.org/wiki/Wirth%27s_law) - an adage on computer performance which states that software is getting slower more rapidly than hardware becomes faster.
 - [Write-only language](https://en.wikipedia.org/wiki/Write-only_language) - a pejorative term for a programming language alleged to have syntax or semantics sufficiently dense and bizarre that any routine of significant size is too difficult to understand by other programmers and cannot be safely edited.
 
-### Security
+### Security & Privacy
 - [Dancing pigs](https://en.wikipedia.org/wiki/Dancing_pigs) - Given a choice between dancing pigs and security, users will pick dancing pigs every time.
+- [Differential privacy](https://en.wikipedia.org/wiki/Differential_privacy) - a system for publicly sharing information about a dataset by describing the patterns of groups within the dataset while withholding information about individuals in the dataset.
 - [Google hacking](https://en.wikipedia.org/wiki/Google_hacking) -  also named Google Dorking, is a computer hacking technique that uses Google Search and other Google applications to find security holes in the configuration and computer code that websites use.
+- [Nothing to hide argument](https://en.wikipedia.org/wiki/Nothing_to_hide_argument) - The nothing to hide argument states that individuals have no reason to fear or oppose surveillance programs, unless they are afraid it will uncover their own illegal activities. An individual using this argument may say that an average person should not worry about government surveillance if they have "nothing to hide".
 
 ## Design
 - [Anti urination devices in Norwich](https://en.wikipedia.org/wiki/Anti_urination_devices_in_Norwich) - a form of hostile architecture installed in Norwich and the surrounding area in the late 19th century to discourage public urination.
@@ -236,6 +246,9 @@
 - [Jelly bean rule](https://en.wikipedia.org/wiki/Jelly_bean_rule) - a rule that says that just because foods are low in fat, cholesterol, and sodium, they cannot claim to be "healthy" unless they contain at least 10 percent of the Daily Value of: vitamin A, vitamin C, calcium, protein, fiber, or iron. The FDA also made a policy that companies could not fortify foods with the sole intent of making that claim.
 - [Stambovsky vs. Ackley](https://en.wikipedia.org/wiki/Stambovsky_v._Ackley) commonly known as the Ghostbusters ruling, is a case in the New York Supreme Court held that held that a house, which the owner had previously advertised to the public as haunted by ghosts, legally was haunted for the purpose of an action for rescission brought by a subsequent purchaser of the house
 - [Statue forbidding Bearing of Armour](https://en.wikipedia.org/wiki/Statute_forbidding_Bearing_of_Armour) - was enacted in 1313 during the reign of Edward II of England. It decrees "that in all Parliaments, Treatises and other Assemblies, which should be made in the Realm of England for ever, that every Man shall come without all Force and Armour".
+- [Wrongful birth](https://en.wikipedia.org/wiki/Wrongful_birth) - a legal cause of action in some common law countries in which the parents of a congenitally diseased child claim that their doctor failed to properly warn of their risk of conceiving or giving birth to a child with serious genetic or congenital abnormalities.
+- [Wrongful life](https://en.wikipedia.org/wiki/Wrongful_life) - the name given to a legal action in which someone is sued by a severely disabled child (through the child's legal guardian) for failing to prevent the child's birth. Typically, a child and the child's parents will sue a doctor or a hospital for failing to provide information about the disability during the pregnancy, or a genetic disposition before the pregnancy. Had the mother been aware of this information, it is argued, she would have had an abortion, or chosen not to conceive at all.
+
 
 ### People
 - [Digby Tatham-Warter](https://en.wikipedia.org/wiki/Digby_Tatham-Warter) - Digby got to him and said "Don't worry about the bullets, I've got an umbrella". He then escorted the chaplain across the street under his umbrella. When he returned to the front line, one of his fellow officers said about his umbrella that "that thing won't do you any good", to which Digby replied "Oh my goodness Pat, but what if it rains?"
@@ -283,6 +296,7 @@
 
 ### Idioms
 - ["He never married"](https://en.wikipedia.org/wiki/He_never_married) was a phrase commonly used by obituary writers in the United Kingdom as a euphemism for the deceased having been homosexual.
+- [Greek to me](https://en.wikipedia.org/wiki/Greek_to_me#In_other_languages) - Different languages have similar formulations. Many have picked the point of reference to be a foreign language with another alphabet or writing system.
 - [Hobson's Choice](https://en.wikipedia.org/wiki/Hobson's_choice) - a free choice in which only one thing is offered. Because a person may refuse to accept what is offered, the two options are taking it or taking nothing. In other words, one may "take it or leave it".
 - [Morton's Fork](https://en.wikipedia.org/wiki/Morton's_fork) - a type of false dilemma in which contradictory observations lead to the same conclusion. It is said to have originated with the collecting of taxes by John Morton.
 - [Snowclone](https://en.wikipedia.org/wiki/Snowclone) - a cliché and phrasal template that can be used and recognized in multiple variants.
@@ -367,13 +381,14 @@
 - [Pangrammatic lipogram](https://en.wikipedia.org/wiki/Lipogram#Pangrammatic_lipogram) - uses every letter of the alphabet except one.
 - [Pangrammatic window](https://en.wikipedia.org/wiki/Pangrammatic_window) - a stretch of naturally occurring text that contains all the letters in the alphabet.
 - [Phonetic reversal](https://en.wikipedia.org/wiki/Phonetic_reversal) - the process of reversing the phonemes or phones of a word or phrase.
-- [Placeholder name](https://en.wikipedia.org/wiki/Placeholder_name) -  words that can refer to objects or people whose names are temporarily forgotten, irrelevant, or unknown in the context in which they are being discussed.
-- [RAS Syndrome](https://en.wikipedia.org/wiki/RAS_syndrome) - is the use of one or more of the words that make up an acronym (or other initialism) in conjunction with the abbreviated form. This means, in effect, repeating one or more words from the acronym. Two common examples are "PIN number"/ "VIN number" (the "N" in PIN and VIN stands for "number") and "ATM machine" (the "M" in ATM stands for "machine").
+- [Placeholder name](https://en.wikipedia.org/wiki/Placeholder_name) - words that can refer to objects or people whose names are temporarily forgotten, irrelevant, or unknown in the context in which they are being discussed.
+- [RAS Syndrome](https://en.wikipedia.org/wiki/RAS_syndrome) - the use of one or more of the words that make up an acronym (or other initialism) in conjunction with the abbreviated form. This means, in effect, repeating one or more words from the acronym. Two common examples are "PIN number"/ "VIN number" (the "N" in PIN and VIN stands for "number") and "ATM machine" (the "M" in ATM stands for "machine").
 - [Skunked term](https://en.wikipedia.org/wiki/Skunked_term) - a word that becomes difficult to use because it transitions from one meaning to another
 - [Sniglet](https://en.wikipedia.org/wiki/Sniglet) - an often humorous word made up to describe something for which no dictionary word exists.
-- [Tmesis](https://en.wikipedia.org/wiki/Tmesis) - is a linguistic phenomenon in which a word or phrase is separated into two parts, with other words between them.
+- [Tmesis](https://en.wikipedia.org/wiki/Tmesis) - a linguistic phenomenon in which a word or phrase is separated into two parts, with other words between them.
+- [Truce term](https://en.wikipedia.org/wiki/Truce_term) - a word or short phrase accepted within a community of children as an effective way of calling for a temporary respite or truce during a game or activity, such as tag or its variants.
 - [Weasel word](https://en.wikipedia.org/wiki/Weasel_word) - an informal term for words and phrases such as "researchers believe" and "most people think" which make arguments appear specific or meaningful, even though these terms are at best ambiguous and vague.
-- [Yak Shaving](https://en.wiktionary.org/wiki/yak_shaving) - Any apparently useless activity which, by allowing you to overcome intermediate difficulties, allows you to solve a larger problem.
+- [Yak Shaving](https://en.wiktionary.org/wiki/yak_shaving) - any apparently useless activity which, by allowing you to overcome intermediate difficulties, allows you to solve a larger problem.
 
 ## Math
 
@@ -389,6 +404,7 @@
 - [Arity](https://en.wikipedia.org/wiki/Arity) - In logic, mathematics, and computer science, the arity of a function or operation is the number of arguments or operands that the function takes.
 - [Binary Operation](https://en.wikipedia.org/wiki/Binary_operation) - In mathematics, a binary operation on a set is a calculation that combines two elements of the set (called operands) to produce another element of the set.
 - [Linear congruential generator](https://en.wikipedia.org/wiki/Linear_congruential_generator) - an algorithm that yields a sequence of pseudo-randomized numbers calculated with a discontinuous piecewise linear equation
+- [Taxicab geometry](https://en.wikipedia.org/wiki/Taxicab_geometry) - a form of geometry in which the usual distance function or metric of Euclidean geometry is replaced by a new metric in which the distance between two points is the sum of the absolute differences of their Cartesian coordinates.
 - [Weierstrass Function](https://en.wikipedia.org/wiki/Weierstrass_function) - The function has the property of being continuous everywhere but differentiable nowhere.
 
 ### Geometry
@@ -449,8 +465,9 @@
 - [Champernowne constant](https://en.wikipedia.org/wiki/Champernowne_constant) - C_10 = 0.12345678910111213141516…
 - [Golden ration](https://en.wikipedia.org/wiki/Golden_ratio) - two quantities are in the golden ratio if their ratio is the same as the ratio of their sum to the larger of the two quantities.
 - [Grandi's series](https://en.wikipedia.org/wiki/Grandi%27s_series) - the infinite series 1 − 1 + 1 − 1 + ⋯
-- [Happy number](https://en.wikipedia.org/wiki/Happy_number) - Starting with any positive integer, replace the number by the sum of the squares of its digits in base-ten, and repeat the process until the number either equals 1 (where it will stay), or it loops endlessly in a cycle that does not include 1. Those numbers for which this process ends in 1 are happy numbers, while those that do not end in 1 are unhappy numbers (or sad numbers).
-- [Illegal Number](https://en.wikipedia.org/wiki/Illegal_number) - An illegal number is a number that represents information which is illegal to possess, utter, propagate, or otherwise transmit in some legal jurisdictions.
+- [Happy number](https://en.wikipedia.org/wiki/Happy_number) - starting with any positive integer, replace the number by the sum of the squares of its digits in base-ten, and repeat the process until the number either equals 1 (where it will stay), or it loops endlessly in a cycle that does not include 1. Those numbers for which this process ends in 1 are happy numbers, while those that do not end in 1 are unhappy numbers (or sad numbers).
+- [Illegal Number](https://en.wikipedia.org/wiki/Illegal_number) - an illegal number is a number that represents information which is illegal to possess, utter, propagate, or otherwise transmit in some legal jurisdictions.
+- [Illegal prime](https://en.wikipedia.org/wiki/Illegal_prime) - a prime number that represents information whose possession or distribution is forbidden in some legal jurisdictions.
 - [Interesting number paradox](https://en.wikipedia.org/wiki/Interesting_number_paradox) - a semi-humorous paradox which arises from the attempt to classify every natural number as either "interesting" or "uninteresting". The paradox states that every natural number is interesting. The "proof" is by contradiction: if there exists a non-empty set of uninteresting natural numbers, there would be a smallest uninteresting number – but the smallest uninteresting number is itself interesting because it is the smallest uninteresting number, thus producing a contradiction.
 - [Kaprekar number](https://en.wikipedia.org/wiki/Kaprekar_number) - In mathematics, a non-negative integer is called a "Kaprekar number" for a given base if the representation of its square in that base can be split into two parts that add up to the original number, with the proviso that the part formed from the low-order digits of the square must be non-zero—although it is allowed to include leading zeroes. For instance, 45 is a Kaprekar number, because 452 = 2025 and 20 + 25 = 45. The number 1 is Kaprekar in every base, because 12 = 01   in any base, and   0 + 1 = 1.
 - [McNugget numbers](https://en.wikipedia.org/wiki/Coin_problem#McNugget_numbers) - A McNugget number is the total number of McDonald's Chicken McNuggets in any number of boxes. In the United Kingdom, the original boxes (prior to the introduction of the Happy Meal-sized nugget boxes) were of 6, 9, and 20 nuggets.
@@ -471,7 +488,6 @@
 - [BBC Redux](https://en.wikipedia.org/wiki/BBC_Redux) - a BBC Research & Development system that digitally records television and radio output in the United Kingdom produced by the British Broadcasting Corporation. It has been operating since 2007 and contains several petabytes of recordings and subtitle data.
 - [Cold Reading](https://en.wikipedia.org/wiki/Cold_reading) - a set of techniques used by mentalists, psychics, fortune-tellers, mediums, illusionists (readers), and scam artists to imply that the reader knows much more about the person than the reader actually does.
 - [Curse of the Colonel](https://en.wikipedia.org/wiki/Curse_of_the_Colonel) - an urban legend regarding a reputed curse placed on the Japanese Kansai-based Hanshin Tigers baseball team by deceased KFC founder and mascot Colonel Harland Sanders.
-- [Differential privacy](https://en.wikipedia.org/wiki/Differential_privacy) - a system for publicly sharing information about a dataset by describing the patterns of groups within the dataset while withholding information about individuals in the dataset.
 - [Disambiguation (disambiguation)](https://en.wikipedia.org/wiki/Disambiguation_(disambiguation))
 - [Dooring](https://en.wikipedia.org/wiki/Dooring) - a traffic collision in which a cyclist rides into a car door or is struck by a car door that was opened quickly without checking first for cyclists by using the side mirror and/or performing a proper shoulder check out and back.
 - [Foreign accent syndrome](https://en.wikipedia.org/wiki/Foreign_accent_syndrome) - a medical condition in which patients develop speech patterns that are perceived as a foreign accent that is different from their native accent, without having acquired it in the perceived accent's place of origin.
