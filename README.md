@@ -38,6 +38,7 @@
 - [Lost artworks](https://en.wikipedia.org/wiki/Lost_artworks) - original pieces of art that credible sources indicate once existed but that cannot be accounted for in museums or private collections or are known to have been destroyed deliberately or accidentally, or neglected through ignorance and lack of connoisseurship.
 - [Moon Museum](https://en.wikipedia.org/wiki/Moon_Museum) - a small ceramic wafer three-quarters by one-half inch (19 by 13 mm) in size, containing artworks by six prominent artists from the late 1960s. The artists with works in the "museum" are Robert Rauschenberg, David Novros, John Chamberlain, Claes Oldenburg, Forrest Myers and Andy Warhol.
 - [Outsider art](https://en.wikipedia.org/wiki/Outsider_art) - art by self-taught or naïve art makers.
+- [Seedfeeder](https://en.wikipedia.org/wiki/Seedfeeder) - the pseudonym of an illustrator known for contributing sexually explicit drawings to Wikipedia. Between 2008 and 2012, the artist created 48 depictions of various sex acts. Seedfeeder's illustrations garnered negative and positive reactions: some Wikipedia editors claimed they contained racist and sexist undertones, while Andy Cush of Gawker called him "Wikipedia's greatest artist of sex acts".
 
 ## Computer Science
 
@@ -55,6 +56,7 @@
 - [Zip bomb](https://en.wikipedia.org/wiki/Zip_bomb) - a malicious archive file designed to crash or render useless the program or system reading it. It is often employed to disable antivirus software, in order to create an opening for more traditional viruses.
 
 ### Bugs
+- [ILOVEYOU](https://en.wikipedia.org/wiki/ILOVEYOU) - a computer worm that infected over ten million Windows personal computers on and after 5 May 2000 when it started spreading as an email message with the subject line "ILOVEYOU" and the attachment "LOVE-LETTER-FOR-YOU.txt.vbs".
 - [MissingNo.](https://en.wikipedia.org/wiki/MissingNo.) - short for Missing Number, is an unofficial Pokémon species found in the video games Pokémon Red and Blue. Due to the programming of certain in-game events, players can encounter MissingNo. via a glitch.
 - [Mojibake](https://en.wikipedia.org/wiki/Mojibake) - the garbled text that is the result of text being decoded using an unintended character encoding.
 - [Scunthorpe Problem](https://en.wikipedia.org/wiki/Scunthorpe_problem) - The Scunthorpe problem is the blocking of websites, e-mails, forum posts or search results by a spam filter or search engine because their text contains a string of letters that appear to have an obscene or unacceptable meaning.
@@ -62,8 +64,11 @@
 - [Year 2000 Problem](https://en.wikipedia.org/wiki/Year_2000_problem) - A class of computer bugs related to the formatting and storage of calendar data for dates beginning in the year 2000.
 
 ### Cryptography
+- [Acoustic cryptanalysis](https://en.wikipedia.org/wiki/Acoustic_cryptanalysis) - a type of side channel attack that exploits sounds emitted by computers or other devices.
 - [Add-Rotate-XOR](https://en.wikipedia.org/wiki/Block_cipher#ARX_(add%E2%80%93rotate%E2%80%93XOR)) - Many modern block ciphers and hashes are ARX algorithms—their round function involves only three operations: modular addition, rotation with fixed rotation amounts, and XOR (ARX).
+- [Alberti cipher](https://en.wikipedia.org/wiki/Alberti_cipher) - one of the first polyalphabetic ciphers. In the opening pages of his treatise De componendis cifris] he explained how his conversation with the papal secretary Leonardo Dati about a recently developed movable type printing press led to the development of his cipher wheel.
 - [Alice and Bob cast of characters](https://en.wikipedia.org/wiki/Alice_and_Bob#Cast_of_characters) - fictional characters commonly used as a placeholder name in cryptology, as well as science and engineering literature.
+- [All or nothing transform](https://en.wikipedia.org/wiki/All-or-nothing_transform) - an encryption mode which allows the data to be understood only if all of it is known. AONTs are not encryption, but frequently make use of symmetric ciphers and may be applied before encryption.
 - [Beale ciphers](https://en.wikipedia.org/wiki/Beale_ciphers) - a set of three ciphertexts, one of which allegedly states the location of a buried treasure of gold, silver and jewels estimated to be worth over US$43 million as of January 2018.
 - [Blowfish (cipher)](https://en.wikipedia.org/wiki/Blowfish_(cipher)) - a symmetric-key block cipher, designed in 1993 by Bruce Schneier and included in many cipher suites and encryption products.
 - [ChaCha](https://en.wikipedia.org/wiki/Salsa20#ChaCha_variant) - aim to increase the diffusion per round while achieving the same or slightly better performance.
@@ -212,6 +217,7 @@
 - [Epicenity](https://en.wikipedia.org/wiki/Epicenity) - the lack of gender distinction
 - [Eye-rolling](https://en.wikipedia.org/wiki/Eye-rolling) - passive-aggressive response to an undesirable situation or person. The gesture is used to disagree or dismiss the targeted person without physical contact.
 - [Flitch of bacon custom](https://en.wikipedia.org/wiki/Flitch_of_bacon_custom) - The awarding of a flitch of bacon to married couples who can swear to not having regretted their marriage for a year and a day is an old tradition, the remnants of which still survive in some pockets in England.
+- [Hacker culture](https://en.wikipedia.org/wiki/Hacker_culture) -
 - [History of breakfast](https://en.wikipedia.org/wiki/History_of_breakfast)
 - [Human Interference Task Force](https://en.wikipedia.org/wiki/Human_Interference_Task_Force) - a team of engineers, anthropologists, nuclear physicists, behavioral scientists and others convened on behalf of the U.S. Department of Energy and Bechtel Corp. to find a way to reduce the likelihood of future humans unintentionally intruding on radioactive waste isolation systems.
 - [IBM during World War II](https://en.wikipedia.org/wiki/IBM_during_World_War_II) - Both the United States government and Nazi German government used IBM punched card technology for some parts of their camps operation and record keeping.
@@ -251,6 +257,7 @@
 
 
 ### People
+- [Alicia Boole Stott](https://en.wikipedia.org/wiki/Alicia_Boole_Stott) - the daughter of George Boole and was best known for coining the term "polytope" for a convex solid in four (or more) dimensions, and having an impressive grasp of four-dimensional geometry from a very early age.
 - [Digby Tatham-Warter](https://en.wikipedia.org/wiki/Digby_Tatham-Warter) - Digby got to him and said "Don't worry about the bullets, I've got an umbrella". He then escorted the chaplain across the street under his umbrella. When he returned to the front line, one of his fellow officers said about his umbrella that "that thing won't do you any good", to which Digby replied "Oh my goodness Pat, but what if it rains?"
 - [Ivan Renko](https://en.wikipedia.org/wiki/Ivan_Renko) - Ivan Renko was a fictitious Yugoslav basketball player created by Bobby Knight when he was the head coach for the Indiana University Hoosiers.
 - [Joseph Darby](https://en.wikipedia.org/wiki/Joseph_Darby_%28jumper%29) - a renowned jumper from the Black Country village of Netherton. He specialised in spring jumping (jumping starting from a stationary position) often using weights in his hands to help propel him.
@@ -269,6 +276,7 @@
 - [Book of Mozilla](https://en.wikipedia.org/wiki/The_Book_of_Mozilla) - a computer Easter egg found in the Netscape and Mozilla series of web browsers.
 - [Chum Box](https://en.wikipedia.org/wiki/Chum_box) - A chum box (or chumbucket) is a form of online advertising that uses a grid of thumbnails and captions to drive traffic to other sites and webpages.
 - [Considered harmful](https://en.wikipedia.org/wiki/Considered_harmful) - a part of a phrasal template "X considered harmful". As of 2009, its snowclones have been used in the titles of at least 65 critical essays in computer science and related disciplines. Its use in this context originated with a 1968 letter by Edsger Dijkstra published as "Go To Statement Considered Harmful".
+- [Distributed Denial of Secrets](https://en.wikipedia.org/wiki/Distributed_Denial_of_Secrets) is a whistleblower site founded in 2018. Sometimes referred to as a successor to WikiLeaks, it is best known for its June 2020 publication of a large collection of internal police documents, known as BlueLeaks. The group has also published data on Russian oligarchs, fascist groups, shell companies, tax havens, and banking in the Caymans, and has hosted data scraped from Parler in January 2021 and from the February 2021 Gab leak.
 - [Email storm](https://en.wikipedia.org/wiki/Email_storm) - a sudden spike of "reply all" messages on an email distribution list, usually caused by a controversial or misdirected message.
 - [Eternal September](https://en.wikipedia.org/wiki/Eternal_September) - is Usenet slang for a period beginning in September 1993, the month that Internet service provider America Online (AOL) began offering Usenet access to its many users, overwhelming the existing culture for online forums.
 - [Googlewhack](https://en.wikipedia.org/wiki/Googlewhack) - a contest to find a Google Search query that returns a single result.
@@ -278,6 +286,13 @@
 - [Series of tubes](https://en.wikipedia.org/wiki/Series_of_tubes) - a phrase used originally as an analogy by then-United States Senator Ted Stevens (R-Alaska) to describe the Internet in the context of opposing network neutrality.
 
 ## Language
+
+### Alphabets and Writing Systems
+- [Deseret Alphabet](https://en.wikipedia.org/wiki/Deseret_alphabet) - a phonemic English-language spelling reform developed between 1847 and 1854 by the board of regents of the University of Deseret under the leadership of Brigham Young, the second president of the Church of Jesus Christ of Latter-day Saints.
+- [Forfeda](https://en.wikipedia.org/wiki/Forfeda) - the "additional" letters of the Ogham alphabet, beyond the basic inventory of twenty signs.
+- [New York Point](https://en.wikipedia.org/wiki/New_York_Point) - a braille-like system of tactile writing for the blind invented by William Bell Wait (1839–1916), a teacher in the New York Institute for the Education of the Blind. The system used one to four pairs of points set side by side, each containing one or two dots. (Letters of one through four pairs, each with two dots, would be ⟨:⟩ ⟨::⟩ ⟨:::⟩ ⟨::::⟩.) The most common letters are written with the fewest points, a strategy also employed by the competing American Braille.
+- [Night writing](https://en.wikipedia.org/wiki/Night_writing) - an encoding system that used symbols of twelve dots arranged as two columns of six dots embossed on a square of paperboard. The system was a forerunner of Braille and was designed in 1815 by Charles Barbier. It was one of twelve different alternative and shorthand writing methods created by Barbier.
+- [Ogham](https://en.wikipedia.org/wiki/Ogham) - an Early Medieval alphabet used primarily to write the early Irish language
 
 ### Debate/Argument
 - [Gish gallop](https://en.wikipedia.org/wiki/Gish_gallop) - a technique in which a debater attempts to overwhelm an opponent by excessive number of arguments, without regard for the accuracy or strength of those arguments.
@@ -306,22 +321,21 @@
 - [Avoidance speech](https://en.wikipedia.org/wiki/Avoidance_speech) - a group of sociolinguistic phenomena in which a special restricted speech style must be used in the presence of or in reference to certain relatives.
 - [Constructed Languages](https://en.wikipedia.org/wiki/Constructed_language) - A constructed language (sometimes called a conlang) is a language whose phonology, grammar, and vocabulary are, instead of having developed naturally, consciously devised for communication between intelligent beings, most commonly for use by humanoids.
 - [Creole language](https://en.wikipedia.org/wiki/Creole_language) - a stable natural language that develops from the simplifying and mixing of different languages into a new one within a fairly brief period of time: often, a pidgin evolved into a full-fledged language.
+- [Dené–Yeniseian languages](https://en.wikipedia.org/wiki/Den%C3%A9%E2%80%93Yeniseian_languages) - a proposed language family consisting of the Yeniseian languages of central Siberia and the Na-Dené languages of northwestern North America.
 - [Dog Latin](https://en.wikipedia.org/wiki/Dog_Latin) - the creation of a phrase or jargon in imitation of Latin, often by "translating" English words (or those of other languages) into Latin by conjugating or declining them as if they were Latin words.
 - [False friends](https://en.wikipedia.org/wiki/False_friend) - words in different languages that look or sound similar, but differ significantly in meaning.
-- [Forfeda](https://en.wikipedia.org/wiki/Forfeda) - the "additional" letters of the Ogham alphabet, beyond the basic inventory of twenty signs
+- [Karenic languages](https://en.wikipedia.org/wiki/Karenic_languages) - The Karen or Karenic languages are tonal languages spoken by some seven million Karen people. They are of unclear affiliation within the Sino-Tibetan languages. The Karen languages are written using the Burmese script.
 - [Latin obscenity](https://en.wikipedia.org/wiki/Latin_obscenity) - the profane, indecent, or impolite vocabulary of Latin, and its uses. Words deemed obscene were described as obsc(a)ena (obscene, lewd, unfit for public use), or improba (improper, in poor taste, undignified).
 - [Linguistic relativity](https://en.wikipedia.org/wiki/Linguistic_relativity) - the structure of a language affects its speakers' world view or cognition.
 - [North-South differences in the Korean language](https://en.wikipedia.org/wiki/North%E2%80%93South_differences_in_the_Korean_language) - The Korean language has changed between North and South Korea due to the length of time that the two states have been separated.
-- [Ogham](https://en.wikipedia.org/wiki/Ogham) - an Early Medieval alphabet used primarily to write the early Irish language
 - [Pandanus language](https://en.wikipedia.org/wiki/Pandanus_language) - an elaborate avoidance language among several of the peoples of the eastern New Guinea Highlands, used when collecting Pandanus nuts.
 - [Patois](https://en.wikipedia.org/wiki/Patois) - speech or language that is considered nonstandard, although the term is not formally defined in linguistics. As such, patois can refer to pidgins, creoles, dialects or vernaculars, but not commonly to jargon or slang, which are vocabulary-based forms of cant.
 - [Pidgin language](https://en.wikipedia.org/wiki/Pidgin) - a grammatically simplified means of communication that develops between two or more groups that do not have a language in common: typically, its vocabulary and grammar are limited and often drawn from several languages.
 - [Stylometry](https://en.wikipedia.org/wiki/Stylometry) - the application of the study of linguistic style, usually to written language, but it has successfully been applied to music and to fine-art paintings as well.
 - [Theives' cant](https://en.wikipedia.org/wiki/Thieves'_cant) - a secret language (a cant or cryptolect) which was formerly used by thieves, beggars and hustlers of various kinds in Great Britain and to a lesser extent in other English-speaking countries.
 
-### Letters and Glyphs
+### Letters, Characters and Glyphs
 - [Asemic writing](https://en.wikipedia.org/wiki/Asemic_writing) - a wordless open semantic form of writing.
-- [Deseret Alphabet](https://en.wikipedia.org/wiki/Deseret_alphabet) - a phonemic English-language spelling reform developed between 1847 and 1854 by the board of regents of the University of Deseret under the leadership of Brigham Young, the second president of the Church of Jesus Christ of Latter-day Saints.
 - [Multiocular O](https://en.wikipedia.org/wiki/Multiocular_O) - ꙮ
 - [Up tack](https://en.wikipedia.org/wiki/Up_tack) - ⊥
 
@@ -380,6 +394,7 @@
 - [Pangram](https://en.wikipedia.org/wiki/Pangram) - a sentence using every letter of a given alphabet at least once.
 - [Pangrammatic lipogram](https://en.wikipedia.org/wiki/Lipogram#Pangrammatic_lipogram) - uses every letter of the alphabet except one.
 - [Pangrammatic window](https://en.wikipedia.org/wiki/Pangrammatic_window) - a stretch of naturally occurring text that contains all the letters in the alphabet.
+- [Patronymic](https://en.wikipedia.org/wiki/Patronymic) - a component of a personal name based on the given name of one's father, grandfather (avonymic), or an earlier male ancestor.
 - [Phonetic reversal](https://en.wikipedia.org/wiki/Phonetic_reversal) - the process of reversing the phonemes or phones of a word or phrase.
 - [Placeholder name](https://en.wikipedia.org/wiki/Placeholder_name) - words that can refer to objects or people whose names are temporarily forgotten, irrelevant, or unknown in the context in which they are being discussed.
 - [RAS Syndrome](https://en.wikipedia.org/wiki/RAS_syndrome) - the use of one or more of the words that make up an acronym (or other initialism) in conjunction with the abbreviated form. This means, in effect, repeating one or more words from the acronym. Two common examples are "PIN number"/ "VIN number" (the "N" in PIN and VIN stands for "number") and "ATM machine" (the "M" in ATM stands for "machine").
@@ -398,7 +413,8 @@
 - [Magma](https://en.wikipedia.org/wiki/Magma_(algebra)) - In abstract algebra, a magma (or groupoid) is a basic kind of algebraic structure. Specifically, a magma consists of a set equipped with a single binary operation. The binary operation must be closed by definition but no other properties are imposed.
 - [Modular arithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic) - a system of arithmetic for integers, where numbers "wrap around" upon reaching a certain value—the modulus (plural moduli).
 - [Racks and quandles](https://en.wikipedia.org/wiki/Racks_and_quandles) - In mathematics, racks and quandles are sets with binary operations satisfying axioms analogous to the Reidemeister moves used to manipulate knot diagrams.
-- [Set-heoretic definition of natural numbers](https://en.wikipedia.org/wiki/Set-theoretic_definition_of_natural_numbers)
+- [Rng](https://en.wikipedia.org/wiki/Rng_(algebra)) - an algebraic structure satisfying the same properties as a ring, but without assuming the existence of a multiplicative identity
+- [Set-theoretic definition of natural numbers](https://en.wikipedia.org/wiki/Set-theoretic_definition_of_natural_numbers)
 
 ### Functions
 - [Arity](https://en.wikipedia.org/wiki/Arity) - In logic, mathematics, and computer science, the arity of a function or operation is the number of arguments or operands that the function takes.
@@ -483,6 +499,9 @@
 - [Roman Numerals](https://en.wikipedia.org/wiki/Roman_numerals) - The numeric system represented by Roman numerals originated in ancient Rome and remained the usual way of writing numbers throughout Europe well into the Late Middle Ages.
 - [Silver ratio](https://en.wikipedia.org/wiki/Silver_ratio) - two quantities are in the silver ratio (also silver mean or silver constant) if the ratio of the sum of the smaller and twice the larger of those quantities, to the larger quantity, is the same as the ratio of the larger one to the smaller one.
 
+### Topology
+- [Handlebody](https://en.wikipedia.org/wiki/Handlebody) - In the mathematical field of geometric topology, a handlebody is a decomposition of a manifold into standard pieces.
+
 ## Odds and Ends
 - ["Assume a can opener"](https://en.wikipedia.org/wiki/Assume_a_can_opener) - a catchphrase used to mock economists and other theorists who base their conclusions on unjustified or oversimplified assumptions.
 - [BBC Redux](https://en.wikipedia.org/wiki/BBC_Redux) - a BBC Research & Development system that digitally records television and radio output in the United Kingdom produced by the British Broadcasting Corporation. It has been operating since 2007 and contains several petabytes of recordings and subtitle data.
@@ -535,8 +554,10 @@
 - [List of inventors killed by their own inventions](https://en.wikipedia.org/wiki/List_of_inventors_killed_by_their_own_inventions)
 - [List of Latin phrases](https://en.wikipedia.org/wiki/List_of_Latin_phrases_(full))
 - [List of list of lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists)
+- [List of media notable for being in development hell](https://en.wikipedia.org/wiki/List_of_media_notable_for_being_in_development_hell)
 - [List of memory biases](https://en.wikipedia.org/wiki/List_of_memory_biases
 - [List of numeral systems](https://en.wikipedia.org/wiki/List_of_numeral_systems)
+- [List of ongoing armed conflicts](https://en.wikipedia.org/wiki/List_of_ongoing_armed_conflicts)
 - [List of organisms named after famous people](https://en.wikipedia.org/wiki/List_of_organisms_named_after_famous_people)
 - [List of organisms named after the Harry Potter series](https://en.wikipedia.org/wiki/List_of_organisms_named_after_the_Harry_Potter_series)
 - [List of pasta](https://en.wikipedia.org/wiki/List_of_pasta)
@@ -649,7 +670,7 @@
 ### Biology
 - [Mirror life](https://en.wikipedia.org/wiki/Mirror_life) - a hypothetical form of life with mirror-reflected molecular building blocks
 
-## Botany
+### Botany
 - [Fairy ring](https://en.wikipedia.org/wiki/Fairy_ring) - a naturally occuring ring of mushrooms
 
 ### Cartography, Geography
@@ -670,6 +691,7 @@
 - [Cat state](https://en.wikipedia.org/wiki/Cat_state), named after Schrödinger's cat, is a quantum state that is composed of two diametrically opposed conditions at the same time, such as the possibilities that a cat be alive and dead at the same time.
 - [Eddy current](https://en.wikipedia.org/wiki/Eddy_current) -  Loops of electrical current induced within conductors by a changing magnetic field in the conductor according to Faraday's law of induction.
 - [Faraday Cage](https://en.wikipedia.org/wiki/Faraday_cage) - An enclosure used to block electromagnetic fields.
+- [Shape of the universe](https://en.wikipedia.org/wiki/Shape_of_the_universe) - The shape of the universe, in physical cosmology, is the local and global geometry of the universe. The local features of the geometry of the universe are primarily described by its curvature, whereas the topology of the universe describes general global properties of its shape as of a continuous object.
 - [Superdense coding](https://en.wikipedia.org/wiki/Superdense_coding) - a quantum communication protocol to transmit two classical bits of information (i.e., either 00, 01, 10 or 11) from a sender (often called Alice) to a receiver (often called Bob), by sending only one qubit from Alice to Bob, under the assumption of Alice and Bob pre-sharing an entangled state.
 - [The many-worlds interpretation](https://en.wikipedia.org/wiki/Many-worlds_interpretation) is an interpretation of quantum mechanics that asserts that the universal wavefunction is objectively real, and that there is no wavefunction collapse. This implies that all possible outcomes of quantum measurements are physically realized in some "world" or universe.
 - [Quantum teleportation](https://en.wikipedia.org/wiki/Quantum_teleportation) - a process in which quantum information (e.g. the exact state of an atom or photon) can be transmitted (exactly, in principle) from one location to another, with the help of classical communication and previously shared quantum entanglement between the sending and receiving location.
