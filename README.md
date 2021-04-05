@@ -84,10 +84,12 @@
 - [Entropy (information theory)](https://en.wikipedia.org/wiki/Entropy_(information_theory)) - is the average rate at which information is produced by a stochastic source of data.
 - [Feistel cipher](https://en.wikipedia.org/wiki/Feistel_cipher) - a symmetric structure used in the construction of block ciphers
 - [Identicon](https://en.wikipedia.org/wiki/Identicon) - An Identicon is a visual representation of a hash value, usually of an IP address, that serves to identify a user of a computer system as a form of avatar while protecting the users' privacy.
+- [Indistinguishability obfuscation](https://en.wikipedia.org/wiki/Indistinguishability_obfuscation) - a cryptographic primitive that provides a formal notion of program obfuscation. Informally, obfuscation hides the implementation of a program while still allowing users to run it.
 - [Key Schedule](https://en.wikipedia.org/wiki/Key_schedule) - In cryptography, the so-called product ciphers are a certain kind of cipher, where the (de-)ciphering of data is typically done as an iteration of rounds.
 - [Key signing party](https://en.wikipedia.org/wiki/Key_signing_party) - an event at which people present their public keys to others in person, who, if they are confident the key actually belongs to the person who claims it, digitally sign the certificate containing that public key and the person's name, etc.
 - [Key Wrap](https://en.wikipedia.org/wiki/Key_Wrap) - a class of symmetric encryption algorithms designed to encrypt cryptographic key material.
 - [Lamport signature](https://en.wikipedia.org/wiki/Lamport_signature) - a method for constructing a digital signature. Lamport signatures can be built from any cryptographically secure one-way function; usually a cryptographic hash function is used.
+- [Learning with errors](https://en.wikipedia.org/wiki/Learning_with_errors) - the computational problem of inferring a linear n-ary function f over a finite ring from given samples y_i = f (x_i) some of which may be erroneous.
 - [Linux Unified Key Setup](https://en.wikipedia.org/wiki/Linux_Unified_Key_Setup) - disk encryption specification created by Clemens Fruhwirth in 2004 and was originally intended for Linux.
 - [Merkle Tree](https://en.wikipedia.org/wiki/Merkle_tree) - a hash tree or Merkle tree is a tree in which every leaf node is labelled with the hash of a data block, and every non-leaf node is labelled with the cryptographic hash of the labels of its child nodes.
 - [Nihilist cipher](https://en.wikipedia.org/wiki/Nihilist_cipher) - manually operated symmetric encryption cipher, originally used by Russian Nihilists in the 1880s to organize terrorism against the tsarist regime.
@@ -118,6 +120,10 @@
 - [Stanford Bunny](https://en.wikipedia.org/wiki/Stanford_bunny) - Standard for scanning 3d objects
 - [Utah Teapot](https://en.wikipedia.org/wiki/Utah_teapot) - Standard 3D test model
 - [Z-Fighting](https://en.wikipedia.org/wiki/Z-fighting) - When 2 planes are in the same position and 'mesh' together.
+
+### Hardware/Signals
+- [Bell character](https://en.wikipedia.org/wiki/Bell_character) - a device control code originally sent to ring a small electromechanical bell on tickers and other teleprinters and teletypewriters to alert operators at the other end of the line, often of an incoming message.
+- [Control character](https://en.wikipedia.org/wiki/Control_character) - a code point (a number) in a character set, that does not represent a written symbol. They are used as in-band signaling to cause effects other than the addition of a symbol to the text.
 
 ### Image Processing
 - [Lenna](https://en.wikipedia.org/wiki/Lenna) - Standard test image for image processing
@@ -172,6 +178,7 @@
 - [Just another Perl hacker](https://en.wikipedia.org/wiki/Just_another_Perl_hacker) - a Perl program which prints "Just another Perl hacker," (the comma is canonical but is occasionally omitted). Short JAPH programs are often used as signatures in online forums, or as T-shirt designs.
 - [Kolmogorov complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity) - the length of the shortest computer program (in a predetermined programming language) that produces the object as output.
 - [Lasagna code](https://en.wikipedia.org/wiki/Spaghetti_code#Lasagna_code) - code whose layers are so complicated and intertwined that making a change in one layer would necessitate changes in all other layers.
+- [Magic cookie](https://en.wikipedia.org/wiki/Magic_cookie) - a token or short packet of data passed between communicating programs, where the data is typically not meaningful to the recipient program. The contents are opaque and not usually interpreted until the recipient passes the cookie data back to the sender or perhaps another program at a later time. The cookie is often used like a ticket – to identify a particular event or transaction.
 - [Metasyntactic variable](https://en.wikipedia.org/wiki/Metasyntactic_variable) - a specific word or set of words identified as a placeholder in computer science and specifically computer programming. These words are commonly found in source code and are intended to be modified or substituted to be applicable to the specific usage before compilation (translation to an executable).
 - [Polymorphic code](https://en.wikipedia.org/wiki/Polymorphic_code) - code that uses a polymorphic engine to mutate while keeping the original algorithm intact. That is, the code changes itself each time it runs, but the function of the code (its semantics) will not change at all.
 - [Quine](https://en.wikipedia.org/wiki/Quine_(computing)) - A self replicating program.
@@ -211,6 +218,7 @@
 ## History & Anthropology
 - [Abuwtiyuw](https://en.wikipedia.org/wiki/Abuwtiyuw) - The Egyptian dog Abuwtiyuw was one of the earliest documented domestic animals whose name is known.
 - [Acoustic Kitty](https://en.wikipedia.org/wiki/Acoustic_Kitty) - Acoustic Kitty was a CIA project launched by the Central Intelligence Agency Directorate of Science & Technology, which in the 1960s intended to use cats to spy on the Kremlin and Soviet embassies.
+- [Bamboo ceiling](https://en.wikipedia.org/wiki/Bamboo_ceiling) - a term used to describe the combination of individual, cultural, and organizational factors that impede Asian Americans' career progress inside organizations.
 - [Cargo Cult](https://en.wikipedia.org/wiki/Cargo_cult) - A belief system among members of a relatively undeveloped society in which adherents practice superstitious rituals hoping to bring modern goods supplied by a more technologically advanced society.
 - [Chicken George (politics)](https://en.wikipedia.org/wiki/Chicken_George_(politics)) - a campaign tactic in the 1992 U.S. presidential election, where one or more people in chicken costumes heckled President George H. W. Bush over his refusal to participate in a debate with Democratic candidate Bill Clinton.
 - [Cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk) - any activist advocating widespread use of strong cryptography and privacy-enhancing technologies as a route to social and political change.
@@ -255,15 +263,16 @@
 - [Wrongful birth](https://en.wikipedia.org/wiki/Wrongful_birth) - a legal cause of action in some common law countries in which the parents of a congenitally diseased child claim that their doctor failed to properly warn of their risk of conceiving or giving birth to a child with serious genetic or congenital abnormalities.
 - [Wrongful life](https://en.wikipedia.org/wiki/Wrongful_life) - the name given to a legal action in which someone is sued by a severely disabled child (through the child's legal guardian) for failing to prevent the child's birth. Typically, a child and the child's parents will sue a doctor or a hospital for failing to provide information about the disability during the pregnancy, or a genetic disposition before the pregnancy. Had the mother been aware of this information, it is argued, she would have had an abortion, or chosen not to conceive at all.
 
-
 ### People
 - [Alicia Boole Stott](https://en.wikipedia.org/wiki/Alicia_Boole_Stott) - the daughter of George Boole and was best known for coining the term "polytope" for a convex solid in four (or more) dimensions, and having an impressive grasp of four-dimensional geometry from a very early age.
 - [Digby Tatham-Warter](https://en.wikipedia.org/wiki/Digby_Tatham-Warter) - Digby got to him and said "Don't worry about the bullets, I've got an umbrella". He then escorted the chaplain across the street under his umbrella. When he returned to the front line, one of his fellow officers said about his umbrella that "that thing won't do you any good", to which Digby replied "Oh my goodness Pat, but what if it rains?"
 - [Ivan Renko](https://en.wikipedia.org/wiki/Ivan_Renko) - Ivan Renko was a fictitious Yugoslav basketball player created by Bobby Knight when he was the head coach for the Indiana University Hoosiers.
 - [Joseph Darby](https://en.wikipedia.org/wiki/Joseph_Darby_%28jumper%29) - a renowned jumper from the Black Country village of Netherton. He specialised in spring jumping (jumping starting from a stationary position) often using weights in his hands to help propel him.
+- [Mary Kenneth Keller](https://en.wikipedia.org/wiki/Mary_Kenneth_Keller) - an American Roman Catholic religious sister, educator and pioneer in computer science. She and Irving C. Tang were the first two people to earn a doctorate in computer science in the United States.
 - [Pauli Murray](https://en.wikipedia.org/wiki/Pauli_Murray) - an American civil rights activist who became a lawyer, a women's rights activist, Episcopal priest, and author. Drawn to the ministry, in 1977 Murray was the first African-American woman to be ordained as an Episcopal priest, in the first year that any women were ordained by that church.
 - [Steve Shirley](https://en.wikipedia.org/wiki/Steve_Shirley) - a British information technology pioneer, businesswoman and philanthropist.
 - [The boy Jones](https://en.wikipedia.org/wiki/The_boy_Jones) - a British teenager who became notorious for breaking into Buckingham Palace multiple times between 1838 and 1841.
+- [Thursday October Christian I](https://en.wikipedia.org/wiki/Thursday_October_Christian_I) - the first child born on the Pitcairn Islands after the mutineers took refuge on the island. Born on a Thursday in October, he was given his unusual name because Fletcher Christian wanted his son to have "no name that will remind me of England."
 - [Umarell](https://en.wikipedia.org/wiki/Umarell) - a term popular in Bologna referring specifically to men of retirement age who pass the time watching construction sites, especially roadworks – stereotypically with hands clasped behind their back and offering unwanted advice
 
 ### Wars
@@ -277,11 +286,14 @@
 - [Chum Box](https://en.wikipedia.org/wiki/Chum_box) - A chum box (or chumbucket) is a form of online advertising that uses a grid of thumbnails and captions to drive traffic to other sites and webpages.
 - [Considered harmful](https://en.wikipedia.org/wiki/Considered_harmful) - a part of a phrasal template "X considered harmful". As of 2009, its snowclones have been used in the titles of at least 65 critical essays in computer science and related disciplines. Its use in this context originated with a 1968 letter by Edsger Dijkstra published as "Go To Statement Considered Harmful".
 - [Distributed Denial of Secrets](https://en.wikipedia.org/wiki/Distributed_Denial_of_Secrets) is a whistleblower site founded in 2018. Sometimes referred to as a successor to WikiLeaks, it is best known for its June 2020 publication of a large collection of internal police documents, known as BlueLeaks. The group has also published data on Russian oligarchs, fascist groups, shell companies, tax havens, and banking in the Caymans, and has hosted data scraped from Parler in January 2021 and from the February 2021 Gab leak.
+- [dril](https://en.wikipedia.org/wiki/Dril) - a pseudonymous Twitter user best known for his idiosyncratic style of absurdist humor and non sequiturs.
 - [Email storm](https://en.wikipedia.org/wiki/Email_storm) - a sudden spike of "reply all" messages on an email distribution list, usually caused by a controversial or misdirected message.
 - [Eternal September](https://en.wikipedia.org/wiki/Eternal_September) - is Usenet slang for a period beginning in September 1993, the month that Internet service provider America Online (AOL) began offering Usenet access to its many users, overwhelming the existing culture for online forums.
 - [Googlewhack](https://en.wikipedia.org/wiki/Googlewhack) - a contest to find a Google Search query that returns a single result.
-- [Google's ideological echo chamber](https://en.wikipedia.org/wiki/Google's_Ideological_Echo_Chamber) - commonly referred to as the Google memo, is an internal memo, dated July 2017, by United States-based Google engineer James Damore about Google's culture and diversity policies
+- [Google's ideological echo chamber](https://en.wikipedia.org/wiki/Google's_Ideological_Echo_Chamber) - commonly referred to as the Google memo, is an internal memo, dated July 2017, by United States-based Google engineer James Damore about Google's culture and diversity policies.
+- [Milkshake Duck](https://en.wikipedia.org/wiki/Milkshake_Duck) - an Internet meme that describes people who gain viral popularity on social media for some positive or charming trait but are later revealed to have distasteful histories or offensive behavior.
 - [Monkey selfie copyright dispute](https://en.wikipedia.org/wiki/Monkey_selfie_copyright_dispute) - a series of disputes about the copyright status of selfies taken by Celebes crested macaques using equipment belonging to the British nature photographer David Slater.
+- [PETA Domain Name Disputes](https://en.wikipedia.org/wiki/People_for_the_Ethical_Treatment_of_Animals#Domain_name_disputes) - In February 1995, a parody website calling itself "People Eating Tasty Animals" registered the domain name "peta.org". PETA sued, claiming trademark violation, and won the suit in 2001; the domain is currently owned by PETA. While still engaged in legal proceedings over "peta.org", PETA themselves registered the domains "ringlingbrothers.com" and "voguemagazine.com", using the sites to accuse Ringling Brothers and Barnum & Bailey Circus and Vogue of animal cruelty.
 - [Sealioning](https://en.wikipedia.org/wiki/Sealioning) - a type of trolling or harassment that consists of pursuing people with persistent requests for evidence or repeated questions, while maintaining a pretense of civility and sincerity.
 - [Series of tubes](https://en.wikipedia.org/wiki/Series_of_tubes) - a phrase used originally as an analogy by then-United States Senator Ted Stevens (R-Alaska) to describe the Internet in the context of opposing network neutrality.
 
@@ -296,6 +308,7 @@
 
 ### Debate/Argument
 - [Gish gallop](https://en.wikipedia.org/wiki/Gish_gallop) - a technique in which a debater attempts to overwhelm an opponent by excessive number of arguments, without regard for the accuracy or strength of those arguments.
+- [Name calling](https://en.wikipedia.org/wiki/Name_calling) - a form of verbal abuse in which insulting or demeaning labels are directed at an individual or group.
 
 ### Grammar
 - [Adjective Order](https://en.wikipedia.org/wiki/Adjective#Order) - In many languages, attributive adjectives usually occur in a specific order. In general, the adjective order in English can be summarised as: opinion, size, age or shape, colour, origin, material, purpose. This sequence (with age preceding shape) is sometimes referred to by the mnemonic OSASCOMP.
@@ -388,6 +401,7 @@
 - [Irony](https://en.wikipedia.org/wiki/Irony) - a rhetorical device, literary technique, or event in which what appears, on the surface, to be the case, differs radically from what is actually the case.
 - [Isogram](https://en.wikipedia.org/wiki/Isogram) - a logological term for a word or phrase without a repeating letter.
 - [Lorem Ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum) - a placeholder text commonly used to demonstrate the visual form of a document without relying on meaningful content (also called greeking).
+- [Mass noun](https://en.wikipedia.org/wiki/Mass_noun) - a noun with the syntactic property that any quantity of it is treated as an undifferentiated unit, rather than as something with discrete elements.
 - [Mondegreen](https://en.wikipedia.org/wiki/Mondegreen) - Mishearing of a phrase that results in near-homophony, in a way that gives it a new meaning.
 - [Palindrome](https://en.wikipedia.org/wiki/Palindrome) - a word, number, phrase, or other sequence of characters which reads the same backward as forward, such as madam or racecar or the number 10801.
 - [Panalphabetic window](https://en.wikipedia.org/wiki/Panalphabetic_window) - a stretch of text that contains all the letters of the alphabet in order. It is a special type of pangram or pangrammatic window.
@@ -397,6 +411,7 @@
 - [Patronymic](https://en.wikipedia.org/wiki/Patronymic) - a component of a personal name based on the given name of one's father, grandfather (avonymic), or an earlier male ancestor.
 - [Phonetic reversal](https://en.wikipedia.org/wiki/Phonetic_reversal) - the process of reversing the phonemes or phones of a word or phrase.
 - [Placeholder name](https://en.wikipedia.org/wiki/Placeholder_name) - words that can refer to objects or people whose names are temporarily forgotten, irrelevant, or unknown in the context in which they are being discussed.
+- [Plurale tantum](https://en.wikipedia.org/wiki/Plurale_tantum) - a noun that appears only in the plural form and does not have a singular variant for referring to a single object.
 - [RAS Syndrome](https://en.wikipedia.org/wiki/RAS_syndrome) - the use of one or more of the words that make up an acronym (or other initialism) in conjunction with the abbreviated form. This means, in effect, repeating one or more words from the acronym. Two common examples are "PIN number"/ "VIN number" (the "N" in PIN and VIN stands for "number") and "ATM machine" (the "M" in ATM stands for "machine").
 - [Skunked term](https://en.wikipedia.org/wiki/Skunked_term) - a word that becomes difficult to use because it transitions from one meaning to another
 - [Sniglet](https://en.wikipedia.org/wiki/Sniglet) - an often humorous word made up to describe something for which no dictionary word exists.
@@ -499,6 +514,10 @@
 - [Roman Numerals](https://en.wikipedia.org/wiki/Roman_numerals) - The numeric system represented by Roman numerals originated in ancient Rome and remained the usual way of writing numbers throughout Europe well into the Late Middle Ages.
 - [Silver ratio](https://en.wikipedia.org/wiki/Silver_ratio) - two quantities are in the silver ratio (also silver mean or silver constant) if the ratio of the sum of the smaller and twice the larger of those quantities, to the larger quantity, is the same as the ratio of the larger one to the smaller one.
 
+### Statistics/probability
+- [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox) - a phenomenon in probability and statistics, in which a trend appears in several different groups of data but disappears or reverses when these groups are combined.
+- [Wiener sausage](https://en.wikipedia.org/wiki/Wiener_sausage) - a neighborhood of the trace of a Brownian motion up to a time t, given by taking all points within a fixed distance of Brownian motion.
+
 ### Topology
 - [Handlebody](https://en.wikipedia.org/wiki/Handlebody) - In the mathematical field of geometric topology, a handlebody is a decomposition of a manifold into standard pieces.
 
@@ -516,6 +535,7 @@
 - [Numerology](https://en.wikipedia.org/wiki/Numerology) - any belief in the divine or mystical relationship between a number and one or more coinciding events.
 - [Open access](https://en.wikipedia.org/wiki/Open_access)
 - [Paul is dead](https://en.wikipedia.org/wiki/Paul_is_dead) - an urban legend and conspiracy theory alleging that Paul McCartney, of the English rock band the Beatles, died in November 1966 and was secretly replaced by a look-alike.
+- [Pester power](https://en.wikipedia.org/wiki/Pester_power) - the "tendency of children, who are bombarded with marketers' messages, to unrelentingly request advertised items".
 - [Politician's syllogism](https://en.wikipedia.org/wiki/Politician%27s_syllogism) - The politician's syllogism, also known as the politician's logic or the politician's fallacy, is a logical fallacy of the form: We must do something. This is something. Therefore, we must do this.
 - [Postdiction](https://en.wikipedia.org/wiki/Postdiction) -  In skepticism, it is considered an effect of hindsight bias that explains claimed predictions of significant events such as plane crashes and natural disasters.
 - [Russian political jokes](https://en.wikipedia.org/wiki/Russian_political_jokes) -  a part of Russian humour and can be grouped into the major time periods: Imperial Russia, Soviet Union and finally post-Soviet Russia.
@@ -523,7 +543,9 @@
 - [Schroedinger's cat in popular culture](https://en.wikipedia.org/wiki/Schr%C3%B6dinger's_cat_in_popular_culture)
 - [Spherical cow](https://en.wikipedia.org/wiki/Spherical_cow) - a humorous metaphor for highly simplified scientific models of complex real life phenomena.
 - [Suicide in Lithuania](https://en.wikipedia.org/wiki/Suicide_in_Lithuania) - Suicide in Lithuania has become a significant social issue in the country due to its high rate. Despite constantly decreasing since its peak in 1995, the suicide rate in Lithuania remains the highest in the EU and the OECD. The suicide rate as of 2017 is 26.4 suicides per 100,000 people.
+- [Sweater curse](https://en.wikipedia.org/wiki/Sweater_curse) - a term used by knitters to describe the belief that if a knitter gives a hand-knit sweater to a significant other, it will lead to the recipient breaking up with the knitter.
 - [Therblig](https://en.wikipedia.org/wiki/Therblig) - are 18 kinds of elemental motions used in the study of motion economy in the workplace. A workplace task is analyzed by recording each of the therblig units for a process, with the results used for optimization of manual labour by eliminating unneeded movements.
+- [The Game](https://en.wikipedia.org/wiki/The_Game_(mind_game)) - a mental game where the objective is to avoid thinking about The Game itself. Thinking about The Game constitutes a loss, which must be announced each time it occurs.
 - [The People Walker](https://en.wikipedia.org/wiki/The_People_Walker) is a service where people can hire someone to walk with them and provide motivation through conversation and companionship.
 - [Vehicle registration plates of Europe](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Europe)
 - [Verdana-gate](https://en.wikipedia.org/wiki/Verdana#Usage) - The "scandal" that ensued when IKEA changed their main typeface from Futura to Verdana.
@@ -596,6 +618,7 @@
 - [Dear enemy effect](https://en.wikipedia.org/wiki/Dear_enemy_effect) - n ethological phenomenon in which two neighbouring territorial animals become less aggressive toward one another once territorial borders are well-established.
 - [Droste Effect](https://en.wikipedia.org/wiki/Droste_effect) - Picture recursively appearing within itsel
 - [Dutch disease](https://en.wikipedia.org/wiki/Dutch_disease) - the apparent causal relationship between the increase in the economic development of a specific sector (for example natural resources) and a decline in other sectors (like the manufacturing sector or agriculture).
+- [Founder's syndrome](https://en.wikipedia.org/wiki/Founder's_syndrome) is the difficulty faced by organizations, and in particular young companies such as start-ups, where one or more founders maintain disproportionate power and influence following the effective initial establishment of the organization, leading to a wide range of problems.
 - [Half-life of knowledge](https://en.wikipedia.org/wiki/Half-life_of_knowledge) -  the amount of time that has to elapse before half of the knowledge or facts in a particular area is superseded or shown to be untrue.
 - [IKEA Effect](https://en.m.wikipedia.org/wiki/IKEA_effect) - The IKEA effect is a cognitive bias in which consumers place a disproportionately high value on products they partially created.
 - [Law of triviality](https://en.wikipedia.org/wiki/Law_of_triviality) - members of an organization give disproportionate weight to trivial issues.
@@ -711,9 +734,11 @@
 ## Things
 - [Adventure playground](https://en.wikipedia.org/wiki/Adventure_playground) - a specific type of playground for children. Adventure playgrounds can take many forms, ranging from "natural playgrounds" to "junk playgrounds", and are typically defined by an ethos of unrestricted play, the presence of playworkers (or "wardens"), and the absence of adult-manufactured or rigid play-structures.
 - [Ampelmaennchen](https://en.wikipedia.org/wiki/Ampelm%C3%A4nnchen) - is the symbol shown on pedestrian signals in Germany.
+- [Antimony pill](https://en.wikipedia.org/wiki/Antimony_pill) - a pill made from metallic antimony. It was a popular remedy in the nineteenth century, and it was used to purge and revitalise the bowels. In use, it is swallowed and allowed to pass through the body, after which it is customarily recovered for reuse, giving rise to the name everlasting pill.
 - [Apollo insurance covers](https://en.wikipedia.org/wiki/Apollo_insurance_covers) - autographed postal covers signed by the astronaut crews prior to their mission. The ability of astronauts to obtain much life insurance was limited, so they signed hundreds of postal covers before they left, on the presumption that they would become highly valuable in the event of their death.
 - [Archimedes' Screw](https://en.wikipedia.org/wiki/Archimedes'_screw) -  is a machine used for transferring water from a low-lying body of water into irrigation ditches.
 - [Auxetics](https://en.wikipedia.org/wiki/Auxetics) - structures or materials that have a negative Poisson's ratio. When stretched, they become thicker perpendicular to the applied force.
+- [Battenburg markings](https://en.wikipedia.org/wiki/Battenburg_markings) - a pattern of high-visibility markings developed in the United Kingdom (UK) in the 1990s and now used on the sides of emergency service vehicles in the UK, Crown dependencies, British Overseas Territories and several other European countries such as Czech Republic, Iceland, Sweden, Germany, Spain, Ireland and Belgium as well as in New Zealand, Australia, Hong Kong, and Trinidad and Tobago.
 - [Bread dildo](https://en.wikipedia.org/wiki/Bread_dildo) - a dildo prepared using bread, allegedly made in the Greco-Roman era around 2,000 years ago.
 - [Camouflage passport](https://en.wikipedia.org/wiki/Camouflage_passport) - a document, designed to look like a real passport, issued in the name of a non-existent country or entity.
 - [Christmas Bullet](https://en.wikipedia.org/wiki/Christmas_Bullet) - an American single-seat cantilever wing biplane. It is considered by many to be among the worst aircraft ever constructed.
@@ -738,6 +763,7 @@
 - [Milk cars](https://en.wikipedia.org/wiki/Milk_car) are a specialized type of railroad car intended to transport raw milk from collection points near dairy farms to a processing creamery. Some milk cars were intended for loading with multiple cans of milk, while others were designed with a single tank for bulk loading. Milk cars were often equipped with high-speed passenger trucks, passenger-type buffer plates, and train signal and steam lines seldom found on conventional refrigerator cars.
 - [Nickelodeon](https://en.wikipedia.org/wiki/Nickelodeon_(movie_theater)) - the first type of indoor exhibition space dedicated to showing projected motion pictures in the United States. Usually set up in converted storefronts, these small, simple theaters charged five cents for admission and flourished from about 1905 to 1915.
 - [Polar bear jail](https://en.wikipedia.org/wiki/Polar_bear_jail) - a special building in Churchill, Manitoba where polar bears that are considered troublesome or dangerous are isolated before they can be relocated.
+- [Port tongs](https://en.wikipedia.org/wiki/Port_tongs) - a special set of tongs designed to open wine bottles that are sealed with a cork. The tongs are heated over an open flame and held against the neck of the wine bottle for 20–30 seconds. The heated section of bottle is then cooled with a damp cloth or ice water, causing the glass to fracture due to thermal expansion. The result is generally a clean, predictable break.
 - [Sleeve garter](https://en.wikipedia.org/wiki/Sleeve_garter) - a garter worn on the sleeve of a shirt. It came into wide use, especially in the USA, in the latter half of the 19th century when men's ready-made shirts came in a single (extra long) sleeve length. Sleeve garters allow men to customize sleeve lengths and keep their cuffs from becoming soiled while working or at the correct length when worn under a jacket.
 - [Smoot](https://en.wikipedia.org/wiki/Smoot) - a nonstandard, humorous unit of length created as part of an MIT fraternity prank. It is named after Oliver R. Smoot, a fraternity pledge to Lambda Chi Alpha, who in October 1958 lay down repeatedly on the Harvard Bridge (between Boston and Cambridge, Massachusetts) so that his fraternity brothers could use his height to measure the length of the bridge.
 - [Sponson](https://en.wikipedia.org/wiki/Sponson) - projections extending from the sides of land vehicles, aircraft or watercraft to provide protection, stability, storage locations, mounting points for weapons or other devices, or equipment housing.
@@ -758,4 +784,5 @@
 - [Popcorn](https://en.wikipedia.org/wiki/Popcorn) - a variety of corn kernel which expands and puffs up when heated
 - [Soldiers (food)](https://en.wikipedia.org/wiki/Soldiers_(food)) - a thin strip of toast; the strips that a slice is cut into are reminiscent of soldiers on parade.
 - [Solo garlic](https://en.wikipedia.org/wiki/Solo_garlic) - Solo garlic is a type of garlic where the bulb is 1 giant clove.
+- [Toast sandwich](https://en.wikipedia.org/wiki/Toast_sandwich) - a sandwich made with two slices of bread in which the filling is a thin slice of toasted bread, which may be heavily buttered.
 - [World's longest hot dog](https://en.wikipedia.org/wiki/World's_longest_hot_dog)
