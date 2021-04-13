@@ -207,6 +207,7 @@
 - [Camden Bench](https://en.wikipedia.org/wiki/Camden_bench) - It is designed specifically to influence the behaviour of the public by restricting undesirable behaviour, a principle known as hostile architecture, and instead be usable only as a bench.
 - [Defensive Design](https://en.wikipedia.org/wiki/Defensive_design) -  the practice of planning for contingencies in the design stage of a project or undertaking.
 - [Hostile architecture](https://en.wikipedia.org/wiki/Hostile_architecture) - an urban design trend in which public spaces are constructed or altered to discourage people from using them in a way not intended by the owner.
+- [Rotated letter]
 - [Typeface anatomy](https://en.wikipedia.org/wiki/Typeface_anatomy) - Typeface anatomy describes the graphic elements that make up Font in a typeface.
 - [Voc-ATypI Classification](https://en.wikipedia.org/wiki/Vox-ATypI_classification) - In typography, the Vox-ATypI classification makes it possible to classify typefaces into general classes.
 
@@ -234,6 +235,7 @@
 - [Murder Hole](https://en.wikipedia.org/wiki/Murder_hole) - a hole in the ceiling of a gateway or passageway in a fortification through which the defenders could fire, throw or pour harmful substances or objects, such as rocks, arrows, scalding water, hot sand, quicklime, tar, or boiling oil, down on attackers.
 - [Naruto run](https://en.wikipedia.org/wiki/Naruto#Naruto_run) - a running style based on the way the characters run leaning forward with their arms behind their backs.
 - [Nils Olav](https://en.wikipedia.org/wiki/Nils_Olav) - a king penguin who resides in Edinburgh Zoo, Scotland. He is the mascot and colonel-in-chief of the Norwegian King's Guard.
+- [Numismatics](https://en.wikipedia.org/wiki/Numismatics) is the study or collection of currency, including coins, tokens, paper money and related objects.
 - [Obsolete Occupations](https://en.wikipedia.org/wiki/Category:Obsolete_occupations)
 - [Pink Capitalism](https://en.wikipedia.org/wiki/Pink_capitalism) - the incorporation of the LGBT movement and sexual diversity to capitalism and the market economy, viewed especially in a critical lens as this incorporation pertains to the LGBT, Western, white, and affluent, upper middle class communities and market.
 - [Sword of Damocles](https://en.wikipedia.org/wiki/Damocles) - King who hung a sword from a string above his head to represent the constant threat involved in ruling
@@ -285,12 +287,14 @@
 - [Book of Mozilla](https://en.wikipedia.org/wiki/The_Book_of_Mozilla) - a computer Easter egg found in the Netscape and Mozilla series of web browsers.
 - [Chum Box](https://en.wikipedia.org/wiki/Chum_box) - A chum box (or chumbucket) is a form of online advertising that uses a grid of thumbnails and captions to drive traffic to other sites and webpages.
 - [Considered harmful](https://en.wikipedia.org/wiki/Considered_harmful) - a part of a phrasal template "X considered harmful". As of 2009, its snowclones have been used in the titles of at least 65 critical essays in computer science and related disciplines. Its use in this context originated with a 1968 letter by Edsger Dijkstra published as "Go To Statement Considered Harmful".
+- [Copy protection](https://en.wikipedia.org/wiki/Copy_protection) - measures to enforce copyright by preventing the reproduction of software, films, music, and other media.
 - [Distributed Denial of Secrets](https://en.wikipedia.org/wiki/Distributed_Denial_of_Secrets) is a whistleblower site founded in 2018. Sometimes referred to as a successor to WikiLeaks, it is best known for its June 2020 publication of a large collection of internal police documents, known as BlueLeaks. The group has also published data on Russian oligarchs, fascist groups, shell companies, tax havens, and banking in the Caymans, and has hosted data scraped from Parler in January 2021 and from the February 2021 Gab leak.
 - [dril](https://en.wikipedia.org/wiki/Dril) - a pseudonymous Twitter user best known for his idiosyncratic style of absurdist humor and non sequiturs.
 - [Email storm](https://en.wikipedia.org/wiki/Email_storm) - a sudden spike of "reply all" messages on an email distribution list, usually caused by a controversial or misdirected message.
 - [Eternal September](https://en.wikipedia.org/wiki/Eternal_September) - is Usenet slang for a period beginning in September 1993, the month that Internet service provider America Online (AOL) began offering Usenet access to its many users, overwhelming the existing culture for online forums.
 - [Googlewhack](https://en.wikipedia.org/wiki/Googlewhack) - a contest to find a Google Search query that returns a single result.
 - [Google's ideological echo chamber](https://en.wikipedia.org/wiki/Google's_Ideological_Echo_Chamber) - commonly referred to as the Google memo, is an internal memo, dated July 2017, by United States-based Google engineer James Damore about Google's culture and diversity policies.
+- [Me at the zoo](https://en.wikipedia.org/wiki/Me_at_the_zoo) - first video that was uploaded to YouTube.
 - [Milkshake Duck](https://en.wikipedia.org/wiki/Milkshake_Duck) - an Internet meme that describes people who gain viral popularity on social media for some positive or charming trait but are later revealed to have distasteful histories or offensive behavior.
 - [Monkey selfie copyright dispute](https://en.wikipedia.org/wiki/Monkey_selfie_copyright_dispute) - a series of disputes about the copyright status of selfies taken by Celebes crested macaques using equipment belonging to the British nature photographer David Slater.
 - [PETA Domain Name Disputes](https://en.wikipedia.org/wiki/People_for_the_Ethical_Treatment_of_Animals#Domain_name_disputes) - In February 1995, a parody website calling itself "People Eating Tasty Animals" registered the domain name "peta.org". PETA sued, claiming trademark violation, and won the suit in 2001; the domain is currently owned by PETA. While still engaged in legal proceedings over "peta.org", PETA themselves registered the domains "ringlingbrothers.com" and "voguemagazine.com", using the sites to accuse Ringling Brothers and Barnum & Bailey Circus and Vogue of animal cruelty.
@@ -534,6 +538,7 @@
 - [Luddite fallacy](https://en.wikipedia.org/wiki/Technological_unemployment#The_Luddite_fallacy) - used to express the view that those concerned about long term technological unemployment are committing a fallacy, as they fail to account for compensation effects.
 - [Numerology](https://en.wikipedia.org/wiki/Numerology) - any belief in the divine or mystical relationship between a number and one or more coinciding events.
 - [Open access](https://en.wikipedia.org/wiki/Open_access)
+- [Operation London Bridge](https://en.wikipedia.org/wiki/Operation_London_Bridge) - the plan for what will happen in the United Kingdom after the death of Queen Elizabeth II.
 - [Paul is dead](https://en.wikipedia.org/wiki/Paul_is_dead) - an urban legend and conspiracy theory alleging that Paul McCartney, of the English rock band the Beatles, died in November 1966 and was secretly replaced by a look-alike.
 - [Pester power](https://en.wikipedia.org/wiki/Pester_power) - the "tendency of children, who are bombarded with marketers' messages, to unrelentingly request advertised items".
 - [Politician's syllogism](https://en.wikipedia.org/wiki/Politician%27s_syllogism) - The politician's syllogism, also known as the politician's logic or the politician's fallacy, is a logical fallacy of the form: We must do something. This is something. Therefore, we must do this.
@@ -553,6 +558,7 @@
 ### Galleries, Glossaries and Lists
 - [Gallery of sovereign state flags](https://en.wikipedia.org/wiki/Gallery_of_sovereign_state_flags)
 - [Glossary of manias](https://en.wikipedia.org/wiki/Glossary_of_manias)
+- [Glossary of numismatics](https://en.wikipedia.org/wiki/Glossary_of_numismatics)
 - [Glossary of philosophy](https://en.wikipedia.org/wiki/Glossary_of_philosophy)
 - [Glossary of rhetorical terms](https://en.wikipedia.org/wiki/Glossary_of_rhetorical_terms)
 - [Glossary of shapes with metaphorical names](https://en.wikipedia.org/wiki/Glossary_of_shapes_with_metaphorical_names)
@@ -701,6 +707,7 @@
 - [Aral Sea](https://en.wikipedia.org/wiki/Aral_Sea) - once the fourth largest lake in the world, has been shrinking since the 60s, when rivers that fed it were diverted for Soviet irrigation projects.
 - [Doubly-landlocked countries](https://en.wikipedia.org/wiki/Landlocked_country#Doubly_landlocked) - A country is "doubly landlocked" or "double-landlocked" when it is surrounded only by landlocked countries (requiring the crossing of at least two national borders to reach a coastline).
 - [Northeast megalopolis](https://en.wikipedia.org/wiki/Northeast_megalopolis) is the most populous megalopolis located entirely in the United States, with over 50 million residents, as well as the most urbanized megalopolis in the United States and the megalopolis with the world's largest economic output.
+- [Open Location Code](https://en.wikipedia.org/wiki/Open_Location_Code) - a geocode system for identifying an area anywhere on the Earth. Google states that plus codes are accepted as postal addresses in Cape Verde, parts of Kolkata, and the Navajo Nation.
 - [Satellite map images with missing or unclear data](https://en.wikipedia.org/wiki/Satellite_map_images_with_missing_or_unclear_data)
 - [Thankful Villages](https://en.wikipedia.org/wiki/Thankful_Villages) - settlements in England and Wales from which all their members of the armed forces survived World War I.
 - [Trap street](https://en.wikipedia.org/wiki/Trap_street) -  a fictitious entry in the form of a misrepresented street on a map, often outside the area the map nominally covers, for the purpose of "trapping" potential copyright violators of the map who, if caught, would be unable to explain the inclusion of the "trap street" on their map as innocent.
