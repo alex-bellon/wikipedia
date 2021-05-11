@@ -127,8 +127,10 @@
 
 ### Hardware/Signals
 - [Bell character](https://en.wikipedia.org/wiki/Bell_character) - a device control code originally sent to ring a small electromechanical bell on tickers and other teleprinters and teletypewriters to alert operators at the other end of the line, often of an incoming message.
+- [Bucky bit](https://en.wikipedia.org/wiki/Bucky_bit) - a bit in the binary representation of a character that it set by pressing a modifier key
 - [Control character](https://en.wikipedia.org/wiki/Control_character) - a code point (a number) in a character set, that does not represent a written symbol. They are used as in-band signaling to cause effects other than the addition of a symbol to the text.
 - [Data erasure](https://en.wikipedia.org/wiki/Data_erasure) - a software-based method of overwriting the data that aims to completely destroy all electronic data residing on a hard disk drive or other digital media by using zeros and ones to overwrite data onto all sectors of the device.
+- [Lisp machine](https://en.wikipedia.org/wiki/Lisp_machine) - general-purpose computers designed to efficiently run Lisp as their main software and programming language, usually via hardware support
 
 ### Image Processing
 - [Lenna](https://en.wikipedia.org/wiki/Lenna) - Standard test image for image processing
@@ -267,6 +269,7 @@
 - [Disparate impact](https://en.wikipedia.org/wiki/Disparate_impact) - practices in employment, housing, and other areas that adversely affect one group of people of a protected characteristic more than another, even though rules applied by employers or landlords are formally neutral.
 - [Eggshell skull](https://en.wikipedia.org/wiki/Eggshell_skull) - a well-established legal doctrine in common law, used in some tort law systems, with a similar doctrine applicable to criminal law. The rule states that, in a tort case, the unexpected frailty of the injured person is not a valid defense to the seriousness of any injury caused to them.
 - [Jelly bean rule](https://en.wikipedia.org/wiki/Jelly_bean_rule) - a rule that says that just because foods are low in fat, cholesterol, and sodium, they cannot claim to be "healthy" unless they contain at least 10 percent of the Daily Value of: vitamin A, vitamin C, calcium, protein, fiber, or iron. The FDA also made a policy that companies could not fortify foods with the sole intent of making that claim.
+- [Onion Futures Act](https://en.wikipedia.org/wiki/Onion_Futures_Act) is a United States law banning the trading of futures contracts on onions as well as "motion picture box office receipts".
 - [Stambovsky vs. Ackley](https://en.wikipedia.org/wiki/Stambovsky_v._Ackley) commonly known as the Ghostbusters ruling, is a case in the New York Supreme Court held that held that a house, which the owner had previously advertised to the public as haunted by ghosts, legally was haunted for the purpose of an action for rescission brought by a subsequent purchaser of the house
 - [Statue forbidding Bearing of Armour](https://en.wikipedia.org/wiki/Statute_forbidding_Bearing_of_Armour) - was enacted in 1313 during the reign of Edward II of England. It decrees "that in all Parliaments, Treatises and other Assemblies, which should be made in the Realm of England for ever, that every Man shall come without all Force and Armour".
 - [Wrongful birth](https://en.wikipedia.org/wiki/Wrongful_birth) - a legal cause of action in some common law countries in which the parents of a congenitally diseased child claim that their doctor failed to properly warn of their risk of conceiving or giving birth to a child with serious genetic or congenital abnormalities.
@@ -283,6 +286,9 @@
 - [The boy Jones](https://en.wikipedia.org/wiki/The_boy_Jones) - a British teenager who became notorious for breaking into Buckingham Palace multiple times between 1838 and 1841.
 - [Thursday October Christian I](https://en.wikipedia.org/wiki/Thursday_October_Christian_I) - the first child born on the Pitcairn Islands after the mutineers took refuge on the island. Born on a Thursday in October, he was given his unusual name because Fletcher Christian wanted his son to have "no name that will remind me of England."
 - [Umarell](https://en.wikipedia.org/wiki/Umarell) - a term popular in Bologna referring specifically to men of retirement age who pass the time watching construction sites, especially roadworks – stereotypically with hands clasped behind their back and offering unwanted advice
+
+### Politics
+- [Anti-PowerPoint Party](https://en.wikipedia.org/wiki/Anti-PowerPoint_Party) is a Swiss political party dedicated to decreasing professional use of Microsoft PowerPoint, which the party claims "causes national-economic damage amounting to 2.1 billion CHF" and lowers the quality of a presentation in "95% of the cases"
 
 ### Wars
 - [Anglo-Zanzibar War](https://en.wikipedia.org/wiki/Anglo-Zanzibar_War) - a military conflict fought between the United Kingdom and the Zanzibar Sultanate on 27 August 1896. The conflict lasted between 38 and 45 minutes, marking it as the shortest recorded war in history.
@@ -398,6 +404,7 @@
 - [Auto-antonym](https://en.wikipedia.org/wiki/Auto-antonym) - also called a contronym, contranym or Janus word, is a word with multiple meanings (senses) of which one is the reverse of another. For example, the word cleave can mean "to cut apart" or "to bind together".
 - [Autological Word](https://en.wikipedia.org/wiki/Autological_word) - a word that expresses a property that it also possesses
 - [Calque](https://en.wikipedia.org/wiki/Calque) - a word or phrase borrowed from another language by literal word-for-word or root-for-root translation. When used as a verb, "to calque" means to borrow a word or phrase from another language while translating its components, so as to create a new lexeme in the target language.
+- [Capitonym](https://en.wikipedia.org/wiki/Capitonym) - a word that changes its meaning (and sometimes pronunciation) when it is capitalized; the capitalization usually applies due to one form being a proper noun or eponym.
 - [Dasein](https://en.wikipedia.org/wiki/Dasein) is a German word that means "being there" or "presence" (German: da "there"; sein "to be"), and is often translated into English with the word "existence". It is a fundamental concept in the existential philosophy of Martin Heidegger. Heidegger uses the expression Dasein to refer to the experience of being that is peculiar to human beings.
 - [Dead metaphor](https://en.wikipedia.org/wiki/Dead_metaphor) is a figure of speech which has lost the original imagery of its meaning due to extensive, repetitive, and popular usage.
 - [Demonym](https://en.wikipedia.org/wiki/Demonym) - is a word that identifies residents or natives of a particular place and is derived from the name of the place.
@@ -412,6 +419,7 @@
 - [Hapax legomenon](https://en.wikipedia.org/wiki/Hapax_legomenon) - a word that only occurs once within a certain context.
 - [Headlinese](https://en.wikipedia.org/wiki/Headlinese) -  an abbreviated form of news writing style used in newspaper headlines.
 - [Heterogram](https://en.wikipedia.org/wiki/Heterogram_(literature)) - a word, phrase, or sentence in which no letter of the alphabet occurs more than once.
+- [Irreversible binomial](https://en.wikipedia.org/wiki/Irreversible_binomial) - a pair or group of words used together in fixed order as an idiomatic expression or collocation.
 - [Irony](https://en.wikipedia.org/wiki/Irony) - a rhetorical device, literary technique, or event in which what appears, on the surface, to be the case, differs radically from what is actually the case.
 - [Isogram](https://en.wikipedia.org/wiki/Isogram) - a logological term for a word or phrase without a repeating letter.
 - [Lorem Ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum) - a placeholder text commonly used to demonstrate the visual form of a document without relying on meaningful content (also called greeking).
@@ -544,6 +552,9 @@
 - [Dooring](https://en.wikipedia.org/wiki/Dooring) - a traffic collision in which a cyclist rides into a car door or is struck by a car door that was opened quickly without checking first for cyclists by using the side mirror and/or performing a proper shoulder check out and back.
 - [Foreign accent syndrome](https://en.wikipedia.org/wiki/Foreign_accent_syndrome) - a medical condition in which patients develop speech patterns that are perceived as a foreign accent that is different from their native accent, without having acquired it in the perceived accent's place of origin.
 - [Friedman Unit](https://en.wikipedia.org/wiki/Friedman_Unit) - One Friedman Unit is equal to six months, specifically the "next six months", a period repeatedly declared by New York Times columnist Thomas Friedman to be the most critical of the then-ongoing Iraq War even though such pronouncements extended back over two and a half years.
+- [Hobby tunneling](https://en.wikipedia.org/wiki/Hobby_tunneling) - tunnel construction as a diversion.
+- [Jobsworth](https://en.wikipedia.org/wiki/Jobsworth) - a person who uses the (typically minor) authority of their job in a deliberately uncooperative way, or who seemingly delights in acting in an obstructive or unhelpful manner. It characterizes one who upholds petty rules even at the expense of effectiveness or efficiency.
+- ["I'm not a scientist"](https://en.wikipedia.org/wiki/I'm_not_a_scientist) is a phrase that has been often used by American politicians, primarily Republicans, when asked about a scientific subject, such as global warming, or the age of the earth.
 - [Long-time nuclear waste warning messages](https://en.wikipedia.org/wiki/Long-time_nuclear_waste_warning_messages) - intended to deter human intrusion at nuclear waste repositories in the far future, within or above the order of magnitude of 10,000 years.
 - [Luddite fallacy](https://en.wikipedia.org/wiki/Technological_unemployment#The_Luddite_fallacy) - used to express the view that those concerned about long term technological unemployment are committing a fallacy, as they fail to account for compensation effects.
 - [Numerology](https://en.wikipedia.org/wiki/Numerology) - any belief in the divine or mystical relationship between a number and one or more coinciding events.
@@ -715,6 +726,7 @@
 - [Fairy ring](https://en.wikipedia.org/wiki/Fairy_ring) - a naturally occuring ring of mushrooms
 
 ### Cartography, Geography
+- [Alcohol and Drug Abuse Lake](https://en.wikipedia.org/wiki/Alcohol_and_Drug_Abuse_Lake) - a reservoir in Richland County, South Carolina, United States. The lake was likely named after a place called Morris Village, a nearby residential treatment center for people with substance dependence.
 - [Aoshima](https://en.wikipedia.org/wiki/Aoshima,_Ehime) - an island in Ehime Prefecture, Japan, known for its large number of feline residents. Felines have been reported by news outlets to outnumber humans by ratios between 6:1 and 10:1, but as elderly inhabitants of the island have died, the ratio has greatly increased to almost 36:1.
 - [Aral Sea](https://en.wikipedia.org/wiki/Aral_Sea) - once the fourth largest lake in the world, has been shrinking since the 60s, when rivers that fed it were diverted for Soviet irrigation projects.
 - [Doubly-landlocked countries](https://en.wikipedia.org/wiki/Landlocked_country#Doubly_landlocked) - A country is "doubly landlocked" or "double-landlocked" when it is surrounded only by landlocked countries (requiring the crossing of at least two national borders to reach a coastline).
@@ -792,6 +804,7 @@
 - [Ransom strip](https://en.wikipedia.org/wiki/Ransom_strip) - a parcel of land needed to access an adjacent property from a public highway, to which the owner is denied access until payment is received.
 - [Sleeve garter](https://en.wikipedia.org/wiki/Sleeve_garter) - a garter worn on the sleeve of a shirt. It came into wide use, especially in the USA, in the latter half of the 19th century when men's ready-made shirts came in a single (extra long) sleeve length. Sleeve garters allow men to customize sleeve lengths and keep their cuffs from becoming soiled while working or at the correct length when worn under a jacket.
 - [Smoot](https://en.wikipedia.org/wiki/Smoot) - a nonstandard, humorous unit of length created as part of an MIT fraternity prank. It is named after Oliver R. Smoot, a fraternity pledge to Lambda Chi Alpha, who in October 1958 lay down repeatedly on the Harvard Bridge (between Boston and Cambridge, Massachusetts) so that his fraternity brothers could use his height to measure the length of the bridge.
+- [Space-cadet keyboard](https://en.wikipedia.org/wiki/Space-cadet_keyboard) - a keyboard designed by John L. Kulp in 1978 and used on Lisp machines at Massachusetts Institute of Technology (MIT), which inspired several still-current jargon terms in the field of computer science and influenced the design of Emacs.
 - [Spite house](https://en.wikipedia.org/wiki/Spite_house) - a building constructed or substantially modified to irritate neighbors or any party with land stakes. Because long-term occupation is not the primary purpose of these houses, they frequently sport strange and impractical structures.
 - [Sponson](https://en.wikipedia.org/wiki/Sponson) - projections extending from the sides of land vehicles, aircraft or watercraft to provide protection, stability, storage locations, mounting points for weapons or other devices, or equipment housing.
 - [Test Card F](https://en.wikipedia.org/wiki/Test_Card_F) - a test card that was created by the BBC and used on television in the United Kingdom and in countries elsewhere in the world for more than four decades. It was the first to be transmitted in colour in the UK and the first to feature a person, and has become an iconic British image regularly subject to parody.
