@@ -159,6 +159,7 @@
 - [Virtual LAN](https://en.wikipedia.org/wiki/Virtual_LAN) - any broadcast domain that is partitioned and isolated in a computer network at the data link layer (OSI layer 2).
 
 ### Operating Systems
+- [Embarrassingly parallel](https://en.wikipedia.org/wiki/Embarrassingly_parallel) - an embarrassingly parallel workload or problem (also called embarrassingly parallelizable, perfectly parallel, delightfully parallel or pleasingly parallel) is one where little or no effort is needed to separate the problem into a number of parallel tasks.
 - [TempleOS](https://en.m.wikipedia.org/wiki/TempleOS) - Handwritten operating system written in Holy C.
 
 ### Programming
@@ -226,6 +227,7 @@
 ## History & Anthropology
 - [Abuwtiyuw](https://en.wikipedia.org/wiki/Abuwtiyuw) - The Egyptian dog Abuwtiyuw was one of the earliest documented domestic animals whose name is known.
 - [Acoustic Kitty](https://en.wikipedia.org/wiki/Acoustic_Kitty) - Acoustic Kitty was a CIA project launched by the Central Intelligence Agency Directorate of Science & Technology, which in the 1960s intended to use cats to spy on the Kremlin and Soviet embassies.
+- [Animal welfare in Nazi Germany](https://en.wikipedia.org/wiki/Animal_welfare_in_Nazi_Germany) - There was widespread support for animal welfare in Nazi Germany (German: Tierschutz im nationalsozialistischen Deutschland) among the country's leadership. Adolf Hitler and his top officials took a variety of measures to ensure animals were protected.
 - [Bamboo ceiling](https://en.wikipedia.org/wiki/Bamboo_ceiling) - a term used to describe the combination of individual, cultural, and organizational factors that impede Asian Americans' career progress inside organizations.
 - [Cargo Cult](https://en.wikipedia.org/wiki/Cargo_cult) - A belief system among members of a relatively undeveloped society in which adherents practice superstitious rituals hoping to bring modern goods supplied by a more technologically advanced society.
 - [Chicken George (politics)](https://en.wikipedia.org/wiki/Chicken_George_(politics)) - a campaign tactic in the 1992 U.S. presidential election, where one or more people in chicken costumes heckled President George H. W. Bush over his refusal to participate in a debate with Democratic candidate Bill Clinton.
@@ -252,6 +254,7 @@
 
 ### Architecture
 - [Panopticon](https://en.wikipedia.org/wiki/Panopticon) - a type of institutional building and a system of control designed by the English philosopher and social theorist Jeremy Bentham in the 18th century. The concept of the design is to allow all prisoners of an institution to be observed by a single security guard, without the inmates being able to tell whether they are being watched.
+- [Wattle and daub](https://en.wikipedia.org/wiki/Wattle_and_daub) - a composite building method used for making walls and buildings, in which a woven lattice of wooden strips called wattle is daubed with a sticky material usually made of some combination of wet soil, clay, sand, animal dung and straw.
 
 ### Events
 - [1984 Rajneeshee bioterror attack](https://en.wikipedia.org/wiki/1984_Rajneeshee_bioterror_attack) - The deliberate contamination of salad bars at ten The Dalles, Oregon restaurants with Salmonella. A group of prominent followers of Bhagwan Shree Rajneesh had hoped to incapacitate the voting population of the city so that their own candidates would win the 1984 Wasco County elections. The incident was the first and is the single largest bioterrorist attack in United States history.
@@ -272,10 +275,12 @@
 - [Onion Futures Act](https://en.wikipedia.org/wiki/Onion_Futures_Act) is a United States law banning the trading of futures contracts on onions as well as "motion picture box office receipts".
 - [Stambovsky vs. Ackley](https://en.wikipedia.org/wiki/Stambovsky_v._Ackley) commonly known as the Ghostbusters ruling, is a case in the New York Supreme Court held that held that a house, which the owner had previously advertised to the public as haunted by ghosts, legally was haunted for the purpose of an action for rescission brought by a subsequent purchaser of the house
 - [Statue forbidding Bearing of Armour](https://en.wikipedia.org/wiki/Statute_forbidding_Bearing_of_Armour) - was enacted in 1313 during the reign of Edward II of England. It decrees "that in all Parliaments, Treatises and other Assemblies, which should be made in the Realm of England for ever, that every Man shall come without all Force and Armour".
+- [US v. Vampire Nation](https://en.wikipedia.org/wiki/United_States_v._Vampire_Nation) - has little to do with actual vampires; the defendant filed the appeal under that name as it was the name of his electronic music group (consisting of only himself).
 - [Wrongful birth](https://en.wikipedia.org/wiki/Wrongful_birth) - a legal cause of action in some common law countries in which the parents of a congenitally diseased child claim that their doctor failed to properly warn of their risk of conceiving or giving birth to a child with serious genetic or congenital abnormalities.
 - [Wrongful life](https://en.wikipedia.org/wiki/Wrongful_life) - the name given to a legal action in which someone is sued by a severely disabled child (through the child's legal guardian) for failing to prevent the child's birth. Typically, a child and the child's parents will sue a doctor or a hospital for failing to provide information about the disability during the pregnancy, or a genetic disposition before the pregnancy. Had the mother been aware of this information, it is argued, she would have had an abortion, or chosen not to conceive at all.
 
 ### People
+- [Adolf Hitler and vegetarianism](https://en.wikipedia.org/wiki/Adolf_Hitler_and_vegetarianism)
 - [Alicia Boole Stott](https://en.wikipedia.org/wiki/Alicia_Boole_Stott) - the daughter of George Boole and was best known for coining the term "polytope" for a convex solid in four (or more) dimensions, and having an impressive grasp of four-dimensional geometry from a very early age.
 - [Digby Tatham-Warter](https://en.wikipedia.org/wiki/Digby_Tatham-Warter) - Digby got to him and said "Don't worry about the bullets, I've got an umbrella". He then escorted the chaplain across the street under his umbrella. When he returned to the front line, one of his fellow officers said about his umbrella that "that thing won't do you any good", to which Digby replied "Oh my goodness Pat, but what if it rains?"
 - [Ivan Renko](https://en.wikipedia.org/wiki/Ivan_Renko) - Ivan Renko was a fictitious Yugoslav basketball player created by Bobby Knight when he was the head coach for the Indiana University Hoosiers.
@@ -344,6 +349,7 @@
 - [Verbification](https://en.wikipedia.org/wiki/Conversion_(word_formation)#Verbing) - is creation of a verb from a noun, adjective or other word.
 
 ### Idioms
+- [Egg of Columbus](https://en.wikipedia.org/wiki/Egg_of_Columbus) - refers to a brilliant idea or discovery that seems simple or easy after the fact. The expression refers to an apocryphal story, dating from at least the 16th century, in which it is said that Christopher Columbus, having been told that finding a new trade route was inevitable and no great accomplishment, challenges his critics to make an egg stand on its tip. After his challengers give up, Columbus does it himself by tapping the egg on the table to flatten its tip.
 - ["He never married"](https://en.wikipedia.org/wiki/He_never_married) was a phrase commonly used by obituary writers in the United Kingdom as a euphemism for the deceased having been homosexual.
 - [Greek to me](https://en.wikipedia.org/wiki/Greek_to_me#In_other_languages) - Different languages have similar formulations. Many have picked the point of reference to be a foreign language with another alphabet or writing system.
 - [Hobson's Choice](https://en.wikipedia.org/wiki/Hobson's_choice) - a free choice in which only one thing is offered. Because a person may refuse to accept what is offered, the two options are taking it or taking nothing. In other words, one may "take it or leave it".
@@ -514,6 +520,7 @@
 - [Ramsey Theory](https://en.wikipedia.org/wiki/Ramsey_theory) - named after the British mathematician and philosopher Frank P. Ramsey, is a branch of mathematics that studies the conditions under which order must appear. Problems in Ramsey theory typically ask a question of the form: "how many elements of some structure must there be to guarantee that a particular property will hold?" More specifically, Ron Graham describes Ramsey theory as a "branch of combinatorics".
 - [Recreational mathematics (Category)](https://en.wikipedia.org/wiki/Category:Recreational_mathematics) - Recreational mathematics is mathematics carried out for recreation (entertainment) rather than as a strictly research and application-based professional activity.
 - [Topological game](https://en.wikipedia.org/wiki/Topological_game) - an infinite game of perfect information played between two players on a topological space. Players choose objects with topological properties such as points, open sets, closed sets and open coverings. The conditions for a player to win can involve notions like topological closure and convergence.
+- [Verbal arithmetic](https://en.wikipedia.org/wiki/Verbal_arithmetic) is a type of mathematical game consisting of a mathematical equation among unknown numbers, whose digits are represented by letters of the alphabet. The goal is to identify the value of each letter. The name can be extended to puzzles that use non-alphabetic symbols instead of letters.
 - [Zero-sum game](https://en.wikipedia.org/wiki/Zero-sum_game) - a mathematical representation of a situation in which each participant's gain or loss of utility is exactly balanced by the losses or gains of the utility of the other participants.
 
 ### Numbers
@@ -559,8 +566,10 @@
 - [Hobby tunneling](https://en.wikipedia.org/wiki/Hobby_tunneling) - tunnel construction as a diversion.
 - [Jobsworth](https://en.wikipedia.org/wiki/Jobsworth) - a person who uses the (typically minor) authority of their job in a deliberately uncooperative way, or who seemingly delights in acting in an obstructive or unhelpful manner. It characterizes one who upholds petty rules even at the expense of effectiveness or efficiency.
 - ["I'm not a scientist"](https://en.wikipedia.org/wiki/I'm_not_a_scientist) is a phrase that has been often used by American politicians, primarily Republicans, when asked about a scientific subject, such as global warming, or the age of the earth.
+- [Leave the gate as you found it](https://en.wikipedia.org/wiki/Leave_the_gate_as_you_found_it) - a rule in countryside areas throughout the world. If a gate is found open, it should be left open, and if it is closed, it should be left closed. If a closed gate absolutely must be traversed, it should be closed again afterwards. Leaving a closed gate open can lead to animals escaping or unwanted mingling. Leaving an open gate closed can prevent livestock from accessing water or other resources.
 - [Long-time nuclear waste warning messages](https://en.wikipedia.org/wiki/Long-time_nuclear_waste_warning_messages) - intended to deter human intrusion at nuclear waste repositories in the far future, within or above the order of magnitude of 10,000 years.
 - [Luddite fallacy](https://en.wikipedia.org/wiki/Technological_unemployment#The_Luddite_fallacy) - used to express the view that those concerned about long term technological unemployment are committing a fallacy, as they fail to account for compensation effects.
+- [Navies of landlocked countries](https://en.wikipedia.org/wiki/Navies_of_landlocked_countries) - A landlocked navy is a naval force operated by a country that does not have a coastline. While these states are unable to develop a sea-going, blue-water navy, they may still deploy armed forces on major lakes or rivers.
 - [Numerology](https://en.wikipedia.org/wiki/Numerology) - any belief in the divine or mystical relationship between a number and one or more coinciding events.
 - [Open access](https://en.wikipedia.org/wiki/Open_access)
 - [Operation London Bridge](https://en.wikipedia.org/wiki/Operation_London_Bridge) - the plan for what will happen in the United Kingdom after the death of Queen Elizabeth II.
@@ -568,6 +577,7 @@
 - [Pester power](https://en.wikipedia.org/wiki/Pester_power) - the "tendency of children, who are bombarded with marketers' messages, to unrelentingly request advertised items".
 - [Politician's syllogism](https://en.wikipedia.org/wiki/Politician%27s_syllogism) - The politician's syllogism, also known as the politician's logic or the politician's fallacy, is a logical fallacy of the form: We must do something. This is something. Therefore, we must do this.
 - [Postdiction](https://en.wikipedia.org/wiki/Postdiction) -  In skepticism, it is considered an effect of hindsight bias that explains claimed predictions of significant events such as plane crashes and natural disasters.
+- [Reducto ad Hitlerum](https://en.wikipedia.org/wiki/Reductio_ad_Hitlerum) - also known as playing the Nazi card, is an attempt to invalidate someone else's position on the basis that the same view was held by Adolf Hitler or the Nazi Party.
 - [Russian political jokes](https://en.wikipedia.org/wiki/Russian_political_jokes) -  a part of Russian humour and can be grouped into the major time periods: Imperial Russia, Soviet Union and finally post-Soviet Russia.
 - [San Seriffe](https://en.wikipedia.org/wiki/San_Serriffe) - a fictional island nation created for April Fools' Day 1977, by Britain's Guardian newspaper.
 - [Schroedinger's cat in popular culture](https://en.wikipedia.org/wiki/Schr%C3%B6dinger's_cat_in_popular_culture)
@@ -579,6 +589,7 @@
 - [The People Walker](https://en.wikipedia.org/wiki/The_People_Walker) is a service where people can hire someone to walk with them and provide motivation through conversation and companionship.
 - [Vehicle registration plates of Europe](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Europe)
 - [Verdana-gate](https://en.wikipedia.org/wiki/Verdana#Usage) - The "scandal" that ensued when IKEA changed their main typeface from Futura to Verdana.
+- [Water jousting](https://en.wikipedia.org/wiki/Water_jousting) - a form of jousting where the adversaries, carrying a lance and protected only by a shield, stand on a platform on the stern of a boat.
 
 ### Galleries, Glossaries and Lists
 - [Gallery of sovereign state flags](https://en.wikipedia.org/wiki/Gallery_of_sovereign_state_flags)
@@ -718,6 +729,7 @@
 - [Puppy cat](https://en.wikipedia.org/wiki/Puppy_cat) - a term used to refer to specific breeds of domestic cats that have unusual behavioral tendencies that are reminiscent of young domestic dogs.
 - [Raining of animals](https://en.wikipedia.org/wiki/Rain_of_animals) - a rare meteorological phenomenon in which flightless animals fall from the sky.
 - [Rat King](https://en.wikipedia.org/wiki/Rat_king) - A collection of rats whose tails are intertwined and bound together by one of several possible mechanisms, such as entangling material like hair or sticky substances like sap or gum.
+- [Scaly boy](https://en.wikipedia.org/wiki/Scaly_boy) - a species of goby native to the Pacific coast of Central America from Mexico to Panama.
 - [Sentinel Species](https://en.wikipedia.org/wiki/Sentinel_species) - are organisms, often animals, used to detect risks to humans by providing advance warning of a danger.
 
 ### Astronomy
@@ -798,6 +810,7 @@
 - [Gender of connectors and fasteners](https://en.wikipedia.org/wiki/Gender_of_connectors_and_fasteners) - In electrical and mechanical trades and manufacturing, each half of a pair of mating connectors or fasteners is conventionally assigned the designation male or female.
 - [Holdout](https://en.wikipedia.org/wiki/Holdout_(real_estate)) - a piece of property that did not become part of a larger real estate development because the owner either refused to sell or wanted more than the developer would pay.
 - [Immovable ladder](https://en.wikipedia.org/wiki/Status_Quo_(Jerusalem_and_Bethlehem)#Immovable_ladder) - Some consider the so-called immovable ladder- [c] under the window of the Church of the Holy Sepulchre to be a visible symbol of the alleged inactivity the Status Quo imposes.
+- [Jail tree](https://en.wikipedia.org/wiki/Jail_tree) - is any tree used to incarcerate a person, usually by chaining the prisoner up to the tree.
 - [London Bridge (Lake Havasu City)](https://en.wikipedia.org/wiki/London_Bridge_(Lake_Havasu_City)) - a bridge in Lake Havasu City, Arizona. It was originally built in the 1830s and formerly spanned the River Thames in London, England.
 - [Lost work](https://en.wikipedia.org/wiki/Lost_work) - a document, literary work, or piece of multimedia produced some time in the past, of which no surviving copies are known to exist.
 - [Matrix digital rain](https://en.wikipedia.org/wiki/Matrix_digital_rain) - the computer code featured in the Matrix series. The falling green code is a way of representing the activity of the virtual reality environment of the Matrix on screen.
