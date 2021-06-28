@@ -207,6 +207,7 @@
 ### Security & Privacy
 - [Dancing pigs](https://en.wikipedia.org/wiki/Dancing_pigs) - Given a choice between dancing pigs and security, users will pick dancing pigs every time.
 - [Differential privacy](https://en.wikipedia.org/wiki/Differential_privacy) - a system for publicly sharing information about a dataset by describing the patterns of groups within the dataset while withholding information about individuals in the dataset.
+- [Dining cryptographers problem](https://en.wikipedia.org/wiki/Dining_cryptographers_problem) - studies how to perform a secure multi-party computation of the boolean-OR function.
 - [Google hacking](https://en.wikipedia.org/wiki/Google_hacking) -  also named Google Dorking, is a computer hacking technique that uses Google Search and other Google applications to find security holes in the configuration and computer code that websites use.
 - [Nothing to hide argument](https://en.wikipedia.org/wiki/Nothing_to_hide_argument) - The nothing to hide argument states that individuals have no reason to fear or oppose surveillance programs, unless they are afraid it will uncover their own illegal activities. An individual using this argument may say that an average person should not worry about government surveillance if they have "nothing to hide".
 
@@ -282,6 +283,7 @@
 
 ### People
 - [Adolf Hitler and vegetarianism](https://en.wikipedia.org/wiki/Adolf_Hitler_and_vegetarianism)
+- [Agent 355](https://en.wikipedia.org/wiki/Agent_355) - the code name of a female spy during the American Revolution, part of the Culper Ring. Agent 355 was one of the first spies for the United States, but her real identity is unknown.
 - [Alicia Boole Stott](https://en.wikipedia.org/wiki/Alicia_Boole_Stott) - the daughter of George Boole and was best known for coining the term "polytope" for a convex solid in four (or more) dimensions, and having an impressive grasp of four-dimensional geometry from a very early age.
 - [Digby Tatham-Warter](https://en.wikipedia.org/wiki/Digby_Tatham-Warter) - Digby got to him and said "Don't worry about the bullets, I've got an umbrella". He then escorted the chaplain across the street under his umbrella. When he returned to the front line, one of his fellow officers said about his umbrella that "that thing won't do you any good", to which Digby replied "Oh my goodness Pat, but what if it rains?"
 - [Ivan Renko](https://en.wikipedia.org/wiki/Ivan_Renko) - Ivan Renko was a fictitious Yugoslav basketball player created by Bobby Knight when he was the head coach for the Indiana University Hoosiers.
@@ -424,6 +426,7 @@
 - [Eponym](https://en.wikipedia.org/wiki/Eponym) - a person, place, or thing after whom or which someone or something is, or is believed to be, named
 - [Etaoin shrdlu](https://en.wikipedia.org/wiki/Etaoin_shrdlu) - a nonsense phrase that sometimes appeared in print in the days of "hot type" publishing because of a custom of type-casting machine operators.
 - [Etymology of Tea](https://en.wikipedia.org/wiki/Etymology_of_tea) - The etymology of the word tea can be traced back to the various Chinese pronunciations of the Chinese word 茶. Nearly all of the words for tea worldwide fall into three broad groups: te, cha and chai, which reflected the history of transmission of tea drinking culture and trade from China to countries around the world.
+- [Expurgation](https://en.wikipedia.org/wiki/Expurgation) - also known as bowdlerization, is a form of censorship that involves purging anything deemed noxious or offensive from an artistic work, or other type of writing of media.
 - [Fossil word](https://en.wikipedia.org/wiki/Fossil_word) - a word that is broadly obsolete but remains in current use due to its presence within an idiom.
 - [Fumblerules](https://en.wikipedia.org/wiki/Fumblerules) - A fumblerule is a rule of language or linguistic style, humorously written in such a way that it breaks this rule.
 - [Ghost word](https://en.wikipedia.org/wiki/Ghost_word) - a word published in a dictionary or similarly authoritative reference work, having rarely, if ever, been used in practice, and hitherto having been meaningless.
@@ -566,6 +569,7 @@
 - [Dooring](https://en.wikipedia.org/wiki/Dooring) - a traffic collision in which a cyclist rides into a car door or is struck by a car door that was opened quickly without checking first for cyclists by using the side mirror and/or performing a proper shoulder check out and back.
 - [Foreign accent syndrome](https://en.wikipedia.org/wiki/Foreign_accent_syndrome) - a medical condition in which patients develop speech patterns that are perceived as a foreign accent that is different from their native accent, without having acquired it in the perceived accent's place of origin.
 - [Friedman Unit](https://en.wikipedia.org/wiki/Friedman_Unit) - One Friedman Unit is equal to six months, specifically the "next six months", a period repeatedly declared by New York Times columnist Thomas Friedman to be the most critical of the then-ongoing Iraq War even though such pronouncements extended back over two and a half years.
+- [Giraffe (chess)](https://en.wikipedia.org/wiki/Giraffe_(chess)) - a fairy chess piece that moves like an elongated knight.
 - [Hobby tunneling](https://en.wikipedia.org/wiki/Hobby_tunneling) - tunnel construction as a diversion.
 - [Jobsworth](https://en.wikipedia.org/wiki/Jobsworth) - a person who uses the (typically minor) authority of their job in a deliberately uncooperative way, or who seemingly delights in acting in an obstructive or unhelpful manner. It characterizes one who upholds petty rules even at the expense of effectiveness or efficiency.
 - ["I'm not a scientist"](https://en.wikipedia.org/wiki/I'm_not_a_scientist) is a phrase that has been often used by American politicians, primarily Republicans, when asked about a scientific subject, such as global warming, or the age of the earth.
@@ -745,13 +749,18 @@
 ### Botany
 - [Fairy ring](https://en.wikipedia.org/wiki/Fairy_ring) - a naturally occuring ring of mushrooms
 
-### Cartography, Geography
+### Cartography, Geography and Places
 - [Alcohol and Drug Abuse Lake](https://en.wikipedia.org/wiki/Alcohol_and_Drug_Abuse_Lake) - a reservoir in Richland County, South Carolina, United States. The lake was likely named after a place called Morris Village, a nearby residential treatment center for people with substance dependence.
 - [Aoshima](https://en.wikipedia.org/wiki/Aoshima,_Ehime) - an island in Ehime Prefecture, Japan, known for its large number of feline residents. Felines have been reported by news outlets to outnumber humans by ratios between 6:1 and 10:1, but as elderly inhabitants of the island have died, the ratio has greatly increased to almost 36:1.
 - [Aral Sea](https://en.wikipedia.org/wiki/Aral_Sea) - once the fourth largest lake in the world, has been shrinking since the 60s, when rivers that fed it were diverted for Soviet irrigation projects.
 - [Doubly-landlocked countries](https://en.wikipedia.org/wiki/Landlocked_country#Doubly_landlocked) - A country is "doubly landlocked" or "double-landlocked" when it is surrounded only by landlocked countries (requiring the crossing of at least two national borders to reach a coastline).
+- [Fugging, Lower Austria](https://en.wikipedia.org/wiki/Fugging,_Lower_Austria)
+- [Fugging, Upper Austria](https://en.wikipedia.org/wiki/Fugging,_Upper_Austria)
+- [Gropecunt Lane](https://en.wikipedia.org/wiki/Gropecunt_Lane) -  a street found in English towns and cities during the Middle Ages, believed to be a reference to the prostitution centred on those areas; it was normal practice for a medieval street name to reflect the street's function or the economic activity taking place within it.
+- [Macedonia naming dispute](https://en.wikipedia.org/wiki/Macedonia_naming_dispute) - The use of the country name "Macedonia" was disputed between Greece and Macedonia (now North Macedonia) between 1991 and 2019. The dispute was a source of instability in the Western Balkans for 25 years. It was resolved through negotiations between Athens and Skopje, mediated by the United Nations, resulting in the Prespa agreement, which was signed on June 17, 2018.
 - [Northeast megalopolis](https://en.wikipedia.org/wiki/Northeast_megalopolis) is the most populous megalopolis located entirely in the United States, with over 50 million residents, as well as the most urbanized megalopolis in the United States and the megalopolis with the world's largest economic output.
 - [Open Location Code](https://en.wikipedia.org/wiki/Open_Location_Code) - a geocode system for identifying an area anywhere on the Earth. Google states that plus codes are accepted as postal addresses in Cape Verde, parts of Kolkata, and the Navajo Nation.
+- [Place names considered unusual](https://en.wikipedia.org/wiki/Place_names_considered_unusual)
 - [Satellite map images with missing or unclear data](https://en.wikipedia.org/wiki/Satellite_map_images_with_missing_or_unclear_data)
 - [Thankful Villages](https://en.wikipedia.org/wiki/Thankful_Villages) - settlements in England and Wales from which all their members of the armed forces survived World War I.
 - [Trap street](https://en.wikipedia.org/wiki/Trap_street) -  a fictitious entry in the form of a misrepresented street on a map, often outside the area the map nominally covers, for the purpose of "trapping" potential copyright violators of the map who, if caught, would be unable to explain the inclusion of the "trap street" on their map as innocent.
