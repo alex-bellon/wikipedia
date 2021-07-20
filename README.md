@@ -128,6 +128,7 @@
 ### Hardware/Signals
 - [Bell character](https://en.wikipedia.org/wiki/Bell_character) - a device control code originally sent to ring a small electromechanical bell on tickers and other teleprinters and teletypewriters to alert operators at the other end of the line, often of an incoming message.
 - [Bucky bit](https://en.wikipedia.org/wiki/Bucky_bit) - a bit in the binary representation of a character that it set by pressing a modifier key
+- [Clipper chip](https://en.wikipedia.org/wiki/Clipper_chip) - a chipset that was developed and promoted by the NSA with a built-in backdoor that was intended to "allow Federal, State, and local law enforcement officials the ability to decode intercepted voice and data transmissions." Introduced in 1993, it was entirely defunct by 1996.
 - [Control character](https://en.wikipedia.org/wiki/Control_character) - a code point (a number) in a character set, that does not represent a written symbol. They are used as in-band signaling to cause effects other than the addition of a symbol to the text.
 - [Data erasure](https://en.wikipedia.org/wiki/Data_erasure) - a software-based method of overwriting the data that aims to completely destroy all electronic data residing on a hard disk drive or other digital media by using zeros and ones to overwrite data onto all sectors of the device.
 - [Lisp machine](https://en.wikipedia.org/wiki/Lisp_machine) - general-purpose computers designed to efficiently run Lisp as their main software and programming language, usually via hardware support
@@ -289,6 +290,7 @@
 - [Ivan Renko](https://en.wikipedia.org/wiki/Ivan_Renko) - Ivan Renko was a fictitious Yugoslav basketball player created by Bobby Knight when he was the head coach for the Indiana University Hoosiers.
 - [Joseph Darby](https://en.wikipedia.org/wiki/Joseph_Darby_%28jumper%29) - a renowned jumper from the Black Country village of Netherton. He specialised in spring jumping (jumping starting from a stationary position) often using weights in his hands to help propel him.
 - [Mary Kenneth Keller](https://en.wikipedia.org/wiki/Mary_Kenneth_Keller) - an American Roman Catholic religious sister, educator and pioneer in computer science. She and Irving C. Tang were the first two people to earn a doctorate in computer science in the United States.
+- - [Nicolas Bourbaki](https://en.wikipedia.org/wiki/Nicolas_Bourbaki) is the collective pseudonym of a group of mathematicians, predominantly French alumni of the École normale supérieure (ENS). The series is known collectively as the Éléments de mathématique (Elements of Mathematics), the group's central work. Topics treated in the series include set theory, abstract algebra, topology, analysis, Lie groups and Lie algebras.
 - [Pauli Murray](https://en.wikipedia.org/wiki/Pauli_Murray) - an American civil rights activist who became a lawyer, a women's rights activist, Episcopal priest, and author. Drawn to the ministry, in 1977 Murray was the first African-American woman to be ordained as an Episcopal priest, in the first year that any women were ordained by that church.
 - [Sōkaiya](https://en.wikipedia.org/wiki/S%C5%8Dkaiya) - specialized racketeers unique to Japan, and often associated with the yakuza, who extort money from or blackmail companies by threatening to publicly humiliate companies and their management, usually in their annual meeting (総会, sōkai).
 - [Steve Shirley](https://en.wikipedia.org/wiki/Steve_Shirley) - a British information technology pioneer, businesswoman and philanthropist.
@@ -374,6 +376,7 @@
 - [Pandanus language](https://en.wikipedia.org/wiki/Pandanus_language) - an elaborate avoidance language among several of the peoples of the eastern New Guinea Highlands, used when collecting Pandanus nuts.
 - [Patois](https://en.wikipedia.org/wiki/Patois) - speech or language that is considered nonstandard, although the term is not formally defined in linguistics. As such, patois can refer to pidgins, creoles, dialects or vernaculars, but not commonly to jargon or slang, which are vocabulary-based forms of cant.
 - [Pidgin language](https://en.wikipedia.org/wiki/Pidgin) - a grammatically simplified means of communication that develops between two or more groups that do not have a language in common: typically, its vocabulary and grammar are limited and often drawn from several languages.
+- [SignWriting](https://en.wikipedia.org/wiki/SignWriting) - a system of writing sign languages. It is highly featural and visually iconic, both in the shapes of the characters, which are abstract pictures of the hands, face, and body, and in their spatial arrangement on the page, which does not follow a sequential order like the letters that make up written English words.
 - [Stylometry](https://en.wikipedia.org/wiki/Stylometry) - the application of the study of linguistic style, usually to written language, but it has successfully been applied to music and to fine-art paintings as well.
 - [Theives' cant](https://en.wikipedia.org/wiki/Thieves'_cant) - a secret language (a cant or cryptolect) which was formerly used by thieves, beggars and hustlers of various kinds in Great Britain and to a lesser extent in other English-speaking countries.
 
@@ -704,6 +707,7 @@
 - [Russell's Teapot](https://en.wikipedia.org/wiki/Russell%27s_teapot) - an analogy to illustrate that the philosophic burden of proof lies upon a person making unfalsifiable claims, rather than shifting the burden of disproof to others. He wrote that if he were to assert, without offering proof, that a teapot, too small to be seen by telescopes, orbits the Sun somewhere in space between the Earth and Mars, he could not expect anyone to believe him solely because his assertion could not be proven wrong.
 - [Social Gadfly](https://en.wikipedia.org/wiki/Social_gadfly) -  a person who interferes with the status quo of a society or community by posing novel, potentially upsetting questions, usually directed at authorities.
 - [Qualia](https://en.wikipedia.org/wiki/Qualia) - individual instances of subjective, conscious experience.
+- [Wabi-sabi](https://en.wikipedia.org/wiki/Wabi-sabi) - a world view centered on the acceptance of transience and imperfection. The aesthetic is sometimes described as one of appreciating beauty that is "imperfect, impermanent, and incomplete" in nature.
 
 ## Puzzles/Thought Experiments
 - [Ant on a rubber rope](https://en.wikipedia.org/wiki/Ant_on_a_rubber_rope) - An ant starts to crawl along a taut rubber rope 1 km long at a speed of 1 cm per second (relative to the rubber it is crawling on). At the same time, the rope starts to stretch uniformly by 1 km per second, so that after 1 second it is 2  km long, after 2 seconds it is 3 km long, etc. Will the ant ever reach the end of the rope?
@@ -745,6 +749,7 @@
 
 ### Biology
 - [Mirror life](https://en.wikipedia.org/wiki/Mirror_life) - a hypothetical form of life with mirror-reflected molecular building blocks
+- [Viviparity](https://en.wikipedia.org/wiki/Viviparity) - development of the embryo inside the body of the parent. This is opposed to oviparity which is a reproductive mode in which females lay developing eggs that complete their development and hatch externally from the mother.
 
 ### Botany
 - [Fairy ring](https://en.wikipedia.org/wiki/Fairy_ring) - a naturally occuring ring of mushrooms
@@ -811,6 +816,7 @@
 - [Chicken gun](https://en.wikipedia.org/wiki/Chicken_gun) - a large-diameter, compressed-air cannon used to fire dead chickens at aircraft components in order to simulate high-speed bird strikes during the aircraft's flight.
 - [Crinkle crankle wall](https://en.wikipedia.org/wiki/Crinkle_crankle_wall) - The crinkle crankle wall economizes on bricks, despite its sinuous configuration, because it can be made just one brick thin. If a wall this thin were to be made in a straight line, without buttresses, it would easily topple over. The alternate convex and concave curves in the wall provide stability and help it to resist lateral forces.
 - [Czech Hedgehog](https://en.wikipedia.org/wiki/Czech_hedgehog) - The Czech hedgehog is a static anti-tank obstacle defense made of metal angle beams or I-beams (that is, lengths with an L- or I-shaped cross section).
+- [Democracy Wall](https://en.wikipedia.org/wiki/Democracy_Wall) - a long brick wall of Xidan Street, Xicheng District of Beijing, where thousands of people put up posters to protest about the political and social issues of China.
 - [Denatured alcohol](https://en.wikipedia.org/wiki/Denatured_alcohol) - ethanol that has additives to make it poisonous, bad-tasting, foul-smelling, or nauseating to discourage recreational consumption.
 - [Donkey vote](https://en.wikipedia.org/wiki/Donkey_vote) - a ballot cast in an election that uses a preference voting system, where a voter is permitted or required to rank candidates on the ballot paper, and ranks them based on the order they appear on the ballot paper.
 - [Dual-tone multi-frequency signaling](https://en.wikipedia.org/wiki/Dual-tone_multi-frequency_signaling) - a telecommunication signaling system using the voice-frequency band over telephone lines between telephone equipment and other communications devices and switching centers.
