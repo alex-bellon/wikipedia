@@ -132,6 +132,7 @@
 - [Bucky bit](https://en.wikipedia.org/wiki/Bucky_bit) - a bit in the binary representation of a character that it set by pressing a modifier key
 - [Clipper chip](https://en.wikipedia.org/wiki/Clipper_chip) - a chipset that was developed and promoted by the NSA with a built-in backdoor that was intended to "allow Federal, State, and local law enforcement officials the ability to decode intercepted voice and data transmissions." Introduced in 1993, it was entirely defunct by 1996.
 - [Control character](https://en.wikipedia.org/wiki/Control_character) - a code point (a number) in a character set, that does not represent a written symbol. They are used as in-band signaling to cause effects other than the addition of a symbol to the text.
+- [Core rope memory](https://en.wikipedia.org/wiki/Core_rope_memory) - a form of read-only memory (ROM) for computers, first used in the 1960s by early NASA Mars space probes and then in the Apollo Guidance Computer (AGC) and programmed by the Massachusetts Institute of Technology (MIT) Instrumentation Lab and built by Raytheon.
 - [Data erasure](https://en.wikipedia.org/wiki/Data_erasure) - a software-based method of overwriting the data that aims to completely destroy all electronic data residing on a hard disk drive or other digital media by using zeros and ones to overwrite data onto all sectors of the device.
 - [Lisp machine](https://en.wikipedia.org/wiki/Lisp_machine) - general-purpose computers designed to efficiently run Lisp as their main software and programming language, usually via hardware support
 
@@ -150,6 +151,12 @@
 - [Busy beaver](https://en.wikipedia.org/wiki/Busy_beaver) - The busy beaver game consists of designing a halting, binary-alphabet Turing machine which writes the most 1s on the tape, using only a limited set of states. The rules for the 2-state game are as follows: 1. the machine must have two states in addition to the halting state, and 2. the tape starts with 0s only. As the player, you should conceive each state aiming for the maximum output of 1s on the tape while making sure the machine will halt eventually.
 - [Turmite](https://en.wikipedia.org/wiki/Turmite) - a Turing machine which has an orientation as well as a current state and a "tape" that consists of an infinite two-dimensional grid of cells. The terms ant and vant are also used.
 
+### Miscellaneous
+- [Bit bucket](https://en.wikipedia.org/wiki/Bit_bucket) - the bit bucket is where lost computerized data has gone, by any means; any data which does not end up where it is supposed to, being lost in transmission, a computer crash, or the like, is said to have gone to the bit bucket – that mysterious place on a computer where lost data goes.
+- [Hyper Text Coffee Pot Control Protocol](https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol) - a facetious communication protocol for controlling, monitoring, and diagnosing coffee pots. It is specified in RFC 2324, published on 1 April 1998 as an April Fools' Day RFC, as part of an April Fools prank.
+- [lp0 on fire](https://en.wikipedia.org/wiki/Lp0_on_fire) - an outdated error message generated on some Unix and Unix-like computer operating systems in response to certain types of printer errors.
+- [Write only memory](https://en.wikipedia.org/wiki/Write-only_memory_(joke)) - he opposite of read-only memory (ROM). By some definitions, a WOM is a memory device which can be written but never read. Initially there seemed to be no practical use for a memory circuit from which data could not be retrieved. However, it was soon recognized that write-only actually describes certain functionalities in microprocessor systems. The concept is still often used as a joke or a euphemism for a failed memory device.
+
 ### Networking
 - [Broadcast Domain](https://en.wikipedia.org/wiki/Broadcast_domain) - a logical division of a computer network, in which all nodes can reach each other by broadcast at the data link layer.
 - [Hyper Text Coffee Pot Control Protocol](https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol) - a facetious communication protocol for controlling, monitoring, and diagnosing coffee pots.
@@ -163,6 +170,7 @@
 
 ### Operating Systems
 - [Embarrassingly parallel](https://en.wikipedia.org/wiki/Embarrassingly_parallel) - an embarrassingly parallel workload or problem (also called embarrassingly parallelizable, perfectly parallel, delightfully parallel or pleasingly parallel) is one where little or no effort is needed to separate the problem into a number of parallel tasks.
+- [Linux kernel oops](https://en.wikipedia.org/wiki/Linux_kernel_oops) - an oops is a deviation from correct behavior of the Linux kernel, one that produces a certain error log. The better-known kernel panic condition results from many kinds of oops, but other instances of an oops event may allow continued operation with compromised reliability.
 - [TempleOS](https://en.m.wikipedia.org/wiki/TempleOS) - Handwritten operating system written in Holy C.
 
 ### Programming
@@ -592,6 +600,7 @@
 - [Leave the gate as you found it](https://en.wikipedia.org/wiki/Leave_the_gate_as_you_found_it) - a rule in countryside areas throughout the world. If a gate is found open, it should be left open, and if it is closed, it should be left closed. If a closed gate absolutely must be traversed, it should be closed again afterwards. Leaving a closed gate open can lead to animals escaping or unwanted mingling. Leaving an open gate closed can prevent livestock from accessing water or other resources.
 - [Long-time nuclear waste warning messages](https://en.wikipedia.org/wiki/Long-time_nuclear_waste_warning_messages) - intended to deter human intrusion at nuclear waste repositories in the far future, within or above the order of magnitude of 10,000 years.
 - [Luddite fallacy](https://en.wikipedia.org/wiki/Technological_unemployment#The_Luddite_fallacy) - used to express the view that those concerned about long term technological unemployment are committing a fallacy, as they fail to account for compensation effects.
+- [Maplewashing](https://en.wikipedia.org/wiki/Maplewashing) - the alleged tendency of Canadian governments, institutions, and media to perpetuate the notion that Canada is morally superior to other countries, thus sanitizing and concealing negative historical and contemporary actions.
 - [Navies of landlocked countries](https://en.wikipedia.org/wiki/Navies_of_landlocked_countries) - A landlocked navy is a naval force operated by a country that does not have a coastline. While these states are unable to develop a sea-going, blue-water navy, they may still deploy armed forces on major lakes or rivers.
 - [Numerology](https://en.wikipedia.org/wiki/Numerology) - any belief in the divine or mystical relationship between a number and one or more coinciding events.
 - [Open access](https://en.wikipedia.org/wiki/Open_access)
@@ -749,6 +758,7 @@
 - [Carcinisation](https://en.wikipedia.org/wiki/Carcinisation) - an example of convergent evolution in which a crustacean evolves into a crab-like form from a non-crab-like form.
 - [Chrismatic megafauna](https://en.wikipedia.org/wiki/Charismatic_megafauna) - large animal species with symbolic value or widespread popular appeal, and are often used by environmental activists to achieve environmentalist goals.
 - [Exploding Animals](https://en.wikipedia.org/wiki/Category:Exploding_animals)
+- [Gef](https://en.wikipedia.org/wiki/Gef) - Gef, also referred to as the Talking Mongoose or the Dalby Spook, was the name given to an allegedly talking mongoose which was claimed to inhabit a farmhouse owned by the Irving family. The Irvings' farm was located at Cashen's Gap near the hamlet of Dalby on the Isle of Man.
 - [Larry](https://en.wikipedia.org/wiki/Larry_(cat)) - a cat who has served as Chief Mouser to the Cabinet Office at 10 Downing Street since 2011.
 - [Mike the Headless Chicken](https://en.wikipedia.org/wiki/Mike_the_Headless_Chicken) - a Wyandotte chicken that lived for 18 months after his head had been cut off.
 - [Nim Chimpsky](https://en.wikipedia.org/wiki/Nim_Chimpsky) - a chimp who was taught sign language, and his longest quote was "Give orange me give eat orange me eat orange give me eat orange give me you"
