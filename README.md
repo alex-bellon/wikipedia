@@ -50,6 +50,7 @@
 ### Attacks
 - [Billion laughs attack](https://en.wikipedia.org/wiki/Billion_laughs_attack) - a type of denial-of-service (DoS) attack which is aimed at parsers of XML documents.
 - [Email bomb](https://en.wikipedia.org/wiki/Email_bomb) - a form of net abuse consisting of sending huge volumes of email to an address in an attempt to overflow the mailbox or overwhelm the server where the email address is hosted in a denial-of-service attack (DoS attack).
+- [Evil maid attack](https://en.wikipedia.org/wiki/Evil_maid_attack) - an attack on an unattended device, in which an attacker with physical access alters it in some undetectable way so that they can later access the device, or the data on it.
 - [Fork bomb](https://en.wikipedia.org/wiki/Fork_bomb) - a denial-of-service attack wherein a process continually replicates itself to deplete available system resources, slowing down or crashing the system due to resource starvation.
 - [Google hacking](https://en.wikipedia.org/wiki/Google_hacking) - a computer hacking technique that uses Google Search and other Google applications to find security holes in the configuration and computer code that websites use.
 - [Pass the hash](https://en.wikipedia.org/wiki/Pass_the_hash) - a hacking technique that allows an attacker to authenticate to a remote server or service by using the underlying NTLM or LanMan hash of a user's password, instead of requiring the associated plaintext password as is normally the case.
@@ -118,6 +119,7 @@
 ### Files
 - [Run commands](https://en.wikipedia.org/wiki/Run_commands) - In the context of Unix-like systems, the term rc stands for the phrase "run commands". It is used for any file that contains startup information for a command.
 - [Request for Comments (RFC)](https://en.wikipedia.org/wiki/Request_for_Comments) - in information and communications technology, is a type of text document from the technology community. An RFC document may come from many bodies including from the Internet Engineering Task Force (IETF), the Internet Research Task Force (IRTF), the Internet Architecture Board (IAB), or from independent authors.
+- [Windows Metafile](https://en.wikipedia.org/wiki/Windows_Metafile) - an image file format originally designed for Microsoft Windows in the 1990s. The original Windows Metafile format was not device-independent (though could be made more so with placement headers) and may contain both vector graphics and bitmap components. It acts in a similar manner to SVG files.
 
 ### Graphics
 - [Box-drawing character](https://en.wikipedia.org/wiki/Box-drawing_character) - a form of semigraphics widely used in text user interfaces to draw various geometric frames and boxes. Box-drawing characters typically only work well with monospaced fonts.
@@ -136,8 +138,10 @@
 - [Data erasure](https://en.wikipedia.org/wiki/Data_erasure) - a software-based method of overwriting the data that aims to completely destroy all electronic data residing on a hard disk drive or other digital media by using zeros and ones to overwrite data onto all sectors of the device.
 - [Lisp machine](https://en.wikipedia.org/wiki/Lisp_machine) - general-purpose computers designed to efficiently run Lisp as their main software and programming language, usually via hardware support
 
-### Image Processing
+### Image Processing/Videos
 - [Lenna](https://en.wikipedia.org/wiki/Lenna) - Standard test image for image processing
+- [Letterboxing](https://en.wikipedia.org/wiki/Letterboxing_(filming)) - Letterboxing is the practice of transferring film shot in a widescreen aspect ratio to standard-width video formats while preserving the film's original aspect ratio. The resulting videographic image has mattes (black bars) above and below it; these mattes are part of each frame of the video signal.
+- [Pillarbox](https://en.wikipedia.org/wiki/Pillarbox) - The pillarbox effect occurs in widescreen video displays when black bars (mattes or masking) are placed on the sides of the image.
 
 ### Logic
 - [Abductive reasoning](https://en.m.wikipedia.org/wiki/Abductive_reasoning) - a form of logical inference. It starts with an observation or set of observations and then seeks to find the simplest and most likely conclusion from the observations. This process, unlike deductive reasoning, yields a plausible conclusion but does not positively verify it.
@@ -367,7 +371,9 @@
 - [Denominal verb](https://en.wikipedia.org/wiki/Denominal_verb) - verbs derived from nouns.
 - [Deverbal noun](https://en.wikipedia.org/wiki/Deverbal_noun) - nouns that are derived from verbs or verb phrases, but that behave grammatically purely as nouns, not as verbs.
 - [Donkey sentence](https://en.wikipedia.org/wiki/Donkey_sentence) - sentences that contain a pronoun with clear meaning (it is bound semantically) but whose syntactical role in the sentence poses challenges to grammarians.
+- [Eye dialect](https://en.wikipedia.org/wiki/Eye_dialect) - the use of deliberately nonstandard spelling to emphasize how a word is being pronounced.
 - [Garden-path sentence](https://en.wikipedia.org/wiki/Garden-path_sentence) - a grammatically correct sentence that starts in such a way that a reader's most likely interpretation will be incorrect; the reader is lured into a parse that turns out to be a dead end or yields a clearly unintended meaning.
+- [Hypercorrection](https://en.wikipedia.org/wiki/Hypercorrection) - non-standard use of language that results from the over-application of a perceived rule of language-usage prescription. A speaker or writer who produces a hypercorrection generally believes through a misunderstanding of such rules that the form is more "correct", standard, or otherwise preferable, often combined with a desire to appear formal or educated.
 - [Singular they](https://en.wikipedia.org/wiki/Singular_they) - the use in English of the pronoun they or its inflected or derivative forms, them, their, theirs, and themselves (or themself), as an epicene (gender-neutral) singular pronoun.
 - [Symploce](https://en.wikipedia.org/wiki/Symploce) - a figure of speech in which a word or phrase is used successively at the beginning of two or more clauses or sentences and another word or phrase with a similar wording is used successively at the end of them. It is the combination of anaphora and epistrophe.
 - [Verbification](https://en.wikipedia.org/wiki/Conversion_(word_formation)#Verbing) - is creation of a verb from a noun, adjective or other word.
@@ -811,6 +817,7 @@
 - [Shape of the universe](https://en.wikipedia.org/wiki/Shape_of_the_universe) - The shape of the universe, in physical cosmology, is the local and global geometry of the universe. The local features of the geometry of the universe are primarily described by its curvature, whereas the topology of the universe describes general global properties of its shape as of a continuous object.
 - [Superdense coding](https://en.wikipedia.org/wiki/Superdense_coding) - a quantum communication protocol to transmit two classical bits of information (i.e., either 00, 01, 10 or 11) from a sender (often called Alice) to a receiver (often called Bob), by sending only one qubit from Alice to Bob, under the assumption of Alice and Bob pre-sharing an entangled state.
 - [The many-worlds interpretation](https://en.wikipedia.org/wiki/Many-worlds_interpretation) is an interpretation of quantum mechanics that asserts that the universal wavefunction is objectively real, and that there is no wavefunction collapse. This implies that all possible outcomes of quantum measurements are physically realized in some "world" or universe.
+- [Quantum suicide](https://en.wikipedia.org/wiki/Quantum_suicide_and_immortality) - a thought experiment in quantum mechanics and the philosophy of physics. Purportedly, it can falsify any interpretation of quantum mechanics other than the Everett many-worlds interpretation by means of a variation of the Schrödinger's cat thought experiment, from the cat's point of view. Quantum immortality refers to the subjective experience of surviving quantum suicide. This concept is sometimes conjectured to be applicable to real-world causes of death as well.
 - [Quantum teleportation](https://en.wikipedia.org/wiki/Quantum_teleportation) - a process in which quantum information (e.g. the exact state of an atom or photon) can be transmitted (exactly, in principle) from one location to another, with the help of classical communication and previously shared quantum entanglement between the sending and receiving location.
 - [Quantum Zeno effect](https://en.wikipedia.org/wiki/Quantum_Zeno_effect) is a feature of quantum-mechanical systems allowing a particle's time evolution to be arrested by measuring it frequently enough with respect to some chosen measurement setting.
 
