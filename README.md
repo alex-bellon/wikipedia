@@ -278,6 +278,7 @@
 - [Candy bar protest](https://en.wikipedia.org/wiki/Candy_bar_protest) - a short-lived 1947 protest by Canadian children over the increase in price of chocolate bars from five to eight cents.
 - [Capitol Hill Autonomous Zone](https://en.wikipedia.org/wiki/Capitol_Hill_Autonomous_Zone) - an occupation protest and self-declared autonomous zone in the Capitol Hill neighborhood of Seattle, Washington.
 - [Gay Nineties](https://en.wikipedia.org/wiki/Gay_Nineties) - an American nostalgic term and a periodization of the history of the United States referring to the decade of the 1890s.
+- [Paraquat murders](https://en.wikipedia.org/wiki/Paraquat_murders) - a series of indiscriminate poisonings carried out in Japan in 1985. Police were unable to gather any evidence about the murders other than they were caused by a poisoned beverage that was left inside or around vending machines.
 - [Pepsi Fruit Juice Flood](https://en.wikipedia.org/wiki/Pepsi_Fruit_Juice_Flood) - a flood of 176,000 barrels (28 million litres; 7.4 million US gallons) of fruit and vegetable juices into the streets of Lebedyan, Russia and the Don River, caused by the collapse of a PepsiCo warehouse.
 - [Storm Area 51](https://en.wikipedia.org/wiki/Storm_Area_51) - an American Facebook event that took place on September 20, 2019, at Area 51, a United States Air Force (USAF) facility within the Nevada Test and Training Range, to raid the site in a search for extraterrestrial life.
 
@@ -303,7 +304,9 @@
 - [Adolf Hitler and vegetarianism](https://en.wikipedia.org/wiki/Adolf_Hitler_and_vegetarianism)
 - [Agent 355](https://en.wikipedia.org/wiki/Agent_355) - the code name of a female spy during the American Revolution, part of the Culper Ring. Agent 355 was one of the first spies for the United States, but her real identity is unknown.
 - [Alicia Boole Stott](https://en.wikipedia.org/wiki/Alicia_Boole_Stott) - the daughter of George Boole and was best known for coining the term "polytope" for a convex solid in four (or more) dimensions, and having an impressive grasp of four-dimensional geometry from a very early age.
+- [Cajun Navy](https://en.wikipedia.org/wiki/Cajun_Navy) - an informal ad hoc volunteer groups comprising private boat owners who assist in search and rescue efforts in the United States as well as offer Disaster Relief assistance
 - [Digby Tatham-Warter](https://en.wikipedia.org/wiki/Digby_Tatham-Warter) - Digby got to him and said "Don't worry about the bullets, I've got an umbrella". He then escorted the chaplain across the street under his umbrella. When he returned to the front line, one of his fellow officers said about his umbrella that "that thing won't do you any good", to which Digby replied "Oh my goodness Pat, but what if it rains?"
+- [Hannah Ocuish](https://en.wikipedia.org/wiki/Hannah_Ocuish) - a 12-year old Pequot Native American girl with an intellectual disability who was hanged on December 20, 1786, in New London, Connecticut. She is believed to be the youngest person executed in the United States.
 - [Ivan Renko](https://en.wikipedia.org/wiki/Ivan_Renko) - Ivan Renko was a fictitious Yugoslav basketball player created by Bobby Knight when he was the head coach for the Indiana University Hoosiers.
 - [Joseph Darby](https://en.wikipedia.org/wiki/Joseph_Darby_%28jumper%29) - a renowned jumper from the Black Country village of Netherton. He specialised in spring jumping (jumping starting from a stationary position) often using weights in his hands to help propel him.
 - [Mary Kenneth Keller](https://en.wikipedia.org/wiki/Mary_Kenneth_Keller) - an American Roman Catholic religious sister, educator and pioneer in computer science. She and Irving C. Tang were the first two people to earn a doctorate in computer science in the United States.
@@ -319,6 +322,7 @@
 
 ### Politics
 - [Anti-PowerPoint Party](https://en.wikipedia.org/wiki/Anti-PowerPoint_Party) is a Swiss political party dedicated to decreasing professional use of Microsoft PowerPoint, which the party claims "causes national-economic damage amounting to 2.1 billion CHF" and lowers the quality of a presentation in "95% of the cases"
+- [Horseshoe theory](https://en.wikipedia.org/wiki/Horseshoe_theory) - asserts that the far-left and the far-right, rather than being at opposite and opposing ends of a linear political continuum, closely resemble one another, analogous to the way that the opposite ends of a horseshoe are close together
 
 ### Religion
 - [Dudeism](https://en.wikipedia.org/wiki/Dudeism) - a religion, philosophy, or lifestyle inspired by "The Dude", the protagonist of the Coen Brothers' 1998 film The Big Lebowski.
@@ -342,6 +346,7 @@
 - [Eternal September](https://en.wikipedia.org/wiki/Eternal_September) - is Usenet slang for a period beginning in September 1993, the month that Internet service provider America Online (AOL) began offering Usenet access to its many users, overwhelming the existing culture for online forums.
 - [Googlewhack](https://en.wikipedia.org/wiki/Googlewhack) - a contest to find a Google Search query that returns a single result.
 - [Google's ideological echo chamber](https://en.wikipedia.org/wiki/Google's_Ideological_Echo_Chamber) - commonly referred to as the Google memo, is an internal memo, dated July 2017, by United States-based Google engineer James Damore about Google's culture and diversity policies.
+- [Infodemic](https://en.wikipedia.org/wiki/Infodemic) - a rapid and far-reaching spread of both accurate and inaccurate information about something, such as a disease.
 - [Me at the zoo](https://en.wikipedia.org/wiki/Me_at_the_zoo) - first video that was uploaded to YouTube.
 - [Microsoft acquisition hoax](https://en.wikipedia.org/wiki/Microsoft_acquisition_hoax) - a bogus 1994 press release suggesting that the information technology company Microsoft had acquired the Roman Catholic Church. It is considered to be the first Internet hoax to reach a mass audience.
 - [Milkshake Duck](https://en.wikipedia.org/wiki/Milkshake_Duck) - an Internet meme that describes people who gain viral popularity on social media for some positive or charming trait but are later revealed to have distasteful histories or offensive behavior.
@@ -781,6 +786,7 @@
 
 ### Biology
 - [Mirror life](https://en.wikipedia.org/wiki/Mirror_life) - a hypothetical form of life with mirror-reflected molecular building blocks
+- [Primordial soup](https://en.wikipedia.org/wiki/Primordial_soup) - the hypothetical set of conditions present on the Earth around 4.0 to 3.7 billion years ago.
 - [Viviparity](https://en.wikipedia.org/wiki/Viviparity) - development of the embryo inside the body of the parent. This is opposed to oviparity which is a reproductive mode in which females lay developing eggs that complete their development and hatch externally from the mother.
 
 ### Botany
