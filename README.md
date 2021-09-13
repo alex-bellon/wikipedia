@@ -245,6 +245,8 @@
 - [Acoustic Kitty](https://en.wikipedia.org/wiki/Acoustic_Kitty) - Acoustic Kitty was a CIA project launched by the Central Intelligence Agency Directorate of Science & Technology, which in the 1960s intended to use cats to spy on the Kremlin and Soviet embassies.
 - [Animal welfare in Nazi Germany](https://en.wikipedia.org/wiki/Animal_welfare_in_Nazi_Germany) - There was widespread support for animal welfare in Nazi Germany (German: Tierschutz im nationalsozialistischen Deutschland) among the country's leadership. Adolf Hitler and his top officials took a variety of measures to ensure animals were protected.
 - [Bamboo ceiling](https://en.wikipedia.org/wiki/Bamboo_ceiling) - a term used to describe the combination of individual, cultural, and organizational factors that impede Asian Americans' career progress inside organizations.
+- [Bat bombs](https://en.wikipedia.org/wiki/Bat_bomb) - an experimental World War II weapon developed by the United States. The bomb consisted of a bomb-shaped casing with over a thousand compartments, each containing a hibernating Mexican free-tailed bat with a small, timed incendiary bomb attached. Dropped from a bomber at dawn, the casings would deploy a parachute in mid-flight and open to release the bats, which would then disperse and roost in eaves and attics in a 20–40-mile radius (32–64 km). The incendiaries, which were set on timers, would then ignite and start fires in inaccessible places in the largely wood and paper constructions of the Japanese cities that were the weapon's intended target.
+- [British pet massacre](https://en.wikipedia.org/wiki/British_pet_massacre) - an event in 1939 in the United Kingdom where over 750,000 pets were killed in preparation for food shortages during World War II.
 - [Cargo Cult](https://en.wikipedia.org/wiki/Cargo_cult) - A belief system among members of a relatively undeveloped society in which adherents practice superstitious rituals hoping to bring modern goods supplied by a more technologically advanced society.
 - [Chicken George (politics)](https://en.wikipedia.org/wiki/Chicken_George_(politics)) - a campaign tactic in the 1992 U.S. presidential election, where one or more people in chicken costumes heckled President George H. W. Bush over his refusal to participate in a debate with Democratic candidate Bill Clinton.
 - [Cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk) - any activist advocating widespread use of strong cryptography and privacy-enhancing technologies as a route to social and political change.
@@ -264,6 +266,7 @@
 - [Numismatics](https://en.wikipedia.org/wiki/Numismatics) is the study or collection of currency, including coins, tokens, paper money and related objects.
 - [Obsolete Occupations](https://en.wikipedia.org/wiki/Category:Obsolete_occupations)
 - [Pink Capitalism](https://en.wikipedia.org/wiki/Pink_capitalism) - the incorporation of the LGBT movement and sexual diversity to capitalism and the market economy, viewed especially in a critical lens as this incorporation pertains to the LGBT, Western, white, and affluent, upper middle class communities and market.
+- [Project MKUltra](https://en.wikipedia.org/wiki/Project_MKUltra) is the code name given to a program of experiments on human subjects that were designed and undertaken by the U.S. Central Intelligence Agency (CIA), which were illegal. Experiments on humans were intended to develop procedures and identify drugs such as LSD to be used in interrogations in order to weaken the individual and force confessions through brainwashing and psychological torture.
 - [Sword of Damocles](https://en.wikipedia.org/wiki/Damocles) - King who hung a sword from a string above his head to represent the constant threat involved in ruling
 - [Toilet-related injuries and deaths](https://en.wikipedia.org/wiki/Toilet-related_injuries_and_deaths)
 - [Waffle House Index](https://en.wikipedia.org/wiki/Waffle_House_Index) - an informal metric named after the Waffle House restaurant chain and is used by the Federal Emergency Management Agency (FEMA) to determine the effect of a storm and the likely scale of assistance required for disaster recovery.
@@ -624,6 +627,7 @@
 - [Postdiction](https://en.wikipedia.org/wiki/Postdiction) -  In skepticism, it is considered an effect of hindsight bias that explains claimed predictions of significant events such as plane crashes and natural disasters.
 - [Reducto ad Hitlerum](https://en.wikipedia.org/wiki/Reductio_ad_Hitlerum) - also known as playing the Nazi card, is an attempt to invalidate someone else's position on the basis that the same view was held by Adolf Hitler or the Nazi Party.
 - [Russian political jokes](https://en.wikipedia.org/wiki/Russian_political_jokes) -  a part of Russian humour and can be grouped into the major time periods: Imperial Russia, Soviet Union and finally post-Soviet Russia.
+- [Salami slicing tactics](https://en.wikipedia.org/wiki/Salami_slicing_tactics) - a divide and conquer process of threats and alliances used to overcome opposition. With it, an aggressor can influence and eventually dominate a landscape, typically political, piece by piece. In this fashion, the opposition is eliminated "slice by slice" until it realizes, usually too late, that it is virtually gone in its entirety.
 - [San Seriffe](https://en.wikipedia.org/wiki/San_Serriffe) - a fictional island nation created for April Fools' Day 1977, by Britain's Guardian newspaper.
 - [Schroedinger's cat in popular culture](https://en.wikipedia.org/wiki/Schr%C3%B6dinger's_cat_in_popular_culture)
 - [Spherical cow](https://en.wikipedia.org/wiki/Spherical_cow) - a humorous metaphor for highly simplified scientific models of complex real life phenomena.
@@ -758,6 +762,9 @@
 - [Thompson's Lamp](https://en.wikipedia.org/wiki/Thomson%27s_lamp) - Thomson's lamp is a philosophical puzzle based on infinites. It was devised in 1954 by British philosopher James F. Thomson, who used it to analyze the possibility of a supertask, which is the completion of an infinite number of tasks.
 
 ## Science
+
+### Academia
+- [Least publishable unit](https://en.wikipedia.org/wiki/Least_publishable_unit) - the smallest measurable quantum of publication, the minimum amount of information that can be used to generate a publication in a peer-reviewed venue, such as a journal or a conference.
 
 ### Anatomy
 - [Entoptic phenomenon](https://en.wikipedia.org/wiki/Entoptic_phenomenon) - visual effects whose source is from within the eye itself.
