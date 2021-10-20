@@ -49,6 +49,7 @@
 - [Z movie](https://en.wikipedia.org/wiki/Z_movie) - a low-budget film that has qualities lower than a B movie.
 
 ## Computer Science
+- [Ethnocomputing](https://en.wikipedia.org/wiki/Ethnocomputing) - is the study of the interactions between computing and culture.
 
 ### Attacks
 - [Billion laughs attack](https://en.wikipedia.org/wiki/Billion_laughs_attack) - a type of denial-of-service (DoS) attack which is aimed at parsers of XML documents.
@@ -171,6 +172,7 @@
 - [List of TCP/UDP Ports](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
 - [Network Telescope](https://en.wikipedia.org/wiki/Network_telescope) - An Internet system that allows one to observe different large-scale events taking place on the Internet
 - [QUIC](https://en.wikipedia.org/wiki/QUIC) - an experimental general-purpose transport layer network protocol.
+- [Router on a stick](https://en.wikipedia.org/wiki/Router_on_a_stick) - is a router that has a single physical or logical connection to a network.
 - [SPDY](https://en.wikipedia.org/wiki/SPDY) -  deprecated open-specification networking protocol that was developed primarily at Google for transporting web content.
 - [Slow-scan television](https://en.wikipedia.org/wiki/Slow-scan_television) -  a picture transmission method used mainly by amateur radio operators, to transmit and receive static pictures via radio in monochrome or color.
 - [Virtual LAN](https://en.wikipedia.org/wiki/Virtual_LAN) - any broadcast domain that is partitioned and isolated in a computer network at the data link layer (OSI layer 2).
@@ -502,6 +504,7 @@
 - [Yak Shaving](https://en.wiktionary.org/wiki/yak_shaving) - any apparently useless activity which, by allowing you to overcome intermediate difficulties, allows you to solve a larger problem.
 
 ## Math
+- [Ethnomathematics](https://en.wikipedia.org/wiki/Ethnomathematics) - is the study of the relationship between mathematics and culture
 
 ### Algebra
 - [1 + 2 + 3 + 4...](https://en.wikipedia.org/wiki/1_%2B_2_%2B_3_%2B_4_%2B_%E2%8B%AF)
@@ -811,6 +814,7 @@
 - [Alcohol and Drug Abuse Lake](https://en.wikipedia.org/wiki/Alcohol_and_Drug_Abuse_Lake) - a reservoir in Richland County, South Carolina, United States. The lake was likely named after a place called Morris Village, a nearby residential treatment center for people with substance dependence.
 - [Aoshima](https://en.wikipedia.org/wiki/Aoshima,_Ehime) - an island in Ehime Prefecture, Japan, known for its large number of feline residents. Felines have been reported by news outlets to outnumber humans by ratios between 6:1 and 10:1, but as elderly inhabitants of the island have died, the ratio has greatly increased to almost 36:1.
 - [Aral Sea](https://en.wikipedia.org/wiki/Aral_Sea) - once the fourth largest lake in the world, has been shrinking since the 60s, when rivers that fed it were diverted for Soviet irrigation projects.
+- [The Blue Banana](https://en.wikipedia.org/wiki/Blue_Banana) is a discontinuous corridor of urbanization spreading over Western and Central Europe, with a population of around 111 million
 - [Doubly-landlocked countries](https://en.wikipedia.org/wiki/Landlocked_country#Doubly_landlocked) - A country is "doubly landlocked" or "double-landlocked" when it is surrounded only by landlocked countries (requiring the crossing of at least two national borders to reach a coastline).
 - [Fugging, Lower Austria](https://en.wikipedia.org/wiki/Fugging,_Lower_Austria)
 - [Fugging, Upper Austria](https://en.wikipedia.org/wiki/Fugging,_Upper_Austria)
@@ -899,6 +903,7 @@
 - [Port tongs](https://en.wikipedia.org/wiki/Port_tongs) - a special set of tongs designed to open wine bottles that are sealed with a cork. The tongs are heated over an open flame and held against the neck of the wine bottle for 20–30 seconds. The heated section of bottle is then cooled with a damp cloth or ice water, causing the glass to fracture due to thermal expansion. The result is generally a clean, predictable break.
 - [Ransom strip](https://en.wikipedia.org/wiki/Ransom_strip) - a parcel of land needed to access an adjacent property from a public highway, to which the owner is denied access until payment is received.
 - The [Revenge dress](https://en.wikipedia.org/wiki/Revenge_dress) - a dress once worn by Diana, Princess of Wales. The dress has been interpreted as having been worn "in revenge" for the televised admission of adultery by her husband, Charles, Prince of Wales.
+- [Scrip](https://en.wikipedia.org/wiki/Scrip) - any substitute for legal tender. It is often a form of credit. Scrips have been created for exploitative payment of employees under truck systems, and for use in local commerce at times when regular currency was unavailable, for example in remote coal towns, military bases, ships on long voyages, or occupied countries in wartime.
 - [Sleeve garter](https://en.wikipedia.org/wiki/Sleeve_garter) - a garter worn on the sleeve of a shirt. It came into wide use, especially in the USA, in the latter half of the 19th century when men's ready-made shirts came in a single (extra long) sleeve length. Sleeve garters allow men to customize sleeve lengths and keep their cuffs from becoming soiled while working or at the correct length when worn under a jacket.
 - [Smoot](https://en.wikipedia.org/wiki/Smoot) - a nonstandard, humorous unit of length created as part of an MIT fraternity prank. It is named after Oliver R. Smoot, a fraternity pledge to Lambda Chi Alpha, who in October 1958 lay down repeatedly on the Harvard Bridge (between Boston and Cambridge, Massachusetts) so that his fraternity brothers could use his height to measure the length of the bridge.
 - [Space-cadet keyboard](https://en.wikipedia.org/wiki/Space-cadet_keyboard) - a keyboard designed by John L. Kulp in 1978 and used on Lisp machines at Massachusetts Institute of Technology (MIT), which inspired several still-current jargon terms in the field of computer science and influenced the design of Emacs.
