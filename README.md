@@ -163,6 +163,7 @@
 - [Bit bucket](https://en.wikipedia.org/wiki/Bit_bucket) - the bit bucket is where lost computerized data has gone, by any means; any data which does not end up where it is supposed to, being lost in transmission, a computer crash, or the like, is said to have gone to the bit bucket – that mysterious place on a computer where lost data goes.
 - [Hyper Text Coffee Pot Control Protocol](https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol) - a facetious communication protocol for controlling, monitoring, and diagnosing coffee pots. It is specified in RFC 2324, published on 1 April 1998 as an April Fools' Day RFC, as part of an April Fools prank.
 - [lp0 on fire](https://en.wikipedia.org/wiki/Lp0_on_fire) - an outdated error message generated on some Unix and Unix-like computer operating systems in response to certain types of printer errors.
+- [Roofnet](https://en.wikipedia.org/wiki/Roofnet) was an experimental mesh network developed by the Computer Science and Artificial Intelligence Laboratory at MIT
 - [Write only memory](https://en.wikipedia.org/wiki/Write-only_memory_(joke)) - he opposite of read-only memory (ROM). By some definitions, a WOM is a memory device which can be written but never read. Initially there seemed to be no practical use for a memory circuit from which data could not be retrieved. However, it was soon recognized that write-only actually describes certain functionalities in microprocessor systems. The concept is still often used as a joke or a euphemism for a failed memory device.
 
 ### Networking
