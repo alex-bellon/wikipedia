@@ -88,6 +88,7 @@
 - [Coppersmith's attack](https://en.wikipedia.org/wiki/Coppersmith%27s_attack) - a class of cryptographic attacks on the public-key cryptosystem RSA based on the Coppersmith method.
 - [Coppersmith method](https://en.wikipedia.org/wiki/Coppersmith_method) - a method to find small integer zeroes of univariate or bivariate polynomials modulo a given integer.
 - [Cryptographic attacks](https://en.wikipedia.org/wiki/Category:Cryptographic_attacks) - a method for circumventing the security of a cryptographic system by finding a weakness in a code, cipher, cryptographic protocol or key management scheme. This process is also called "cryptanalysis".
+- [Cryptovirology](https://en.wikipedia.org/wiki/Cryptovirology) is a field that studies how to use cryptography to design powerful malicious software. 
 - [Differential Cryptanalysis](https://en.wikipedia.org/wiki/Differential_cryptanalysis) - Differential cryptanalysis is a general form of cryptanalysis applicable primarily to block ciphers, but also to stream ciphers and cryptographic hash functions.
 - [Diffie-Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange) - a method of securely exchanging cryptographic keys over a public channel.
 - [ElGamal encryption](https://en.wikipedia.org/wiki/ElGamal_encryption) - an asymmetric key encryption algorithm for public-key cryptography which is based on the Diffie–Hellman key exchange.
@@ -652,6 +653,7 @@
 - [Vehicle registration plates of Europe](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Europe)
 - [Verdana-gate](https://en.wikipedia.org/wiki/Verdana#Usage) - The "scandal" that ensued when IKEA changed their main typeface from Futura to Verdana.
 - [Water jousting](https://en.wikipedia.org/wiki/Water_jousting) - a form of jousting where the adversaries, carrying a lance and protected only by a shield, stand on a platform on the stern of a boat.
+- [Whamageddon](https://en.wikipedia.org/wiki/Whamageddon) - a game played during the 24 days before Christmas Eve in which players try to go from December 1 to the start of Christmas Eve as per European celebrations on the 24th December (midnight on the 24th December or 24:00 on the 24th of December) without hearing "Last Christmas" by Wham!
 
 ### Galleries, Glossaries and Lists
 - [Gallery of sovereign state flags](https://en.wikipedia.org/wiki/Gallery_of_sovereign_state_flags)
@@ -723,6 +725,7 @@
 - [Dear enemy effect](https://en.wikipedia.org/wiki/Dear_enemy_effect) - n ethological phenomenon in which two neighbouring territorial animals become less aggressive toward one another once territorial borders are well-established.
 - [Droste Effect](https://en.wikipedia.org/wiki/Droste_effect) - Picture recursively appearing within itsel
 - [Dutch disease](https://en.wikipedia.org/wiki/Dutch_disease) - the apparent causal relationship between the increase in the economic development of a specific sector (for example natural resources) and a decline in other sectors (like the manufacturing sector or agriculture).
+- [Eroom's law](https://en.wikipedia.org/wiki/Eroom%27s_law) - the observation that drug discovery is becoming slower and more expensive over time, despite improvements in technology (such as high-throughput screening, biotechnology, combinatorial chemistry, and computational drug design), a trend first observed in the 1980s
 - [Founder's syndrome](https://en.wikipedia.org/wiki/Founder's_syndrome) is the difficulty faced by organizations, and in particular young companies such as start-ups, where one or more founders maintain disproportionate power and influence following the effective initial establishment of the organization, leading to a wide range of problems.
 - [Half-life of knowledge](https://en.wikipedia.org/wiki/Half-life_of_knowledge) -  the amount of time that has to elapse before half of the knowledge or facts in a particular area is superseded or shown to be untrue.
 - [IKEA Effect](https://en.m.wikipedia.org/wiki/IKEA_effect) - The IKEA effect is a cognitive bias in which consumers place a disproportionately high value on products they partially created.
@@ -795,6 +798,7 @@
 - [Larry](https://en.wikipedia.org/wiki/Larry_(cat)) - a cat who has served as Chief Mouser to the Cabinet Office at 10 Downing Street since 2011.
 - [Mike the Headless Chicken](https://en.wikipedia.org/wiki/Mike_the_Headless_Chicken) - a Wyandotte chicken that lived for 18 months after his head had been cut off.
 - [Nim Chimpsky](https://en.wikipedia.org/wiki/Nim_Chimpsky) - a chimp who was taught sign language, and his longest quote was "Give orange me give eat orange me eat orange give me eat orange give me you"
+- [Pierre Brassau](https://en.wikipedia.org/wiki/Pierre_Brassau) was a chimpanzee and the subject of a 1964 hoax perpetrated by Åke "Dacke" Axelsson, a journalist at the Swedish tabloid Göteborgs-Tidningen. Axelsson came up with the idea of exhibiting a series of paintings made by a non-human primate, under the pretense that they were the work of a previously unknown French artist named "Pierre Brassau", in order to test whether critics could tell the difference between true avant-garde modern art and the work of a chimpanzee.
 - [Potoooooooo](https://en.wikipedia.org/wiki/Potoooooooo) - an 18th-century Thoroughbred racehorse who won over 30 races and defeated some of the greatest racehorses of the time. He went on to be a sire. He is now best known for the unusual spelling of his name, pronounced Potatoes.
 - [Puppy cat](https://en.wikipedia.org/wiki/Puppy_cat) - a term used to refer to specific breeds of domestic cats that have unusual behavioral tendencies that are reminiscent of young domestic dogs.
 - [Raining of animals](https://en.wikipedia.org/wiki/Rain_of_animals) - a rare meteorological phenomenon in which flightless animals fall from the sky.
@@ -875,6 +879,7 @@
 - [Bread dildo](https://en.wikipedia.org/wiki/Bread_dildo) - a dildo prepared using bread, allegedly made in the Greco-Roman era around 2,000 years ago.
 - [Camouflage passport](https://en.wikipedia.org/wiki/Camouflage_passport) - a document, designed to look like a real passport, issued in the name of a non-existent country or entity.
 - [Capitol Hill's mystery soda machine](https://en.wikipedia.org/wiki/Capitol_Hill%27s_mystery_soda_machine) - a Coke vending machine in Capitol Hill, Seattle, that was in operation since at least the early 1990s until its disappearance in 2018. n June 2018, the machine mysteriously disappeared and a message was posted to the machine's Facebook page stating "Going for a walk, need to find myself. Maybe take a shower even." A note was taped to the rail where the machine used to be: "Went for a walk".
+- [Cat organ](https://en.wikipedia.org/wiki/Cat_organ) - a hypothetical musical instrument which consists of a line of cats fixed in place with their tails stretched out underneath a keyboard so that they cry out when a key is pressed. The cats would be arranged according to the natural tone of their voices.
 - [Christmas Bullet](https://en.wikipedia.org/wiki/Christmas_Bullet) - an American single-seat cantilever wing biplane. It is considered by many to be among the worst aircraft ever constructed.
 - [Clock of the Long Now](https://en.wikipedia.org/wiki/Clock_of_the_Long_Now) - a mechanical clock under construction, that is designed to keep time for 10,000 years.
 - [Cold War playground equipment](https://en.wikipedia.org/wiki/Cold_War_playground_equipment) - was intended to foster children's curiosity and excitement about the Space Race. It was installed during the Cold War in both communist and capitalist countries.
