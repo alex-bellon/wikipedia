@@ -21,6 +21,9 @@
 ### Graphic Design
 - [Greeking](https://en.wikipedia.org/wiki/Greeking) - a style of displaying or rendering text or symbols, not always from the Greek alphabet. Greeking obscures portions of a work for the purpose of either emphasizing form over details or displaying placeholders for unavailable content.
 
+### Magazines
+- [Dr. Dobb's Journal](https://en.wikipedia.org/wiki/Dr._Dobb's_Journal) was a "granola" monthly magazine aimed at computer programmers
+
 ### Music
 - [As Slow as Possible](https://en.wikipedia.org/wiki/As_Slow_as_Possible) - a musical piece that is currently being played on an organ at St. Burchardi church in Halberstadt, Germany. The performance began in 2001 and will end in 2640
 - [Backmasking](https://en.wikipedia.org/wiki/Backmasking) - a recording technique in which a sound or message is recorded backward onto a track that is meant to be played forward.
@@ -87,6 +90,7 @@
 - [Commitment scheme](https://en.wikipedia.org/wiki/Commitment_scheme) - a cryptographic primitive that allows one to commit to a chosen value (or chosen statement) while keeping it hidden to others, with the ability to reveal the committed value later. Commitment schemes are designed so that a party cannot change the value or statement after they have committed to it: that is, commitment schemes are binding.
 - [Coppersmith's attack](https://en.wikipedia.org/wiki/Coppersmith%27s_attack) - a class of cryptographic attacks on the public-key cryptosystem RSA based on the Coppersmith method.
 - [Coppersmith method](https://en.wikipedia.org/wiki/Coppersmith_method) - a method to find small integer zeroes of univariate or bivariate polynomials modulo a given integer.
+- [Cryptanalysis of the Enigma](https://en.wikipedia.org/wiki/Cryptanalysis_of_the_Enigma)
 - [Cryptographic attacks](https://en.wikipedia.org/wiki/Category:Cryptographic_attacks) - a method for circumventing the security of a cryptographic system by finding a weakness in a code, cipher, cryptographic protocol or key management scheme. This process is also called "cryptanalysis".
 - [Cryptovirology](https://en.wikipedia.org/wiki/Cryptovirology) is a field that studies how to use cryptography to design powerful malicious software. 
 - [Differential Cryptanalysis](https://en.wikipedia.org/wiki/Differential_cryptanalysis) - Differential cryptanalysis is a general form of cryptanalysis applicable primarily to block ciphers, but also to stream ciphers and cryptographic hash functions.
@@ -141,7 +145,9 @@
 - [Control character](https://en.wikipedia.org/wiki/Control_character) - a code point (a number) in a character set, that does not represent a written symbol. They are used as in-band signaling to cause effects other than the addition of a symbol to the text.
 - [Core rope memory](https://en.wikipedia.org/wiki/Core_rope_memory) - a form of read-only memory (ROM) for computers, first used in the 1960s by early NASA Mars space probes and then in the Apollo Guidance Computer (AGC) and programmed by the Massachusetts Institute of Technology (MIT) Instrumentation Lab and built by Raytheon.
 - [Data erasure](https://en.wikipedia.org/wiki/Data_erasure) - a software-based method of overwriting the data that aims to completely destroy all electronic data residing on a hard disk drive or other digital media by using zeros and ones to overwrite data onto all sectors of the device.
+- [Identification friend or foe](https://en.wikipedia.org/wiki/Identification_friend_or_foe) is an identification system designed for command and control. It uses a transponder that listens for an interrogation signal and then sends a response that identifies the broadcaster.  It enables military and civilian air traffic control interrogation systems to identify aircraft, vehicles or forces as friendly and to determine their bearing and range from the interrogator. 
 - [Lisp machine](https://en.wikipedia.org/wiki/Lisp_machine) - general-purpose computers designed to efficiently run Lisp as their main software and programming language, usually via hardware support
+- [Null](https://en.wikipedia.org/wiki/Null_(radio)) - a direction in an antenna's radiation pattern where the antenna radiates almost no radio waves, so the far field signal strength is a local minimum.
 
 ### Image Processing/Videos
 - [Lenna](https://en.wikipedia.org/wiki/Lenna) - Standard test image for image processing
@@ -164,7 +170,8 @@
 - [Bit bucket](https://en.wikipedia.org/wiki/Bit_bucket) - the bit bucket is where lost computerized data has gone, by any means; any data which does not end up where it is supposed to, being lost in transmission, a computer crash, or the like, is said to have gone to the bit bucket – that mysterious place on a computer where lost data goes.
 - [Hyper Text Coffee Pot Control Protocol](https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol) - a facetious communication protocol for controlling, monitoring, and diagnosing coffee pots. It is specified in RFC 2324, published on 1 April 1998 as an April Fools' Day RFC, as part of an April Fools prank.
 - [lp0 on fire](https://en.wikipedia.org/wiki/Lp0_on_fire) - an outdated error message generated on some Unix and Unix-like computer operating systems in response to certain types of printer errors.
-- [Roofnet](https://en.wikipedia.org/wiki/Roofnet) was an experimental mesh network developed by the Computer Science and Artificial Intelligence Laboratory at MIT
+- [Roofnet](https://en.wikipedia.org/wiki/Roofnet) - an experimental mesh network developed by the Computer Science and Artificial Intelligence Laboratory at MIT
+- [Tivoization](https://en.wikipedia.org/wiki/Tivoization) - the creation of a system that incorporates software under the terms of a copyleft software license like the GNU General Public License (GNU GPL), but uses hardware restrictions or digital rights management (DRM) to prevent users from running modified versions of the software on that hardware.
 - [Write only memory](https://en.wikipedia.org/wiki/Write-only_memory_(joke)) - he opposite of read-only memory (ROM). By some definitions, a WOM is a memory device which can be written but never read. Initially there seemed to be no practical use for a memory circuit from which data could not be retrieved. However, it was soon recognized that write-only actually describes certain functionalities in microprocessor systems. The concept is still often used as a joke or a euphemism for a failed memory device.
 
 ### Networking
@@ -322,6 +329,7 @@
 - [Joseph Darby](https://en.wikipedia.org/wiki/Joseph_Darby_%28jumper%29) - a renowned jumper from the Black Country village of Netherton. He specialised in spring jumping (jumping starting from a stationary position) often using weights in his hands to help propel him.
 - [Mary Kenneth Keller](https://en.wikipedia.org/wiki/Mary_Kenneth_Keller) - an American Roman Catholic religious sister, educator and pioneer in computer science. She and Irving C. Tang were the first two people to earn a doctorate in computer science in the United States.
 - [Nicolas Bourbaki](https://en.wikipedia.org/wiki/Nicolas_Bourbaki) is the collective pseudonym of a group of mathematicians, predominantly French alumni of the École normale supérieure (ENS). The series is known collectively as the Éléments de mathématique (Elements of Mathematics), the group's central work. Topics treated in the series include set theory, abstract algebra, topology, analysis, Lie groups and Lie algebras.
+- [Onfim](https://en.wikipedia.org/wiki/Onfim) - a boy who lived in Novgorod (present-day Russia) in the 13th century, some time around 1220 or 1260. He left his notes and homework exercises scratched in soft birch bark which was preserved in the clay soil of Novgorod. Onfim, who was most likely six or seven at the time, wrote in the Old Novgorodian dialect of Old East Slavic. Besides letters and syllables, he drew "battle scenes and drawings of himself and his teacher".
 - [Pauli Murray](https://en.wikipedia.org/wiki/Pauli_Murray) - an American civil rights activist who became a lawyer, a women's rights activist, Episcopal priest, and author. Drawn to the ministry, in 1977 Murray was the first African-American woman to be ordained as an Episcopal priest, in the first year that any women were ordained by that church.
 - [Public Universal Friend](https://en.wikipedia.org/wiki/Public_Universal_Friend) - an American preacher born in Cumberland, Rhode Island, to Quaker parents. After suffering a severe illness in 1776, the Friend claimed to have died and been reanimated as a genderless evangelist named the Public Universal Friend, and afterward shunned both birth name and gendered pronouns.
 - [Sōkaiya](https://en.wikipedia.org/wiki/S%C5%8Dkaiya) - specialized racketeers unique to Japan, and often associated with the yakuza, who extort money from or blackmail companies by threatening to publicly humiliate companies and their management, usually in their annual meeting (総会, sōkai).
@@ -332,12 +340,14 @@
 - [Umarell](https://en.wikipedia.org/wiki/Umarell) - a term popular in Bologna referring specifically to men of retirement age who pass the time watching construction sites, especially roadworks – stereotypically with hands clasped behind their back and offering unwanted advice
 
 ### Politics
+- [Anti-king](https://en.wikipedia.org/wiki/Anti-king) - a would-be king who, due to succession disputes or simple political opposition, declares himself king in opposition to a reigning monarch. The term is usually used in a European historical context where it relates to elective monarchies rather than hereditary ones. In hereditary monarchies such figures are more frequently referred to as pretenders or claimants. 
 - [Anti-PowerPoint Party](https://en.wikipedia.org/wiki/Anti-PowerPoint_Party) is a Swiss political party dedicated to decreasing professional use of Microsoft PowerPoint, which the party claims "causes national-economic damage amounting to 2.1 billion CHF" and lowers the quality of a presentation in "95% of the cases"
 - [Horseshoe theory](https://en.wikipedia.org/wiki/Horseshoe_theory) - asserts that the far-left and the far-right, rather than being at opposite and opposing ends of a linear political continuum, closely resemble one another, analogous to the way that the opposite ends of a horseshoe are close together
 
 ### Religion
 - [Dudeism](https://en.wikipedia.org/wiki/Dudeism) - a religion, philosophy, or lifestyle inspired by "The Dude", the protagonist of the Coen Brothers' 1998 film The Big Lebowski.
 - [Gnosticism](https://en.wikipedia.org/wiki/Gnosticism) - a collection of religious ideas and systems that emphasised personal spiritual knowledge (gnosis) over the orthodox teachings, traditions, and authority of the church. Viewing material existence as flawed or evil, Gnostic cosmogony generally presents a distinction between a supreme, hidden God and a malevolent lesser divinity (sometimes associated with the Yahweh of the Old Testament) who is responsible for creating the material universe.
+- The [Tetragrammaton](https://en.wikipedia.org/wiki/Tetragrammaton) - the four-letter Hebrew word יהוה‎ (transliterated as YHWH), the name of the national god of Israel.
 
 ### Wars
 - [Anglo-Zanzibar War](https://en.wikipedia.org/wiki/Anglo-Zanzibar_War) - a military conflict fought between the United Kingdom and the Zanzibar Sultanate on 27 August 1896. The conflict lasted between 38 and 45 minutes, marking it as the shortest recorded war in history.
@@ -372,6 +382,7 @@
 ## Language
 
 ### Alphabets and Writing Systems
+- [Boustrophedon](https://en.wikipedia.org/wiki/Boustrophedon) - a style of writing in which alternate lines of writing are reversed, with reversed letters.
 - [Deseret Alphabet](https://en.wikipedia.org/wiki/Deseret_alphabet) - a phonemic English-language spelling reform developed between 1847 and 1854 by the board of regents of the University of Deseret under the leadership of Brigham Young, the second president of the Church of Jesus Christ of Latter-day Saints.
 - [Forfeda](https://en.wikipedia.org/wiki/Forfeda) - the "additional" letters of the Ogham alphabet, beyond the basic inventory of twenty signs.
 - [New York Point](https://en.wikipedia.org/wiki/New_York_Point) - a braille-like system of tactile writing for the blind invented by William Bell Wait (1839–1916), a teacher in the New York Institute for the Education of the Blind. The system used one to four pairs of points set side by side, each containing one or two dots. (Letters of one through four pairs, each with two dots, would be ⟨:⟩ ⟨::⟩ ⟨:::⟩ ⟨::::⟩.) The most common letters are written with the fewest points, a strategy also employed by the competing American Braille.
@@ -615,6 +626,7 @@
 - [Baseball metaphors for sex](https://en.wikipedia.org/wiki/Baseball_metaphors_for_sex) - In American slang, baseball metaphors for sex are often used as euphemisms for the degree of physical intimacy achieved in sexual encounters or relationships.
 - [BBC Redux](https://en.wikipedia.org/wiki/BBC_Redux) - a BBC Research & Development system that digitally records television and radio output in the United Kingdom produced by the British Broadcasting Corporation. It has been operating since 2007 and contains several petabytes of recordings and subtitle data.
 - [Bogus pipeline](https://en.wikipedia.org/wiki/Bogus_pipeline) - a fake polygraph used to get participants to truthfully respond to emotional/affective questions in survey. It is a technique used by social psychologists to reduce false answers when attempting to collect self-report data. As an example, social desirability is a common reason for warped survey results.
+- [Bus bunching](https://en.wikipedia.org/wiki/Bus_bunching) refers to a group of two or more transit vehicles (such as buses or trains), running along the same route, which were scheduled to be evenly spaced, but instead run in the same place at the same time. 
 - [Cold Reading](https://en.wikipedia.org/wiki/Cold_reading) - a set of techniques used by mentalists, psychics, fortune-tellers, mediums, illusionists (readers), and scam artists to imply that the reader knows much more about the person than the reader actually does.
 - [Curse of the Colonel](https://en.wikipedia.org/wiki/Curse_of_the_Colonel) - an urban legend regarding a reputed curse placed on the Japanese Kansai-based Hanshin Tigers baseball team by deceased KFC founder and mascot Colonel Harland Sanders.
 - [Disambiguation (disambiguation)](https://en.wikipedia.org/wiki/Disambiguation_(disambiguation))
@@ -623,6 +635,7 @@
 - [Friedman Unit](https://en.wikipedia.org/wiki/Friedman_Unit) - One Friedman Unit is equal to six months, specifically the "next six months", a period repeatedly declared by New York Times columnist Thomas Friedman to be the most critical of the then-ongoing Iraq War even though such pronouncements extended back over two and a half years.
 - [Giraffe (chess)](https://en.wikipedia.org/wiki/Giraffe_(chess)) - a fairy chess piece that moves like an elongated knight.
 - [Hobby tunneling](https://en.wikipedia.org/wiki/Hobby_tunneling) - tunnel construction as a diversion.
+- [Intracolonic explosion](https://en.wikipedia.org/wiki/Intracolonic_explosion) is an explosion inside the colon of a person due to ignition of explosive gases such as methane. This can happen during colonic exploration, as a result of the electrical nature of a colonoscope. 
 - [Jobsworth](https://en.wikipedia.org/wiki/Jobsworth) - a person who uses the (typically minor) authority of their job in a deliberately uncooperative way, or who seemingly delights in acting in an obstructive or unhelpful manner. It characterizes one who upholds petty rules even at the expense of effectiveness or efficiency.
 - ["I'm not a scientist"](https://en.wikipedia.org/wiki/I'm_not_a_scientist) is a phrase that has been often used by American politicians, primarily Republicans, when asked about a scientific subject, such as global warming, or the age of the earth.
 - [Leave the gate as you found it](https://en.wikipedia.org/wiki/Leave_the_gate_as_you_found_it) - a rule in countryside areas throughout the world. If a gate is found open, it should be left open, and if it is closed, it should be left closed. If a closed gate absolutely must be traversed, it should be closed again afterwards. Leaving a closed gate open can lead to animals escaping or unwanted mingling. Leaving an open gate closed can prevent livestock from accessing water or other resources.
@@ -666,6 +679,7 @@
 - [List of animals awarded human credentials](https://en.wikipedia.org/wiki/List_of_animals_awarded_human_credentials)
 - [List of artificial objects on the Moon](https://en.wikipedia.org/wiki/List_of_artificial_objects_on_the_Moon)
 - [List of chemical compounds with unusual names](https://en.wikipedia.org/wiki/List_of_chemical_compounds_with_unusual_names)
+- [List of city name changes](https://en.wikipedia.org/wiki/List_of_city_name_changes)
 - [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
 - [List of collective nouns of animals](https://en.wikipedia.org/wiki/List_of_English_terms_of_venery,_by_animal)
 - [List of common dips](https://en.wikipedia.org/wiki/Dipping_sauce#List_of_common_dips)
@@ -731,6 +745,7 @@
 - [IKEA Effect](https://en.m.wikipedia.org/wiki/IKEA_effect) - The IKEA effect is a cognitive bias in which consumers place a disproportionately high value on products they partially created.
 - [Law of triviality](https://en.wikipedia.org/wiki/Law_of_triviality) - members of an organization give disproportionate weight to trivial issues.
 - [Littlewood's law](https://en.wikipedia.org/wiki/Littlewood%27s_law) - a person can expect to experience events with odds of one in a million (defined by the law as a "miracle") at the rate of about one per month
+- [Mariko Aoki phenomenon](https://en.wikipedia.org/wiki/Mariko_Aoki_phenomenon) - a Japanese expression referring to an urge to [defecate](https://en.wikipedia.org/wiki/Defecation "Defecation") that is suddenly felt after entering bookstores. The phenomenon's name derives from the name of the woman who mentioned the phenomenon in a magazine article in 1985.
 - [Matilda effect](https://en.wikipedia.org/wiki/Matilda_effect) - a bias against acknowledging the achievements of those women scientists whose work is attributed to their male colleagues.
 - [Matthew effect](https://en.wikipedia.org/wiki/Matthew_effect) - "the rich get richer and the poor get poorer".
 - [Missing white woman syndrome](https://en.wikipedia.org/wiki/Missing_white_woman_syndrome) - Missing white woman syndrome is a term used by social scientists and media commentators to refer to extensive media coverage, especially in television, of missing person cases involving young, white, upper-middle-class women or girls.
@@ -742,7 +757,7 @@
 - [Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law) - the adage that "work expands so as to fill the time available for its completion".
 - [Path dependence](https://en.wikipedia.org/wiki/Path_dependence) - Path dependence is when the decisions presented to people are dependent on prior decisions or experiences made in the past.
 - [Poe's Law](https://en.wikipedia.org/wiki/Poe%27s_law) - Parody so extreme that you can't tell if it's sincere or sarcastic.
-- [Post hoc ergo propter hoc](https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc) - n informal fallacy that states: "Since event Y followed event X, event Y must have been caused by event X." It is often shortened simply to post hoc fallacy.
+- [Post hoc ergo propter hoc](https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc) - an informal fallacy that states: "Since event Y followed event X, event Y must have been caused by event X." It is often shortened simply to post hoc fallacy.
 - [Presentism](https://en.wikipedia.org/wiki/Presentism_(literary_and_historical_analysis)) - In literary and historical analysis, presentism is the anachronistic introduction of present-day ideas and perspectives into depictions or interpretations of the past.
 - [Scully Effect](https://en.wikipedia.org/wiki/Dana_Scully#%22The_Scully_Effect%22) - The character is believed to have initiated a phenomenon referred to as "The Scully Effect"; as the medical doctor and the FBI Special Agent inspired many young women to pursue careers in science, medicine and law enforcement, and as a result brought a perceptible increase in the number of women in those fields.
 - [Submechanophobia](https://en.wikipedia.org/wiki/Submechanophobia) - a fear of submerged man-made objects, either partially or entirely underwater.
@@ -798,6 +813,7 @@
 - [Larry](https://en.wikipedia.org/wiki/Larry_(cat)) - a cat who has served as Chief Mouser to the Cabinet Office at 10 Downing Street since 2011.
 - [Mike the Headless Chicken](https://en.wikipedia.org/wiki/Mike_the_Headless_Chicken) - a Wyandotte chicken that lived for 18 months after his head had been cut off.
 - [Nim Chimpsky](https://en.wikipedia.org/wiki/Nim_Chimpsky) - a chimp who was taught sign language, and his longest quote was "Give orange me give eat orange me eat orange give me eat orange give me you"
+- [Phantom cat](https://en.wikipedia.org/wiki/Phantom_cat) - large felids such as leopards, jaguars and cougars which allegedly appear in regions outside their indigenous range.
 - [Pierre Brassau](https://en.wikipedia.org/wiki/Pierre_Brassau) was a chimpanzee and the subject of a 1964 hoax perpetrated by Åke "Dacke" Axelsson, a journalist at the Swedish tabloid Göteborgs-Tidningen. Axelsson came up with the idea of exhibiting a series of paintings made by a non-human primate, under the pretense that they were the work of a previously unknown French artist named "Pierre Brassau", in order to test whether critics could tell the difference between true avant-garde modern art and the work of a chimpanzee.
 - [Potoooooooo](https://en.wikipedia.org/wiki/Potoooooooo) - an 18th-century Thoroughbred racehorse who won over 30 races and defeated some of the greatest racehorses of the time. He went on to be a sire. He is now best known for the unusual spelling of his name, pronounced Potatoes.
 - [Puppy cat](https://en.wikipedia.org/wiki/Puppy_cat) - a term used to refer to specific breeds of domestic cats that have unusual behavioral tendencies that are reminiscent of young domestic dogs.
@@ -812,6 +828,7 @@
 - [Graveyard orbit](https://en.wikipedia.org/wiki/Graveyard_orbit) - an orbit that lies away from common operational orbits. Some satellites are moved into such orbits at the end of their operational life to reduce the probability of colliding with operational spacecraft and generating space debris.
 
 ### Biology
+- [Conservation-induced extinction](https://en.wikipedia.org/wiki/Conservation-induced_extinction) - happens when trying to preserve a different species. This mostly threatens the parasite and pathogen species that are highly host-specific to critically endangered hosts. When the last individuals of a host species are captured for the purpose of captive breeding and reintroduction programs, they typically undergo anti-parasitic treatments to increase survival and reproductive success. This practice may unintentionally result in the extinction of the species antagonistic to the target species, such as certain parasites.
 - [Mirror life](https://en.wikipedia.org/wiki/Mirror_life) - a hypothetical form of life with mirror-reflected molecular building blocks
 - [Primordial soup](https://en.wikipedia.org/wiki/Primordial_soup) - the hypothetical set of conditions present on the Earth around 4.0 to 3.7 billion years ago.
 - [Viviparity](https://en.wikipedia.org/wiki/Viviparity) - development of the embryo inside the body of the parent. This is opposed to oviparity which is a reproductive mode in which females lay developing eggs that complete their development and hatch externally from the mother.
@@ -824,6 +841,7 @@
 - [Aoshima](https://en.wikipedia.org/wiki/Aoshima,_Ehime) - an island in Ehime Prefecture, Japan, known for its large number of feline residents. Felines have been reported by news outlets to outnumber humans by ratios between 6:1 and 10:1, but as elderly inhabitants of the island have died, the ratio has greatly increased to almost 36:1.
 - [Aral Sea](https://en.wikipedia.org/wiki/Aral_Sea) - once the fourth largest lake in the world, has been shrinking since the 60s, when rivers that fed it were diverted for Soviet irrigation projects.
 - [The Blue Banana](https://en.wikipedia.org/wiki/Blue_Banana) is a discontinuous corridor of urbanization spreading over Western and Central Europe, with a population of around 111 million
+- [Continental drip](https://en.wikipedia.org/wiki/Continental_drip)  is the observation that southward-pointing landforms are more numerous and prominent than northward-pointing landforms. When published, it has been geological satire. 
 - [Doubly-landlocked countries](https://en.wikipedia.org/wiki/Landlocked_country#Doubly_landlocked) - A country is "doubly landlocked" or "double-landlocked" when it is surrounded only by landlocked countries (requiring the crossing of at least two national borders to reach a coastline).
 - [Fugging, Lower Austria](https://en.wikipedia.org/wiki/Fugging,_Lower_Austria)
 - [Fugging, Upper Austria](https://en.wikipedia.org/wiki/Fugging,_Upper_Austria)
@@ -835,6 +853,7 @@
 - [Satellite map images with missing or unclear data](https://en.wikipedia.org/wiki/Satellite_map_images_with_missing_or_unclear_data)
 - [Thankful Villages](https://en.wikipedia.org/wiki/Thankful_Villages) - settlements in England and Wales from which all their members of the armed forces survived World War I.
 - [Trap street](https://en.wikipedia.org/wiki/Trap_street) -  a fictitious entry in the form of a misrepresented street on a map, often outside the area the map nominally covers, for the purpose of "trapping" potential copyright violators of the map who, if caught, would be unable to explain the inclusion of the "trap street" on their map as innocent.
+- [Urk](https://en.wikipedia.org/wiki/Urk) - a small Dutch town that was formerly an island, has its own dialect which differs significantly from standard Dutch and incorporates several Yiddish loanwords.
 - [Use of Nordic countries vs. Scandinavia](https://en.wikipedia.org/wiki/Scandinavia#Use_of_Nordic_countries_vs._Scandinavia)
 - [Zone of Death](https://en.wikipedia.org/wiki/Zone_of_Death_(Yellowstone)) - the name given to the 50 sq mi (129.50 km2) Idaho section of Yellowstone National Park in which, as a result of a purported loophole in the Constitution of the United States, a criminal could theoretically get away with any crime, up to and including murder.
 
@@ -871,10 +890,12 @@
 ## Things
 - [Adventure playground](https://en.wikipedia.org/wiki/Adventure_playground) - a specific type of playground for children. Adventure playgrounds can take many forms, ranging from "natural playgrounds" to "junk playgrounds", and are typically defined by an ethos of unrestricted play, the presence of playworkers (or "wardens"), and the absence of adult-manufactured or rigid play-structures.
 - [Ampelmaennchen](https://en.wikipedia.org/wiki/Ampelm%C3%A4nnchen) - is the symbol shown on pedestrian signals in Germany.
+- [Anti-satellite weapons](https://en.wikipedia.org/wiki/Anti-satellite_weapon) are space weapons designed to incapacitate or destroy satellites for strategic or tactical purposes.
 - [Antimony pill](https://en.wikipedia.org/wiki/Antimony_pill) - a pill made from metallic antimony. It was a popular remedy in the nineteenth century, and it was used to purge and revitalise the bowels. In use, it is swallowed and allowed to pass through the body, after which it is customarily recovered for reuse, giving rise to the name everlasting pill.
 - [Apollo insurance covers](https://en.wikipedia.org/wiki/Apollo_insurance_covers) - autographed postal covers signed by the astronaut crews prior to their mission. The ability of astronauts to obtain much life insurance was limited, so they signed hundreds of postal covers before they left, on the presumption that they would become highly valuable in the event of their death.
 - [Archimedes' Screw](https://en.wikipedia.org/wiki/Archimedes'_screw) -  is a machine used for transferring water from a low-lying body of water into irrigation ditches.
 - [Auxetics](https://en.wikipedia.org/wiki/Auxetics) - structures or materials that have a negative Poisson's ratio. When stretched, they become thicker perpendicular to the applied force.
+- [Bankruptcy barrel](https://en.wikipedia.org/wiki/Bankruptcy_barrel) - a visual symbol, primarily of the 20th century, used in cartoons and other media as a token of destitution. Not intended to be realistic, it consists of a suit made of only a wooden barrel held on by suspenders, indicating that the subject is so poor that he is unable to afford even clothes
 - [Battenburg markings](https://en.wikipedia.org/wiki/Battenburg_markings) - a pattern of high-visibility markings developed in the United Kingdom (UK) in the 1990s and now used on the sides of emergency service vehicles in the UK, Crown dependencies, British Overseas Territories and several other European countries such as Czech Republic, Iceland, Sweden, Germany, Spain, Ireland and Belgium as well as in New Zealand, Australia, Hong Kong, and Trinidad and Tobago.
 - [Bread dildo](https://en.wikipedia.org/wiki/Bread_dildo) - a dildo prepared using bread, allegedly made in the Greco-Roman era around 2,000 years ago.
 - [Camouflage passport](https://en.wikipedia.org/wiki/Camouflage_passport) - a document, designed to look like a real passport, issued in the name of a non-existent country or entity.
@@ -897,7 +918,9 @@
 - [Factory-kitchen](https://en.wikipedia.org/wiki/Factory-kitchen) - a large mechanized enterprise of food service in the Soviet Union, originated in the 1920–1930s. Its main purpose was centralized preparation of food (both prefabrication and full processing) supplied for communal dining rooms or for personal purchase.
 - [Fata Morgana](https://en.wikipedia.org/wiki/Fata_Morgana_(mirage)) - a complex form of superior mirage that is seen in a narrow band right above the horizon.
 - [Flushometer](https://en.wikipedia.org/wiki/Flushometer) - a metal water-diverter that uses an inline handle to flush tankless toilets or urinals.
+- [Folly](https://en.wikipedia.org/wiki/Folly) - a building constructed primarily for decoration, but suggesting through its appearance some other purpose, or of such extravagant appearance that it transcends the range of usual garden buildings. 
 - [Garden hermit](https://en.wikipedia.org/wiki/Garden_hermit) - hermits encouraged to live in purpose-built hermitages, follies, grottoes, or rockeries on the estates of wealthy land-owners, primarily during the 18th century. Such hermits would be encouraged to dress like druids and remain permanently on-site, where they could be fed, cared-for and consulted for advice or viewed for entertainment.
+- [Gay bomb](https://en.wikipedia.org/wiki/Gay_bomb) - a non-lethal psychochemical weapon that a United States Air Force research laboratory speculated about producing. The theories involve discharging sex pheromones over enemy forces in order to make them sexually attracted to each other. 
 - [Gender of connectors and fasteners](https://en.wikipedia.org/wiki/Gender_of_connectors_and_fasteners) - In electrical and mechanical trades and manufacturing, each half of a pair of mating connectors or fasteners is conventionally assigned the designation male or female.
 - [Goat tower](https://en.wikipedia.org/wiki/Goat_tower) - a multi-story decorative goat house, modeled on a European garden folly, an early example of which was built in Portugal in the 19th century.
 - [Holdout](https://en.wikipedia.org/wiki/Holdout_(real_estate)) - a piece of property that did not become part of a larger real estate development because the owner either refused to sell or wanted more than the developer would pay.
@@ -932,6 +955,7 @@
 ### Food
 - [99 Flake](https://en.wikipedia.org/wiki/99_Flake) - A 99 Flake can refer to any of three possible items: an ice cream cone with a Cadbury Flake inserted in it; the Cadbury-produced Flake bar itself specially made for insertion into an ice cream cone; or a wrapped ice cream cone product marketed by Cadbury.
 - [Butter mountain](https://en.wikipedia.org/wiki/Butter_mountain) - a supply surplus of butter produced in the European Economic Community because of government interventionism that began in the 1970s
+- [Coronation chicken](https://en.wikipedia.org/wiki/Coronation_chicken) is a combination of cold cooked chicken meat, herbs and spices, and a creamy mayonnaise-based sauce. It was invented as part of a banquet for Queen Elizabeth II's coronation, hence the name.
 - [Democracy sausage](https://en.wikipedia.org/wiki/Democracy_sausage) - the colloquial name for a sausage wrapped in a slice of bread, bought from a sausage sizzle operated as a fundraiser at Australian polling places on election day, often in aid of the institutions that house the polling place.
 - [Government cheese](https://en.wikipedia.org/wiki/Government_cheese) - processed cheese provided to welfare beneficiaries, Food Stamp recipients, and the elderly receiving Social Security in the United States, as well as to food banks.
 - [Hershey's Kiss plume](https://en.wikipedia.org/wiki/Hershey's_Kisses#Paper_plume)
