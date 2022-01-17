@@ -28,6 +28,7 @@
 ### Music
 - [As Slow as Possible](https://en.wikipedia.org/wiki/As_Slow_as_Possible) - a musical piece that is currently being played on an organ at St. Burchardi church in Halberstadt, Germany. The performance began in 2001 and will end in 2640
 - [Backmasking](https://en.wikipedia.org/wiki/Backmasking) - a recording technique in which a sound or message is recorded backward onto a track that is meant to be played forward.
+- [Boris Johnson is a Fucking Cunt](https://en.wikipedia.org/wiki/Boris_Johnson_Is_a_Fucking_Cunt) - a British satirical punk rock single by The Kunts, a band created by the dark comedy singer Kunt and the Gang. The song is directed at British Prime Minister Boris Johnson and consists of the words "Boris Johnson is a fucking cunt" being repeated.
 - [Crab canon](https://en.wikipedia.org/wiki/Crab_canon) - an arrangement of two musical lines that are complementary and backward, similar to a palindrome.
 - [Earworm](https://en.wikipedia.org/wiki/Earworm) - a catchy piece of music that continually repeats through a person's mind after it is no longer playing.
 - [Mirror canon](https://en.wikipedia.org/wiki/Mirror_canon) - a type of canon which involves the leading voice being played alongside its own inversion (i.e. upside-down).
@@ -93,7 +94,7 @@
 - [Coppersmith method](https://en.wikipedia.org/wiki/Coppersmith_method) - a method to find small integer zeroes of univariate or bivariate polynomials modulo a given integer.
 - [Cryptanalysis of the Enigma](https://en.wikipedia.org/wiki/Cryptanalysis_of_the_Enigma)
 - [Cryptographic attacks](https://en.wikipedia.org/wiki/Category:Cryptographic_attacks) - a method for circumventing the security of a cryptographic system by finding a weakness in a code, cipher, cryptographic protocol or key management scheme. This process is also called "cryptanalysis".
-- [Cryptovirology](https://en.wikipedia.org/wiki/Cryptovirology) is a field that studies how to use cryptography to design powerful malicious software. 
+- [Cryptovirology](https://en.wikipedia.org/wiki/Cryptovirology) is a field that studies how to use cryptography to design powerful malicious software.
 - [Differential Cryptanalysis](https://en.wikipedia.org/wiki/Differential_cryptanalysis) - Differential cryptanalysis is a general form of cryptanalysis applicable primarily to block ciphers, but also to stream ciphers and cryptographic hash functions.
 - [Diffie-Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange) - a method of securely exchanging cryptographic keys over a public channel.
 - [ElGamal encryption](https://en.wikipedia.org/wiki/ElGamal_encryption) - an asymmetric key encryption algorithm for public-key cryptography which is based on the Diffie–Hellman key exchange.
@@ -146,7 +147,7 @@
 - [Control character](https://en.wikipedia.org/wiki/Control_character) - a code point (a number) in a character set, that does not represent a written symbol. They are used as in-band signaling to cause effects other than the addition of a symbol to the text.
 - [Core rope memory](https://en.wikipedia.org/wiki/Core_rope_memory) - a form of read-only memory (ROM) for computers, first used in the 1960s by early NASA Mars space probes and then in the Apollo Guidance Computer (AGC) and programmed by the Massachusetts Institute of Technology (MIT) Instrumentation Lab and built by Raytheon.
 - [Data erasure](https://en.wikipedia.org/wiki/Data_erasure) - a software-based method of overwriting the data that aims to completely destroy all electronic data residing on a hard disk drive or other digital media by using zeros and ones to overwrite data onto all sectors of the device.
-- [Identification friend or foe](https://en.wikipedia.org/wiki/Identification_friend_or_foe) is an identification system designed for command and control. It uses a transponder that listens for an interrogation signal and then sends a response that identifies the broadcaster.  It enables military and civilian air traffic control interrogation systems to identify aircraft, vehicles or forces as friendly and to determine their bearing and range from the interrogator. 
+- [Identification friend or foe](https://en.wikipedia.org/wiki/Identification_friend_or_foe) is an identification system designed for command and control. It uses a transponder that listens for an interrogation signal and then sends a response that identifies the broadcaster.  It enables military and civilian air traffic control interrogation systems to identify aircraft, vehicles or forces as friendly and to determine their bearing and range from the interrogator.
 - [Lisp machine](https://en.wikipedia.org/wiki/Lisp_machine) - general-purpose computers designed to efficiently run Lisp as their main software and programming language, usually via hardware support
 - [Null](https://en.wikipedia.org/wiki/Null_(radio)) - a direction in an antenna's radiation pattern where the antenna radiates almost no radio waves, so the far field signal strength is a local minimum.
 
@@ -165,6 +166,7 @@
 
 ### Machines
 - [Busy beaver](https://en.wikipedia.org/wiki/Busy_beaver) - The busy beaver game consists of designing a halting, binary-alphabet Turing machine which writes the most 1s on the tape, using only a limited set of states. The rules for the 2-state game are as follows: 1. the machine must have two states in addition to the halting state, and 2. the tape starts with 0s only. As the player, you should conceive each state aiming for the maximum output of 1s on the tape while making sure the machine will halt eventually.
+- [Phreaking boxes](https://en.wikipedia.org/wiki/Phreaking_box) - a device used by phone phreaks to perform various functions normally reserved for operators and other telephone company employees.
 - [Turmite](https://en.wikipedia.org/wiki/Turmite) - a Turing machine which has an orientation as well as a current state and a "tape" that consists of an infinite two-dimensional grid of cells. The terms ant and vant are also used.
 
 ### Miscellaneous
@@ -283,6 +285,7 @@
 - [Obsolete Occupations](https://en.wikipedia.org/wiki/Category:Obsolete_occupations)
 - [Pink Capitalism](https://en.wikipedia.org/wiki/Pink_capitalism) - the incorporation of the LGBT movement and sexual diversity to capitalism and the market economy, viewed especially in a critical lens as this incorporation pertains to the LGBT, Western, white, and affluent, upper middle class communities and market.
 - [Project MKUltra](https://en.wikipedia.org/wiki/Project_MKUltra) is the code name given to a program of experiments on human subjects that were designed and undertaken by the U.S. Central Intelligence Agency (CIA), which were illegal. Experiments on humans were intended to develop procedures and identify drugs such as LSD to be used in interrogations in order to weaken the individual and force confessions through brainwashing and psychological torture.
+- [Room 641A](https://en.wikipedia.org/wiki/Room_641A) - a telecommunication interception facility operated by AT&T for the U.S. National Security Agency, as part of its warrantless surveillance program as authorized by the Patriot Act. The facility commenced operations in 2003 and its purpose was publicly revealed in 2006.
 - [Sword of Damocles](https://en.wikipedia.org/wiki/Damocles) - King who hung a sword from a string above his head to represent the constant threat involved in ruling
 - [Toilet-related injuries and deaths](https://en.wikipedia.org/wiki/Toilet-related_injuries_and_deaths)
 - [Waffle House Index](https://en.wikipedia.org/wiki/Waffle_House_Index) - an informal metric named after the Waffle House restaurant chain and is used by the Federal Emergency Management Agency (FEMA) to determine the effect of a storm and the likely scale of assistance required for disaster recovery.
@@ -303,11 +306,13 @@
 
 ### Laws, Fines and Cases
 - [Ambulance chasing](https://en.wikipedia.org/wiki/Ambulance_chasing) - a term which refers to a lawyer soliciting for clients at a disaster site. The term "ambulance chasing" comes from the stereotype of lawyers who follow ambulances to the emergency room to find clients.
+- [Bernstein v. United States](https://en.wikipedia.org/wiki/Bernstein_v._United_States) - Bernstein v. United States is a set of court cases brought by Daniel J. Bernstein challenging restrictions on the export of cryptography from the United States
 - [Buttock mail](https://en.wikipedia.org/wiki/Buttock_mail) - the colloquial term for a Scottish Poor Law tax which was introduced in 1595. Enforced by the ecclesiastical courts, buttock mail was levied as a fine for sexual intercourse out of wedlock.
 - [Chewbacca defense](https://en.wikipedia.org/wiki/Chewbacca_defense) - a legal strategy in which a criminal defense lawyer tries to confuse the jury rather than refute the case of the prosecutor.
 - [Crumbling skull rule](https://en.wikipedia.org/wiki/Crumbling_skull_rule) - a well-established legal doctrine used in some tort law systems. It holds that where a plaintiff had a condition or injury that predates the tort and would have naturally deteriorated or worsened over time (e.g. a crumbling skull), the defendant is not responsible to the degree that the condition or injury would have naturally worsened over time.
 - [Disparate impact](https://en.wikipedia.org/wiki/Disparate_impact) - practices in employment, housing, and other areas that adversely affect one group of people of a protected characteristic more than another, even though rules applied by employers or landlords are formally neutral.
 - [Eggshell skull](https://en.wikipedia.org/wiki/Eggshell_skull) - a well-established legal doctrine in common law, used in some tort law systems, with a similar doctrine applicable to criminal law. The rule states that, in a tort case, the unexpected frailty of the injured person is not a valid defense to the seriousness of any injury caused to them.
+- [Federal telephone excise tax](https://en.wikipedia.org/wiki/Federal_telephone_excise_tax) - a statutory federal excise tax imposed under the Internal Revenue Code in the United States under 26 U.S.C. § 4251 on amounts paid for certain "communications services". The tax was to be imposed on the person paying for the communications services (such as a customer of a telephone company) but, under 26 U.S.C. § 4291, is collected from the customer by the "person receiving any payment for facilities or services" on which the tax is imposed (i.e., is collected by the telephone company, which files a quarterly Form 720 excise return and forwards the tax to the Internal Revenue Service).
 - [Jelly bean rule](https://en.wikipedia.org/wiki/Jelly_bean_rule) - a rule that says that just because foods are low in fat, cholesterol, and sodium, they cannot claim to be "healthy" unless they contain at least 10 percent of the Daily Value of: vitamin A, vitamin C, calcium, protein, fiber, or iron. The FDA also made a policy that companies could not fortify foods with the sole intent of making that claim.
 - [Memory law](https://en.wikipedia.org/wiki/Memory_laws) - a legal provision governing the interpretation of a historical event and showcases the legislator's or judicial preference for a certain narrative about the past. In the process, competing interpretations may be downplayed, sidelined, or even prohibited.
 - [Onion Futures Act](https://en.wikipedia.org/wiki/Onion_Futures_Act) is a United States law banning the trading of futures contracts on onions as well as "motion picture box office receipts".
@@ -341,14 +346,15 @@
 - [Umarell](https://en.wikipedia.org/wiki/Umarell) - a term popular in Bologna referring specifically to men of retirement age who pass the time watching construction sites, especially roadworks – stereotypically with hands clasped behind their back and offering unwanted advice
 
 ### Politics
-- [Anti-king](https://en.wikipedia.org/wiki/Anti-king) - a would-be king who, due to succession disputes or simple political opposition, declares himself king in opposition to a reigning monarch. The term is usually used in a European historical context where it relates to elective monarchies rather than hereditary ones. In hereditary monarchies such figures are more frequently referred to as pretenders or claimants. 
+- [Anti-king](https://en.wikipedia.org/wiki/Anti-king) - a would-be king who, due to succession disputes or simple political opposition, declares himself king in opposition to a reigning monarch. The term is usually used in a European historical context where it relates to elective monarchies rather than hereditary ones. In hereditary monarchies such figures are more frequently referred to as pretenders or claimants.
 - [Anti-PowerPoint Party](https://en.wikipedia.org/wiki/Anti-PowerPoint_Party) is a Swiss political party dedicated to decreasing professional use of Microsoft PowerPoint, which the party claims "causes national-economic damage amounting to 2.1 billion CHF" and lowers the quality of a presentation in "95% of the cases"
 - [Horseshoe theory](https://en.wikipedia.org/wiki/Horseshoe_theory) - asserts that the far-left and the far-right, rather than being at opposite and opposing ends of a linear political continuum, closely resemble one another, analogous to the way that the opposite ends of a horseshoe are close together
 
 ### Religion
 - [Dudeism](https://en.wikipedia.org/wiki/Dudeism) - a religion, philosophy, or lifestyle inspired by "The Dude", the protagonist of the Coen Brothers' 1998 film The Big Lebowski.
 - [Gnosticism](https://en.wikipedia.org/wiki/Gnosticism) - a collection of religious ideas and systems that emphasised personal spiritual knowledge (gnosis) over the orthodox teachings, traditions, and authority of the church. Viewing material existence as flawed or evil, Gnostic cosmogony generally presents a distinction between a supreme, hidden God and a malevolent lesser divinity (sometimes associated with the Yahweh of the Old Testament) who is responsible for creating the material universe.
-- The [Tetragrammaton](https://en.wikipedia.org/wiki/Tetragrammaton) - the four-letter Hebrew word יהוה‎ (transliterated as YHWH), the name of the national god of Israel.
+- [Islam and cats](https://en.wikipedia.org/wiki/Islam_and_cats) - The domestic cat is a revered animal in Islam
+- [Tetragrammaton](https://en.wikipedia.org/wiki/Tetragrammaton) - the four-letter Hebrew word יהוה‎ (transliterated as YHWH), the name of the national god of Israel.
 
 ### Wars
 - [Anglo-Zanzibar War](https://en.wikipedia.org/wiki/Anglo-Zanzibar_War) - a military conflict fought between the United Kingdom and the Zanzibar Sultanate on 27 August 1896. The conflict lasted between 38 and 45 minutes, marking it as the shortest recorded war in history.
@@ -438,6 +444,7 @@
 
 ### Letters, Characters and Glyphs
 - [Asemic writing](https://en.wikipedia.org/wiki/Asemic_writing) - a wordless open semantic form of writing.
+- [Cedilla](https://en.wikipedia.org/wiki/Cedilla) a hook or tail ( ¸ ) added under certain letters as a diacritical mark to modify their pronunciation
 - [Multiocular O](https://en.wikipedia.org/wiki/Multiocular_O) - ꙮ
 - [Up tack](https://en.wikipedia.org/wiki/Up_tack) - ⊥
 
@@ -588,6 +595,7 @@
 - [Recreational mathematics (Category)](https://en.wikipedia.org/wiki/Category:Recreational_mathematics) - Recreational mathematics is mathematics carried out for recreation (entertainment) rather than as a strictly research and application-based professional activity.
 - [Topological game](https://en.wikipedia.org/wiki/Topological_game) - an infinite game of perfect information played between two players on a topological space. Players choose objects with topological properties such as points, open sets, closed sets and open coverings. The conditions for a player to win can involve notions like topological closure and convergence.
 - [Verbal arithmetic](https://en.wikipedia.org/wiki/Verbal_arithmetic) is a type of mathematical game consisting of a mathematical equation among unknown numbers, whose digits are represented by letters of the alphabet. The goal is to identify the value of each letter. The name can be extended to puzzles that use non-alphabetic symbols instead of letters.
+- [Zenzizenzizenzic](https://en.wikipedia.org/wiki/Zenzizenzizenzic) - an obsolete form of mathematical notation representing the eighth power of a number (that is, the zenzizenzizenzic of x is x8), dating from a time when powers were written out in words rather than as superscript numbers.
 - [Zero-sum game](https://en.wikipedia.org/wiki/Zero-sum_game) - a mathematical representation of a situation in which each participant's gain or loss of utility is exactly balanced by the losses or gains of the utility of the other participants.
 
 ### Numbers
@@ -627,7 +635,7 @@
 - [Baseball metaphors for sex](https://en.wikipedia.org/wiki/Baseball_metaphors_for_sex) - In American slang, baseball metaphors for sex are often used as euphemisms for the degree of physical intimacy achieved in sexual encounters or relationships.
 - [BBC Redux](https://en.wikipedia.org/wiki/BBC_Redux) - a BBC Research & Development system that digitally records television and radio output in the United Kingdom produced by the British Broadcasting Corporation. It has been operating since 2007 and contains several petabytes of recordings and subtitle data.
 - [Bogus pipeline](https://en.wikipedia.org/wiki/Bogus_pipeline) - a fake polygraph used to get participants to truthfully respond to emotional/affective questions in survey. It is a technique used by social psychologists to reduce false answers when attempting to collect self-report data. As an example, social desirability is a common reason for warped survey results.
-- [Bus bunching](https://en.wikipedia.org/wiki/Bus_bunching) refers to a group of two or more transit vehicles (such as buses or trains), running along the same route, which were scheduled to be evenly spaced, but instead run in the same place at the same time. 
+- [Bus bunching](https://en.wikipedia.org/wiki/Bus_bunching) refers to a group of two or more transit vehicles (such as buses or trains), running along the same route, which were scheduled to be evenly spaced, but instead run in the same place at the same time.
 - [Cold Reading](https://en.wikipedia.org/wiki/Cold_reading) - a set of techniques used by mentalists, psychics, fortune-tellers, mediums, illusionists (readers), and scam artists to imply that the reader knows much more about the person than the reader actually does.
 - [Curse of the Colonel](https://en.wikipedia.org/wiki/Curse_of_the_Colonel) - an urban legend regarding a reputed curse placed on the Japanese Kansai-based Hanshin Tigers baseball team by deceased KFC founder and mascot Colonel Harland Sanders.
 - [Disambiguation (disambiguation)](https://en.wikipedia.org/wiki/Disambiguation_(disambiguation))
@@ -635,8 +643,10 @@
 - [Foreign accent syndrome](https://en.wikipedia.org/wiki/Foreign_accent_syndrome) - a medical condition in which patients develop speech patterns that are perceived as a foreign accent that is different from their native accent, without having acquired it in the perceived accent's place of origin.
 - [Friedman Unit](https://en.wikipedia.org/wiki/Friedman_Unit) - One Friedman Unit is equal to six months, specifically the "next six months", a period repeatedly declared by New York Times columnist Thomas Friedman to be the most critical of the then-ongoing Iraq War even though such pronouncements extended back over two and a half years.
 - [Giraffe (chess)](https://en.wikipedia.org/wiki/Giraffe_(chess)) - a fairy chess piece that moves like an elongated knight.
+- [Goatse Security](https://en.wikipedia.org/wiki/Goatse_Security) - a loose-knit, nine-person grey hat hacker group that specialized in uncovering security flaws.
 - [Hobby tunneling](https://en.wikipedia.org/wiki/Hobby_tunneling) - tunnel construction as a diversion.
-- [Intracolonic explosion](https://en.wikipedia.org/wiki/Intracolonic_explosion) is an explosion inside the colon of a person due to ignition of explosive gases such as methane. This can happen during colonic exploration, as a result of the electrical nature of a colonoscope. 
+- [Intracolonic explosion](https://en.wikipedia.org/wiki/Intracolonic_explosion) is an explosion inside the colon of a person due to ignition of explosive gases such as methane. This can happen during colonic exploration, as a result of the electrical nature of a colonoscope.
+- [Italian Sounding](https://en.wikipedia.org/wiki/Italian_Sounding) - the marketing phenomenon consisting of words and images, colour combinations (the Italian tricolour) and geographical references for brands that are evocative of Italy to promote and market products – especially but not exclusively agri-food – that are not actually Made in Italy
 - [Jobsworth](https://en.wikipedia.org/wiki/Jobsworth) - a person who uses the (typically minor) authority of their job in a deliberately uncooperative way, or who seemingly delights in acting in an obstructive or unhelpful manner. It characterizes one who upholds petty rules even at the expense of effectiveness or efficiency.
 - ["I'm not a scientist"](https://en.wikipedia.org/wiki/I'm_not_a_scientist) is a phrase that has been often used by American politicians, primarily Republicans, when asked about a scientific subject, such as global warming, or the age of the earth.
 - [Leave the gate as you found it](https://en.wikipedia.org/wiki/Leave_the_gate_as_you_found_it) - a rule in countryside areas throughout the world. If a gate is found open, it should be left open, and if it is closed, it should be left closed. If a closed gate absolutely must be traversed, it should be closed again afterwards. Leaving a closed gate open can lead to animals escaping or unwanted mingling. Leaving an open gate closed can prevent livestock from accessing water or other resources.
@@ -653,6 +663,7 @@
 - [Pester power](https://en.wikipedia.org/wiki/Pester_power) - the "tendency of children, who are bombarded with marketers' messages, to unrelentingly request advertised items".
 - [Politician's syllogism](https://en.wikipedia.org/wiki/Politician%27s_syllogism) - The politician's syllogism, also known as the politician's logic or the politician's fallacy, is a logical fallacy of the form: We must do something. This is something. Therefore, we must do this.
 - [Postdiction](https://en.wikipedia.org/wiki/Postdiction) -  In skepticism, it is considered an effect of hindsight bias that explains claimed predictions of significant events such as plane crashes and natural disasters.
+- [Prawo Jazdy](https://en.wikipedia.org/wiki/Prawo_Jazdy_(alleged_criminal)) - a supposed Polish national who was listed by the Garda Síochána in a police criminal database as having committed more than 50 traffic violations in Ireland. A 2007 memorandum stated that an investigation revealed prawo jazdy to be Polish for 'driving licence', with the error arising due to officers mistaking the phrase, printed on Polish driving licences, to be a personal name while issuing traffic tickets.
 - [Reducto ad Hitlerum](https://en.wikipedia.org/wiki/Reductio_ad_Hitlerum) - also known as playing the Nazi card, is an attempt to invalidate someone else's position on the basis that the same view was held by Adolf Hitler or the Nazi Party.
 - [Russian political jokes](https://en.wikipedia.org/wiki/Russian_political_jokes) -  a part of Russian humour and can be grouped into the major time periods: Imperial Russia, Soviet Union and finally post-Soviet Russia.
 - [Salami slicing tactics](https://en.wikipedia.org/wiki/Salami_slicing_tactics) - a divide and conquer process of threats and alliances used to overcome opposition. With it, an aggressor can influence and eventually dominate a landscape, typically political, piece by piece. In this fashion, the opposition is eliminated "slice by slice" until it realizes, usually too late, that it is virtually gone in its entirety.
@@ -670,6 +681,7 @@
 - [Whamageddon](https://en.wikipedia.org/wiki/Whamageddon) - a game played during the 24 days before Christmas Eve in which players try to go from December 1 to the start of Christmas Eve as per European celebrations on the 24th December (midnight on the 24th December or 24:00 on the 24th of December) without hearing "Last Christmas" by Wham!
 
 ### Galleries, Glossaries and Lists
+- [Category: Abandoned drugs](https://en.wikipedia.org/wiki/Category:Abandoned_drugs)
 - [Gallery of sovereign state flags](https://en.wikipedia.org/wiki/Gallery_of_sovereign_state_flags)
 - [Glossary of manias](https://en.wikipedia.org/wiki/Glossary_of_manias)
 - [Glossary of numismatics](https://en.wikipedia.org/wiki/Glossary_of_numismatics)
@@ -693,6 +705,7 @@
 - [List of eponymous laws](https://en.wikipedia.org/wiki/List_of_eponymous_laws)
 - [List of gestures](https://en.wikipedia.org/wiki/List_of_gestures)
 - [List of guitars](https://en.wikipedia.org/wiki/List_of_guitars)
+- [list of hazing deaths in the United States](https://en.wikipedia.org/wiki/List_of_hazing_deaths_in_the_United_States)
 - [List of Internet top-level domains](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 - [List of inventors killed by their own inventions](https://en.wikipedia.org/wiki/List_of_inventors_killed_by_their_own_inventions)
 - [List of Latin phrases](https://en.wikipedia.org/wiki/List_of_Latin_phrases_(full))
@@ -713,6 +726,7 @@
 - [List of scholarly publishing stings](https://en.wikipedia.org/wiki/List_of_scholarly_publishing_stings)
 - [List of selfie-related injuries and deaths](https://en.wikipedia.org/wiki/List_of_selfie-related_injuries_and_deaths)
 - [List of sexually active popes](https://en.wikipedia.org/wiki/List_of_sexually_active_popes)
+- [List of shoe-throwing incidents](https://en.wikipedia.org/wiki/List_of_shoe-throwing_incidents)
 - [List of soups](https://en.wikipedia.org/wiki/List_of_soups)
 - [List of tallest structures in the world by country](https://en.wikipedia.org/wiki/List_of_tallest_structures_by_country)
 - [List of tautological place names](https://en.wikipedia.org/wiki/List_of_redundant_place_names)
@@ -843,7 +857,7 @@
 - [Aoshima](https://en.wikipedia.org/wiki/Aoshima,_Ehime) - an island in Ehime Prefecture, Japan, known for its large number of feline residents. Felines have been reported by news outlets to outnumber humans by ratios between 6:1 and 10:1, but as elderly inhabitants of the island have died, the ratio has greatly increased to almost 36:1.
 - [Aral Sea](https://en.wikipedia.org/wiki/Aral_Sea) - once the fourth largest lake in the world, has been shrinking since the 60s, when rivers that fed it were diverted for Soviet irrigation projects.
 - [The Blue Banana](https://en.wikipedia.org/wiki/Blue_Banana) is a discontinuous corridor of urbanization spreading over Western and Central Europe, with a population of around 111 million
-- [Continental drip](https://en.wikipedia.org/wiki/Continental_drip)  is the observation that southward-pointing landforms are more numerous and prominent than northward-pointing landforms. When published, it has been geological satire. 
+- [Continental drip](https://en.wikipedia.org/wiki/Continental_drip)  is the observation that southward-pointing landforms are more numerous and prominent than northward-pointing landforms. When published, it has been geological satire.
 - [Doubly-landlocked countries](https://en.wikipedia.org/wiki/Landlocked_country#Doubly_landlocked) - A country is "doubly landlocked" or "double-landlocked" when it is surrounded only by landlocked countries (requiring the crossing of at least two national borders to reach a coastline).
 - [Fugging, Lower Austria](https://en.wikipedia.org/wiki/Fugging,_Lower_Austria)
 - [Fugging, Upper Austria](https://en.wikipedia.org/wiki/Fugging,_Upper_Austria)
@@ -880,6 +894,7 @@
 
 ### Psychology
 - [Confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias) - the tendency to search for, interpret, favor, and recall information in a way that confirms one's preexisting beliefs or hypotheses.
+- [Cotard delusion](https://en.wikipedia.org/wiki/Cotard_delusion) - a rare mental disorder in which the affected person holds the delusional belief that they are dead, do not exist, are putrefying, or have lost their blood or internal organs.
 - [Rosenhan Experiment](https://en.wikipedia.org/wiki/Rosenhan_experiment) - An experiment conducted to determine the validity of psychiatric diagnosis. The experimenters feigned hallucinations to enter psychiatric hospitals, and acted normally afterwards.
 - [Selection Bias](https://en.wikipedia.org/wiki/Selection_bias) - the bias introduced by the selection of individuals, groups or data for analysis in such a way that proper randomization is not achieved, thereby ensuring that the sample obtained is not representative of the population intended to be analyzed.
 - [Semantic satiation](https://en.wikipedia.org/wiki/Semantic_satiation) - a psychological phenomenon in which repetition causes a word or phrase to temporarily lose meaning for the listener, who then perceives the speech as repeated meaningless sounds.
@@ -889,6 +904,9 @@
 
 ### Technology
 - [Gray goo](https://en.wikipedia.org/wiki/Gray_goo) is a hypothetical global catastrophic scenario involving molecular nanotechnology in which out-of-control self-replicating machines consume all biomass on Earth while building more of themselves, a scenario that has been called ecophagy ("eating the environment", more literally "eating the habitation").
+
+## Sports
+- [Pedestrianism](https://en.wikipedia.org/wiki/Pedestrianism) - a 19th-century form of competitive walking, often professional and funded by wagering, from which the modern sport of racewalking developed.
 
 ## Things
 - [Adventure playground](https://en.wikipedia.org/wiki/Adventure_playground) - a specific type of playground for children. Adventure playgrounds can take many forms, ranging from "natural playgrounds" to "junk playgrounds", and are typically defined by an ethos of unrestricted play, the presence of playworkers (or "wardens"), and the absence of adult-manufactured or rigid play-structures.
@@ -921,9 +939,9 @@
 - [Factory-kitchen](https://en.wikipedia.org/wiki/Factory-kitchen) - a large mechanized enterprise of food service in the Soviet Union, originated in the 1920–1930s. Its main purpose was centralized preparation of food (both prefabrication and full processing) supplied for communal dining rooms or for personal purchase.
 - [Fata Morgana](https://en.wikipedia.org/wiki/Fata_Morgana_(mirage)) - a complex form of superior mirage that is seen in a narrow band right above the horizon.
 - [Flushometer](https://en.wikipedia.org/wiki/Flushometer) - a metal water-diverter that uses an inline handle to flush tankless toilets or urinals.
-- [Folly](https://en.wikipedia.org/wiki/Folly) - a building constructed primarily for decoration, but suggesting through its appearance some other purpose, or of such extravagant appearance that it transcends the range of usual garden buildings. 
+- [Folly](https://en.wikipedia.org/wiki/Folly) - a building constructed primarily for decoration, but suggesting through its appearance some other purpose, or of such extravagant appearance that it transcends the range of usual garden buildings.
 - [Garden hermit](https://en.wikipedia.org/wiki/Garden_hermit) - hermits encouraged to live in purpose-built hermitages, follies, grottoes, or rockeries on the estates of wealthy land-owners, primarily during the 18th century. Such hermits would be encouraged to dress like druids and remain permanently on-site, where they could be fed, cared-for and consulted for advice or viewed for entertainment.
-- [Gay bomb](https://en.wikipedia.org/wiki/Gay_bomb) - a non-lethal psychochemical weapon that a United States Air Force research laboratory speculated about producing. The theories involve discharging sex pheromones over enemy forces in order to make them sexually attracted to each other. 
+- [Gay bomb](https://en.wikipedia.org/wiki/Gay_bomb) - a non-lethal psychochemical weapon that a United States Air Force research laboratory speculated about producing. The theories involve discharging sex pheromones over enemy forces in order to make them sexually attracted to each other.
 - [Gender of connectors and fasteners](https://en.wikipedia.org/wiki/Gender_of_connectors_and_fasteners) - In electrical and mechanical trades and manufacturing, each half of a pair of mating connectors or fasteners is conventionally assigned the designation male or female.
 - [Goat tower](https://en.wikipedia.org/wiki/Goat_tower) - a multi-story decorative goat house, modeled on a European garden folly, an early example of which was built in Portugal in the 19th century.
 - [Holdout](https://en.wikipedia.org/wiki/Holdout_(real_estate)) - a piece of property that did not become part of a larger real estate development because the owner either refused to sell or wanted more than the developer would pay.
@@ -943,6 +961,7 @@
 - [Scrip](https://en.wikipedia.org/wiki/Scrip) - any substitute for legal tender. It is often a form of credit. Scrips have been created for exploitative payment of employees under truck systems, and for use in local commerce at times when regular currency was unavailable, for example in remote coal towns, military bases, ships on long voyages, or occupied countries in wartime.
 - [Sleeve garter](https://en.wikipedia.org/wiki/Sleeve_garter) - a garter worn on the sleeve of a shirt. It came into wide use, especially in the USA, in the latter half of the 19th century when men's ready-made shirts came in a single (extra long) sleeve length. Sleeve garters allow men to customize sleeve lengths and keep their cuffs from becoming soiled while working or at the correct length when worn under a jacket.
 - [Smoot](https://en.wikipedia.org/wiki/Smoot) - a nonstandard, humorous unit of length created as part of an MIT fraternity prank. It is named after Oliver R. Smoot, a fraternity pledge to Lambda Chi Alpha, who in October 1958 lay down repeatedly on the Harvard Bridge (between Boston and Cambridge, Massachusetts) so that his fraternity brothers could use his height to measure the length of the bridge.
+- [Sneckdown](https://en.wikipedia.org/wiki/Sneckdown) - a curb extension caused by snowfall. A natural form of traffic calming, sneckdowns show where a street can potentially be narrowed to slow motor vehicle speeds and shorten pedestrian crossing distances.
 - [Space-cadet keyboard](https://en.wikipedia.org/wiki/Space-cadet_keyboard) - a keyboard designed by John L. Kulp in 1978 and used on Lisp machines at Massachusetts Institute of Technology (MIT), which inspired several still-current jargon terms in the field of computer science and influenced the design of Emacs.
 - [Spite house](https://en.wikipedia.org/wiki/Spite_house) - a building constructed or substantially modified to irritate neighbors or any party with land stakes. Because long-term occupation is not the primary purpose of these houses, they frequently sport strange and impractical structures.
 - [Sponson](https://en.wikipedia.org/wiki/Sponson) - projections extending from the sides of land vehicles, aircraft or watercraft to provide protection, stability, storage locations, mounting points for weapons or other devices, or equipment housing.
