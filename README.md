@@ -985,5 +985,6 @@
 - [Popcorn](https://en.wikipedia.org/wiki/Popcorn) - a variety of corn kernel which expands and puffs up when heated
 - [Soldiers (food)](https://en.wikipedia.org/wiki/Soldiers_(food)) - a thin strip of toast; the strips that a slice is cut into are reminiscent of soldiers on parade.
 - [Solo garlic](https://en.wikipedia.org/wiki/Solo_garlic) - Solo garlic is a type of garlic where the bulb is 1 giant clove.
+- [Squash](https://en.wikipedia.org/wiki/Squash_(drink)) - a non-alcoholic beverage concentrated syrup used in beverage making.
 - [Toast sandwich](https://en.wikipedia.org/wiki/Toast_sandwich) - a sandwich made with two slices of bread in which the filling is a thin slice of toasted bread, which may be heavily buttered.
 - [World's longest hot dog](https://en.wikipedia.org/wiki/World's_longest_hot_dog)
