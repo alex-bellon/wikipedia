@@ -128,6 +128,7 @@
 - [Punycode](https://en.wikipedia.org/wiki/Punycode) - a representation of Unicode with the limited ASCII character subset used for Internet host names.
 
 ### Files
+- [GEDCOM](https://en.wikipedia.org/wiki/GEDCOM) - an open de facto specification for exchanging genealogical data between different genealogy software. GEDCOM was developed by The Church of Jesus Christ of Latter-day Saints (LDS Church) as an aid to genealogical research.
 - [Run commands](https://en.wikipedia.org/wiki/Run_commands) - In the context of Unix-like systems, the term rc stands for the phrase "run commands". It is used for any file that contains startup information for a command.
 - [Request for Comments (RFC)](https://en.wikipedia.org/wiki/Request_for_Comments) - in information and communications technology, is a type of text document from the technology community. An RFC document may come from many bodies including from the Internet Engineering Task Force (IETF), the Internet Research Task Force (IRTF), the Internet Architecture Board (IAB), or from independent authors.
 - [Windows Metafile](https://en.wikipedia.org/wiki/Windows_Metafile) - an image file format originally designed for Microsoft Windows in the 1990s. The original Windows Metafile format was not device-independent (though could be made more so with placement headers) and may contain both vector graphics and bitmap components. It acts in a similar manner to SVG files.
@@ -173,8 +174,10 @@
 - [Bit bucket](https://en.wikipedia.org/wiki/Bit_bucket) - the bit bucket is where lost computerized data has gone, by any means; any data which does not end up where it is supposed to, being lost in transmission, a computer crash, or the like, is said to have gone to the bit bucket – that mysterious place on a computer where lost data goes.
 - [Hyper Text Coffee Pot Control Protocol](https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol) - a facetious communication protocol for controlling, monitoring, and diagnosing coffee pots. It is specified in RFC 2324, published on 1 April 1998 as an April Fools' Day RFC, as part of an April Fools prank.
 - [lp0 on fire](https://en.wikipedia.org/wiki/Lp0_on_fire) - an outdated error message generated on some Unix and Unix-like computer operating systems in response to certain types of printer errors.
+- [People's Computer Company](https://en.wikipedia.org/wiki/People's_Computer_Company) - an organization, a newsletter (the People's Computer Company Newsletter) and, later, a quasiperiodical called the Dragonsmoke.
 - [Roofnet](https://en.wikipedia.org/wiki/Roofnet) - an experimental mesh network developed by the Computer Science and Artificial Intelligence Laboratory at MIT
 - [Tivoization](https://en.wikipedia.org/wiki/Tivoization) - the creation of a system that incorporates software under the terms of a copyleft software license like the GNU General Public License (GNU GPL), but uses hardware restrictions or digital rights management (DRM) to prevent users from running modified versions of the software on that hardware.
+- [Whole Earth Catalog](https://en.wikipedia.org/wiki/Whole_Earth_Catalog) - an American counterculture magazine and product catalog published by Stewart Brand several times a year between 1968 and 1972, and occasionally thereafter, until 1998. The magazine featured essays and articles, but was primarily focused on product reviews. The editorial focus was on self-sufficiency, ecology, alternative education, "do it yourself" (DIY), and holism, and featured the slogan "access to tools".
 - [Write only memory](https://en.wikipedia.org/wiki/Write-only_memory_(joke)) - he opposite of read-only memory (ROM). By some definitions, a WOM is a memory device which can be written but never read. Initially there seemed to be no practical use for a memory circuit from which data could not be retrieved. However, it was soon recognized that write-only actually describes certain functionalities in microprocessor systems. The concept is still often used as a joke or a euphemism for a failed memory device.
 
 ### Networking
@@ -375,6 +378,7 @@
 - [Googlewhack](https://en.wikipedia.org/wiki/Googlewhack) - a contest to find a Google Search query that returns a single result.
 - [Google's ideological echo chamber](https://en.wikipedia.org/wiki/Google's_Ideological_Echo_Chamber) - commonly referred to as the Google memo, is an internal memo, dated July 2017, by United States-based Google engineer James Damore about Google's culture and diversity policies.
 - [Infodemic](https://en.wikipedia.org/wiki/Infodemic) - a rapid and far-reaching spread of both accurate and inaccurate information about something, such as a disease.
+- [Internet Research Agency](https://en.wikipedia.org/wiki/Internet_Research_Agency) - also known as Glavset and known in Russian Internet slang as the Trolls from Olgino, is a Russian company engaged in online influence operations on behalf of Russian business and political interests.
 - [ISO 3166](https://en.wikipedia.org/wiki/ISO_3166) - a standard published by the International Organization for Standardization (ISO) that defines codes for the names of countries, dependent territories, special areas of geographical interest, and their principal subdivisions (e.g., provinces or states).
 - [Joe job](https://en.wikipedia.org/wiki/Joe_job) - a spamming technique that sends out unsolicited e-mails using spoofed sender data. Early joe jobs aimed at tarnishing the reputation of the apparent sender or inducing the recipients to take action against them (see also Email spoofing), but they are now typically used by commercial spammers to conceal the true origin of their messages and to trick recipients into opening emails apparently coming from a trusted source.
 - [Me at the zoo](https://en.wikipedia.org/wiki/Me_at_the_zoo) - first video that was uploaded to YouTube.
@@ -425,6 +429,7 @@
 ### Languages
 - [Abjad](https://en.wikipedia.org/wiki/Abjad) - a type of writing system where each symbol or glyph stands for a consonant, in effect leaving it to readers to infer or otherwise supply an appropriate vowel.
 - [Avoidance speech](https://en.wikipedia.org/wiki/Avoidance_speech) - a group of sociolinguistic phenomena in which a special restricted speech style must be used in the presence of or in reference to certain relatives.
+- [Cant](https://en.wikipedia.org/wiki/Cant_(language)) - the jargon or language of a group, often employed to exclude or mislead people outside the group.
 - [Constructed Languages](https://en.wikipedia.org/wiki/Constructed_language) - A constructed language (sometimes called a conlang) is a language whose phonology, grammar, and vocabulary are, instead of having developed naturally, consciously devised for communication between intelligent beings, most commonly for use by humanoids.
 - [Creole language](https://en.wikipedia.org/wiki/Creole_language) - a stable natural language that develops from the simplifying and mixing of different languages into a new one within a fairly brief period of time: often, a pidgin evolved into a full-fledged language.
 - [Dené–Yeniseian languages](https://en.wikipedia.org/wiki/Den%C3%A9%E2%80%93Yeniseian_languages) - a proposed language family consisting of the Yeniseian languages of central Siberia and the Na-Dené languages of northwestern North America.
@@ -438,6 +443,7 @@
 - [Pandanus language](https://en.wikipedia.org/wiki/Pandanus_language) - an elaborate avoidance language among several of the peoples of the eastern New Guinea Highlands, used when collecting Pandanus nuts.
 - [Patois](https://en.wikipedia.org/wiki/Patois) - speech or language that is considered nonstandard, although the term is not formally defined in linguistics. As such, patois can refer to pidgins, creoles, dialects or vernaculars, but not commonly to jargon or slang, which are vocabulary-based forms of cant.
 - [Pidgin language](https://en.wikipedia.org/wiki/Pidgin) - a grammatically simplified means of communication that develops between two or more groups that do not have a language in common: typically, its vocabulary and grammar are limited and often drawn from several languages.
+- [Polari](https://en.wikipedia.org/wiki/Polari) - a form of slang or cant used in Britain by some actors, circus and fairground showmen, professional wrestlers, merchant navy sailors, criminals, sex workers, and the gay subculture.
 - [SignWriting](https://en.wikipedia.org/wiki/SignWriting) - a system of writing sign languages. It is highly featural and visually iconic, both in the shapes of the characters, which are abstract pictures of the hands, face, and body, and in their spatial arrangement on the page, which does not follow a sequential order like the letters that make up written English words.
 - [Stylometry](https://en.wikipedia.org/wiki/Stylometry) - the application of the study of linguistic style, usually to written language, but it has successfully been applied to music and to fine-art paintings as well.
 - [Theives' cant](https://en.wikipedia.org/wiki/Thieves'_cant) - a secret language (a cant or cryptolect) which was formerly used by thieves, beggars and hustlers of various kinds in Great Britain and to a lesser extent in other English-speaking countries.
@@ -675,6 +681,7 @@
 - [Therblig](https://en.wikipedia.org/wiki/Therblig) - are 18 kinds of elemental motions used in the study of motion economy in the workplace. A workplace task is analyzed by recording each of the therblig units for a process, with the results used for optimization of manual labour by eliminating unneeded movements.
 - [The Game](https://en.wikipedia.org/wiki/The_Game_(mind_game)) - a mental game where the objective is to avoid thinking about The Game itself. Thinking about The Game constitutes a loss, which must be announced each time it occurs.
 - [The People Walker](https://en.wikipedia.org/wiki/The_People_Walker) is a service where people can hire someone to walk with them and provide motivation through conversation and companionship.
+- [Third place](https://en.wikipedia.org/wiki/Third_place) - the social surroundings separate from the two usual social environments of home ("first place") and the workplace ("second place"). Examples of third places include churches, cafes, clubs, public libraries, bookstores or parks.
 - [Vehicle registration plates of Europe](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Europe)
 - [Verdana-gate](https://en.wikipedia.org/wiki/Verdana#Usage) - The "scandal" that ensued when IKEA changed their main typeface from Futura to Verdana.
 - [Water jousting](https://en.wikipedia.org/wiki/Water_jousting) - a form of jousting where the adversaries, carrying a lance and protected only by a shield, stand on a platform on the stern of a boat.
@@ -689,6 +696,7 @@
 - [Glossary of rhetorical terms](https://en.wikipedia.org/wiki/Glossary_of_rhetorical_terms)
 - [Glossary of shapes with metaphorical names](https://en.wikipedia.org/wiki/Glossary_of_shapes_with_metaphorical_names)
 - [Glossary of vexillology](https://en.wikipedia.org/wiki/Glossary_of_vexillology)
+- [Lamest edit wars](https://en.wikipedia.org/wiki/Wikipedia:Lamest_edit_wars)
 - [List of animals awarded human credentials](https://en.wikipedia.org/wiki/List_of_animals_awarded_human_credentials)
 - [List of artificial objects on the Moon](https://en.wikipedia.org/wiki/List_of_artificial_objects_on_the_Moon)
 - [List of chemical compounds with unusual names](https://en.wikipedia.org/wiki/List_of_chemical_compounds_with_unusual_names)
@@ -760,7 +768,7 @@
 - [IKEA Effect](https://en.m.wikipedia.org/wiki/IKEA_effect) - The IKEA effect is a cognitive bias in which consumers place a disproportionately high value on products they partially created.
 - [Law of triviality](https://en.wikipedia.org/wiki/Law_of_triviality) - members of an organization give disproportionate weight to trivial issues.
 - [Littlewood's law](https://en.wikipedia.org/wiki/Littlewood%27s_law) - a person can expect to experience events with odds of one in a million (defined by the law as a "miracle") at the rate of about one per month
-- [Mariko Aoki phenomenon](https://en.wikipedia.org/wiki/Mariko_Aoki_phenomenon) - a Japanese expression referring to an urge to [defecate](https://en.wikipedia.org/wiki/Defecation "Defecation") that is suddenly felt after entering bookstores. The phenomenon's name derives from the name of the woman who mentioned the phenomenon in a magazine article in 1985.
+- [Mariko Aoki phenomenon](https://en.wikipedia.org/wiki/Mariko_Aoki_phenomenon) - a Japanese expression referring to an urge to defecate that is suddenly felt after entering bookstores. The phenomenon's name derives from the name of the woman who mentioned the phenomenon in a magazine article in 1985.
 - [Matilda effect](https://en.wikipedia.org/wiki/Matilda_effect) - a bias against acknowledging the achievements of those women scientists whose work is attributed to their male colleagues.
 - [Matthew effect](https://en.wikipedia.org/wiki/Matthew_effect) - "the rich get richer and the poor get poorer".
 - [Missing white woman syndrome](https://en.wikipedia.org/wiki/Missing_white_woman_syndrome) - Missing white woman syndrome is a term used by social scientists and media commentators to refer to extensive media coverage, especially in television, of missing person cases involving young, white, upper-middle-class women or girls.
@@ -880,6 +888,9 @@
 ### Fluid Dynamics
 - [Vortex Shedding](https://en.wikipedia.org/wiki/Vortex_shedding) - In fluid dynamics, vortex shedding is an oscillating flow that takes place when a fluid such as air or water flows past a bluff (as opposed to streamlined) body at certain velocities, depending on the size and shape of the body.
 
+### Medical
+- [Hyperthymesia](https://en.wikipedia.org/wiki/Hyperthymesia) - a condition that leads people to be able to remember an abnormally large number of their life experiences in vivid detail. It is extraordinarily rare, with only about 60 people in the world having been diagnosed with the condition as of 2021.
+
 ### Physics
 - [Cat state](https://en.wikipedia.org/wiki/Cat_state), named after Schrödinger's cat, is a quantum state that is composed of two diametrically opposed conditions at the same time, such as the possibilities that a cat be alive and dead at the same time.
 - [Eddy current](https://en.wikipedia.org/wiki/Eddy_current) -  Loops of electrical current induced within conductors by a changing magnetic field in the conductor according to Faraday's law of induction.
@@ -971,6 +982,7 @@
 - [Trencher](https://en.wikipedia.org/wiki/Trencher_(tableware)) - a type of tableware, commonly used in medieval cuisine. A trencher was originally a flat round of (usually stale) bread used as a plate, upon which the food could be placed to eat.
 - [United Nationa laissez-passer](https://en.wikipedia.org/wiki/United_Nations_laissez-passer) - The UNLP is a valid travel document, which can be used like a national passport (in connection with travel on official missions only).
 - [Universal nut sheller](https://en.wikipedia.org/wiki/Universal_nut_sheller) - a simple hand-operated machine capable of shelling up to 57 kilograms (126 lb) of raw, sun-dried peanuts per hour. It requires less than $10 USD in materials to make, and is made of concrete poured into two simple fibreglass molds, some metal parts, one wrench, and any piece of rock or wood that can serve as a hammer.
+- [Unsinkable aircraft carrier](https://en.wikipedia.org/wiki/Unsinkable_aircraft_carrier) - a term sometimes used to refer to a geographical or political island that is used to extend the power projection of a military force.
 - [Vehicle registration plates of the Northwest Territories](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_the_Northwest_Territories) - In 1970, to celebrate the centennial of the territory, a unique polar bear-shaped plate was introduced. The basic bear shape has been retained ever since, and the plate is now a registered trademark of the Government of the Northwest Territories.
 - [Veterstrikdiploma](https://en.wikipedia.org/wiki/Veterstrikdiploma) - a diploma which children between 5 and 6 years can get in the Netherlands and Belgium after they manage to tie their shoelaces by themselves. Veterstrikdiploma is sometimes used as a derogatory term for a diploma or degree which is deemed worthless
 
