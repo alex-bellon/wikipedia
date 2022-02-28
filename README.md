@@ -144,6 +144,7 @@
 ### Hardware/Signals
 - [Bell character](https://en.wikipedia.org/wiki/Bell_character) - a device control code originally sent to ring a small electromechanical bell on tickers and other teleprinters and teletypewriters to alert operators at the other end of the line, often of an incoming message.
 - [Bucky bit](https://en.wikipedia.org/wiki/Bucky_bit) - a bit in the binary representation of a character that it set by pressing a modifier key
+- [Chip art](https://en.wikipedia.org/wiki/Chip_art) - refers to microscopic artwork built into integrated circuits, also called chips or ICs. Since ICs are printed by photolithography, not constructed a component at a time, there is no additional cost to include features in otherwise unused space on the chip
 - [Clipper chip](https://en.wikipedia.org/wiki/Clipper_chip) - a chipset that was developed and promoted by the NSA with a built-in backdoor that was intended to "allow Federal, State, and local law enforcement officials the ability to decode intercepted voice and data transmissions." Introduced in 1993, it was entirely defunct by 1996.
 - [Control character](https://en.wikipedia.org/wiki/Control_character) - a code point (a number) in a character set, that does not represent a written symbol. They are used as in-band signaling to cause effects other than the addition of a symbol to the text.
 - [Core rope memory](https://en.wikipedia.org/wiki/Core_rope_memory) - a form of read-only memory (ROM) for computers, first used in the 1960s by early NASA Mars space probes and then in the Apollo Guidance Computer (AGC) and programmed by the Massachusetts Institute of Technology (MIT) Instrumentation Lab and built by Raytheon.
@@ -357,7 +358,10 @@
 - [Dudeism](https://en.wikipedia.org/wiki/Dudeism) - a religion, philosophy, or lifestyle inspired by "The Dude", the protagonist of the Coen Brothers' 1998 film The Big Lebowski.
 - [Gnosticism](https://en.wikipedia.org/wiki/Gnosticism) - a collection of religious ideas and systems that emphasised personal spiritual knowledge (gnosis) over the orthodox teachings, traditions, and authority of the church. Viewing material existence as flawed or evil, Gnostic cosmogony generally presents a distinction between a supreme, hidden God and a malevolent lesser divinity (sometimes associated with the Yahweh of the Old Testament) who is responsible for creating the material universe.
 - [Islam and cats](https://en.wikipedia.org/wiki/Islam_and_cats) - The domestic cat is a revered animal in Islam
+- [Michaelmas](https://en.wikipedia.org/wiki/Michaelmas) - a Christian festival observed in some Western liturgical calendars on 29 September. In some denominations a reference to a fourth angel, usually Uriel, is also added. Michaelmas has been one of the four quarter days of the financial, judicial, and academic year.
 - [Tetragrammaton](https://en.wikipedia.org/wiki/Tetragrammaton) - the four-letter Hebrew word יהוה‎ (transliterated as YHWH), the name of the national god of Israel.
+- [Titivillus](https://en.wikipedia.org/wiki/Titivillus) - a demon said to work on behalf of Belphegor, Lucifer or Satan to introduce errors into the work of scribes
+
 
 ### Wars
 - [Anglo-Zanzibar War](https://en.wikipedia.org/wiki/Anglo-Zanzibar_War) - a military conflict fought between the United Kingdom and the Zanzibar Sultanate on 27 August 1896. The conflict lasted between 38 and 45 minutes, marking it as the shortest recorded war in history.
@@ -572,6 +576,7 @@
 
 ### Group Theory
 - [Monster group](https://en.wikipedia.org/wiki/Monster_group) - the largest sporadic simple group.
+- [Setoid](https://en.wikipedia.org/wiki/Setoid) - a set (or type) X equipped with an equivalence relation ~
 - [Sporadic group](https://en.wikipedia.org/wiki/Sporadic_group) - a sporadic group is one of the 26 exceptional groups found in the classification of finite simple groups.
 
 ### Logic
@@ -708,6 +713,7 @@
 - [List of companies involved in the Holocaust](https://en.wikipedia.org/wiki/List_of_companies_involved_in_the_Holocaust)
 - [List of deadliest animals to humans](https://en.wikipedia.org/wiki/List_of_deadliest_animals_to_humans)
 - [List of Disney attractions that were never built](https://en.wikipedia.org/wiki/List_of_Disney_attractions_that_were_never_built)
+- [List of egg topics](https://en.wikipedia.org/wiki/List_of_egg_topics)
 - [List of English words containing Q not followed by U](https://en.wikipedia.org/wiki/List_of_English_words_containing_Q_not_followed_by_U)
 - [List of English words without rhymes](https://en.wikipedia.org/wiki/List_of_English_words_without_rhymes)
 - [List of eponymous laws](https://en.wikipedia.org/wiki/List_of_eponymous_laws)
@@ -738,6 +744,7 @@
 - [List of soups](https://en.wikipedia.org/wiki/List_of_soups)
 - [List of tallest structures in the world by country](https://en.wikipedia.org/wiki/List_of_tallest_structures_by_country)
 - [List of tautological place names](https://en.wikipedia.org/wiki/List_of_redundant_place_names)
+- [List of topics characterized as pseudo-science](https://en.wikipedia.org/wiki/List_of_topics_characterized_as_pseudoscience)
 - [List of wheel-well stowaway flights](https://en.wikipedia.org/wiki/List_of_wheel-well_stowaway_flights)
 - [List of writing systems](https://en.wikipedia.org/wiki/List_of_writing_systems)
 - [Wikipedia: Unusual articles](https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles)
@@ -947,6 +954,7 @@
 - [Drunk Tank Pink](https://en.wikipedia.org/wiki/Baker-Miller_pink) is a tone of pink which has been observed to reduce hostile, violent or aggressive behavior.
 - [Dual-tone multi-frequency signaling](https://en.wikipedia.org/wiki/Dual-tone_multi-frequency_signaling) - a telecommunication signaling system using the voice-frequency band over telephone lines between telephone equipment and other communications devices and switching centers.
 - [Ersatz Good](https://en.wikipedia.org/wiki/Ersatz_good) - Substitute good, normally inferior.
+- [Etagere](https://en.wikipedia.org/wiki/%C3%89tag%C3%A8re) - a French set of hanging or standing open shelves for the display of collections of objects or ornaments
 - [Factory-kitchen](https://en.wikipedia.org/wiki/Factory-kitchen) - a large mechanized enterprise of food service in the Soviet Union, originated in the 1920–1930s. Its main purpose was centralized preparation of food (both prefabrication and full processing) supplied for communal dining rooms or for personal purchase.
 - [Fata Morgana](https://en.wikipedia.org/wiki/Fata_Morgana_(mirage)) - a complex form of superior mirage that is seen in a narrow band right above the horizon.
 - [Flushometer](https://en.wikipedia.org/wiki/Flushometer) - a metal water-diverter that uses an inline handle to flush tankless toilets or urinals.
@@ -985,6 +993,7 @@
 - [Unsinkable aircraft carrier](https://en.wikipedia.org/wiki/Unsinkable_aircraft_carrier) - a term sometimes used to refer to a geographical or political island that is used to extend the power projection of a military force.
 - [Vehicle registration plates of the Northwest Territories](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_the_Northwest_Territories) - In 1970, to celebrate the centennial of the territory, a unique polar bear-shaped plate was introduced. The basic bear shape has been retained ever since, and the plate is now a registered trademark of the Government of the Northwest Territories.
 - [Veterstrikdiploma](https://en.wikipedia.org/wiki/Veterstrikdiploma) - a diploma which children between 5 and 6 years can get in the Netherlands and Belgium after they manage to tie their shoelaces by themselves. Veterstrikdiploma is sometimes used as a derogatory term for a diploma or degree which is deemed worthless
+- [What-not](https://en.wikipedia.org/wiki/What-not) - a piece of furniture derived from the French étagère, which was exceedingly popular in England in the first three-quarters of the 19th century. It usually consists of slender uprights or pillars, supporting a series of shelves for holding china, ornaments, trifles, or "what nots", hence the allusive name.
 
 ### Food
 - [99 Flake](https://en.wikipedia.org/wiki/99_Flake) - A 99 Flake can refer to any of three possible items: an ice cream cone with a Cadbury Flake inserted in it; the Cadbury-produced Flake bar itself specially made for insertion into an ice cream cone; or a wrapped ice cream cone product marketed by Cadbury.
