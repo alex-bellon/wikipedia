@@ -14,6 +14,10 @@
 - [Stocker character](https://en.wikipedia.org/wiki/Stock_character) - stereotypical fictional person or type of person in a work of art such as a novel, play, or a film whom audiences recognize from frequent recurrences in a particular literary tradition.
 - [Sword and planet](https://en.wikipedia.org/wiki/Sword_and_planet) - a subgenre of science fantasy that features rousing adventure stories set on other planets, and usually featuring humans as protagonists. The name derives from the heroes of the genre engaging their adversaries in hand-to-hand combat primarily with simple melée weapons such as swords, even in a setting that often has advanced technology.
 
+### Books & Literature
+- [A True Story](https://en.wikipedia.org/wiki/A_True_Story) - a long novella or short novel written in the second century AD by the Greek author Lucian of Samosata. The novel is a satire of outlandish tales that had been reported in ancient sources, particularly those that presented fantastic or mythical events as if they were true. It is Lucian's best-known work. It is the earliest known work of fiction to include travel to outer space, alien lifeforms, and interplanetary warfare. It has been described as "the first known text that could be called science fiction".
+- [Literary nonsense](https://en.wikipedia.org/wiki/Literary_nonsense) - a broad categorization of literature that balances elements that make sense with some that do not, with the effect of subverting language conventions or logical reasoning.
+
 ### Comics
 - [Glossary of comics terminology](https://en.wikipedia.org/wiki/Glossary_of_comics_terminology)
 - [The Lexicon of Comicana](https://en.wikipedia.org/wiki/The_Lexicon_of_Comicana) - a 1980 book by the American cartoonist Mort Walker. It was intended as a tongue-in-cheek look at the devices used by cartoonists. In it, Walker invented an international set of symbols called symbolia after researching cartoons around the world.
@@ -33,6 +37,7 @@
 - [Earworm](https://en.wikipedia.org/wiki/Earworm) - a catchy piece of music that continually repeats through a person's mind after it is no longer playing.
 - [Mirror canon](https://en.wikipedia.org/wiki/Mirror_canon) - a type of canon which involves the leading voice being played alongside its own inversion (i.e. upside-down).
 - [Musical cryptogram](https://en.wikipedia.org/wiki/Musical_cryptogram) - a cryptogrammatic sequence of musical notes, a sequence which can be taken to refer to an extra-musical text by some 'logical' relationship, usually between note names and letters.
+- [Prisencolinensinainciusol](https://en.wikipedia.org/wiki/Prisencolinensinainciusol) is a song composed by the Italian singer Adriano Celentano, and performed by Celentano and his wife Claudia Mori, a singer/actress-turned-record producer. The song is intended to sound to its Italian audience as if it is sung in English spoken with an American accent, designed to be "Bob Dylan-esque"; however, the lyrics are deliberately unintelligible gibberish with the exception of the words "all right.
 - [Shave and a Haircut](https://en.m.wikipedia.org/wiki/Shave_and_a_Haircut) - "Shave and a Haircut" and the associated response "two bits" is a 7-note musical call-and-response couplet, riff or fanfare popularly used at the end of a musical performance, usually for comic effect. It is used both melodically and rhythmically, for example as a door knock.
 - [Shepard tone](https://en.wikipedia.org/wiki/Shepard_tone) - is a sound consisting of a superposition of sine waves separated by octaves. This creates the auditory illusion of a tone that continually ascends or descends in pitch, yet which ultimately seems to get no higher or lower.
 - [Suite for Piano (Schoenberg)](https://en.wikipedia.org/wiki/Suite_for_Piano_(Schoenberg))
@@ -44,6 +49,9 @@
 
 ### Typography
 - [River](https://en.wikipedia.org/wiki/River_(typography)) - are gaps in typesetting which appear to run through a paragraph of text due to a coincidental alignment of spaces
+
+### Video Games
+- [Fantasy video game console](https://en.wikipedia.org/wiki/Fantasy_video_game_console) - an emulator for a fictional video game console. In short, it aims to create the experience of retrogaming without the need to emulate a real console, allowing the developer to freely decide what specifications their fictional hardware will have.
 
 ### Visual Art
 - [Animal-made art](https://en.wikipedia.org/wiki/Animal-made_art) - art created by an animal. Animal-made works of art have been created by apes, elephants, cetacea, reptiles, and bowerbirds, among other species.
@@ -100,6 +108,7 @@
 - [ElGamal encryption](https://en.wikipedia.org/wiki/ElGamal_encryption) - an asymmetric key encryption algorithm for public-key cryptography which is based on the Diffie–Hellman key exchange.
 - [Entropy (information theory)](https://en.wikipedia.org/wiki/Entropy_(information_theory)) - is the average rate at which information is produced by a stochastic source of data.
 - [Feistel cipher](https://en.wikipedia.org/wiki/Feistel_cipher) - a symmetric structure used in the construction of block ciphers
+- [Garbled circuit](https://en.wikipedia.org/wiki/Garbled_circuit) - a cryptographic protocol that enables two-party secure computation in which two mistrusting parties can jointly evaluate a function over their private inputs without the presence of a trusted third party. In the garbled circuit protocol, the function has to be described as a Boolean circuit.
 - [Identicon](https://en.wikipedia.org/wiki/Identicon) - An Identicon is a visual representation of a hash value, usually of an IP address, that serves to identify a user of a computer system as a form of avatar while protecting the users' privacy.
 - [Indistinguishability obfuscation](https://en.wikipedia.org/wiki/Indistinguishability_obfuscation) - a cryptographic primitive that provides a formal notion of program obfuscation. Informally, obfuscation hides the implementation of a program while still allowing users to run it.
 - [Key Schedule](https://en.wikipedia.org/wiki/Key_schedule) - In cryptography, the so-called product ciphers are a certain kind of cipher, where the (de-)ciphering of data is typically done as an iteration of rounds.
@@ -337,6 +346,7 @@
 - [Hannah Ocuish](https://en.wikipedia.org/wiki/Hannah_Ocuish) - a 12-year old Pequot Native American girl with an intellectual disability who was hanged on December 20, 1786, in New London, Connecticut. She is believed to be the youngest person executed in the United States.
 - [Ivan Renko](https://en.wikipedia.org/wiki/Ivan_Renko) - Ivan Renko was a fictitious Yugoslav basketball player created by Bobby Knight when he was the head coach for the Indiana University Hoosiers.
 - [Joseph Darby](https://en.wikipedia.org/wiki/Joseph_Darby_%28jumper%29) - a renowned jumper from the Black Country village of Netherton. He specialised in spring jumping (jumping starting from a stationary position) often using weights in his hands to help propel him.
+- [Larrikin](https://en.wikipedia.org/wiki/Larrikin) - an Australian English term meaning "a mischievous young person, an uncultivated, rowdy but good hearted person", or "a person who acts with apparent disregard for social or political conventions".
 - [Mary Kenneth Keller](https://en.wikipedia.org/wiki/Mary_Kenneth_Keller) - an American Roman Catholic religious sister, educator and pioneer in computer science. She and Irving C. Tang were the first two people to earn a doctorate in computer science in the United States.
 - [Nicolas Bourbaki](https://en.wikipedia.org/wiki/Nicolas_Bourbaki) is the collective pseudonym of a group of mathematicians, predominantly French alumni of the École normale supérieure (ENS). The series is known collectively as the Éléments de mathématique (Elements of Mathematics), the group's central work. Topics treated in the series include set theory, abstract algebra, topology, analysis, Lie groups and Lie algebras.
 - [Onfim](https://en.wikipedia.org/wiki/Onfim) - a boy who lived in Novgorod (present-day Russia) in the 13th century, some time around 1220 or 1260. He left his notes and homework exercises scratched in soft birch bark which was preserved in the clay soil of Novgorod. Onfim, who was most likely six or seven at the time, wrote in the Old Novgorodian dialect of Old East Slavic. Besides letters and syllables, he drew "battle scenes and drawings of himself and his teacher".
@@ -412,6 +422,7 @@
 - [Adjective Order](https://en.wikipedia.org/wiki/Adjective#Order) - In many languages, attributive adjectives usually occur in a specific order. In general, the adjective order in English can be summarised as: opinion, size, age or shape, colour, origin, material, purpose. This sequence (with age preceding shape) is sometimes referred to by the mnemonic OSASCOMP.
 - [Anthimeria](https://en.wikipedia.org/wiki/Anthimeria) - using one part of speech as another, such as using a noun as a verb: "The little old lady turtled along the road." In linguistics, this is called conversion; when a noun becomes a verb, it is a denominal verb, when a verb becomes a noun, it is a deverbal noun.
 - [Antimetabole](https://en.wikipedia.org/wiki/Antimetabole) - the repetition of words in successive clauses, but in transposed order; for example, "I know what I like, and I like what I know".
+- [Comparative illusions](https://en.wikipedia.org/wiki/Comparative_illusion) - certain comparative sentences which initially seem to be acceptable but upon closer reflection have no well-formed meaning. The typical example sentence used to typify this phenomenon is "More people have been to Russia than I have".
 - [Denominal verb](https://en.wikipedia.org/wiki/Denominal_verb) - verbs derived from nouns.
 - [Deverbal noun](https://en.wikipedia.org/wiki/Deverbal_noun) - nouns that are derived from verbs or verb phrases, but that behave grammatically purely as nouns, not as verbs.
 - [Donkey sentence](https://en.wikipedia.org/wiki/Donkey_sentence) - sentences that contain a pronoun with clear meaning (it is bound semantically) but whose syntactical role in the sentence poses challenges to grammarians.
@@ -515,6 +526,7 @@
 - [LGBT slang](https://en.wikipedia.org/wiki/LGBT_slang)
 - [Lorem Ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum) - a placeholder text commonly used to demonstrate the visual form of a document without relying on meaningful content (also called greeking).
 - [Mass noun](https://en.wikipedia.org/wiki/Mass_noun) - a noun with the syntactic property that any quantity of it is treated as an undifferentiated unit, rather than as something with discrete elements.
+- [Metonymy](https://en.wikipedia.org/wiki/Metonymy) is a figure of speech in which a thing or concept is referred to by the name of something closely associated with that thing or concept.
 - [Minced oath](https://en.wikipedia.org/wiki/Minced_oath) - a euphemistic expression formed by deliberately misspelling, mispronouncing, or replacing a part of a profane, blasphemous, or taboo word or phrase to reduce the original term's objectionable characteristics.
 - [Mondegreen](https://en.wikipedia.org/wiki/Mondegreen) - Mishearing of a phrase that results in near-homophony, in a way that gives it a new meaning.
 - [Palindrome](https://en.wikipedia.org/wiki/Palindrome) - a word, number, phrase, or other sequence of characters which reads the same backward as forward, such as madam or racecar or the number 10801.
@@ -641,6 +653,7 @@
 - [Handlebody](https://en.wikipedia.org/wiki/Handlebody) - In the mathematical field of geometric topology, a handlebody is a decomposition of a manifold into standard pieces.
 
 ## Odds and Ends
+- [Akhfash's goat](https://en.wikipedia.org/wiki/Akhfash's_goat) is a Persian parable in which a philosopher trains his pet goat to nod its head when asked if it had understood a book that it was shown. The term "Akhfash's goat" refers to a person who nods along with a conversation that they do not understand.
 - [Anti-Barney humor](https://en.wikipedia.org/wiki/Anti-Barney_humor) - a form of humor that targets the main character Barney the Dinosaur from the children's television series Barney & Friends and singles out the show for criticisms
 - ["Assume a can opener"](https://en.wikipedia.org/wiki/Assume_a_can_opener) - a catchphrase used to mock economists and other theorists who base their conclusions on unjustified or oversimplified assumptions.
 - [Baseball metaphors for sex](https://en.wikipedia.org/wiki/Baseball_metaphors_for_sex) - In American slang, baseball metaphors for sex are often used as euphemisms for the degree of physical intimacy achieved in sexual encounters or relationships.
@@ -683,6 +696,7 @@
 - [Spherical cow](https://en.wikipedia.org/wiki/Spherical_cow) - a humorous metaphor for highly simplified scientific models of complex real life phenomena.
 - [Suicide in Lithuania](https://en.wikipedia.org/wiki/Suicide_in_Lithuania) - Suicide in Lithuania has become a significant social issue in the country due to its high rate. Despite constantly decreasing since its peak in 1995, the suicide rate in Lithuania remains the highest in the EU and the OECD. The suicide rate as of 2017 is 26.4 suicides per 100,000 people.
 - [Sweater curse](https://en.wikipedia.org/wiki/Sweater_curse) - a term used by knitters to describe the belief that if a knitter gives a hand-knit sweater to a significant other, it will lead to the recipient breaking up with the knitter.
+- [Tap, rack, bang](https://en.wikipedia.org/wiki/Tap,_rack,_bang) is jargon for the response to a failure to fire in a firearm with a removable magazine. This is designated as an "Immediate Action" and involves no investigation of the cause (due to being under fire in a combat or defensive situation), but is effective for common failures, such as defective or improperly seated ammunition magazines.
 - [Therblig](https://en.wikipedia.org/wiki/Therblig) - are 18 kinds of elemental motions used in the study of motion economy in the workplace. A workplace task is analyzed by recording each of the therblig units for a process, with the results used for optimization of manual labour by eliminating unneeded movements.
 - [The Game](https://en.wikipedia.org/wiki/The_Game_(mind_game)) - a mental game where the objective is to avoid thinking about The Game itself. Thinking about The Game constitutes a loss, which must be announced each time it occurs.
 - [The People Walker](https://en.wikipedia.org/wiki/The_People_Walker) is a service where people can hire someone to walk with them and provide motivation through conversation and companionship.
@@ -694,6 +708,7 @@
 
 ### Galleries, Glossaries and Lists
 - [Category: Abandoned drugs](https://en.wikipedia.org/wiki/Category:Abandoned_drugs)
+- [Controversial Reddit Communities](https://en.wikipedia.org/wiki/Controversial_Reddit_communities)
 - [Gallery of sovereign state flags](https://en.wikipedia.org/wiki/Gallery_of_sovereign_state_flags)
 - [Glossary of manias](https://en.wikipedia.org/wiki/Glossary_of_manias)
 - [Glossary of numismatics](https://en.wikipedia.org/wiki/Glossary_of_numismatics)
@@ -717,6 +732,7 @@
 - [List of English words containing Q not followed by U](https://en.wikipedia.org/wiki/List_of_English_words_containing_Q_not_followed_by_U)
 - [List of English words without rhymes](https://en.wikipedia.org/wiki/List_of_English_words_without_rhymes)
 - [List of eponymous laws](https://en.wikipedia.org/wiki/List_of_eponymous_laws)
+- [List of geographic portmanteaus](https://en.wikipedia.org/wiki/List_of_geographic_portmanteaus)
 - [List of gestures](https://en.wikipedia.org/wiki/List_of_gestures)
 - [List of guitars](https://en.wikipedia.org/wiki/List_of_guitars)
 - [list of hazing deaths in the United States](https://en.wikipedia.org/wiki/List_of_hazing_deaths_in_the_United_States)
@@ -805,6 +821,7 @@
 - [Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor) - Never attribute to malice that which is adequately explained by stupidity
 - [Homunculus Argument](https://en.wikipedia.org/wiki/Homunculus_argument) - The homunculus argument is a fallacy arising most commonly in the theory of vision. One may explain human vision by noting that light from the outside world forms an image on the retinas in the eyes and something (or someone) in the brain looks at these images as if they are images on a movie screen.
 - [Last Thursdayism](https://en.wikipedia.org/wiki/Omphalos_hypothesis#Last_Thursdayism) - "the world might as well have been created last Thursday".
+- [Obscurantism](https://en.wikipedia.org/wiki/Obscurantism) - the practice of deliberately presenting information in an imprecise, abstruse manner designed to limit further inquiry and understanding. There are two historical and intellectual denotations of obscurantism: (1) the deliberate restriction of knowledge—opposition to disseminating knowledge; and (2) deliberate obscurity—a recondite literary or artistic style, characterized by deliberate vagueness.
 - [Omphalos Hypothesis](https://en.wikipedia.org/wiki/Omphalos_hypothesis) - The omphalos hypothesis is one attempt to reconcile the scientific evidence that the universe is billions of years old with the Genesis creation narrative, which implies that the Earth is only a few thousand years old.
 - [Misotheism](https://en.wikipedia.org/wiki/Misotheism) - the "hatred of God" or "hatred of the gods"
 - [Russell's Teapot](https://en.wikipedia.org/wiki/Russell%27s_teapot) - an analogy to illustrate that the philosophic burden of proof lies upon a person making unfalsifiable claims, rather than shifting the burden of disproof to others. He wrote that if he were to assert, without offering proof, that a teapot, too small to be seen by telescopes, orbits the Sun somewhere in space between the Earth and Mars, he could not expect anyone to believe him solely because his assertion could not be proven wrong.
@@ -877,6 +894,7 @@
 - [Fugging, Lower Austria](https://en.wikipedia.org/wiki/Fugging,_Lower_Austria)
 - [Fugging, Upper Austria](https://en.wikipedia.org/wiki/Fugging,_Upper_Austria)
 - [Gropecunt Lane](https://en.wikipedia.org/wiki/Gropecunt_Lane) -  a street found in English towns and cities during the Middle Ages, believed to be a reference to the prostitution centred on those areas; it was normal practice for a medieval street name to reflect the street's function or the economic activity taking place within it.
+- [International Cocoa Quarantine Centre](https://en.wikipedia.org/wiki/International_Cocoa_Quarantine_Centre) - an organization aiming to reduce the amount of disease affecting cocoa plants. Cocoa plants are quarantined in a 1,000-square-metre (11,000 sq ft) greenhouse before being transported across the globe. Quarantining cocoa plants is considered important because over 70% of the global cocoa supply originates from West Africa, and therefore the cocoa market is susceptible to any catastrophic effects that should occur in that region.
 - [Macedonia naming dispute](https://en.wikipedia.org/wiki/Macedonia_naming_dispute) - The use of the country name "Macedonia" was disputed between Greece and Macedonia (now North Macedonia) between 1991 and 2019. The dispute was a source of instability in the Western Balkans for 25 years. It was resolved through negotiations between Athens and Skopje, mediated by the United Nations, resulting in the Prespa agreement, which was signed on June 17, 2018.
 - [Northeast megalopolis](https://en.wikipedia.org/wiki/Northeast_megalopolis) is the most populous megalopolis located entirely in the United States, with over 50 million residents, as well as the most urbanized megalopolis in the United States and the megalopolis with the world's largest economic output.
 - [Open Location Code](https://en.wikipedia.org/wiki/Open_Location_Code) - a geocode system for identifying an area anywhere on the Earth. Google states that plus codes are accepted as postal addresses in Cape Verde, parts of Kolkata, and the Navajo Nation.
@@ -921,9 +939,13 @@
 - [Somatoparaphrenia](https://en.wikipedia.org/wiki/Somatoparaphrenia) - a type of monothematic delusion where one denies ownership of a limb or an entire side of one's body.
 
 ### Technology
+- [Electrical network frequency analysis](https://en.wikipedia.org/wiki/Electrical_network_frequency_analysis) is an audio forensics technique for validating audio recordings by comparing frequency changes in background mains hum in the recording with long-term high-precision historical records of mains frequency changes from a database.
 - [Gray goo](https://en.wikipedia.org/wiki/Gray_goo) is a hypothetical global catastrophic scenario involving molecular nanotechnology in which out-of-control self-replicating machines consume all biomass on Earth while building more of themselves, a scenario that has been called ecophagy ("eating the environment", more literally "eating the habitation").
+- [Mains hum](https://en.wikipedia.org/wiki/Mains_hum) is a sound associated with alternating current which is twice the frequency of the mains electricity. The fundamental frequency of this sound is usually double that of fundamental 50/60 Hz, i.e. 100/120 Hz, depending on the local power-line frequency. The sound often has heavy harmonic content above 50/60 Hz.
 
 ## Sports
+- [Candlepin bowling](https://en.wikipedia.org/wiki/Candlepin_bowling) is a variation of bowling that is played primarily in the Canadian Maritime provinces and the New England region of the United States. It is played with a handheld-sized ball and tall, narrow pins that resemble candles, hence the name.
+- [Duckpin bowling](https://en.wikipedia.org/wiki/Duckpin_bowling) is a variation of the sport of bowling. Duckpin balls are 4+3⁄4 in (12 cm) to 5 in (12.7 cm) in diameter, weigh 3 lb 6 oz (1.5 kg) to 3 lb 12 oz (1.7 kg) each, and lack finger holes. Duckpins, though arranged in a triangle identical to that used in ten-pin bowling, are shorter, slightly thinner, and lighter than their ten-pin equivalents, which makes it more difficult for the smaller ball to achieve a strike.
 - [Pedestrianism](https://en.wikipedia.org/wiki/Pedestrianism) - a 19th-century form of competitive walking, often professional and funded by wagering, from which the modern sport of racewalking developed.
 
 ## Things
@@ -963,6 +985,7 @@
 - [Gay bomb](https://en.wikipedia.org/wiki/Gay_bomb) - a non-lethal psychochemical weapon that a United States Air Force research laboratory speculated about producing. The theories involve discharging sex pheromones over enemy forces in order to make them sexually attracted to each other.
 - [Gender of connectors and fasteners](https://en.wikipedia.org/wiki/Gender_of_connectors_and_fasteners) - In electrical and mechanical trades and manufacturing, each half of a pair of mating connectors or fasteners is conventionally assigned the designation male or female.
 - [Goat tower](https://en.wikipedia.org/wiki/Goat_tower) - a multi-story decorative goat house, modeled on a European garden folly, an early example of which was built in Portugal in the 19th century.
+- [Half-track](https://en.wikipedia.org/wiki/Half-track) - a civilian or military vehicle with regular wheels at the front for steering and continuous tracks at the back to propel the vehicle and carry most of the load. The purpose of this combination is to produce a vehicle with the cross-country capabilities of a tank and the handling of a wheeled vehicle.
 - [Holdout](https://en.wikipedia.org/wiki/Holdout_(real_estate)) - a piece of property that did not become part of a larger real estate development because the owner either refused to sell or wanted more than the developer would pay.
 - [Immovable ladder](https://en.wikipedia.org/wiki/Status_Quo_(Jerusalem_and_Bethlehem)#Immovable_ladder) - Some consider the so-called immovable ladder- [c] under the window of the Church of the Holy Sepulchre to be a visible symbol of the alleged inactivity the Status Quo imposes.
 - [Jail tree](https://en.wikipedia.org/wiki/Jail_tree) - is any tree used to incarcerate a person, usually by chaining the prisoner up to the tree.
@@ -997,13 +1020,16 @@
 
 ### Food
 - [99 Flake](https://en.wikipedia.org/wiki/99_Flake) - A 99 Flake can refer to any of three possible items: an ice cream cone with a Cadbury Flake inserted in it; the Cadbury-produced Flake bar itself specially made for insertion into an ice cream cone; or a wrapped ice cream cone product marketed by Cadbury.
+- [Banana ketchup](https://en.wikipedia.org/wiki/Banana_ketchup) - a popular Philippine fruit ketchup condiment made from banana, sugar, vinegar and spices. Its natural color is brownish-yellow but it is often dyed red to resemble tomato ketchup.
 - [Butter mountain](https://en.wikipedia.org/wiki/Butter_mountain) - a supply surplus of butter produced in the European Economic Community because of government interventionism that began in the 1970s
 - [Coronation chicken](https://en.wikipedia.org/wiki/Coronation_chicken) is a combination of cold cooked chicken meat, herbs and spices, and a creamy mayonnaise-based sauce. It was invented as part of a banquet for Queen Elizabeth II's coronation, hence the name.
 - [Democracy sausage](https://en.wikipedia.org/wiki/Democracy_sausage) - the colloquial name for a sausage wrapped in a slice of bread, bought from a sausage sizzle operated as a fundraiser at Australian polling places on election day, often in aid of the institutions that house the polling place.
 - [Government cheese](https://en.wikipedia.org/wiki/Government_cheese) - processed cheese provided to welfare beneficiaries, Food Stamp recipients, and the elderly receiving Social Security in the United States, as well as to food banks.
 - [Hershey's Kiss plume](https://en.wikipedia.org/wiki/Hershey's_Kisses#Paper_plume)
 - [Milk toast](https://en.wikipedia.org/wiki/Milk_toast) - a breakfast dish consisting of toasted bread in warm milk, typically with sugar and butter.
+- [Mushroom ketchup](https://en.wikipedia.org/wiki/Mushroom_ketchup) - a style of ketchup that is prepared with mushrooms as its primary ingredient. Originally, ketchup in the United Kingdom was prepared with mushrooms as a primary ingredient, instead of tomato, the main ingredient in contemporary preparations of ketchup.
 - [Popcorn](https://en.wikipedia.org/wiki/Popcorn) - a variety of corn kernel which expands and puffs up when heated
+- [Skilly](https://en.wikipedia.org/wiki/Skilly_%28food%29) - a weak broth that was made with oatmeal mixed with water.
 - [Soldiers (food)](https://en.wikipedia.org/wiki/Soldiers_(food)) - a thin strip of toast; the strips that a slice is cut into are reminiscent of soldiers on parade.
 - [Solo garlic](https://en.wikipedia.org/wiki/Solo_garlic) - Solo garlic is a type of garlic where the bulb is 1 giant clove.
 - [Squash](https://en.wikipedia.org/wiki/Squash_(drink)) - a non-alcoholic beverage concentrated syrup used in beverage making.
