@@ -154,6 +154,7 @@
 - [Z-Fighting](https://en.wikipedia.org/wiki/Z-fighting) - When 2 planes are in the same position and 'mesh' together.
 
 ### Hardware/Signals
+- [8-N-1](https://en.wikipedia.org/wiki/8-N-1) - a common shorthand notation for a serial port parameter setting or configuration in asynchronous mode, in which there is one start bit, eight (8) data bits, no (N) parity bit, and one (1) stop bit. As such, 8-N-1 is the most common configuration for PC serial communications today.
 - [Bell character](https://en.wikipedia.org/wiki/Bell_character) - a device control code originally sent to ring a small electromechanical bell on tickers and other teleprinters and teletypewriters to alert operators at the other end of the line, often of an incoming message.
 - [Bucky bit](https://en.wikipedia.org/wiki/Bucky_bit) - a bit in the binary representation of a character that it set by pressing a modifier key
 - [Chip art](https://en.wikipedia.org/wiki/Chip_art) - refers to microscopic artwork built into integrated circuits, also called chips or ICs. Since ICs are printed by photolithography, not constructed a component at a time, there is no additional cost to include features in otherwise unused space on the chip
@@ -703,6 +704,7 @@
 - [Salami slicing tactics](https://en.wikipedia.org/wiki/Salami_slicing_tactics) - a divide and conquer process of threats and alliances used to overcome opposition. With it, an aggressor can influence and eventually dominate a landscape, typically political, piece by piece. In this fashion, the opposition is eliminated "slice by slice" until it realizes, usually too late, that it is virtually gone in its entirety.
 - [San Seriffe](https://en.wikipedia.org/wiki/San_Serriffe) - a fictional island nation created for April Fools' Day 1977, by Britain's Guardian newspaper.
 - [Schroedinger's cat in popular culture](https://en.wikipedia.org/wiki/Schr%C3%B6dinger's_cat_in_popular_culture)
+- [Serious game](https://en.wikipedia.org/wiki/Serious_game) - a game designed for a primary purpose other than pure entertainment. The "serious" adjective is generally prepended to refer to video games used by industries like defense, education, scientific exploration, health care, emergency management, city planning, engineering, and politics.
 - [Spherical cow](https://en.wikipedia.org/wiki/Spherical_cow) - a humorous metaphor for highly simplified scientific models of complex real life phenomena.
 - [Suicide in Lithuania](https://en.wikipedia.org/wiki/Suicide_in_Lithuania) - Suicide in Lithuania has become a significant social issue in the country due to its high rate. Despite constantly decreasing since its peak in 1995, the suicide rate in Lithuania remains the highest in the EU and the OECD. The suicide rate as of 2017 is 26.4 suicides per 100,000 people.
 - [Sprezzatura](https://en.wikipedia.org/wiki/Sprezzatura) - an Italian word that first appears in Baldassare Castiglione's 1528 The Book of the Courtier, where it is defined by the author as "a certain nonchalance, so as to conceal all art and make whatever one does or says appear to be without effort and almost without any thought about it". It is the ability of the courtier to display "an easy facility in accomplishing difficult actions which hides the conscious effort that went into them". Sprezzatura has also been described "as a form of defensive irony: the ability to disguise what one really desires, feels, thinks, and means or intends behind a mask of apparent reticence and nonchalance".
@@ -719,6 +721,7 @@
 
 ### Galleries, Glossaries and Lists
 - [Category: Abandoned drugs](https://en.wikipedia.org/wiki/Category:Abandoned_drugs)
+- [Combination Utensils](https://en.wikipedia.org/wiki/List_of_eating_utensils#Combination_utensils)
 - [Controversial Reddit Communities](https://en.wikipedia.org/wiki/Controversial_Reddit_communities)
 - [Gallery of sovereign state flags](https://en.wikipedia.org/wiki/Gallery_of_sovereign_state_flags)
 - [Glossary of manias](https://en.wikipedia.org/wiki/Glossary_of_manias)
@@ -772,6 +775,7 @@
 - [List of tallest structures in the world by country](https://en.wikipedia.org/wiki/List_of_tallest_structures_by_country)
 - [List of tautological place names](https://en.wikipedia.org/wiki/List_of_redundant_place_names)
 - [List of topics characterized as pseudo-science](https://en.wikipedia.org/wiki/List_of_topics_characterized_as_pseudoscience)
+- [List of unusual deaths](https://en.wikipedia.org/wiki/List_of_unusual_deaths)
 - [List of wheel-well stowaway flights](https://en.wikipedia.org/wiki/List_of_wheel-well_stowaway_flights)
 - [List of writing systems](https://en.wikipedia.org/wiki/List_of_writing_systems)
 - [Wikipedia: Unusual articles](https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles)
@@ -903,6 +907,7 @@
 - [Aoshima](https://en.wikipedia.org/wiki/Aoshima,_Ehime) - an island in Ehime Prefecture, Japan, known for its large number of feline residents. Felines have been reported by news outlets to outnumber humans by ratios between 6:1 and 10:1, but as elderly inhabitants of the island have died, the ratio has greatly increased to almost 36:1.
 - [Aral Sea](https://en.wikipedia.org/wiki/Aral_Sea) - once the fourth largest lake in the world, has been shrinking since the 60s, when rivers that fed it were diverted for Soviet irrigation projects.
 - [The Blue Banana](https://en.wikipedia.org/wiki/Blue_Banana) is a discontinuous corridor of urbanization spreading over Western and Central Europe, with a population of around 111 million
+- [Buffer state](https://en.wikipedia.org/wiki/Buffer_state) - a country lying between two rival or potentially hostile great powers. Its existence can sometimes be thought to prevent conflict between them. A buffer state is sometimes a mutually agreed upon area lying between two greater powers, which is demilitarized in the sense of not hosting the military of either power (though it will usually have its own military forces). The invasion of a buffer state by one of the powers surrounding it will often result in war between the powers.
 - [Continental drip](https://en.wikipedia.org/wiki/Continental_drip)  is the observation that southward-pointing landforms are more numerous and prominent than northward-pointing landforms. When published, it has been geological satire.
 - [Doubly-landlocked countries](https://en.wikipedia.org/wiki/Landlocked_country#Doubly_landlocked) - A country is "doubly landlocked" or "double-landlocked" when it is surrounded only by landlocked countries (requiring the crossing of at least two national borders to reach a coastline).
 - [Fugging, Lower Austria](https://en.wikipedia.org/wiki/Fugging,_Lower_Austria)
@@ -998,6 +1003,7 @@
 - [Fata Morgana](https://en.wikipedia.org/wiki/Fata_Morgana_(mirage)) - a complex form of superior mirage that is seen in a narrow band right above the horizon.
 - [Flushometer](https://en.wikipedia.org/wiki/Flushometer) - a metal water-diverter that uses an inline handle to flush tankless toilets or urinals.
 - [Folly](https://en.wikipedia.org/wiki/Folly) - a building constructed primarily for decoration, but suggesting through its appearance some other purpose, or of such extravagant appearance that it transcends the range of usual garden buildings.
+- [Free Speech Flag](https://en.wikipedia.org/wiki/Free_Speech_Flag) - a symbol of personal liberty used to promote freedom of speech. Designed by artist John Marcotte, the flag and its colors correspond to a cryptographic key which enabled users to copy HD DVDs and Blu-ray Discs. It was created on May 1, 2007, during the AACS encryption key controversy.
 - [Garden hermit](https://en.wikipedia.org/wiki/Garden_hermit) - hermits encouraged to live in purpose-built hermitages, follies, grottoes, or rockeries on the estates of wealthy land-owners, primarily during the 18th century. Such hermits would be encouraged to dress like druids and remain permanently on-site, where they could be fed, cared-for and consulted for advice or viewed for entertainment.
 - [Gay bomb](https://en.wikipedia.org/wiki/Gay_bomb) - a non-lethal psychochemical weapon that a United States Air Force research laboratory speculated about producing. The theories involve discharging sex pheromones over enemy forces in order to make them sexually attracted to each other.
 - [Gender of connectors and fasteners](https://en.wikipedia.org/wiki/Gender_of_connectors_and_fasteners) - In electrical and mechanical trades and manufacturing, each half of a pair of mating connectors or fasteners is conventionally assigned the designation male or female.
