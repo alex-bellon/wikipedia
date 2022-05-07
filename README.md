@@ -188,6 +188,7 @@
 - [Bit bucket](https://en.wikipedia.org/wiki/Bit_bucket) - the bit bucket is where lost computerized data has gone, by any means; any data which does not end up where it is supposed to, being lost in transmission, a computer crash, or the like, is said to have gone to the bit bucket – that mysterious place on a computer where lost data goes.
 - [Hyper Text Coffee Pot Control Protocol](https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol) - a facetious communication protocol for controlling, monitoring, and diagnosing coffee pots. It is specified in RFC 2324, published on 1 April 1998 as an April Fools' Day RFC, as part of an April Fools prank.
 - [lp0 on fire](https://en.wikipedia.org/wiki/Lp0_on_fire) - an outdated error message generated on some Unix and Unix-like computer operating systems in response to certain types of printer errors.
+- [Mung](https://en.wikipedia.org/wiki/Mung_(computer_term)) - computer jargon for a series of potentially destructive or irrevocable changes to a piece of data or a file. It is sometimes used for vague data transformation steps that are not yet clear to the speaker. Common munging operations include removing punctuation or HTML tags, data parsing, filtering, and transformation.
 - [People's Computer Company](https://en.wikipedia.org/wiki/People's_Computer_Company) - an organization, a newsletter (the People's Computer Company Newsletter) and, later, a quasiperiodical called the Dragonsmoke.
 - [Roofnet](https://en.wikipedia.org/wiki/Roofnet) - an experimental mesh network developed by the Computer Science and Artificial Intelligence Laboratory at MIT
 - [Tivoization](https://en.wikipedia.org/wiki/Tivoization) - the creation of a system that incorporates software under the terms of a copyleft software license like the GNU General Public License (GNU GPL), but uses hardware restrictions or digital rights management (DRM) to prevent users from running modified versions of the software on that hardware.
@@ -737,6 +738,7 @@
 - [List of city name changes](https://en.wikipedia.org/wiki/List_of_city_name_changes)
 - [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
 - [List of collective nouns of animals](https://en.wikipedia.org/wiki/List_of_English_terms_of_venery,_by_animal)
+- [List of colossal sculptures in situ](https://en.wikipedia.org/wiki/List_of_colossal_sculpture_in_situ)
 - [List of common dips](https://en.wikipedia.org/wiki/Dipping_sauce#List_of_common_dips)
 - [List of common misconceptions](https://en.wikipedia.org/wiki/List_of_common_misconceptions)
 - [List of companies involved in the Holocaust](https://en.wikipedia.org/wiki/List_of_companies_involved_in_the_Holocaust)
@@ -778,6 +780,7 @@
 - [List of unusual deaths](https://en.wikipedia.org/wiki/List_of_unusual_deaths)
 - [List of wheel-well stowaway flights](https://en.wikipedia.org/wiki/List_of_wheel-well_stowaway_flights)
 - [List of writing systems](https://en.wikipedia.org/wiki/List_of_writing_systems)
+- [Response to sneezing](https://en.wikipedia.org/wiki/Response_to_sneezing)
 - [Wikipedia: Unusual articles](https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles)
 
 ## Paradoxes
@@ -935,6 +938,7 @@
 
 ### Medical
 - [Hyperthymesia](https://en.wikipedia.org/wiki/Hyperthymesia) - a condition that leads people to be able to remember an abnormally large number of their life experiences in vivid detail. It is extraordinarily rare, with only about 60 people in the world having been diagnosed with the condition as of 2021.
+- [Snatiation](https://en.wikipedia.org/wiki/Snatiation) - a term coined to refer to the a medical condition originally termed "stomach sneeze reflex", which is characterized by uncontrollable bursts of sneezing brought on by fullness of the stomach, typically immediately after a large meal.
 
 ### Physics
 - [Cat state](https://en.wikipedia.org/wiki/Cat_state), named after Schrödinger's cat, is a quantum state that is composed of two diametrically opposed conditions at the same time, such as the possibilities that a cat be alive and dead at the same time.
@@ -997,6 +1001,7 @@
 - [Donkey vote](https://en.wikipedia.org/wiki/Donkey_vote) - a ballot cast in an election that uses a preference voting system, where a voter is permitted or required to rank candidates on the ballot paper, and ranks them based on the order they appear on the ballot paper.
 - [Drunk Tank Pink](https://en.wikipedia.org/wiki/Baker-Miller_pink) is a tone of pink which has been observed to reduce hostile, violent or aggressive behavior.
 - [Dual-tone multi-frequency signaling](https://en.wikipedia.org/wiki/Dual-tone_multi-frequency_signaling) - a telecommunication signaling system using the voice-frequency band over telephone lines between telephone equipment and other communications devices and switching centers.
+- [Engineer's ring](https://en.wikipedia.org/wiki/Engineer's_Ring) - a ring worn by members of the United States Order of the Engineer, a fellowship of engineers who must be a certified Professional Engineer or graduated from an accredited engineering program (or be within one academic year of graduation to participate). The ring is usually a stainless steel band worn on the little finger of the dominant hand. This is so that it makes contact with all work done by the engineer. Rings used to be cast in iron in the most unattractive and simple form to show the nature of work. The ring is symbolic of the oath taken by the wearer, and symbolizes the unity of the profession in its goal of benefitting mankind. The stainless steel from which the ring is made depicts the strength of the profession.
 - [Ersatz Good](https://en.wikipedia.org/wiki/Ersatz_good) - Substitute good, normally inferior.
 - [Etagere](https://en.wikipedia.org/wiki/%C3%89tag%C3%A8re) - a French set of hanging or standing open shelves for the display of collections of objects or ornaments
 - [Factory-kitchen](https://en.wikipedia.org/wiki/Factory-kitchen) - a large mechanized enterprise of food service in the Soviet Union, originated in the 1920–1930s. Its main purpose was centralized preparation of food (both prefabrication and full processing) supplied for communal dining rooms or for personal purchase.
@@ -1010,6 +1015,7 @@
 - [Goat tower](https://en.wikipedia.org/wiki/Goat_tower) - a multi-story decorative goat house, modeled on a European garden folly, an early example of which was built in Portugal in the 19th century.
 - [Half-track](https://en.wikipedia.org/wiki/Half-track) - a civilian or military vehicle with regular wheels at the front for steering and continuous tracks at the back to propel the vehicle and carry most of the load. The purpose of this combination is to produce a vehicle with the cross-country capabilities of a tank and the handling of a wheeled vehicle.
 - [Holdout](https://en.wikipedia.org/wiki/Holdout_(real_estate)) - a piece of property that did not become part of a larger real estate development because the owner either refused to sell or wanted more than the developer would pay.
+- [Hipster PDA](https://en.wikipedia.org/wiki/Hipster_PDA) - a paper-based personal organizer. Originally a tongue-in-cheek reaction to the increasing expense and complexity of personal digital assistants (PDA), the Hipster PDA (said to stand for "Parietal Disgorgement Aid" and often abbreviated to "hPDA") simply comprises a sheaf of index cards held together with a binder clip.
 - [Immovable ladder](https://en.wikipedia.org/wiki/Status_Quo_(Jerusalem_and_Bethlehem)#Immovable_ladder) - Some consider the so-called immovable ladder under the window of the Church of the Holy Sepulchre to be a visible symbol of the alleged inactivity the Status Quo imposes.
 - [Insect hotel](https://en.wikipedia.org/wiki/Insect_hotel) - also known as a bug hotel or insect house, is a manmade structure created to provide shelter for insects. They can come in a variety of shapes and sizes depending on the specific purpose or specific insect it is catered to. Most consist of several different sections that provide insects with nesting facilities – particularly during winter, offering shelter or refuge for many types of insects. Their purposes include hosting pollinators.
 - [Jail tree](https://en.wikipedia.org/wiki/Jail_tree) - is any tree used to incarcerate a person, usually by chaining the prisoner up to the tree.
@@ -1020,6 +1026,7 @@
 - [Mortsafe](https://en.wikipedia.org/wiki/Mortsafe) - a contraption designed to protect graves from disturbance. Resurrectionists had supplied the schools of anatomy in Scotland since the early 18th century. This was due to the necessity for medical students to learn anatomy by attending dissections of human subjects, which was frustrated by the very limited allowance of dead bodies – for example the corpses of executed criminals – granted by the government, which controlled the supply.
 - [Nickelodeon](https://en.wikipedia.org/wiki/Nickelodeon_(movie_theater)) - the first type of indoor exhibition space dedicated to showing projected motion pictures in the United States. Usually set up in converted storefronts, these small, simple theaters charged five cents for admission and flourished from about 1905 to 1915.
 - [Numbers station](https://en.wikipedia.org/wiki/Numbers_station) - a radio station that just broadcasts a bunch of formatted numbers. They're believed to be use to communicate with intelligence officers, although they could also be used as a distraction to tie people up in trying to "decode" meaningless sequences.
+- [Palimpsest](https://en.wikipedia.org/wiki/Palimpsest) - a manuscript page, either from a scroll or a book, from which the text has been scraped or washed off so that the page can be reused for another document.
 - [Polar bear jail](https://en.wikipedia.org/wiki/Polar_bear_jail) - a special building in Churchill, Manitoba where polar bears that are considered troublesome or dangerous are isolated before they can be relocated.
 - [Port tongs](https://en.wikipedia.org/wiki/Port_tongs) - a special set of tongs designed to open wine bottles that are sealed with a cork. The tongs are heated over an open flame and held against the neck of the wine bottle for 20–30 seconds. The heated section of bottle is then cooled with a damp cloth or ice water, causing the glass to fracture due to thermal expansion. The result is generally a clean, predictable break.
 - [Ransom strip](https://en.wikipedia.org/wiki/Ransom_strip) - a parcel of land needed to access an adjacent property from a public highway, to which the owner is denied access until payment is received.
