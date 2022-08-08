@@ -485,6 +485,7 @@
 - [Armenian orthography reform](https://en.wikipedia.org/wiki/Armenian_orthography_reform) - occurred between 1922 and 1924 in Soviet Armenia and was partially reviewed in 1940. Its main features were neutralization of classical etymological writing and the adjustment of phonetic realization and writing.
 - [Boustrophedon](https://en.wikipedia.org/wiki/Boustrophedon) - a style of writing in which alternate lines of writing are reversed, with reversed letters.
 - [Braille pattern dots-6](https://en.wikipedia.org/wiki/Braille_pattern_dots-6)
+- [Cyrillic script](https://en.wikipedia.org/wiki/Cyrillic_script)
 - [Deseret Alphabet](https://en.wikipedia.org/wiki/Deseret_alphabet) - a phonemic English-language spelling reform developed between 1847 and 1854 by the board of regents of the University of Deseret under the leadership of Brigham Young, the second president of the Church of Jesus Christ of Latter-day Saints.
 - [Forfeda](https://en.wikipedia.org/wiki/Forfeda) - the "additional" letters of the Ogham alphabet, beyond the basic inventory of twenty signs.
 - [International uniformity of brailler alphabets](https://en.wikipedia.org/wiki/International_uniformity_of_braille_alphabets) - the goal of braille uniformity is to unify the braille alphabets of the world as much as possible, so that literacy in one braille alphabet readily transfers to another
