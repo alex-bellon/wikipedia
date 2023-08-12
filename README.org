@@ -412,6 +412,7 @@
 - [[https://en.wikipedia.org/wiki/Christine_Collins][Christine Collins]] was an American woman who made national headlines during the late 1920s and 1930s after her nine-year-old son, Walter Collins, went missing in 1928. Five months after Walter's disappearance, a boy claiming to be Walter was found in DeKalb, Illinois. At the reunion, Collins said that the boy was not Walter. Under pressure to resolve the case, the officer in charge, Captain J.J. Jones, convinced her to "try the boy out" by taking him home. She returned three weeks later, again saying that he was not her son. The police had Collins committed to the psychiatric ward at Los Angeles County Hospital under a "Code 12" internment -- a term used to jail or commit someone who was deemed difficult or an inconvenience.
 - [[https://en.wikipedia.org/wiki/Delia_Derbyshire][Delia Derbyshire]] - an English musician and composer of electronic music. She carried out pioneering work with the BBC Radiophonic Workshop during the 1960s, including her electronic arrangement of the theme music to the British science-fiction television series Doctor Who. She has been referred to as "the unsung heroine of British electronic music", having influenced musicians including Aphex Twin, the Chemical Brothers and Paul Hartnoll of Orbital.
 - [[https://en.wikipedia.org/wiki/Digby_Tatham-Warter][Digby Tatham-Warter]] - Digby got to him and said "Don't worry about the bullets, I've got an umbrella". He then escorted the chaplain across the street under his umbrella. When he returned to the front line, one of his fellow officers said about his umbrella that "that thing won't do you any good", to which Digby replied "Oh my goodness Pat, but what if it rains?"
+- [[https://en.wikipedia.org/wiki/Fionn_mac_Cumhaill][Fionn mac Cumhaill]] - often anglicized Finn McCool or MacCool, is a hero in Irish mythology, as well as in later Scottish and Manx folklore. He is the leader of the Fianna bands of young roving hunter-warriors, as well as being a seer and poet. He is said to have a magic thumb that bestows him with great wisdom. He is often depicted hunting with his hounds Bran and Sceólang, and fighting with his spear and sword.
 - [[https://en.wikipedia.org/wiki/Hannah_Ocuish][Hannah Ocuish]] - a 12-year old Pequot Native American girl with an intellectual disability who was hanged on December 20, 1786, in New London, Connecticut. She is believed to be the youngest person executed in the United States.
 - [[https://en.wikipedia.org/wiki/Ivan_Renko][Ivan Renko]] - Ivan Renko was a fictitious Yugoslav basketball player created by Bobby Knight when he was the head coach for the Indiana University Hoosiers.
 - [[https://en.wikipedia.org/wiki/Joseph_Darby_%28jumper%29][Joseph Darby]] - a renowned jumper from the Black Country village of Netherton. He specialised in spring jumping (jumping starting from a stationary position) often using weights in his hands to help propel him.
@@ -690,6 +691,7 @@
 - [[https://en.wikipedia.org/wiki/Cox%E2%80%93Zucker_machine][Cox-Zucker machine]] - n algorithm created by David A. Cox and Steven Zucker. This algorithm determines if a given set of sections provides a basis (up to torsion) for the Mordell--Weil group of an elliptic surface E → S where S is isomorphic to the projective line.
 - [[https://en.wikipedia.org/wiki/Dandelin_spheres][Dandelin spheres]] - one or two spheres that are tangent both to a plane and to a cone that intersects the plane.
 - [[https://en.wikipedia.org/wiki/Deltahedron][Deltahedron]] - a polyhedron whose faces are all equilateral triangles.
+- [[https://en.wikipedia.org/wiki/Encyclopedia_of_Triangle_Centers][Encyclopedia of Triangle Centers]] - an online list of thousands of points or "centers" associated with the geometry of a triangle.
 - [[https://en.wikipedia.org/wiki/Fractal][Fractal]] - a subset of a Euclidean space for which the Hausdorff dimension strictly exceeds the topological dimension.
 - [[https://en.wikipedia.org/wiki/Gabriel%27s_Horn][Gabriel's Horn]] - a geometric figure which has infinite surface area but finite volume.
 - [[https://en.wikipedia.org/wiki/Golden_angle][Golden angle]] - the smaller of the two angles created by sectioning the circumference of a circle according to the golden ratio; that is, into two arcs such that the ratio of the length of the larger arc to the length of the smaller arc is the same as the ratio of the full circumference to the length of the larger arc.
@@ -853,6 +855,7 @@
 - [[https://en.wikipedia.org/wiki/Whamageddon][Whamageddon]] - a game played during the 24 days before Christmas Eve in which players try to go from December 1 to the start of Christmas Eve as per European celebrations on the 24th December (midnight on the 24th December or 24:00 on the 24th of December) without hearing "Last Christmas" by Wham!
 
 *** Galleries, Glossaries and Lists
+- [[https://en.wikipedia.org/wiki/Animals_taking_public_transportation][Animals taking transportation]]
 - [[https://en.wikipedia.org/wiki/Category:Abandoned_drugs][Category: Abandoned drugs]]
 - [[https://en.wikipedia.org/wiki/List_of_eating_utensils#Combination_utensils][Combination Utensils]]
 - [[https://en.wikipedia.org/wiki/Controversial_Reddit_communities][Controversial Reddit Communities]]
@@ -881,18 +884,23 @@
 - [[https://en.wikipedia.org/wiki/List_of_English_words_containing_Q_not_followed_by_U][List of English words containing Q not followed by U]]
 - [[https://en.wikipedia.org/wiki/List_of_English_words_without_rhymes][List of English words without rhymes]]
 - [[https://en.wikipedia.org/wiki/List_of_eponymous_laws][List of eponymous laws]]
+- [[https://en.wikipedia.org/wiki/List_of_films_that_most_frequently_use_the_word_"fuck"][List of films that most frequently use the word fuck"]]
 - [[https://en.wikipedia.org/wiki/List_of_flags_by_design][List of flags by design]]
 - [[https://en.wikipedia.org/wiki/List_of_games_that_Buddha_would_not_play][List of games Buddha would not play]]
 - [[https://en.wikipedia.org/wiki/List_of_geographic_portmanteaus][List of geographic portmanteaus]]
 - [[https://en.wikipedia.org/wiki/List_of_gestures][List of gestures]]
 - [[https://en.wikipedia.org/wiki/List_of_guitars][List of guitars]]
 - [[https://en.wikipedia.org/wiki/List_of_hazing_deaths_in_the_United_States][list of hazing deaths in the United States]]
+- [[https://en.wikipedia.org/wiki/List_of_individual_apes][List of individual apes]]
 - [[https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains][List of Internet top-level domains]]
 - [[https://en.wikipedia.org/wiki/List_of_inventors_killed_by_their_own_inventions][List of inventors killed by their own inventions]]
 - [[https://en.wikipedia.org/wiki/List_of_Latin_phrases_(full)][List of Latin phrases]]
 - [[https://en.wikipedia.org/wiki/List_of_lists_of_lists][List of list of lists]]
+- [[List of Mcface spoofs]]
 - [[https://en.wikipedia.org/wiki/List_of_media_notable_for_being_in_development_hell][List of media notable for being in development hell]]
 - [List of memory biases](https://en.wikipedia.org/wiki/List_of_memory_biases
+- [[https://en.wikipedia.org/wiki/List_of_music_considered_the_worst][List of music considered the worst]]
+- [[https://en.wikipedia.org/wiki/List_of_non-standard_dates][List of non-standard dates]]
 - [[https://en.wikipedia.org/wiki/List_of_numeral_systems][List of numeral systems]]
 - [[https://en.wikipedia.org/wiki/List_of_ongoing_armed_conflicts][List of ongoing armed conflicts]]
 - [[https://en.wikipedia.org/wiki/List_of_organisms_named_after_famous_people][List of organisms named after famous people]]
@@ -912,12 +920,15 @@
 - [[https://en.wikipedia.org/wiki/List_of_soups][List of soups]]
 - [[https://en.wikipedia.org/wiki/List_of_tallest_structures_by_country][List of tallest structures in the world by country]]
 - [[https://en.wikipedia.org/wiki/List_of_redundant_place_names][List of tautological place names]]
+- [[https://en.wikipedia.org/wiki/List_of_television_series_canceled_after_one_episode][List of television series canceled after one episode]]
+- [[https://en.wikipedia.org/wiki/List_of_television_series_canceled_before_airing_an_episode][List of television series canceled before airing an episode]]
 - [[https://en.wikipedia.org/wiki/List_of_topics_characterized_as_pseudoscience][List of topics characterized as pseudo-science]]
 - [[https://en.wikipedia.org/wiki/List_of_unusual_deaths][List of unusual deaths]]
+- [[https://en.wikipedia.org/wiki/List_of_U.S._state_soils][List of U.S. state soils]]
 - [[https://en.wikipedia.org/wiki/List_of_wheel-well_stowaway_flights][List of wheel-well stowaway flights]]
 - [[https://en.wikipedia.org/wiki/List_of_women_who_obtained_doctoral_degrees_before_1800][List of women who obtained doctoral degrees before 1800]]
 - [[https://en.wikipedia.org/wiki/List_of_writing_systems][List of writing systems]]
-- [[https://en.wikipedia.org/wiki/Response_to_sneezing][Response to sneezing]]
+- [[https://en.wikipedia.org/wiki/List_of_wrong_anthems_incidents][List of wrong anthems incidents]]
 - [[https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles][Wikipedia: Unusual articles]]
 
 ** Paradoxes
@@ -939,7 +950,7 @@
 - [[https://en.wikipedia.org/wiki/Crab_mentality][Crab mentality]] - is a way of thinking best described by the phrase "if I can't have it, neither can you".
 - [[https://meta.wikimedia.org/wiki/Cunningham%27s_Law][Cunningham's Law]] - The best way to get the right answer on the internet is not to ask a question; it's to post the wrong answer.
 - [[https://en.wikipedia.org/wiki/Daughter_from_California_syndrome][Daughter from California syndrome - Wikipedia]] - a phrase used in the medical profession to describe a situation in which a long-lost relative arrives at the hospital at which a dying elderly relative is being treated, and insists that the medical team pursue aggressive measures to prolong the patient's life, or otherwise challenges the care the patient is being given
-- [[https://en.wikipedia.org/wiki/Dear_enemy_effect][Dear enemy effect]] - n ethological phenomenon in which two neighbouring territorial animals become less aggressive toward one another once territorial borders are well-established.
+- [[https://en.wikipedia.org/wiki/Dear_enemy_effect][Dear enemy effect]] - an ethological phenomenon in which two neighbouring territorial animals become less aggressive toward one another once territorial borders are well-established.
 - [[https://en.wikipedia.org/wiki/Droste_effect][Droste Effect]] - Picture recursively appearing within itsel
 - [[https://en.wikipedia.org/wiki/Dutch_disease][Dutch disease]] - the apparent causal relationship between the increase in the economic development of a specific sector (for example natural resources) and a decline in other sectors (like the manufacturing sector or agriculture).
 - [[https://en.wikipedia.org/wiki/Eroom%27s_law][Eroom's law]] - the observation that drug discovery is becoming slower and more expensive over time, despite improvements in technology (such as high-throughput screening, biotechnology, combinatorial chemistry, and computational drug design), a trend first observed in the 1980s
@@ -947,6 +958,7 @@
 - [[https://en.wikipedia.org/wiki/Half-life_of_knowledge][Half-life of knowledge]] - the amount of time that has to elapse before half of the knowledge or facts in a particular area is superseded or shown to be untrue.
 - [[https://en.m.wikipedia.org/wiki/IKEA_effect][IKEA Effect]] - The IKEA effect is a cognitive bias in which consumers place a disproportionately high value on products they partially created.
 - [[https://en.wikipedia.org/wiki/Law_of_triviality][Law of triviality]] - members of an organization give disproportionate weight to trivial issues.
+- [[https://en.wikipedia.org/wiki/L'esprit_de_l'escalier][L'esprit de l'escalier]] - a French term used in English for the predicament of thinking of the perfect reply too late.
 - [[https://en.wikipedia.org/wiki/Littlewood%27s_law][Littlewood's law]] - a person can expect to experience events with odds of one in a million (defined by the law as a "miracle") at the rate of about one per month
 - [[https://en.wikipedia.org/wiki/Mariko_Aoki_phenomenon][Mariko Aoki phenomenon]] - a Japanese expression referring to an urge to defecate that is suddenly felt after entering bookstores. The phenomenon's name derives from the name of the woman who mentioned the phenomenon in a magazine article in 1985.
 - [[https://en.wikipedia.org/wiki/Matilda_effect][Matilda effect]] - a bias against acknowledging the achievements of those women scientists whose work is attributed to their male colleagues.
@@ -1022,6 +1034,7 @@
 - [[https://en.wikipedia.org/wiki/F._D._C._Willard][F. D. C. Willard]] - the pen name of a Siamese cat named Chester, who internationally published under this name on physics in scientific journals, once as a co-author and another time as the sole author
 - [[https://en.wikipedia.org/wiki/Fe,_Fi,_Fo,_Fum,_and_Phooey][Fe, Fi, Fo, Fum and Phooey]] - five mice who traveled to the Moon and circled it 75 times on the 1972 Apollo 17 mission. NASA gave them identification numbers A3305, A3326, A3352, A3356, and A3400, and their nicknames were given by the Apollo 17 crew, Eugene Cernan, Harrison Schmitt, and Ronald Evans. The four male mice, one female mouse, and Evans orbited the Moon for a record-setting six days and four hours in the Apollo command module America as Cernan and Schmitt performed the Apollo program's last lunar excursions.
 - [[https://en.wikipedia.org/wiki/Gef][Gef]] - Gef, also referred to as the Talking Mongoose or the Dalby Spook, was the name given to an allegedly talking mongoose which was claimed to inhabit a farmhouse owned by the Irving family. The Irvings' farm was located at Cashen's Gap near the hamlet of Dalby on the Isle of Man.
+- [[https://en.wikipedia.org/wiki/Ken_Allen][Ken Allen]] - a Bornean orangutan at the San Diego Zoo. He became one of the most popular animals in the history of the zoo because of his many successful escapes from his enclosures. He was nicknamed "the Hairy Houdini". In 1985, he gained worldwide attention for a series of three escapes from his enclosure, which had been thought to be escape-proof. During some of his escapes, his female companions joined him. Ken Allen's ability to outwit his keepers, as well as his docile demeanor during his escapes, resulted in fame. He had his own fan club, and was the subject of T-shirts and bumper stickers (most reading "Free Ken Allen"). A song, "The Ballad of Ken Allen", was written about him. Zoo officials eventually hired experienced rock climbers to find every finger-, toe- and foothold within the enclosure, spending $40,000 to eliminate the identified holds.
 - [[https://en.wikipedia.org/wiki/Kaguya_(mouse)][Kaguya]] - a mouse that had two parents of the same sex (c.  April, 2004). She was named after a Japanese folk tale, in which the Moon-born princess Kaguya (Kaguya-hime) is found as a baby inside a bamboo stalk
 - [[https://en.wikipedia.org/wiki/Larry_(cat)][Larry]] - a cat who has served as Chief Mouser to the Cabinet Office at 10 Downing Street since 2011.
 - [[https://en.wikipedia.org/wiki/Mike_the_Headless_Chicken][Mike the Headless Chicken]] - a Wyandotte chicken that lived for 18 months after his head had been cut off.
@@ -1033,6 +1046,7 @@
 - [[https://en.wikipedia.org/wiki/Puppy_cat][Puppy cat]] - a term used to refer to specific breeds of domestic cats that have unusual behavioral tendencies that are reminiscent of young domestic dogs.
 - [[https://en.wikipedia.org/wiki/Rain_of_animals][Raining of animals]] - a rare meteorological phenomenon in which flightless animals fall from the sky.
 - [[https://en.wikipedia.org/wiki/Rat_king][Rat King]] - A collection of rats whose tails are intertwined and bound together by one of several possible mechanisms, such as entangling material like hair or sticky substances like sap or gum.
+- [[https://en.wikipedia.org/wiki/Salmon_of_Knowledge][Salmon of Knowledge]] - a creature in the Fenian Cycle of Irish mythology, sometimes identified with Fintan mac Bóchra, who was known as "The Wise" and was once transformed into a salmon.
 - [[https://en.wikipedia.org/wiki/Scaly_boy][Scaly boy]] - a species of goby native to the Pacific coast of Central America from Mexico to Panama.
 - [[https://en.wikipedia.org/wiki/Sentinel_species][Sentinel Species]] - are organisms, often animals, used to detect risks to humans by providing advance warning of a danger.
 - [[https://en.wikipedia.org/wiki/Slug][Slug]] - a common name for any apparently shell-less terrestrial gastropod mollusc. The word slug is also often used as part of the common name of any gastropod mollusc that has no shell, a very reduced shell, or only a small internal shell, particularly sea slugs and semislugs (this is in contrast to the common name snail, which applies to gastropods that have a coiled shell large enough that they can fully retract their soft parts into it).
@@ -1192,6 +1206,7 @@
 - [[https://en.wikipedia.org/wiki/Lost_work][Lost work]] - a document, literary work, or piece of multimedia produced some time in the past, of which no surviving copies are known to exist.
 - [[https://en.wikipedia.org/wiki/Louver][Louver]] - a window blind or shutter with horizontal slats that are angled to admit light and air, but to keep out rain and direct sunshine. The angle of the slats may be adjustable, usually in blinds and windows, or fixed.
 - [[https://en.wikipedia.org/wiki/Matrix_digital_rain][Matrix digital rain]] - the computer code featured in the Matrix series. The falling green code is a way of representing the activity of the virtual reality environment of the Matrix on screen.
+- [[https://en.wikipedia.org/wiki/Mead_of_poetry][Mead of Poetry]] - also known as Mead of Suttungr, is a mythical beverage that whoever "drinks becomes a skald or scholar" able to recite any information and solve any question.
 - [[https://en.wikipedia.org/wiki/Mezuzah][Mezuzah]] - a piece of parchment, known as a klaf, contained in a decorative case and inscribed with specific Hebrew verses from the Torah. These verses consist of the Jewish prayer Shema Yisrael, beginning with the phrase: "Hear, O Israel, the Lord (is) our God, the Lord is One". In mainstream Rabbinic Judaism, a mezuzah is affixed to the doorpost of Jewish homes to fulfill the mitzvah (Biblical commandment) to "write the words of God on the gates and doorposts of your house" (Deuteronomy 6:9).
 - [[https://en.wikipedia.org/wiki/Milk_car][Milk cars]] are a specialized type of railroad car intended to transport raw milk from collection points near dairy farms to a processing creamery. Some milk cars were intended for loading with multiple cans of milk, while others were designed with a single tank for bulk loading. Milk cars were often equipped with high-speed passenger trucks, passenger-type buffer plates, and train signal and steam lines seldom found on conventional refrigerator cars.
 - [[https://en.wikipedia.org/wiki/Mortsafe][Mortsafe]] - a contraption designed to protect graves from disturbance. Resurrectionists had supplied the schools of anatomy in Scotland since the early 18th century. This was due to the necessity for medical students to learn anatomy by attending dissections of human subjects, which was frustrated by the very limited allowance of dead bodies -- for example the corpses of executed criminals -- granted by the government, which controlled the supply.
