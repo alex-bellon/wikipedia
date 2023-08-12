@@ -10,8 +10,7 @@
 - [[https://en.wikipedia.org/wiki/Redshirt_(stock_character)][Redshirt]] is a stock character in fiction who dies soon after being introduced.
 - [[https://en.wikipedia.org/wiki/Smurfette_principle][Smurfette principle]] - the practice in media, such as film and television, to include only one woman in an otherwise entirely male ensemble.
 - [[https://en.wikipedia.org/wiki/Stock_character][Stocker character]] - stereotypical fictional person or type of person in a work of art such as a novel, play, or a film whom audiences recognize from frequent recurrences in a particular literary tradition.
-- [[https://en.wikipedia.org/wiki/Sword_and_planet][Sword and planet]] - a subgenre of 
- fantasy that features rousing adventure stories set on other planets, and usually featuring humans as protagonists. The name derives from the heroes of the genre engaging their adversaries in hand-to-hand combat primarily with simple melée weapons such as swords, even in a setting that often has advanced technology.
+- [[https://en.wikipedia.org/wiki/Sword_and_planet][Sword and planet]] - a subgenre of fantasy that features rousing adventure stories set on other planets, and usually featuring humans as protagonists. The name derives from the heroes of the genre engaging their adversaries in hand-to-hand combat primarily with simple melée weapons such as swords, even in a setting that often has advanced technology.
 
 *** Books & Literature
 - [[https://en.wikipedia.org/wiki/A_True_Story][A True Story]] - a long novella or short novel written in the second century AD by the Greek author Lucian of Samosata. The novel is a satire of outlandish tales that had been reported in ancient sources, particularly those that presented fantastic or mythical events as if they were true. It is Lucian's best-known work. It is the earliest known work of fiction to include travel to outer space, alien lifeforms, and interplanetary warfare. It has been described as "the first known text that could be called science fiction".
@@ -229,7 +228,7 @@
 - [[https://en.wikipedia.org/wiki/People's_Computer_Company][People's Computer Company]] - an organization, a newsletter (the People's Computer Company Newsletter) and, later, a quasiperiodical called the Dragonsmoke.
 - [[https://en.wikipedia.org/wiki/Roofnet][Roofnet]] - an experimental mesh network developed by the Computer Science and Artificial Intelligence Laboratory at MIT
 - [[https://en.wikipedia.org/wiki/Tivoization][Tivoization]] - the creation of a system that incorporates software under the terms of a copyleft software license like the GNU General Public License (GNU GPL), but uses hardware restrictions or digital rights management (DRM) to prevent users from running modified versions of the software on that hardware.
-- The [[https://en.wikipedia.org/wiki/The_UNIX-HATERS_Handbook][UNIX-HATERS Handbook]] - a semi-humorous edited compilation of messages to the UNIX-HATERS mailing list. The book concerns the frustrations of users of the Unix operating system. Many users had come from systems that they felt were far more sophisticated in features and usability, and they were frustrated by the perceived "worse is better" design philosophy that they felt Unix and much of its software encapsulated.
+- [[https://en.wikipedia.org/wiki/The_UNIX-HATERS_Handbook][UNIX-HATERS Handbook]] - a semi-humorous edited compilation of messages to the UNIX-HATERS mailing list. The book concerns the frustrations of users of the Unix operating system. Many users had come from systems that they felt were far more sophisticated in features and usability, and they were frustrated by the perceived "worse is better" design philosophy that they felt Unix and much of its software encapsulated.
 - [[https://en.wikipedia.org/wiki/Van_Eck_phreaking][Van Eck phreaking]] - a form of eavesdropping in which special equipment is used to pick up side-band electromagnetic emissions from electronic devices that correlate to hidden signals or data to recreate these signals or data to spy on the electronic device. Side-band electromagnetic radiation emissions are present in (and with the proper equipment, can be captured from) keyboards, computer displays, printers, and other electronic devices.
 - [[https://en.wikipedia.org/wiki/Wardriving][Wardriving]] - the act of searching for Wi-Fi wireless networks, usually from a moving vehicle, using a laptop or smartphone. Software for wardriving is freely available on the internet.
 - [[https://en.wikipedia.org/wiki/Whole_Earth_Catalog][Whole Earth Catalog]] - an American counterculture magazine and product catalog published by Stewart Brand several times a year between 1968 and 1972, and occasionally thereafter, until 1998. The magazine featured essays and articles, but was primarily focused on product reviews. The editorial focus was on self-sufficiency, ecology, alternative education, "do it yourself" (DIY), and holism, and featured the slogan "access to tools".
@@ -601,7 +600,7 @@
 - [[https://en.wikipedia.org/wiki/Seven_dirty_words][7 Dirty Words]] - are seven English-language words that American comedian George Carlin first listed in 1972 in his monologue "Seven Words You Can Never Say on Television".
 - [[https://en.wikipedia.org/wiki/-graphy][-graphy]] - The English suffix -graphy means either "writing" or a "field of study"
 - [[https://en.wikipedia.org/wiki/Amor_fati][Amor fati]] - a Latin phrase that may be translated as "love of fate" or "love of one's fate". It is used to describe an attitude in which one sees everything that happens in one's life, including suffering and loss, as good or, at the very least, necessary.
-- Anadiplosis](https://en.wikipedia.org/wiki/Anadiplosis) - the repetition of the last word of a preceding clause. The word is used at the end of a sentence and then used again at the beginning of the next sentence.
+- [[https://en.wikipedia.org/wiki/Anadiplosis][Anadiplosis]] - the repetition of the last word of a preceding clause. The word is used at the end of a sentence and then used again at the beginning of the next sentence.
 - [[https://en.wikipedia.org/wiki/Anaphora_(rhetoric)][Anaphora]] - a rhetorical device that consists of repeating a sequence of words at the beginnings of neighboring clauses, thereby lending them emphasis.
 - [[https://en.wikipedia.org/wiki/Anatopism][Anatopism]] - An anatopism is something that is out of its proper place.
 - [[https://en.wikipedia.org/wiki/Antimetabole][Antimetabole]] - the repetition of words in successive clauses, but in transposed order; for example, "I know what I like, and I like what I know". It is related to, and sometimes considered a special case of, chiasmus.
@@ -896,9 +895,9 @@
 - [[https://en.wikipedia.org/wiki/List_of_inventors_killed_by_their_own_inventions][List of inventors killed by their own inventions]]
 - [[https://en.wikipedia.org/wiki/List_of_Latin_phrases_(full)][List of Latin phrases]]
 - [[https://en.wikipedia.org/wiki/List_of_lists_of_lists][List of list of lists]]
-- [[List of Mcface spoofs]]
+- [[https://en.wikipedia.org/wiki/List_of_Mcface_spoofs][List of Mcface spoofs]]
 - [[https://en.wikipedia.org/wiki/List_of_media_notable_for_being_in_development_hell][List of media notable for being in development hell]]
-- [List of memory biases](https://en.wikipedia.org/wiki/List_of_memory_biases
+- [[https://en.wikipedia.org/wiki/List_of_memory_biases][List of memory biases]]
 - [[https://en.wikipedia.org/wiki/List_of_music_considered_the_worst][List of music considered the worst]]
 - [[https://en.wikipedia.org/wiki/List_of_non-standard_dates][List of non-standard dates]]
 - [[https://en.wikipedia.org/wiki/List_of_numeral_systems][List of numeral systems]]
@@ -907,7 +906,7 @@
 - [[https://en.wikipedia.org/wiki/List_of_organisms_named_after_the_Harry_Potter_series][List of organisms named after the Harry Potter series]]
 - [[https://en.wikipedia.org/wiki/List_of_pasta][List of pasta]]
 - [[https://en.wikipedia.org/wiki/List_of_paradoxes][List of paradoxes]]
-- [List of philosophies](https://en.wikipedia.org/wiki/List_of_philosophies
+- [[https://en.wikipedia.org/wiki/List_of_philosophies][List of philosophies]]
 - [[https://en.wikipedia.org/wiki/List_of_phobias][List of phobias]]
 - [[https://en.wikipedia.org/wiki/List_of_technology_centers#Places_with_%22Silicon%22_names][List of places with "Silicon" in the name]]
 - [[https://en.wikipedia.org/wiki/List_of_prime_numbers][List of prime numbers]]
@@ -1219,7 +1218,8 @@
 - [[https://en.wikipedia.org/wiki/Polar_bear_jail][Polar bear jail]] - a special building in Churchill, Manitoba where polar bears that are considered troublesome or dangerous are isolated before they can be relocated.
 - [[https://en.wikipedia.org/wiki/Port_tongs][Port tongs]] - a special set of tongs designed to open wine bottles that are sealed with a cork. The tongs are heated over an open flame and held against the neck of the wine bottle for 20--30 seconds. The heated section of bottle is then cooled with a damp cloth or ice water, causing the glass to fracture due to thermal expansion. The result is generally a clean, predictable break.
 - [[https://en.wikipedia.org/wiki/Ransom_strip][Ransom strip]] - a parcel of land needed to access an adjacent property from a public highway, to which the owner is denied access until payment is received.
-- The [[https://en.wikipedia.org/wiki/Revenge_dress][Revenge dress]] - a dress once worn by Diana, Princess of Wales. The dress has been interpreted as having been worn "in revenge" for the televised admission of adultery by her husband, Charles, Prince of Wales.
+- [[https://en.wikipedia.org/wiki/Revenge_dress][Revenge dress]] - a dress once worn by Diana, Princess of Wales. The dress has been interpreted as having been worn "in revenge" for the televised admission of adultery by her husband, Charles, Prince of Wales.
+- [[https://en.wikipedia.org/wiki/Sensitive_compartmented_information_facility][sensitive compartmented information facility]] - in United States military, national security/national defense and intelligence parlance, is an enclosed area within a building that is used to process sensitive compartmented information (SCI) types of classified information.
 - [[https://en.wikipedia.org/wiki/Scrip][Scrip]] - any substitute for legal tender. It is often a form of credit. Scrips have been created for exploitative payment of employees under truck systems, and for use in local commerce at times when regular currency was unavailable, for example in remote coal towns, military bases, ships on long voyages, or occupied countries in wartime.
 - [[https://en.wikipedia.org/wiki/Sleeve_garter][Sleeve garter]] - a garter worn on the sleeve of a shirt. It came into wide use, especially in the USA, in the latter half of the 19th century when men's ready-made shirts came in a single (extra long) sleeve length. Sleeve garters allow men to customize sleeve lengths and keep their cuffs from becoming soiled while working or at the correct length when worn under a jacket.
 - [[https://en.wikipedia.org/wiki/Smoot][Smoot]] - a nonstandard, humorous unit of length created as part of an MIT fraternity prank. It is named after Oliver R. Smoot, a fraternity pledge to Lambda Chi Alpha, who in October 1958 lay down repeatedly on the Harvard Bridge (between Boston and Cambridge, Massachusetts) so that his fraternity brothers could use his height to measure the length of the bridge.
