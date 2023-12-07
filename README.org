@@ -1,3 +1,9 @@
+#+TITLE: wikipedia articles | alex bellon
+#+OPTIONS: title:nil
+
+#+HTML: <div class="main">
+#+HTML: <div class="contentBlock">
+
 * Wikipedia Articles
 ** Art & Media
 *** Analysis
@@ -1640,3 +1646,6 @@
 - [[https://en.wikipedia.org/wiki/Translohr][Translohr]] - a rubber-tired tramway (or guided bus) system, originally developed by Lohr Industrie of France and now run by a consortium of Alstom Transport and Fonds stratégique d'investissement (FSI) as newTL, which took over from Lohr in 2012.
 - [[https://en.wikipedia.org/wiki/Trolleybus][Trolleybus]] - an electric bus that draws power from dual overhead wires (generally suspended from roadside posts) using spring-loaded trolley poles.
 - [[https://en.wikipedia.org/wiki/Vienna_Convention_on_Road_Signs_and_Signals][Vienna Convention on Road Signs and Signals]] - a multilateral treaty designed to increase road safety and aid international road traffic by standardising the signing system for road traffic (road signs, traffic lights and road markings) in use internationally.
+
+#+HTML: </div>
+#+HTML: </div>
