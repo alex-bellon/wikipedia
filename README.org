@@ -16,7 +16,8 @@
 - [[https://en.wikipedia.org/wiki/Mary_Sue][Mary Sue]] - a type of fictional character, usually a young woman, who is portrayed as unrealistically free of weaknesses.
 - [[https://en.wikipedia.org/wiki/Redshirt_(stock_character)][Redshirt]] is a stock character in fiction who dies soon after being introduced.
 - [[https://en.wikipedia.org/wiki/Smurfette_principle][Smurfette principle]] - the practice in media, such as film and television, to include only one woman in an otherwise entirely male ensemble.
-- [[https://en.wikipedia.org/wiki/Stock_character][Stocker character]] - stereotypical fictional person or type of person in a work of art such as a novel, play, or a film whom audiences recognize from frequent recurrences in a particular literary tradition.
+- [[https://en.wikipedia.org/wiki/Stock_character][Stock character]] - stereotypical fictional person or type of person in a work of art such as a novel, play, or a film whom audiences recognize from frequent recurrences in a particular literary tradition.
+- [[https://en.wikipedia.org/wiki/Sturgeon%27s_law][Sturgeon's law]] - an adage stating "ninety percent of everything is crap". It was coined by Theodore Sturgeon, an American science fiction author and critic, and was inspired by his observation that, while science fiction was often derided for its low quality by critics, most work in other fields was low-quality too, and so science fiction was no different.
 - [[https://en.wikipedia.org/wiki/Sword_and_planet][Sword and planet]] - a subgenre of fantasy that features rousing adventure stories set on other planets, and usually featuring humans as protagonists. The name derives from the heroes of the genre engaging their adversaries in hand-to-hand combat primarily with simple melée weapons such as swords, even in a setting that often has advanced technology.
 
 *** Books & Literature
@@ -677,6 +678,7 @@
 - [[https://en.wikipedia.org/wiki/Psychopomp][Psychopomp]] - creatures, spirits, angels, demons, or deities in many religions whose responsibility is to escort newly deceased souls from Earth to the afterlife.
 - [[https://en.wikipedia.org/wiki/Quiverfull][Quiverfull]] - a Christian theological position that sees large families as a blessing from God. It encourages procreation, abstaining from all forms of birth control, natural family planning, and sterilization reversal. The movement derives its name from Psalm 127:3–5, where many children are metaphorically referred to as the arrows in a full quiver. 
 - [[https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Condom][Roman Catholic Diocese of Condom]] - a French bishopric based in Condom from 1317 to 1801. It comprised four archdeaconries : Condom itself, Bruilhois, Villefranche and Nérac. In 1763 these totaled circa 140 parishes.
+- [[https://en.wikipedia.org/wiki/Shabbos_goy][Shabbos goy]] -  a non-Jew who is employed by Jews to perform certain types of work (melakha) that Jewish religious law (halakha) prohibits a Jew from doing on the Shabbat. 
 - [[https://en.wikipedia.org/wiki/Scrying][Scrying]] - also referred to as "seeing" or "peeping," is a practice rooted in divination and fortune-telling. It involves gazing into a medium, hoping to receive significant messages or visions that could offer personal guidance, prophecy, revelation, or inspiration
 - [[https://en.wikipedia.org/wiki/Tehom][Tehom]] - the mythological cosmic ocean of Biblical cosmology, covering the Earth until God created the firmament to divide it into upper and lower portions and reveal the dry land; the world has been protected from the cosmic ocean ever since by the solid dome of the firmament.
 - [[https://en.wikipedia.org/wiki/Tetragrammaton][Tetragrammaton]] - the four-letter Hebrew word יהוה‎ (transliterated as YHWH), the name of the national god of Israel.
@@ -1467,11 +1469,12 @@
 - [[https://en.wikipedia.org/wiki/Viviparity][Viviparity]] - development of the embryo inside the body of the parent. This is opposed to oviparity which is a reproductive mode in which females lay developing eggs that complete their development and hatch externally from the mother.
 
 *** Botany
-- [[https://en.wikipedia.org/wiki/Chitting][Chitting]] - a method of preparing potatoes or other tubers for planting. The seed potatoes are placed in a tray (often in egg cartons) in a light and cool place but shielded from direct sunlight. 
+- [[https://en.wikipedia.org/wiki/Chitting][Chitting]] - a method of preparing potatoes or other tubers for planting. The seed potatoes are placed in a tray (often in egg cartons) in a light and cool place but shielded from direct sunlight 
 - [[https://en.wikipedia.org/wiki/Crown_shyness][Crown shyness]] - a feature observed in some tree species, in which the crowns of fully stocked trees do not touch each other, instead forming a canopy with channel-like gaps. 
 - [[https://en.wikipedia.org/wiki/Epiphyte][epiphyte]] - a plant or plant-like organism that grows on the surface of another plant and derives its moisture and nutrients from the air, rain, water (in marine environments) or from debris accumulating around it.
 - [[https://en.wikipedia.org/wiki/Fairy_ring][Fairy ring]] - a naturally occuring ring of mushrooms
 - [[https://en.wikipedia.org/wiki/Fatwood][Fatwood]] - also known as "fat lighter", "lighter wood", "rich lighter", "pine knot", "lighter knot", "heart pine", "fat stick" or "lighter'd" [sic], is derived from the heartwood of pine trees.
+- [[https://en.wikipedia.org/wiki/Pachycaul][Pachycaul]] - plants with a disproportionately thick trunk, for their height, and relatively few branches.
 
 *** Cartography, Geography and Places
 - [[https://en.wikipedia.org/wiki/Alcohol_and_Drug_Abuse_Lake][Alcohol and Drug Abuse Lake]] - a reservoir in Richland County, South Carolina, United States. The lake was likely named after a place called Morris Village, a nearby residential treatment center for people with substance dependence.
